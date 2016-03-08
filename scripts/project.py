@@ -14,11 +14,14 @@ Biological_context = ['Genotype','Tissue','Development_Phase']
 Context = [Biological_context,'Environmental_Factor']
 
 entities = [Molecule,Dynamic_Process,Context]
-
-####### when and where##########
+all_entities = ['Gene','Gene_Family','Box','Promoter','Protein','Protein_Family',
+                'Protein_Complex','Protein_Domain','RNA','Hormone',
+                'Regulatory_Network','Metabolic pathway','Genotype','Tissue',
+                'Development_Phase','Environmental_Factor']
+####### when and where ##########
 ## A Process occurs in a given Genotype. 
 Occurrence_In_Genotype = {'Process': ['Regulatory_Network', 'Pathway'],
-                          'Genotype': ['Genotype'] }
+                          'Genotype': ['Genotype'] } 
 # A Molecule or Element is present in a given Genotype. 
 Exists_In_Genotype = {'Molecular':['Gene', 'Gene_Family', 'Box', 'Promoter', 'RNA', 
                          'Protein', 'Protein_Family', 'Protein_Complex', 
@@ -30,7 +33,7 @@ Exists_At_Stage = {'Funtional_molecular':['RNA','Protein','Protein_Family',
                                    'Protein_Complex','Protein_Domain', 'Hormone'],
                     'Development':['Development_Phase']}
 ##  A Process occurs during a given Developmental Phase. 
-Occurrence_During = {'Process': ['Regulatory_Network', 'Pathway'],
+Occurs_During = {'Process': ['Regulatory_Network', 'Pathway'],
                      'Development': ['Development_Phase']}
 ## 分子在组织上
 Is_Localized_In = {'Funtional_molecular':['RNA','Protein','Protein_Family',
@@ -52,10 +55,10 @@ Transcribes_Or_Translates_To = {'Source':['Gene', 'Gene_Family', 'RNA'],
 Is_Functionally_Equivalent_To = {'Element1':'All Entities','Element2':'All Entities'}
 
 #############################################################################################
-## Regulate ##
+## 调控事件 ##
 ##A Molecule, Dynamic Process or Context regulates the accumulation of a Functional Molecule 
 Regulates_Accumulation = {'Agent':'All Entities',
-                          'Funtional_molecular':['RNA','Protein','Protein_Family',
+                          'Funtional_molecule':['RNA','Protein','Protein_Family',
                                    'Protein_Complex','Protein_Domain', 'Hormone']}
 Regulates_Expression = {'Agent':'All Entities',
                         'DNA':['Gene', 'Gene_Family', 'Box', 'Promoter']}
@@ -63,7 +66,7 @@ Regulates_Expression = {'Agent':'All Entities',
 Regulates_Development_Phase = {'Agent':'All Entities',
                                'Development': ['Development_Phase']}
 Regulates_Molecule_Activity = {'Agent':'All Entities',
-                               'Molecular':['Protein', 'Protein_Family', 
+                               'Molecule':['Protein', 'Protein_Family', 
                                             'Protein_Complex', 'Hormone']}#Molecule: Amino acid sequence| Hormone  (Protein, Protein_Family, Protein_Complex, Hormone )
 Regulates_Process = {'Agent':'All Entities',
                      'Dynamic_Process':['Regulatory_Network', 'Pathway']}
@@ -111,7 +114,7 @@ Is_Linked_To = {'Agent':'all',
                 'Target':'all'}
 
 Where_and_When = [Occurrence_In_Genotype,Exists_In_Genotype,Exists_At_Stage,
-                  Occurrence_During,Is_Localized_In]
+                  Occurs_During,Is_Localized_In]
 Function = [Is_Involved_In_Process,Transcribes_Or_Translates_To,Is_Functionally_Equivalent_To]
 Regulation = [Regulates_Accumulation,Regulates_Expression,Regulates_Development_Phase,
               Regulates_Molecule_Activity,Regulates_Process,Regulates_Tissue_Development]
@@ -121,4 +124,4 @@ Composition_and_Membership = [Composes_Primary_Structure,Composes_Protein_Comple
 Interaction = [Binds_To,Interacts_With]
 
 
-
+allocation_allowed = []
