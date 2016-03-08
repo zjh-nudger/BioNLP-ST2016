@@ -1,0 +1,7 @@
+#entity id	document	start	end	text	comment
+species:ncbi:3702	SeeDev-full-16473966-2	137	157	Arabidopsis thaliana	
+species:ncbi:4530	SeeDev-full-16473966-2	220	224	rice	
+species:ncbi:4530	SeeDev-full-16473966-2	226	238	Oryza sativa	
+species:ncbi:4932	SeeDev-full-16473966-2	2576	2581	yeast	
+species:ncbi:9606	SeeDev-full-16473966-2	3561	3566	human	
+species:ncbi:4932	SeeDev-full-16473966-2	5214	5219	yeast	
