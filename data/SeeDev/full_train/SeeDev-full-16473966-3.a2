@@ -1,0 +1,105 @@
+E1	Binding Functional_Molecule:T184 Molecule:T188 Environmental_Factor:T190
+E2	Binding Functional_Molecule:T213 Molecule:T214
+E3	Binding Functional_Molecule:T84 Molecule:T85 Tissue:T86
+E4	Binding Functional_Molecule:T129 Molecule:T134 Environmental_Factor:T131
+E5	Binding Functional_Molecule:T129 Molecule:T132 Environmental_Factor:T131
+E6	Binding Functional_Molecule:T26 Molecule:T25 Tissue:T27
+E7	Binding Functional_Molecule:T129 Molecule:T133 Environmental_Factor:T131
+E8	Binding Functional_Molecule:T73 Molecule:T72
+E9	Binding Functional_Molecule:T24 Molecule:T25
+E10	Binding Functional_Molecule:T92 Molecule:T92 Tissue:T93
+E11	Binding Functional_Molecule:T95 Molecule:T95
+E12	Binding Functional_Molecule:T39 Molecule:T39 Tissue:T40 Environmental_Factor:T34
+E13	Binding Functional_Molecule:T42 Molecule:T44
+E14	Binding Functional_Molecule:T156 Molecule:T155
+E15	Binding Functional_Molecule:T43 Molecule:T44
+E16	Binding Functional_Molecule:T150 Molecule:T150
+E17	Binding Functional_Molecule:T94 Molecule:T95
+E18	Protein_Complex_Composition Amino_Acid_Sequence:T18 Protein_Complex:T20
+E19	Protein_Complex_Composition Amino_Acid_Sequence:T220 Protein_Complex:T218
+E20	Protein_Complex_Composition Amino_Acid_Sequence:T173 Protein_Complex:T170
+E21	Involvement_In_Process Participant:T109 Process:T116
+E22	Localization Functional_Molecule:T84 Target_Tissue:T86
+E23	Protein_Complex_Composition Amino_Acid_Sequence:T172 Protein_Complex:T170
+E24	Localization Functional_Molecule:T191 Target_Tissue:T193
+E25	Protein_Complex_Composition Amino_Acid_Sequence:T63 Protein_Complex:T65
+E26	Localization Functional_Molecule:T69 Target_Tissue:T71
+E27	Protein_Domain_Composition Domain:T185 Product:T188 Tissue:T187 Organism_Genotype:T186
+E28	Localization Functional_Molecule:T228 Target_Tissue:T227 Organism_Genotype:T226
+E29	Involvement_In_Process Participant:T43 Process:T45
+E30	Involvement_In_Process Participant:T42 Process:T45
+E31	Involvement_In_Process Participant:T108 Process:T115
+E32	Involvement_In_Process Participant:T43 Process:T47
+E33	Localization Functional_Molecule:T154 Target_Tissue:T153 Organism_Genotype:T151 Environmental_Factor:T152
+E34	Localization Functional_Molecule:T85 Target_Tissue:T86
+E35	Protein_Complex_Composition Amino_Acid_Sequence:T110 Protein_Complex:T111 Environmental_Factor:T114
+E36	Involvement_In_Process Participant:T19 Process:T15
+E37	Localization Functional_Molecule:T69 Target_Tissue:T70
+E38	Protein_Complex_Composition Amino_Acid_Sequence:T64 Protein_Complex:T65
+E39	Protein_Complex_Composition Amino_Acid_Sequence:T110 Protein_Complex:T111 Environmental_Factor:T113
+E40	Involvement_In_Process Participant:T42 Process:T47
+E41	Protein_Complex_Composition Amino_Acid_Sequence:T108 Protein_Complex:T111 Environmental_Factor:T113
+E42	Involvement_In_Process Participant:T110 Process:T117
+E43	Protein_Complex_Composition Amino_Acid_Sequence:T109 Protein_Complex:T111 Environmental_Factor:T114
+E44	Involvement_In_Process Participant:T17 Process:T15
+E45	Involvement_In_Process Participant:T112 Process:T118
+E46	Protein_Complex_Composition Amino_Acid_Sequence:T17 Protein_Complex:T20
+E47	Protein_Complex_Composition Amino_Acid_Sequence:T62 Protein_Complex:T65
+E48	Protein_Domain_Composition Domain:T129 Product:T130
+E49	Protein_Complex_Composition Amino_Acid_Sequence:T109 Protein_Complex:T111 Environmental_Factor:T113
+E50	Protein_Complex_Composition Amino_Acid_Sequence:T108 Protein_Complex:T111 Environmental_Factor:T114
+E51	Interaction Agent:T137 Target:T138 Tissue:T139 Environmental_Factor:T136
+E52	Interaction Agent:T88 Target:T89
+E53	Interaction Agent:T30 Target:T31
+E54	Interaction Agent:T119 Target:T121 Tissue:T122
+E55	Interaction Agent:T163 Target:T164 Organism_Genotype:T162
+E56	Interaction Agent:T87 Target:T89
+E57	Interaction Agent:T77 Target:T79 Hormone:T80
+E58	Interaction Agent:T28 Target:T29 Tissue:T32
+E59	Interaction Agent:T119 Target:T120
+E60	Interaction Agent:T87 Target:T88
+E61	Interaction Agent:T119 Target:T123 Tissue:T124
+E62	Regulation_Of_Accumulation Agent:T196 Functional_Molecule:T195 Environmental_Factor:T197
+E63	Regulation_Of_Accumulation Agent:T198 Functional_Molecule:T194 Environmental_Factor:T197
+E64	Regulation_Of_Accumulation Agent:T192 Functional_Molecule:T191
+E65	Regulation_Of_Accumulation Agent:T208 Functional_Molecule:T211
+E66	Regulation_Of_Accumulation Agent:T196 Functional_Molecule:T194 Environmental_Factor:T197
+E67	Regulation_Of_Accumulation Agent:T198 Functional_Molecule:T195 Environmental_Factor:T197
+E68	Sequence_Identity Element1:T91 Element2:T90
+E69	Sequence_Identity Element1:T104 Element2:T103
+E70	Functional_Equivalence Element1:T18 Element2:T19
+E71	Functional_Equivalence Element1:T52 Element2:T58
+E72	Sequence_Identity Element1:T78 Element2:T77
+E73	Family_Membership Element:T184 Family:T183
+E74	Family_Membership Element:T173 Family:T175
+E75	Family_Membership Element:T109 Family:T107
+E76	Family_Membership Element:T168 Family:T167
+E77	Family_Membership Element:T146 Family:T142
+E78	Family_Membership Element:T17 Family:T16
+E79	Family_Membership Element:T110 Family:T107
+E80	Family_Membership Element:T145 Family:T142
+E81	Family_Membership Element:T108 Family:T107
+E82	Regulation_Of_Process Agent:T58 Process:T55 Environmental_Factor:T57
+E83	Regulation_Of_Process Agent:T137 Process:T140
+E84	Regulation_Of_Development_Phase Agent:T155 Development:T157
+E85	Regulation_Of_Molecule_Activity Agent:T147 Molecule:T146
+E86	Regulation_Of_Process Agent:T72 Process:T74
+E87	Regulation_Of_Process Agent:T147 Process:T148
+E88	Regulation_Of_Process Agent:T22 Process:T23
+E89	Regulation_Of_Molecule_Activity Agent:T100 Molecule:T99
+E90	Regulation_Of_Process Agent:T201 Process:T204 Environmental_Factor:T207
+E91	Regulation_Of_Process Agent:T178 Process:T179
+E92	Regulation_Of_Molecule_Activity Agent:T147 Molecule:T145
+E93	Regulation_Of_Process Agent:T73 Process:T74
+E94	Regulation_Of_Process Agent:T99 Process:T101
+E95	Regulation_Of_Process Agent:T137 Process:T141
+E96	Regulation_Of_Process Agent:T52 Process:T55 Environmental_Factor:T57
+E97	Regulation_Of_Process Agent:T155 Process:T160 Organism_Genotype:T159
+E98	Regulation_Of_Process Agent:T199 Process:T204 Environmental_Factor:T207
+E99	Regulation_Of_Process Agent:T178 Process:T181
+E100	Regulation_Of_Expression Agent:T213 DNA:T215
+M1	Negation Annotation:E3
+M2	Negation Annotation:E25
+M3	Negation Annotation:E38
+M4	Negation Annotation:E47
+M5	Negation Annotation:E71

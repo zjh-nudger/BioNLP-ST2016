@@ -1,0 +1,37 @@
+E1	Binding Functional_Molecule:T75 Molecule:T69
+E2	Binding Functional_Molecule:T76 Molecule:T71
+E3	Binding Functional_Molecule:T74 Molecule:T68
+E4	Binding Functional_Molecule:T82 Molecule:T90
+E5	Binding Functional_Molecule:T83 Molecule:T90
+E6	Binding Functional_Molecule:T77 Molecule:T72
+E7	Regulation_Of_Expression Agent:T57 DNA:T53
+E8	Regulation_Of_Expression Agent:T49 DNA:T52 Developmental_Stage:T48
+E9	Regulation_Of_Expression Agent:T61 DNA:T60
+E10	Regulation_Of_Expression Agent:T57 DNA:T55
+E11	Regulation_Of_Expression Agent:T57 DNA:T52
+E12	Presence_In_Genotype Molecule:T39 Genotype:T37
+E13	Primary_Structure_Composition DNA_Part:T90 DNA:T93
+E14	Presence_In_Genotype Molecule:T80 Genotype:T79
+E15	Presence_At_Stage Functional_Molecule:T82 Development:T87
+E16	Primary_Structure_Composition DNA_Part:T90 DNA:T92
+E17	Primary_Structure_Composition DNA_Part:T68 DNA:T67
+E18	Presence_In_Genotype Molecule:T42 Genotype:T40
+E19	Primary_Structure_Composition DNA_Part:T70 DNA:T69
+E20	Presence_At_Stage Functional_Molecule:T83 Development:T87
+E21	Sequence_Identity Element1:T74 Element2:T73
+E22	Sequence_Identity Element1:T50 Element2:T52
+E23	Functional_Equivalence Element1:T39 Element2:T43
+E24	Sequence_Identity Element1:T34 Element2:T35
+E25	Sequence_Identity Element1:T60 Element2:T58
+E26	Functional_Equivalence Element1:T42 Element2:T43
+E27	Regulation_Of_Development_Phase Agent:T18 Development:T15
+E28	Regulation_Of_Process Agent:T29 Process:T28
+E29	Regulation_Of_Process Agent:T47 Process:T45 Organism_Genotype:T44 Developmental_Stage:T46
+E30	Regulation_Of_Process Agent:T15 Process:T16
+E31	Family_Membership Element:T84 Family:T86 Organism_Genotype:T85
+E32	Family_Membership Element:T83 Family:T84
+E33	Family_Membership Element:T82 Family:T84
+E34	Family_Membership Element:T53 Family:T52
+E35	Family_Membership Element:T80 Family:T78 Organism_Genotype:T81
+E36	Family_Membership Element:T55 Family:T52
+E37	Family_Membership Element:T35 Family:T36 Organism_Genotype:T32
