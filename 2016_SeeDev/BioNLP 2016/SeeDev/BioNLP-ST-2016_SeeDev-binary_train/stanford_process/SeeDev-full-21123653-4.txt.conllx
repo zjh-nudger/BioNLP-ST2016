@@ -22,6 +22,7 @@
 22	-RRB-	_	PUNCT	-RRB-	_	18	punct	_	_	-1	4
 23	.	_	PUNCT	.	_	1	punct	_	_	118	119
 
+1	To	_	PART	TO	_	2	mark	_	_	127	129
 2	identify	_	VERB	VB	_	11	advcl	_	_	130	138
 3	the	_	DET	DT	_	7	det	_	_	139	142
 4	earliest	_	ADJ	JJS	_	7	amod	_	_	143	151
@@ -39,6 +40,7 @@
 16	embryogenesis	_	NOUN	NNS	_	11	nmod:throughout	_	_	237	250
 17	.	_	PUNCT	.	_	11	punct	_	_	250	251
 
+1	Because	_	SCONJ	IN	_	6	mark	_	_	252	259
 2	dcl1	_	ADJ	JJ	_	3	amod	_	_	260	264
 3	embryos	_	NOUN	NNS	_	6	nsubj	_	_	265	272
 4	are	_	VERB	VBP	_	6	cop	_	_	273	276
@@ -79,6 +81,7 @@
 39	examined	_	VERB	VBN	_	0	root	_	_	437	445
 40	.	_	PUNCT	.	_	39	punct	_	_	445	446
 
+1	Embryos	_	NOUN	NNS	_	8	nsubj	_	_	447	454
 2	developing	_	VERB	VBG	_	1	acl	_	_	455	465
 3	within	_	ADP	IN	_	6	case	_	_	466	472
 4	a	_	DET	DT	_	6	det	_	_	473	474
@@ -112,6 +115,7 @@
 32	siblings	_	NOUN	NN	_	26	nmod:of	_	_	635	643
 33	.	_	PUNCT	.	_	8	punct	_	_	643	644
 
+1	It	_	PRON	PRP	_	3	nsubjpass	_	_	645	647
 2	was	_	AUX	VBD	_	3	auxpass	_	_	648	651
 3	reported	_	VERB	VBN	_	0	root	_	_	652	660
 4	previously	_	ADV	RB	_	3	advmod	_	_	661	671
@@ -154,7 +158,8 @@
 41	-RRB-	_	PUNCT	-RRB-	_	37	punct	_	_	-1	4
 42	.	_	PUNCT	.	_	3	punct	_	_	118	119
 
-2	morphological	_	ADJ	JJ	_	3	amod	_	_	157	170
+1	Our	_	PRON	PRP$	_	3	nmod:poss	_	_	881	884
+2	morphological	_	ADJ	JJ	_	3	amod	_	_	885	898
 3	analysis	_	NOUN	NN	_	11	nsubj	_	_	899	907
 4	of	_	ADP	IN	_	6	case	_	_	908	910
 5	dcl1	_	ADJ	JJ	_	6	amod	_	_	911	915
@@ -174,6 +179,7 @@
 19	-RRB-	_	PUNCT	-RRB-	_	16	punct	_	_	-1	4
 20	.	_	PUNCT	.	_	7	punct	_	_	118	119
 
+1	We	_	PRON	PRP	_	2	nsubj	_	_	1006	1008
 2	identified	_	VERB	VBD	_	9	dep	_	_	1009	1019
 3	initial	_	ADJ	JJ	_	5	amod	_	_	1020	1027
 4	morphological	_	ADJ	JJ	_	5	amod	_	_	1028	1041
@@ -223,11 +229,12 @@
 48	-RRB-	_	PUNCT	-RRB-	_	45	punct	_	_	-1	4
 49	.	_	PUNCT	.	_	9	punct	_	_	118	119
 
-2	the	_	DET	DT	_	5	det	_	_	139	142
-3	early	_	ADJ	JJ	_	5	amod	_	_	231	236
-4	globular	_	NOUN	NN	_	5	compound	_	_	777	785
-5	stage	_	NOUN	NN	_	10	nmod:agent	_	_	786	791
-6	,	_	PUNCT	,	_	10	punct	_	_	1091	1092
+1	By	_	ADP	IN	_	5	case	_	_	1243	1245
+2	the	_	DET	DT	_	5	det	_	_	1246	1249
+3	early	_	ADJ	JJ	_	5	amod	_	_	1250	1255
+4	globular	_	NOUN	NN	_	5	compound	_	_	1256	1264
+5	stage	_	NOUN	NN	_	10	nmod:agent	_	_	1265	1270
+6	,	_	PUNCT	,	_	10	punct	_	_	1270	1271
 7	morphological	_	ADJ	JJ	_	8	amod	_	_	1272	1285
 8	defects	_	NOUN	NNS	_	10	nsubjpass	_	_	1286	1293
 9	were	_	AUX	VBD	_	10	auxpass	_	_	1294	1298
@@ -250,10 +257,11 @@
 26	-RRB-	_	PUNCT	-RRB-	_	23	punct	_	_	-1	4
 27	.	_	PUNCT	.	_	10	punct	_	_	118	119
 
-2	embryos	_	NOUN	NNS	_	7	nsubj	_	_	212	219
-3	with	_	ADP	IN	_	4	case	_	_	466	470
-4	defects	_	NOUN	NNS	_	2	nmod:with	_	_	1042	1049
-5	were	_	VERB	VBD	_	7	cop	_	_	1294	1298
+1	These	_	DET	DT	_	2	det	_	_	1366	1371
+2	embryos	_	NOUN	NNS	_	7	nsubj	_	_	1372	1379
+3	with	_	ADP	IN	_	4	case	_	_	1380	1384
+4	defects	_	NOUN	NNS	_	2	nmod:with	_	_	1385	1392
+5	were	_	VERB	VBD	_	7	cop	_	_	1393	1397
 6	presumably	_	ADV	RB	_	7	advmod	_	_	1398	1408
 7	homozygous	_	NOUN	NNS	_	0	root	_	_	1409	1419
 8	for	_	ADP	IN	_	9	case	_	_	1420	1423
@@ -294,6 +302,7 @@
 43	-RRB-	_	PUNCT	-RRB-	_	40	punct	_	_	-1	4
 44	.	_	PUNCT	.	_	7	punct	_	_	118	119
 
+1	In	_	ADP	IN	_	3	case	_	_	1623	1625
 2	subsequent	_	ADJ	JJ	_	3	amod	_	_	1626	1636
 3	stages	_	NOUN	NNS	_	10	nmod:in	_	_	1637	1643
 4	,	_	PUNCT	,	_	10	punct	_	_	1643	1644
@@ -322,10 +331,11 @@
 27	-RRB-	_	PUNCT	-RRB-	_	19	punct	_	_	-1	4
 28	.	_	PUNCT	.	_	10	punct	_	_	118	119
 
-2	,	_	PUNCT	,	_	10	punct	_	_	178	179
-3	dcl	_	NOUN	NN	_	10	nsubjpass	_	_	207	210
-4	1-5	_	NUM	CD	_	5	nummod	_	_	345	348
-5	homozygous	_	NOUN	NNS	_	6	nmod:npmod	_	_	1409	1419
+1	Furthermore	_	ADV	RB	_	10	advmod	_	_	1776	1787
+2	,	_	PUNCT	,	_	10	punct	_	_	1787	1788
+3	dcl	_	NOUN	NN	_	10	nsubjpass	_	_	1789	1792
+4	1-5	_	NUM	CD	_	5	nummod	_	_	1792	1795
+5	homozygous	_	NOUN	NNS	_	6	nmod:npmod	_	_	1796	1806
 6	seedlings	_	ADJ	JJ	_	3	amod	_	_	1807	1816
 7	could	_	AUX	MD	_	10	aux	_	_	1817	1822
 8	not	_	PART	RB	_	10	neg	_	_	1823	1826
@@ -367,7 +377,8 @@
 44	-RRB-	_	PUNCT	-RRB-	_	41	punct	_	_	-1	4
 45	.	_	PUNCT	.	_	10	punct	_	_	118	119
 
-2	embryos	_	NOUN	NNS	_	16	nmod:because	_	_	212	219
+1	Because	_	ADP	IN	_	2	case	_	_	252	259
+2	embryos	_	NOUN	NNS	_	16	nmod:because	_	_	265	272
 3	from	_	ADP	IN	_	5	case	_	_	297	301
 4	selfed	_	ADJ	JJ	_	5	amod	_	_	1332	1338
 5	dcl	_	NOUN	NN	_	2	nmod:from	_	_	1339	1342
@@ -412,6 +423,7 @@
 44	-RRB-	_	PUNCT	-RRB-	_	38	punct	_	_	-1	4
 45	.	_	PUNCT	.	_	16	punct	_	_	118	119
 
+1	DCL1	_	PROPN	NNP	_	2	compound	_	_	2249	2253
 2	transcripts	_	NOUN	NNS	_	4	nsubjpass	_	_	2254	2265
 3	were	_	AUX	VBD	_	4	auxpass	_	_	2266	2270
 4	detected	_	VERB	VBN	_	15	dep	_	_	2271	2279
@@ -470,6 +482,7 @@
 57	-RRB-	_	PUNCT	-RRB-	_	54	punct	_	_	-1	4
 58	.	_	PUNCT	.	_	15	punct	_	_	118	119
 
+1	These	_	DET	DT	_	3	det	_	_	1366	1371
 2	expression	_	NOUN	NN	_	3	compound	_	_	2560	2570
 3	analyses	_	NOUN	NNS	_	5	nsubj	_	_	2571	2579
 4	further	_	ADV	RB	_	5	advmod	_	_	2580	2587

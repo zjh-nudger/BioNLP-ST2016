@@ -47,6 +47,7 @@ of	of	IN	B-PP	O		279	281
 Arabidopsis	Arabidopsis	NN	B-NP	O		282	293
 .	.	.	O	O		293	294
 
+With	With	IN	B-PP	O		295	299
 the	the	DT	B-NP	O		300	303
 onset	onset	NN	I-NP	O		304	309
 of	of	IN	B-PP	O		310	312
@@ -70,6 +71,7 @@ the	the	DT	B-NP	O		409	412
 inflorescence	inflorescence	NN	I-NP	O		413	426
 .	.	.	O	O		426	427
 
+This	This	DT	B-NP	O		428	432
 pattern	pattern	NN	I-NP	O		433	440
 of	of	IN	B-PP	O		441	443
 gene	gene	NN	B-NP	O		444	448
@@ -134,6 +136,7 @@ et al.	et_al.	FW	I-NP	O		775	781
 )	)	)	O	O		786	787
 .	.	.	O	O		787	788
 
+In	In	IN	B-PP	O		789	791
 terms	term	NNS	B-NP	O		792	797
 of	of	IN	B-PP	O		798	800
 regulation	regulation	NN	B-NP	O		801	811
@@ -174,6 +177,7 @@ Amasino	Amasino	NN	B-NP	O		985	992
 )	)	)	O	O		997	998
 .	.	.	O	O		998	999
 
+During	During	IN	B-PP	O		1000	1006
 the	the	DT	B-NP	O		1007	1010
 reproductive	reproductive	JJ	I-NP	O		1011	1023
 phase	phase	NN	I-NP	O		1024	1029
@@ -190,6 +194,7 @@ immature	immature	JJ	I-NP	I-cell_type		1085	1093
 cells	cell	NNS	I-NP	I-cell_type		1094	1099
 .	.	.	O	O		1099	1100
 
+Cell	Cell	NN	B-NP	O		1101	1105
 maturation	maturation	NN	I-NP	O		1106	1116
 proceeds	proceed	VBZ	B-VP	O		1117	1125
 in	in	IN	B-PP	O		1126	1128
@@ -217,6 +222,7 @@ Poethig	Poethig	NNP	I-NP	O		1222	1229
 )	)	)	O	O		1234	1235
 .	.	.	O	O		1235	1236
 
+In	In	IN	B-PP	O		1237	1239
 both	both	DT	B-NP	O		1240	1244
 leaves	leaf	NNS	B-NP	O		1245	1251
 and	and	CC	O	O		1252	1255
@@ -259,6 +265,7 @@ maturing	mature	VBG	I-NP	O		1461	1469
 organs	organ	NNS	I-NP	O		1470	1476
 .	.	.	O	O		1476	1477
 
+Given	Give	VBN	B-PP	O		1478	1483
 the	the	DT	B-NP	O		1484	1487
 patterns	pattern	NNS	I-NP	O		1488	1496
 of	of	IN	B-PP	O		1497	1499
@@ -322,6 +329,7 @@ fully	fully	RB	B-ADJP	O		1835	1840
 mature	mature	JJ	I-ADJP	O		1841	1847
 .	.	.	O	O		1847	1848
 
+To	To	TO	B-VP	O		1849	1851
 define	define	VB	I-VP	O		1852	1858
 more	more	RBR	B-ADVP	O		1859	1863
 clearly	clearly	RB	I-ADVP	O		1864	1871
@@ -350,6 +358,7 @@ heterologous	heterologous	JJ	I-NP	B-DNA		1991	2003
 promoter	promoter	NN	I-NP	I-DNA		2004	2012
 .	.	.	O	O		2012	2013
 
+Effects	Effect	NNS	B-NP	O		2014	2021
 of	of	IN	B-PP	O		2022	2024
 AGL15	AGL15	NN	B-NP	O		2025	2030
 Constitutive	Constitutive	JJ	I-NP	O		2031	2043

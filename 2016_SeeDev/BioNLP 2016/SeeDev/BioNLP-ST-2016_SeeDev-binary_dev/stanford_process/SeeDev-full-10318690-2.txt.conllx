@@ -46,6 +46,7 @@
 46	-RRB-	_	PUNCT	-RRB-	_	41	punct	_	_	-1	4
 47	.	_	PUNCT	.	_	2	punct	_	_	258	259
 
+1	If	_	SCONJ	IN	_	4	mark	_	_	268	270
 2	AGL15	_	PROPN	NNP	_	4	nsubj	_	_	271	276
 3	is	_	VERB	VBZ	_	4	cop	_	_	277	279
 4	important	_	ADJ	JJ	_	23	advcl	_	_	280	289
@@ -106,6 +107,7 @@
 59	egg	_	NOUN	NN	_	56	nmod:of	_	_	604	607
 60	.	_	PUNCT	.	_	23	punct	_	_	607	608
 
+1	We	_	PRON	PRP	_	3	nsubj	_	_	609	611
 2	have	_	AUX	VBP	_	3	aux	_	_	612	616
 3	used	_	VERB	VBN	_	0	root	_	_	617	621
 4	AGL15	_	PROPN	NNP	_	3	dobj	_	_	622	627
@@ -127,6 +129,7 @@
 20	plants	_	NOUN	NNS	_	17	nmod:of	_	_	723	729
 21	.	_	PUNCT	.	_	3	punct	_	_	729	730
 
+1	In	_	ADP	IN	_	3	case	_	_	731	733
 2	every	_	DET	DT	_	3	det	_	_	734	739
 3	case	_	NOUN	NN	_	23	nmod:in	_	_	740	744
 4	,	_	PUNCT	,	_	23	punct	_	_	744	745
@@ -153,6 +156,7 @@
 25	well	_	ADV	RB	_	24	mwe	_	_	867	871
 26	.	_	PUNCT	.	_	23	punct	_	_	871	872
 
+1	The	_	DET	DT	_	2	det	_	_	873	876
 2	results	_	NOUN	NNS	_	9	nsubj	_	_	877	884
 3	of	_	ADP	IN	_	5	case	_	_	885	887
 4	our	_	PRON	PRP$	_	5	nmod:poss	_	_	888	891
@@ -176,6 +180,7 @@
 22	AGL15	_	PROPN	NNP	_	20	nmod:of	_	_	1004	1009
 23	.	_	PUNCT	.	_	9	punct	_	_	1009	1010
 
+1	In	_	ADP	IN	_	2	case	_	_	1011	1013
 2	dandelion	_	NOUN	NN	_	5	nmod:in	_	_	1014	1023
 3	,	_	PUNCT	,	_	5	punct	_	_	1023	1024
 4	embryos	_	NOUN	NNS	_	5	nsubj	_	_	1025	1032
@@ -192,6 +197,7 @@
 15	reproduction	_	NOUN	NN	_	12	nmod:of	_	_	1080	1092
 16	.	_	PUNCT	.	_	5	punct	_	_	1092	1093
 
+1	AGL15	_	PROPN	NNP	_	3	dep	_	_	1094	1099
 2	-	_	PUNCT	:	_	3	punct	_	_	1099	1100
 3	related	_	VERB	VBN	_	0	root	_	_	1100	1107
 4	protein	_	NOUN	NN	_	5	compound	_	_	1108	1115
@@ -225,6 +231,7 @@
 32	-RRB-	_	PUNCT	-RRB-	_	27	punct	_	_	-1	4
 33	.	_	PUNCT	.	_	3	punct	_	_	258	259
 
+1	The	_	DET	DT	_	2	det	_	_	873	876
 2	results	_	NOUN	NNS	_	12	nsubj	_	_	877	884
 3	of	_	ADP	IN	_	5	case	_	_	885	887
 4	our	_	PRON	PRP$	_	5	nmod:poss	_	_	888	891
@@ -264,6 +271,7 @@
 38	germination	_	NOUN	NN	_	35	nmod:after	_	_	1493	1504
 39	.	_	PUNCT	.	_	12	punct	_	_	1504	1505
 
+1	In	_	ADP	IN	_	4	case	_	_	1506	1508
 2	the	_	DET	DT	_	4	det	_	_	1509	1512
 3	xtc2	_	ADJ	JJ	_	4	amod	_	_	1513	1517
 4	mutant	_	NOUN	NN	_	10	nmod:in	_	_	1518	1524
@@ -310,6 +318,7 @@
 45	precociously	_	ADV	RB	_	41	advmod	_	_	1753	1765
 46	.	_	PUNCT	.	_	10	punct	_	_	1765	1766
 
+1	Maturation	_	PROPN	NNP	_	0	root	_	_	1767	1777
 2	-	_	PUNCT	:	_	1	punct	_	_	1777	1778
 3	stagextc2	_	ADJ	JJ	_	4	amod	_	_	1778	1787
 4	embryos	_	NOUN	NNS	_	23	nsubj	_	_	1788	1795
@@ -347,6 +356,7 @@
 36	-RRB-	_	PUNCT	-RRB-	_	31	punct	_	_	-1	4
 37	.	_	PUNCT	.	_	1	punct	_	_	258	259
 
+1	We	_	PRON	PRP	_	2	nsubj	_	_	609	611
 2	found	_	VERB	VBD	_	0	root	_	_	1956	1961
 3	that	_	SCONJ	IN	_	5	mark	_	_	1962	1966
 4	AGL15	_	PROPN	NNP	_	5	nsubj	_	_	1967	1972
@@ -372,6 +382,7 @@
 24	age	_	NOUN	NN	_	20	nmod:of	_	_	2093	2096
 25	.	_	PUNCT	.	_	2	punct	_	_	2096	2097
 
+1	The	_	DET	DT	_	2	det	_	_	2098	2101
 2	results	_	NOUN	NNS	_	15	nsubj	_	_	2102	2109
 3	of	_	ADP	IN	_	5	case	_	_	2110	2112
 4	our	_	PRON	PRP$	_	5	nmod:poss	_	_	2113	2116
@@ -402,6 +413,7 @@
 29	environment	_	NOUN	NN	_	24	nmod:outside_of	_	_	2278	2289
 30	.	_	PUNCT	.	_	15	punct	_	_	2289	2290
 
+1	When	_	ADV	WRB	_	7	advmod	_	_	2291	2295
 2	immature	_	ADJ	JJ	_	5	amod	_	_	2296	2304
 3	oilseed	_	ADJ	JJ	_	5	amod	_	_	2305	2312
 4	rape	_	NOUN	NN	_	5	compound	_	_	2313	2317
@@ -451,6 +463,7 @@
 48	-RRB-	_	PUNCT	-RRB-	_	39	punct	_	_	-1	4
 49	.	_	PUNCT	.	_	14	punct	_	_	258	259
 
+1	The	_	DET	DT	_	2	det	_	_	873	876
 2	amount	_	NOUN	NN	_	11	nsubj	_	_	2563	2569
 3	of	_	ADP	IN	_	5	case	_	_	2570	2572
 4	AGL15	_	NUM	CD	_	5	nummod	_	_	2573	2578
@@ -492,6 +505,7 @@
 40	culture	_	NOUN	NN	_	38	nmod:in	_	_	2795	2802
 41	.	_	PUNCT	.	_	11	punct	_	_	2802	2803
 
+1	Finally	_	ADV	RB	_	11	advmod	_	_	2804	2811
 2	,	_	PUNCT	,	_	11	punct	_	_	2811	2812
 3	the	_	DET	DT	_	4	det	_	_	2813	2816
 4	results	_	NOUN	NNS	_	11	nsubj	_	_	2817	2824
@@ -522,6 +536,7 @@
 29	cycle	_	NOUN	NN	_	25	nmod:of	_	_	2968	2973
 30	.	_	PUNCT	.	_	11	punct	_	_	2973	2974
 
+1	Immature	_	ADJ	JJ	_	4	amod	_	_	2975	2983
 2	oilseed	_	ADJ	JJ	_	4	amod	_	_	2984	2991
 3	rape	_	NOUN	NN	_	4	compound	_	_	2992	2996
 4	microspores	_	NOUN	NNS	_	9	nsubj	_	_	2997	3008
@@ -539,6 +554,7 @@
 16	embryos	_	NOUN	NNS	_	11	conj:or	_	_	3058	3065
 17	.	_	PUNCT	.	_	7	punct	_	_	3065	3066
 
+1	AGL15	_	PROPN	NNP	_	3	nsubj	_	_	3067	3072
 2	was	_	VERB	VBD	_	3	cop	_	_	3073	3076
 3	undetectable	_	ADJ	JJ	_	3	conj:and	_	_	3077	3089
 4	in	_	ADP	IN	_	6	case	_	_	3090	3092
@@ -557,6 +573,7 @@
 17	masses	_	NOUN	NNS	_	14	nmod:in	_	_	3159	3165
 18	.	_	PUNCT	.	_	3	punct	_	_	3165	3166
 
+1	Only	_	ADV	RB	_	3	advmod	_	_	3167	3171
 2	the	_	DET	DT	_	3	det	_	_	3172	3175
 3	cells	_	NOUN	NNS	_	10	nsubj	_	_	3176	3181
 4	that	_	DET	WDT	_	3	ref	_	_	3182	3186
@@ -572,6 +589,7 @@
 14	AGL15	_	PROPN	NNP	_	12	nmod:of	_	_	3246	3251
 15	.	_	PUNCT	.	_	10	punct	_	_	3251	3252
 
+1	The	_	DET	DT	_	3	det	_	_	3253	3256
 2	accumulation	_	NOUN	NN	_	3	compound	_	_	3257	3269
 3	pattern	_	NOUN	NN	_	0	root	_	_	3270	3277
 4	of	_	ADP	IN	_	5	case	_	_	3278	3280
@@ -597,6 +615,7 @@
 24	tissue	_	NOUN	NN	_	21	dobj	_	_	3395	3401
 25	.	_	PUNCT	.	_	3	punct	_	_	3401	3402
 
+1	Immunoreactive	_	ADJ	JJ	_	2	amod	_	_	3403	3417
 2	protein	_	NOUN	NN	_	13	nsubj	_	_	3418	3425
 3	was	_	VERB	VBD	_	13	cop	_	_	3426	3429
 4	present	_	ADJ	JJ	_	13	amod	_	_	3430	3437
@@ -613,6 +632,7 @@
 15	alfalfa	_	NOUN	NN	_	13	nmod:of	_	_	3495	3502
 16	.	_	PUNCT	.	_	13	punct	_	_	3502	3503
 
+1	Detectable	_	ADJ	JJ	_	2	amod	_	_	3504	3514
 2	amounts	_	NOUN	NNS	_	10	nsubj	_	_	3515	3522
 3	of	_	ADP	IN	_	4	case	_	_	3523	3525
 4	AGL15	_	PROPN	NNP	_	2	nmod:of	_	_	3526	3531
@@ -696,16 +716,17 @@
 82	-RRB-	_	PUNCT	-RRB-	_	78	punct	_	_	-1	4
 83	.	_	PUNCT	.	_	10	punct	_	_	258	259
 
-2	the	_	DET	DT	_	3	det	_	_	551	554
-3	accumulation	_	NOUN	NN	_	13	nsubj	_	_	988	1000
-4	of	_	ADP	IN	_	5	case	_	_	1001	1003
-5	AGL15	_	PROPN	NNP	_	13	nmod:of	_	_	1004	1009
-6	-	_	PUNCT	:	_	5	punct	_	_	1099	1100
-7	related	_	ADJ	JJ	_	8	amod	_	_	1100	1107
-8	protein	_	NOUN	NN	_	5	dep	_	_	1108	1115
-9	at	_	ADP	IN	_	11	case	_	_	1123	1125
-10	high	_	ADJ	JJ	_	11	amod	_	_	1988	1992
-11	levels	_	NOUN	NNS	_	8	nmod:at	_	_	1995	2001
+1	Does	_	PROPN	NNP	_	13	dep	_	_	3905	3909
+2	the	_	DET	DT	_	3	det	_	_	3910	3913
+3	accumulation	_	NOUN	NN	_	13	nsubj	_	_	3914	3926
+4	of	_	ADP	IN	_	5	case	_	_	3927	3929
+5	AGL15	_	PROPN	NNP	_	13	nmod:of	_	_	3930	3935
+6	-	_	PUNCT	:	_	5	punct	_	_	3935	3936
+7	related	_	ADJ	JJ	_	8	amod	_	_	3936	3943
+8	protein	_	NOUN	NN	_	5	dep	_	_	3944	3951
+9	at	_	ADP	IN	_	11	case	_	_	3952	3954
+10	high	_	ADJ	JJ	_	11	amod	_	_	3955	3959
+11	levels	_	NOUN	NNS	_	8	nmod:at	_	_	3960	3966
 12	somehow	_	ADV	RB	_	11	advmod	_	_	3967	3974
 13	enhance	_	VERB	VB	_	0	root	_	_	3975	3982
 14	the	_	DET	DT	_	16	det	_	_	3983	3986
@@ -717,6 +738,7 @@
 20	cells	_	NOUN	NNS	_	16	nmod:of	_	_	4025	4030
 21	?	_	PUNCT	.	_	13	punct	_	_	4030	4031
 
+1	AGL15	_	PROPN	NNP	_	2	compound	_	_	4032	4037
 2	accumulation	_	PROPN	NNP	_	35	nsubj	_	_	4038	4050
 3	did	_	AUX	VBD	_	5	aux	_	_	4051	4054
 4	not	_	PART	RB	_	5	neg	_	_	4055	4058
@@ -758,6 +780,7 @@
 40	tissues	_	NOUN	NNS	_	35	nmod:as	_	_	4258	4265
 41	.	_	PUNCT	.	_	5	punct	_	_	4265	4266
 
+1	However	_	ADV	RB	_	6	advmod	_	_	4267	4274
 2	,	_	PUNCT	,	_	6	punct	_	_	4274	4275
 3	AGL15	_	PROPN	NNP	_	11	nsubj	_	_	4276	4281
 4	may	_	AUX	MD	_	6	aux	_	_	4282	4285
@@ -775,6 +798,7 @@
 16	mode	_	NOUN	NN	_	11	nmod:in	_	_	4355	4359
 17	.	_	PUNCT	.	_	6	punct	_	_	4359	4360
 
+1	The	_	DET	DT	_	2	det	_	_	4361	4364
 2	fact	_	NOUN	NN	_	28	nsubj	_	_	4365	4369
 3	that	_	DET	WDT	_	2	ref	_	_	4370	4374
 4	immature	_	VERB	VBP	_	2	acl:relcl	_	_	4375	4383

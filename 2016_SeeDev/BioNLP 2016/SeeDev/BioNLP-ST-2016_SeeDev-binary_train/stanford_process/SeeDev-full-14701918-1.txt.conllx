@@ -32,6 +32,7 @@
 32	biosynthesis	_	NOUN	NNS	_	23	conj:and	_	_	225	237
 33	.	_	PUNCT	.	_	6	punct	_	_	237	238
 
+1	Mutations	_	NOUN	NNS	_	9	nsubj	_	_	239	248
 2	in	_	ADP	IN	_	3	case	_	_	249	251
 3	MUM4	_	PROPN	NNP	_	1	nmod:in	_	_	252	256
 4	-LRB-	_	PUNCT	-LRB-	_	5	punct	_	_	-1	4
@@ -53,6 +54,7 @@
 20	rearrangement	_	NOUN	NN	_	16	conj:and	_	_	346	359
 21	.	_	PUNCT	.	_	9	punct	_	_	359	360
 
+1	We	_	PRON	PRP	_	2	nsubj	_	_	361	363
 2	show	_	VERB	VBP	_	15	dep	_	_	364	368
 3	that	_	SCONJ	IN	_	5	mark	_	_	369	373
 4	MUM4	_	PROPN	NNP	_	5	nsubj	_	_	374	378
@@ -84,6 +86,7 @@
 30	mucilage	_	NOUN	NN	_	27	nmod:of	_	_	531	539
 31	.	_	PUNCT	.	_	15	punct	_	_	539	540
 
+1	This	_	DET	DT	_	2	det	_	_	541	545
 2	result	_	NOUN	NN	_	3	nsubj	_	_	546	552
 3	suggests	_	VERB	VBZ	_	0	root	_	_	553	561
 4	that	_	SCONJ	IN	_	13	mark	_	_	562	566
@@ -106,6 +109,7 @@
 21	mucilage	_	NOUN	NN	_	16	nmod:of	_	_	677	685
 22	.	_	PUNCT	.	_	3	punct	_	_	685	686
 
+1	In	_	ADP	IN	_	2	case	_	_	687	689
 2	addition	_	NOUN	NN	_	22	nmod:in	_	_	690	698
 3	,	_	PUNCT	,	_	22	punct	_	_	698	699
 4	the	_	DET	DT	_	7	det	_	_	700	703
@@ -138,6 +142,7 @@
 31	morphogenesis	_	NOUN	NNS	_	28	conj:and	_	_	884	897
 32	.	_	PUNCT	.	_	22	punct	_	_	897	898
 
+1	The	_	DET	DT	_	3	det	_	_	899	902
 2	cellular	_	ADJ	JJ	_	3	amod	_	_	903	911
 3	phenotype	_	NOUN	NN	_	9	nsubj	_	_	912	921
 4	seen	_	VERB	VBN	_	3	acl	_	_	922	926
@@ -174,6 +179,7 @@
 35	-RRB-	_	PUNCT	-RRB-	_	20	punct	_	_	-1	4
 36	.	_	PUNCT	.	_	9	punct	_	_	237	238
 
+1	Expression	_	NOUN	NN	_	2	compound	_	_	1078	1088
 2	studies	_	NOUN	NNS	_	3	nsubj	_	_	1089	1096
 3	suggest	_	VERB	VBP	_	0	root	_	_	1097	1104
 4	that	_	SCONJ	IN	_	8	mark	_	_	1105	1109
@@ -208,6 +214,7 @@
 33	pathway-LRB-s-RRB-	_	NOUN	NNS	_	28	nmod:through	_	_	-1	17
 34	.	_	PUNCT	.	_	3	punct	_	_	237	238
 
+1	Our	_	PRON	PRP$	_	2	nmod:poss	_	_	1281	1284
 2	results	_	NOUN	NNS	_	3	nsubj	_	_	1285	1292
 3	provide	_	VERB	VBP	_	0	root	_	_	1293	1300
 4	a	_	DET	DT	_	5	det	_	_	1301	1302

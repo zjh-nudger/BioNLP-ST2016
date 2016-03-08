@@ -68,6 +68,7 @@
 68	-RRB-	_	PUNCT	-RRB-	_	66	punct	_	_	-1	4
 69	.	_	PUNCT	.	_	52	punct	_	_	352	353
 
+1	The	_	DET	DT	_	2	det	_	_	354	357
 2	DNA	_	NOUN	NN	_	11	nsubjpass	_	_	358	361
 3	-	_	PUNCT	:	_	2	punct	_	_	361	362
 4	binding	_	VERB	VBG	_	5	amod	_	_	362	369
@@ -81,6 +82,7 @@
 12	previously	_	ADV	RB	_	11	advmod	_	_	421	431
 13	.	_	PUNCT	.	_	11	punct	_	_	431	432
 
+1	Repeated	_	VERB	VBN	_	0	root	_	_	433	441
 2	selection	_	NOUN	NN	_	1	dobj	_	_	442	451
 3	of	_	ADP	IN	_	5	case	_	_	452	454
 4	random	_	ADJ	JJ	_	5	amod	_	_	455	461
@@ -132,6 +134,7 @@
 50	-RRB-	_	PUNCT	-RRB-	_	43	punct	_	_	-1	4
 51	.	_	PUNCT	.	_	1	punct	_	_	352	353
 
+1	Although	_	SCONJ	IN	_	7	mark	_	_	696	704
 2	the	_	DET	DT	_	4	det	_	_	705	708
 3	AW-box	_	ADJ	JJ	_	4	amod	_	_	709	715
 4	sequences	_	NOUN	NNS	_	7	nsubj	_	_	716	725
@@ -150,6 +153,7 @@
 17	them	_	PRON	PRP	_	15	nmod:between	_	_	793	797
 18	.	_	PUNCT	.	_	13	punct	_	_	797	798
 
+1	The	_	DET	DT	_	8	det	_	_	799	802
 2	ANT	_	PROPN	NNP	_	8	compound	_	_	803	806
 3	-	_	PUNCT	:	_	5	punct	_	_	806	807
 4	and	_	CONJ	CC	_	5	cc	_	_	808	811
@@ -172,6 +176,7 @@
 21	domain	_	NOUN	NN	_	17	nmod:with	_	_	909	915
 22	.	_	PUNCT	.	_	12	punct	_	_	915	916
 
+1	The	_	DET	DT	_	2	det	_	_	917	920
 2	3′	_	NUM	CD	_	0	root	_	_	921	923
 3	-	_	PUNCT	:	_	2	punct	_	_	923	924
 4	half	_	NOUN	NN	_	2	dep	_	_	924	928
@@ -230,6 +235,7 @@
 57	-RRB-	_	PUNCT	-RRB-	_	46	punct	_	_	-1	4
 58	.	_	PUNCT	.	_	2	punct	_	_	352	353
 
+1	The	_	DET	DT	_	4	det	_	_	354	357
 2	opposite	_	ADJ	JJ	_	4	amod	_	_	1182	1190
 3	strand	_	ADJ	JJ	_	4	amod	_	_	1191	1197
 4	sequence	_	NOUN	NN	_	31	nsubj	_	_	1198	1206
@@ -292,6 +298,7 @@
 61	AW-box	_	NOUN	NN	_	58	nmod:in	_	_	1402	1408
 62	.	_	PUNCT	.	_	31	punct	_	_	1408	1409
 
+1	The	_	DET	DT	_	2	det	_	_	1410	1413
 2	AP2	_	NOUN	NN	_	0	root	_	_	1414	1417
 3	-	_	PUNCT	:	_	2	punct	_	_	1417	1418
 4	type	_	NOUN	NN	_	6	compound	_	_	1418	1422
@@ -312,6 +319,7 @@
 19	development	_	NOUN	NN	_	16	conj:and	_	_	1533	1544
 20	.	_	PUNCT	.	_	2	punct	_	_	1544	1545
 
+1	For	_	ADP	IN	_	2	case	_	_	1546	1549
 2	example	_	NOUN	NN	_	7	nmod:for	_	_	1550	1557
 3	,	_	PUNCT	,	_	7	punct	_	_	1557	1558
 4	AP2	_	PROPN	NNP	_	7	nsubj	_	_	1559	1562
@@ -360,6 +368,7 @@
 47	-RRB-	_	PUNCT	-RRB-	_	42	punct	_	_	-1	4
 48	.	_	PUNCT	.	_	7	punct	_	_	352	353
 
+1	ANT	_	PROPN	NNP	_	2	nsubj	_	_	394	397
 2	regulates	_	VERB	VBZ	_	0	root	_	_	1735	1744
 3	ovule	_	ADJ	JJ	_	4	amod	_	_	1745	1750
 4	development	_	NOUN	NN	_	2	dobj	_	_	1751	1762
@@ -409,6 +418,7 @@
 48	-RRB-	_	PUNCT	-RRB-	_	43	punct	_	_	-1	4
 49	.	_	PUNCT	.	_	2	punct	_	_	352	353
 
+1	The	_	DET	DT	_	6	det	_	_	354	357
 2	AP	_	PROPN	NNP	_	6	compound	_	_	542	544
 3	-2	_	NUM	CD	_	6	nummod	_	_	1974	1976
 4	type	_	NOUN	NN	_	6	compound	_	_	1977	1981
@@ -473,6 +483,7 @@
 63	lineage	_	NOUN	NN	_	59	nmod:from	_	_	2264	2271
 64	.	_	PUNCT	.	_	13	punct	_	_	2271	2272
 
+1	Comparison	_	PROPN	NNP	_	7	nsubj	_	_	2273	2283
 2	of	_	ADP	IN	_	6	case	_	_	2284	2286
 3	the	_	DET	DT	_	6	det	_	_	2287	2290
 4	consensus	_	NOUN	NN	_	6	compound	_	_	2291	2300

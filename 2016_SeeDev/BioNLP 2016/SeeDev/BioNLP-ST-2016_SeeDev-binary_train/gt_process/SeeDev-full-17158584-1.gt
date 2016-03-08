@@ -57,6 +57,7 @@ Arabidopsis thaliana	Arabidopsis_thaliana	NN	B-NP	O		251	271
 )	)	)	O	O		271	272
 .	.	.	O	O		272	273
 
+Interactions	Interaction	NNS	B-NP	O		274	286
 of	of	IN	B-PP	O		287	289
 these	these	DT	B-NP	O		290	295
 genes	gene	NNS	I-NP	O		296	301
@@ -79,6 +80,7 @@ the	the	DT	B-NP	O		412	415
 seed	seed	NN	I-NP	O		416	420
 .	.	.	O	O		420	421
 
+Three	Three	CD	B-NP	O		422	427
 VP1	VP1	NN	I-NP	B-protein		428	431
 /	/	SYM	B-NP	O		431	432
 ABI3	ABI3	NN	I-NP	B-protein		432	436
@@ -106,6 +108,7 @@ chromatin	chromatin	NN	B-NP	B-protein		540	549
 factors	factor	NNS	I-NP	I-protein		550	557
 .	.	.	O	O		557	558
 
+Whereas	Whereas	IN	B-PP	O		559	566
 val	val	JJ	B-NP	B-protein		567	570
 monogenic	monogenic	JJ	I-NP	I-protein		571	580
 mutants	mutant	NNS	I-NP	I-protein		581	588
@@ -139,6 +142,7 @@ meristem	meristem	NN	I-NP	O		734	742
 regions	region	NNS	I-NP	O		743	750
 .	.	.	O	O		750	751
 
+In	In	IN	B-PP	O		752	754
 a	a	DT	B-NP	O		755	756
 val1	val1	NN	I-NP	O		757	761
 background	background	NN	I-NP	O		762	772
@@ -161,6 +165,7 @@ vegetative	vegetative	JJ	B-NP	O		863	873
 development	development	NN	I-NP	O		874	885
 .	.	.	O	O		885	886
 
+Reminiscent	Reminiscent	JJ	B-NP	O		887	898
 of	of	IN	B-PP	O		899	901
 the	the	DT	B-NP	O		902	905
 pickle	pickle	NN	I-NP	B-protein		906	912
@@ -183,6 +188,7 @@ val1	val1	NN	B-NP	O		1017	1021
 seedlings	seedling	NNS	I-NP	O		1022	1031
 .	.	.	O	O		1031	1032
 
+Consistent	Consistent	JJ	B-ADJP	O		1033	1043
 with	with	IN	B-PP	O		1044	1048
 the	the	DT	B-NP	O		1049	1052
 embryonic	embryonic	JJ	I-NP	O		1053	1062
@@ -224,6 +230,7 @@ stage	stage	NN	I-NP	O		1240	1245
 embryogenesis	embryogenesis	NN	I-NP	O		1246	1259
 .	.	.	O	O		1259	1260
 
+Hence	Hence	RB	B-ADVP	O		1261	1266
 ,	,	,	O	O		1266	1267
 VAL	VAL	JJ	B-NP	B-protein		1268	1271
 factors	factor	NNS	I-NP	I-protein		1272	1279
@@ -240,6 +247,7 @@ gene	gene	NN	I-NP	O		1325	1329
 system	system	NN	I-NP	O		1330	1336
 .	.	.	O	O		1336	1337
 
+The	The	DT	B-NP	O		1338	1341
 consensus	consensus	NN	I-NP	B-DNA		1342	1351
 binding	binding	NN	I-NP	I-DNA		1352	1359
 site	site	NN	I-NP	I-DNA		1360	1364
@@ -285,6 +293,7 @@ L1L	L1L	NN	I-NP	B-DNA		1534	1537
 genes	gene	NNS	I-NP	I-DNA		1538	1543
 .	.	.	O	O		1543	1544
 
+We	We	PRP	B-NP	O		1545	1547
 suggest	suggest	VBP	B-VP	O		1548	1555
 that	that	IN	B-SBAR	O		1556	1560
 VAL	VAL	JJ	B-NP	O		1561	1564
@@ -317,6 +326,7 @@ remodeling	remodel	VBG	B-VP	I-protein		1697	1707
 factors	factor	NNS	B-NP	I-protein		1708	1715
 .	.	.	O	O		1715	1716
 
+Embryo	Embryo	NN	B-NP	O		1717	1723
 development	development	NN	I-NP	O		1724	1735
 in	in	IN	B-PP	O		1736	1738
 plants	plant	NNS	B-NP	O		1739	1745
@@ -417,6 +427,7 @@ et al.	et_al.	NNP	I-NP	O		2159	2165
 )	)	)	O	O		2171	2172
 .	.	.	O	O		2172	2173
 
+A	A	DT	B-NP	O		2174	2175
 series	series	NN	I-NP	O		2176	2182
 of	of	IN	B-PP	O		2183	2185
 studies	study	NNS	B-NP	O		2186	2193
@@ -489,6 +500,7 @@ et al.	et_al.	FW	B-NP	O		2527	2533
 )	)	)	O	O		2539	2540
 .	.	.	O	O		2540	2541
 
+LEC1	LEC1	NN	B-NP	B-protein		2542	2546
 and	and	CC	I-NP	O		2547	2550
 L1L	L1L	NN	I-NP	B-protein		2551	2554
 act	act	VBP	B-VP	O		2555	2558
@@ -522,6 +534,7 @@ desiccation	desiccation	NN	B-NP	O		2752	2763
 tolerance	tolerance	NN	I-NP	O		2764	2773
 .	.	.	O	O		2773	2774
 
+RNA	RNA	NN	B-NP	O		2775	2778
 interference	interference	NN	I-NP	O		2779	2791
 of	of	IN	B-PP	O		2792	2794
 L1L	L1L	NN	B-NP	B-protein		2795	2798
@@ -577,6 +590,7 @@ et al.	et_al.	NNP	I-NP	O		3054	3060
 )	)	)	O	O		3066	3067
 .	.	.	O	O		3067	3068
 
+Ectopic	Ectopic	JJ	B-NP	O		3069	3076
 expression	expression	NN	I-NP	O		3077	3087
 of	of	IN	B-PP	O		3088	3090
 LEC1	LEC1	NN	B-NP	B-protein		3091	3095
@@ -604,6 +618,7 @@ et al.	et_al.	NNP	I-NP	O		3192	3198
 )	)	)	O	O		3204	3205
 .	.	.	O	O		3205	3206
 
+The	The	DT	B-NP	O		3207	3210
 lec1	lec1	NN	I-NP	B-protein		3211	3215
 ,	,	,	O	O		3215	3216
 fus3	fus3	NN	B-NP	O		3217	3221
@@ -640,6 +655,7 @@ et al.	et_al.	NNP	I-NP	O		3351	3357
 )	)	)	O	O		3363	3364
 .	.	.	O	O		3364	3365
 
+The	The	DT	B-NP	O		3366	3369
 fus3	fus3	NN	I-NP	O		3370	3374
 mutant	mutant	JJ	I-NP	O		3375	3381
 embryos	embryo	NNS	I-NP	O		3382	3389
@@ -663,6 +679,7 @@ et al.	et_al.	NNP	I-NP	O		3447	3453
 )	)	)	O	O		3459	3460
 .	.	.	O	O		3460	3461
 
+Overexpression	Overexpression	NN	B-NP	O		3462	3476
 of	of	IN	B-PP	O		3477	3479
 LEC2	LEC2	NN	B-NP	B-protein		3480	3484
 or	or	CC	I-NP	O		3485	3487
@@ -701,6 +718,7 @@ et al.	et_al.	FW	I-ADVP	O		3655	3661
 )	)	)	O	O		3667	3668
 .	.	.	O	O		3668	3669
 
+Finally	Finally	RB	B-ADVP	O		3670	3677
 ,	,	,	O	O		3677	3678
 ABI3	ABI3	NN	B-NP	B-protein		3679	3683
 is	be	VBZ	B-VP	O		3684	3686
@@ -734,6 +752,7 @@ et al.	et_al.	FW	I-ADVP	O		3839	3845
 )	)	)	O	O		3851	3852
 .	.	.	O	O		3852	3853
 
+Null	Null	JJ	B-NP	O		3854	3858
 abi3	abi3	NN	I-NP	O		3859	3863
 mutant	mutant	JJ	I-NP	O		3864	3870
 embryos	embryo	NNS	I-NP	O		3871	3878
@@ -763,6 +782,7 @@ et al.	et_al.	NNP	I-NP	O		3988	3994
 )	)	)	O	O		4006	4007
 .	.	.	O	O		4007	4008
 
+Plants	Plant	NNS	B-NP	O		4009	4015
 that	that	WDT	B-NP	O		4016	4020
 ectopically	ectopically	RB	B-ADVP	O		4021	4032
 express	express	VBP	B-VP	O		4033	4040
@@ -803,6 +823,7 @@ et al.	et_al.	NNP	I-NP	O		4211	4217
 )	)	)	O	O		4223	4224
 .	.	.	O	O		4224	4225
 
+A major	A_major	JJ	B-NP	O		4226	4233
 function	function	NN	I-NP	O		4234	4242
 of	of	IN	B-PP	O		4243	4245
 the	the	DT	B-NP	O		4246	4249
@@ -836,6 +857,7 @@ seed	seed	NN	B-NP	O		4403	4407
 maturation	maturation	NN	I-NP	O		4408	4418
 .	.	.	O	O		4418	4419
 
+Activation	Activation	NN	B-NP	O		4420	4430
 of	of	IN	B-PP	O		4431	4433
 downstream	downstream	JJ	B-NP	B-DNA		4434	4444
 genes	gene	NNS	I-NP	I-DNA		4445	4450
@@ -913,6 +935,7 @@ et al.	et_al.	NNP	I-NP	O		4751	4757
 )	)	)	O	O		4763	4764
 .	.	.	O	O		4764	4765
 
+In	In	IN	B-PP	O		4766	4768
 addition	addition	NN	B-NP	O		4769	4777
 ,	,	,	O	O		4777	4778
 ABI3	ABI3	NN	B-NP	B-protein		4779	4783
@@ -946,6 +969,7 @@ et al.	et_al.	NNP	I-NP	O		4953	4959
 )	)	)	O	O		4965	4966
 .	.	.	O	O		4966	4967
 
+FUS3	FUS3	NN	B-NP	B-protein		4968	4972
 and	and	CC	I-NP	O		4973	4976
 LEC2	LEC2	NN	I-NP	B-protein		4977	4981
 are	be	VBP	B-VP	O		4982	4985
@@ -971,6 +995,7 @@ et al.	et_al.	NNP	I-NP	O		5087	5093
 )	)	)	O	O		5099	5100
 .	.	.	O	O		5100	5101
 
+The	The	DT	B-NP	O		5102	5105
 B3	B3	NN	I-NP	B-protein		5106	5108
 factors	factor	NNS	I-NP	I-protein		5109	5116
 themselves	themselves	PRP	B-NP	O		5117	5127
@@ -1012,6 +1037,7 @@ et al.	et_al.	FW	B-NP	O		5299	5305
 )	)	)	O	O		5311	5312
 .	.	.	O	O		5312	5313
 
+The	The	DT	B-NP	O		5314	5317
 LEC1	LEC1	NN	I-NP	B-protein		5318	5322
 /	/	SYM	I-NP	O		5322	5323
 B3	B3	NN	I-NP	B-protein		5323	5325

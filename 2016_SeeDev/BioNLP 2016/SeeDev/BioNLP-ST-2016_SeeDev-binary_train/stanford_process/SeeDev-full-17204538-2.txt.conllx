@@ -21,6 +21,7 @@
 21	regulator	_	NOUN	NN	_	17	nmod:as	_	_	135	144
 22	.	_	PUNCT	.	_	10	punct	_	_	144	145
 
+1	In	_	ADP	IN	_	2	case	_	_	146	148
 2	Arabidopsis	_	PROPN	NNP	_	7	nmod:in	_	_	149	160
 3	,	_	PUNCT	,	_	7	punct	_	_	160	161
 4	the	_	DET	DT	_	6	det	_	_	162	165
@@ -44,6 +45,7 @@
 22	-RRB-	_	PUNCT	-RRB-	_	15	punct	_	_	-1	4
 23	.	_	PUNCT	.	_	7	punct	_	_	144	145
 
+1	According	_	VERB	VBG	_	5	case	_	_	270	279
 2	to	_	ADP	TO	_	1	mwe	_	_	280	282
 3	the	_	DET	DT	_	5	det	_	_	283	286
 4	‘ABC’	_	ADJ	JJ	_	5	amod	_	_	287	292
@@ -91,6 +93,7 @@
 46	-RRB-	_	PUNCT	-RRB-	_	41	punct	_	_	-1	4
 47	.	_	PUNCT	.	_	16	punct	_	_	144	145
 
+1	The	_	DET	DT	_	6	det	_	_	511	514
 2	APETALA2	_	PROPN	NNP	_	6	compound	_	_	515	523
 3	-LRB-	_	PUNCT	-LRB-	_	4	punct	_	_	-1	4
 4	AP2	_	PROPN	NNP	_	6	appos	_	_	525	528
@@ -116,6 +119,7 @@
 24	genes	_	NOUN	NNS	_	20	nmod:from	_	_	632	637
 25	.	_	PUNCT	.	_	17	punct	_	_	637	638
 
+1	Although	_	SCONJ	IN	_	5	mark	_	_	639	647
 2	most	_	ADJ	JJS	_	4	amod	_	_	648	652
 3	ABC	_	PROPN	NNP	_	4	compound	_	_	653	656
 4	genes	_	NOUN	NNS	_	5	nsubj	_	_	657	662
@@ -150,6 +154,7 @@
 33	-RRB-	_	PUNCT	-RRB-	_	28	punct	_	_	-1	4
 34	.	_	PUNCT	.	_	11	punct	_	_	144	145
 
+1	The	_	DET	DT	_	3	det	_	_	511	514
 2	AP2	_	PROPN	NNP	_	3	compound	_	_	525	528
 3	transcript	_	NOUN	NN	_	22	nsubjpass	_	_	807	817
 4	is	_	AUX	VBZ	_	6	auxpass	_	_	818	820
@@ -190,6 +195,7 @@
 39	-RRB-	_	PUNCT	-RRB-	_	29	punct	_	_	-1	4
 40	.	_	PUNCT	.	_	6	punct	_	_	144	145
 
+1	Recent	_	ADJ	JJ	_	2	amod	_	_	982	988
 2	reports	_	NOUN	NNS	_	3	nsubj	_	_	989	996
 3	showed	_	VERB	VBD	_	0	root	_	_	997	1003
 4	that	_	SCONJ	IN	_	6	mark	_	_	1004	1008
@@ -239,8 +245,9 @@
 48	-RRB-	_	PUNCT	-RRB-	_	39	punct	_	_	-1	4
 49	.	_	PUNCT	.	_	3	punct	_	_	144	145
 
-2	,	_	PUNCT	,	_	5	punct	_	_	160	161
-3	AP2	_	PROPN	NNP	_	5	nsubj	_	_	525	528
+1	Thus	_	ADV	RB	_	5	advmod	_	_	1212	1216
+2	,	_	PUNCT	,	_	5	punct	_	_	1216	1217
+3	AP2	_	PROPN	NNP	_	5	nsubj	_	_	1218	1221
 4	may	_	AUX	MD	_	5	aux	_	_	1222	1225
 5	play	_	VERB	VB	_	0	root	_	_	1226	1230
 6	an	_	DET	DT	_	8	det	_	_	1231	1233
@@ -256,6 +263,7 @@
 16	development	_	NOUN	NN	_	11	conj:and	_	_	1280	1291
 17	.	_	PUNCT	.	_	5	punct	_	_	1291	1292
 
+1	AP2	_	PROPN	NNP	_	2	nsubj	_	_	1293	1296
 2	belongs	_	VERB	VBZ	_	0	root	_	_	1297	1304
 3	to	_	ADP	TO	_	8	case	_	_	1305	1307
 4	the	_	DET	DT	_	8	det	_	_	1308	1311
@@ -282,7 +290,8 @@
 25	-RRB-	_	PUNCT	-RRB-	_	20	punct	_	_	-1	4
 26	.	_	PUNCT	.	_	2	punct	_	_	144	145
 
-2	is	_	AUX	VBZ	_	3	auxpass	_	_	158	160
+1	It	_	PRON	PRP	_	3	nsubjpass	_	_	1415	1417
+2	is	_	AUX	VBZ	_	3	auxpass	_	_	1418	1420
 3	known	_	VERB	VBN	_	0	root	_	_	1421	1426
 4	that	_	SCONJ	IN	_	6	mark	_	_	1427	1431
 5	AP2	_	PROPN	NNP	_	6	nsubj	_	_	1432	1435
@@ -314,6 +323,7 @@
 31	-RRB-	_	PUNCT	-RRB-	_	21	punct	_	_	-1	4
 32	.	_	PUNCT	.	_	3	punct	_	_	144	145
 
+1	In	_	ADP	IN	_	2	case	_	_	146	148
 2	addition	_	NOUN	NN	_	5	nmod:in	_	_	1555	1563
 3	,	_	PUNCT	,	_	5	punct	_	_	1563	1564
 4	AP2	_	PROPN	NNP	_	5	nsubj	_	_	1565	1568
@@ -344,8 +354,9 @@
 29	-RRB-	_	PUNCT	-RRB-	_	24	punct	_	_	-1	4
 30	.	_	PUNCT	.	_	5	punct	_	_	144	145
 
-2	,	_	PUNCT	,	_	17	punct	_	_	160	161
-3	the	_	DET	DT	_	4	det	_	_	162	165
+1	However	_	ADV	RB	_	17	advmod	_	_	1692	1699
+2	,	_	PUNCT	,	_	17	punct	_	_	1699	1700
+3	the	_	DET	DT	_	4	det	_	_	1701	1704
 4	relationship	_	NOUN	NN	_	17	nsubjpass	_	_	1705	1717
 5	of	_	ADP	IN	_	8	case	_	_	1718	1720
 6	the	_	DET	DT	_	8	det	_	_	1721	1724
@@ -362,6 +373,7 @@
 17	understood	_	VERB	VBN	_	0	root	_	_	1791	1801
 18	.	_	PUNCT	.	_	17	punct	_	_	1801	1802
 
+1	Previously	_	ADV	RB	_	4	advmod	_	_	1803	1813
 2	,	_	PUNCT	,	_	4	punct	_	_	1813	1814
 3	we	_	PRON	PRP	_	4	nsubj	_	_	1815	1817
 4	characterized	_	VERB	VBD	_	0	root	_	_	1818	1831
@@ -396,11 +408,12 @@
 33	-RRB-	_	PUNCT	-RRB-	_	28	punct	_	_	-1	4
 34	.	_	PUNCT	.	_	4	punct	_	_	144	145
 
-2	is	_	AUX	VBZ	_	3	auxpass	_	_	158	160
-3	regulated	_	VERB	VBN	_	0	root	_	_	1140	1149
-4	by	_	ADP	IN	_	7	case	_	_	1150	1152
-5	an	_	DET	DT	_	7	det	_	_	1179	1181
-6	ethylene	_	NOUN	NN	_	7	compound	_	_	1597	1605
+1	AtEBP	_	PROPN	NNP	_	3	nsubjpass	_	_	1898	1903
+2	is	_	AUX	VBZ	_	3	auxpass	_	_	1987	1989
+3	regulated	_	VERB	VBN	_	0	root	_	_	1990	1999
+4	by	_	ADP	IN	_	7	case	_	_	2000	2002
+5	an	_	DET	DT	_	7	det	_	_	2003	2005
+6	ethylene	_	NOUN	NN	_	7	compound	_	_	2006	2014
 7	signal	_	NOUN	NN	_	3	nmod:agent	_	_	2015	2021
 8	-LRB-	_	PUNCT	-LRB-	_	9	punct	_	_	-1	4
 9	Büttner	_	PROPN	NNP	_	7	dep	_	_	2023	2030
@@ -417,7 +430,8 @@
 20	-RRB-	_	PUNCT	-RRB-	_	9	punct	_	_	-1	4
 21	.	_	PUNCT	.	_	3	punct	_	_	144	145
 
-2	was	_	AUX	VBD	_	3	auxpass	_	_	1120	1123
+1	It	_	PRON	PRP	_	15	nsubjpass	_	_	1415	1417
+2	was	_	AUX	VBD	_	3	auxpass	_	_	2072	2075
 3	clarified	_	VERB	VBN	_	0	root	_	_	2076	2085
 4	that	_	SCONJ	IN	_	7	mark	_	_	2086	2090
 5	AtEBP	_	PROPN	NNP	_	7	nsubjpass	_	_	2091	2096
@@ -444,6 +458,7 @@
 26	signalling	_	NOUN	NN	_	21	nmod:in	_	_	2216	2226
 27	.	_	PUNCT	.	_	3	punct	_	_	2226	2227
 
+1	Interestingly	_	ADV	RB	_	5	advmod	_	_	2228	2241
 2	,	_	PUNCT	,	_	5	punct	_	_	2241	2242
 3	it	_	PRON	PRP	_	5	nsubjpass	_	_	2243	2245
 4	was	_	AUX	VBD	_	5	auxpass	_	_	2246	2249
@@ -464,7 +479,8 @@
 19	-RRB-	_	PUNCT	-RRB-	_	14	punct	_	_	-1	4
 20	.	_	PUNCT	.	_	5	punct	_	_	144	145
 
-2	,	_	PUNCT	,	_	15	punct	_	_	160	161
+1	Nevertheless	_	ADV	RB	_	15	advmod	_	_	2326	2338
+2	,	_	PUNCT	,	_	15	punct	_	_	2338	2339
 3	relationships	_	NOUN	NNS	_	15	nsubjpass	_	_	2340	2353
 4	between	_	ADP	IN	_	5	case	_	_	2354	2361
 5	AtEBP	_	PROPN	NNP	_	3	nmod:between	_	_	2362	2367
@@ -482,6 +498,7 @@
 17	detail	_	NOUN	NN	_	15	nmod:in	_	_	2438	2444
 18	.	_	PUNCT	.	_	15	punct	_	_	2444	2445
 
+1	Here	_	ADV	RB	_	4	advmod	_	_	2446	2450
 2	,	_	PUNCT	,	_	4	punct	_	_	2450	2451
 3	we	_	PRON	PRP	_	4	nsubj	_	_	2452	2454
 4	show	_	VERB	VBP	_	0	root	_	_	2455	2459

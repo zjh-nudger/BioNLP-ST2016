@@ -14,6 +14,7 @@
 14	biosynthesis	_	NOUN	NNS	_	11	nmod:in	_	_	76	88
 15	.	_	PUNCT	.	_	3	punct	_	_	88	89
 
+1	First	_	ADV	RB	_	13	advmod	_	_	90	95
 2	,	_	PUNCT	,	_	13	punct	_	_	95	96
 3	analysis	_	NOUN	NN	_	13	nsubj	_	_	97	105
 4	of	_	ADP	IN	_	6	case	_	_	106	108
@@ -48,6 +49,7 @@
 33	seeds	_	NOUN	NNS	_	23	nmod:with	_	_	298	303
 34	.	_	PUNCT	.	_	13	punct	_	_	303	304
 
+1	Second	_	X	LS	_	6	advmod	_	_	305	311
 2	,	_	PUNCT	,	_	6	punct	_	_	311	312
 3	cloning	_	NOUN	NN	_	6	nsubj	_	_	313	320
 4	of	_	ADP	IN	_	5	case	_	_	321	323
@@ -81,6 +83,7 @@
 32	sugars	_	NOUN	NNS	_	29	nmod:of	_	_	503	509
 33	.	_	PUNCT	.	_	6	punct	_	_	509	510
 
+1	The	_	DET	DT	_	3	det	_	_	511	514
 2	N-terminal	_	ADJ	JJ	_	3	amod	_	_	515	525
 3	portion	_	NOUN	NN	_	8	nsubj	_	_	526	533
 4	of	_	ADP	IN	_	5	case	_	_	534	536
@@ -123,6 +126,7 @@
 41	-RRB-	_	PUNCT	-RRB-	_	36	punct	_	_	-1	4
 42	.	_	PUNCT	.	_	8	punct	_	_	88	89
 
+1	These	_	DET	DT	_	2	det	_	_	707	712
 2	data	_	NOUN	NNS	_	3	nsubj	_	_	713	717
 3	favor	_	VERB	VBP	_	0	root	_	_	718	723
 4	a	_	DET	DT	_	5	det	_	_	724	725
@@ -147,6 +151,7 @@
 23	RGI	_	PROPN	NNP	_	21	nmod:of	_	_	803	806
 24	.	_	PUNCT	.	_	3	punct	_	_	806	807
 
+1	A	_	DET	DT	_	4	det	_	_	808	809
 2	reverse	_	ADJ	JJ	_	4	amod	_	_	810	817
 3	genetics	_	NOUN	NNS	_	4	compound	_	_	818	826
 4	approach	_	NOUN	NN	_	10	nsubj	_	_	827	835
@@ -186,8 +191,9 @@
 38	-RRB-	_	PUNCT	-RRB-	_	24	punct	_	_	-1	4
 39	.	_	PUNCT	.	_	10	punct	_	_	88	89
 
-2	,	_	PUNCT	,	_	7	punct	_	_	95	96
-3	another	_	DET	DT	_	4	det	_	_	845	852
+1	However	_	ADV	RB	_	7	advmod	_	_	1016	1023
+2	,	_	PUNCT	,	_	7	punct	_	_	1023	1024
+3	another	_	DET	DT	_	4	det	_	_	1025	1032
 4	role	_	NOUN	NN	_	7	nsubj	_	_	1033	1037
 5	in	_	ADP	IN	_	6	case	_	_	1038	1040
 6	RGI	_	PROPN	NNP	_	4	nmod:in	_	_	1041	1044
@@ -214,6 +220,7 @@
 27	l-Rha	_	NOUN	NN	_	19	nmod:of	_	_	1155	1160
 28	.	_	PUNCT	.	_	7	punct	_	_	1160	1161
 
+1	Gram	_	PROPN	NNP	_	0	root	_	_	1162	1166
 2	-	_	PUNCT	:	_	1	punct	_	_	1166	1167
 3	negative	_	ADJ	JJ	_	4	amod	_	_	1167	1175
 4	bacteria	_	NOUN	NNS	_	9	nsubj	_	_	1176	1184
@@ -255,8 +262,9 @@
 40	-RRB-	_	PUNCT	-RRB-	_	35	punct	_	_	-1	4
 41	.	_	PUNCT	.	_	1	punct	_	_	88	89
 
-2	putative	_	ADJ	JJ	_	4	amod	_	_	340	348
-3	MUM4	_	NOUN	NN	_	4	compound	_	_	537	541
+1	The	_	DET	DT	_	4	det	_	_	511	514
+2	putative	_	ADJ	JJ	_	4	amod	_	_	906	914
+3	MUM4	_	NOUN	NN	_	4	compound	_	_	937	941
 4	protein	_	NOUN	NN	_	7	nsubj	_	_	1368	1375
 5	not	_	ADV	RB	_	6	dep	_	_	1376	1379
 6	only	_	ADV	RB	_	7	advmod	_	_	1380	1384
@@ -297,8 +305,9 @@
 41	-RRB-	_	PUNCT	-RRB-	_	34	punct	_	_	-1	4
 42	.	_	PUNCT	.	_	7	punct	_	_	88	89
 
-2	is	_	VERB	VBZ	_	0	root	_	_	103	105
-3	a	_	DET	DT	_	4	det	_	_	119	120
+1	There	_	PRON	EX	_	2	expl	_	_	1581	1586
+2	is	_	VERB	VBZ	_	0	root	_	_	1587	1589
+3	a	_	DET	DT	_	4	det	_	_	1590	1591
 4	precedent	_	NOUN	NN	_	2	nsubj	_	_	1592	1601
 5	in	_	ADP	IN	_	6	case	_	_	1602	1604
 6	Arabidopsis	_	PROPN	NNP	_	4	nmod:in	_	_	1605	1616
@@ -336,7 +345,8 @@
 38	-RRB-	_	PUNCT	-RRB-	_	33	punct	_	_	-1	4
 39	.	_	PUNCT	.	_	2	punct	_	_	88	89
 
-2	,	_	PUNCT	,	_	10	punct	_	_	95	96
+1	Therefore	_	ADV	RB	_	10	advmod	_	_	1747	1756
+2	,	_	PUNCT	,	_	10	punct	_	_	1756	1757
 3	based	_	VERB	VBN	_	6	case	_	_	1758	1763
 4	on	_	ADP	IN	_	3	mwe	_	_	1764	1766
 5	sequence	_	NOUN	NN	_	6	compound	_	_	1767	1775
@@ -375,8 +385,9 @@
 38	-RRB-	_	PUNCT	-RRB-	_	33	punct	_	_	-1	4
 39	.	_	PUNCT	.	_	10	punct	_	_	88	89
 
-2	is	_	VERB	VBZ	_	4	cop	_	_	103	105
-3	a	_	DET	DT	_	4	det	_	_	119	120
+1	MUM4	_	PROPN	NNP	_	4	nsubj	_	_	324	328
+2	is	_	VERB	VBZ	_	4	cop	_	_	459	461
+3	a	_	DET	DT	_	4	det	_	_	493	494
 4	member	_	NOUN	NN	_	0	root	_	_	1953	1959
 5	of	_	ADP	IN	_	9	case	_	_	1960	1962
 6	a	_	DET	DT	_	9	det	_	_	1963	1964
@@ -416,6 +427,7 @@
 40	levels	_	NOUN	NNS	_	36	conj:and	_	_	2123	2129
 41	.	_	PUNCT	.	_	4	punct	_	_	2129	2130
 
+1	The	_	DET	DT	_	3	det	_	_	2131	2134
 2	ubiquitous	_	ADJ	JJ	_	3	amod	_	_	2135	2145
 3	expression	_	NOUN	NN	_	12	nsubj	_	_	2146	2156
 4	of	_	ADP	IN	_	5	case	_	_	2157	2159
@@ -452,6 +464,7 @@
 35	coats	_	NOUN	NNS	_	31	nmod:in	_	_	2328	2333
 36	.	_	PUNCT	.	_	10	punct	_	_	2333	2334
 
+1	Redundancy	_	PROPN	NNP	_	4	nsubj	_	_	2335	2345
 2	in	_	ADP	IN	_	3	case	_	_	2346	2348
 3	genes	_	NOUN	NNS	_	1	nmod:in	_	_	2349	2354
 4	coding	_	VERB	VBG	_	0	root	_	_	2355	2361
@@ -480,6 +493,7 @@
 27	walls	_	NOUN	NNS	_	12	nmod:in	_	_	2496	2501
 28	.	_	PUNCT	.	_	4	punct	_	_	2501	2502
 
+1	In	_	ADP	IN	_	2	case	_	_	2503	2505
 2	fact	_	NOUN	NN	_	17	nmod:in	_	_	2506	2510
 3	,	_	PUNCT	,	_	17	punct	_	_	2510	2511
 4	the	_	DET	DT	_	5	det	_	_	2512	2515

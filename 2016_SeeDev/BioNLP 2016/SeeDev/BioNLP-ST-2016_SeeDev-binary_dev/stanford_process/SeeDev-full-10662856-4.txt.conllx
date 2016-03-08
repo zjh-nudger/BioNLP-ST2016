@@ -48,6 +48,7 @@
 48	-RRB-	_	PUNCT	-RRB-	_	44	punct	_	_	-1	4
 49	.	_	PUNCT	.	_	23	punct	_	_	244	245
 
+1	Given	_	VERB	VBN	_	4	case	_	_	246	251
 2	the	_	DET	DT	_	4	det	_	_	252	255
 3	accumulation	_	NOUN	NN	_	4	compound	_	_	256	268
 4	pattern	_	NOUN	NN	_	15	nmod:given	_	_	269	276
@@ -87,6 +88,7 @@
 38	plants	_	NOUN	NNS	_	35	dobj	_	_	299	305
 39	.	_	PUNCT	.	_	15	punct	_	_	440	441
 
+1	Effects	_	PROPN	NNPS	_	10	nsubj	_	_	442	449
 2	at	_	ADP	IN	_	4	case	_	_	450	452
 3	the	_	DET	DT	_	4	det	_	_	453	456
 4	beginning	_	NOUN	NN	_	1	nmod:at	_	_	457	466
@@ -117,6 +119,7 @@
 29	-RRB-	_	PUNCT	-RRB-	_	27	punct	_	_	-1	4
 30	.	_	PUNCT	.	_	10	punct	_	_	244	245
 
+1	A	_	DET	DT	_	4	det	_	_	280	281
 2	partially	_	ADV	RB	_	3	advmod	_	_	617	626
 3	juvenilized	_	ADJ	JJ	_	4	amod	_	_	627	638
 4	plant	_	NOUN	NN	_	6	nsubj	_	_	639	644
@@ -133,6 +136,7 @@
 15	flowering	_	VERB	VBG	_	6	advcl	_	_	712	721
 16	.	_	PUNCT	.	_	6	punct	_	_	721	722
 
+1	The	_	DET	DT	_	2	det	_	_	723	726
 2	petioles	_	NOUN	NNS	_	11	nsubj	_	_	727	735
 3	of	_	ADP	IN	_	5	case	_	_	736	738
 4	the	_	DET	DT	_	5	det	_	_	739	742
@@ -158,6 +162,7 @@
 24	transgenes	_	NOUN	NNS	_	22	dobj	_	_	869	879
 25	.	_	PUNCT	.	_	11	punct	_	_	879	880
 
+1	In	_	ADP	IN	_	5	case	_	_	881	883
 2	wild	_	ADJ	JJ	_	5	amod	_	_	884	888
 3	-	_	ADJ	JJ	_	5	amod	_	_	888	889
 4	type	_	NOUN	NN	_	5	compound	_	_	889	893
@@ -191,7 +196,8 @@
 32	-RRB-	_	PUNCT	-RRB-	_	27	punct	_	_	-1	4
 33	.	_	PUNCT	.	_	10	punct	_	_	244	245
 
-2	the	_	DET	DT	_	3	det	_	_	252	255
+1	Although	_	SCONJ	IN	_	7	mark	_	_	1071	1079
+2	the	_	DET	DT	_	3	det	_	_	1080	1083
 3	change	_	NOUN	NN	_	7	nsubj	_	_	1084	1090
 4	in	_	ADP	IN	_	6	case	_	_	1091	1093
 5	leaf	_	NOUN	NN	_	6	compound	_	_	1094	1098
@@ -241,6 +247,7 @@
 49	phase	_	NOUN	NN	_	47	nmod:of	_	_	1334	1339
 50	.	_	PUNCT	.	_	23	punct	_	_	1339	1340
 
+1	In	_	ADP	IN	_	2	case	_	_	1341	1343
 2	Arabidopsis	_	PROPN	NNP	_	14	nmod:in	_	_	1344	1355
 3	,	_	PUNCT	,	_	14	punct	_	_	1355	1356
 4	a	_	DET	DT	_	7	det	_	_	1357	1358

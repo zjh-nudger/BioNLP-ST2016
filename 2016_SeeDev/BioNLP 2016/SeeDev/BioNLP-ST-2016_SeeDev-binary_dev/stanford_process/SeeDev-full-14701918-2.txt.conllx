@@ -27,6 +27,7 @@
 27	germination	_	NOUN	NN	_	25	conj:and	_	_	138	149
 28	.	_	PUNCT	.	_	18	punct	_	_	149	150
 
+1	One	_	NUM	CD	_	2	nummod	_	_	151	154
 2	adaptation	_	NOUN	NN	_	11	nsubj	_	_	155	165
 3	believed	_	VERB	VBN	_	2	acl	_	_	166	174
 4	to	_	PART	TO	_	5	mark	_	_	175	177
@@ -49,6 +50,7 @@
 21	coat	_	NOUN	NN	_	17	nmod:of	_	_	266	270
 22	.	_	PUNCT	.	_	11	punct	_	_	270	271
 
+1	This	_	DET	DT	_	2	det	_	_	272	276
 2	specialization	_	NOUN	NN	_	9	nsubjpass	_	_	277	291
 3	,	_	PUNCT	,	_	2	punct	_	_	291	292
 4	known	_	VERB	VBN	_	2	acl	_	_	293	298
@@ -84,6 +86,7 @@
 34	-RRB-	_	PUNCT	-RRB-	_	25	punct	_	_	-1	4
 35	.	_	PUNCT	.	_	9	punct	_	_	149	150
 
+1	Seed	_	NOUN	NN	_	2	compound	_	_	457	461
 2	imbibition	_	NOUN	NN	_	6	nsubj	_	_	462	472
 3	in	_	ADP	IN	_	5	case	_	_	473	475
 4	these	_	DET	DT	_	5	det	_	_	476	481

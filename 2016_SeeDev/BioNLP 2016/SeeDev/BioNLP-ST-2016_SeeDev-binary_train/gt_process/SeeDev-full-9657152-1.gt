@@ -22,6 +22,7 @@ embryo	embryo	NN	B-NP	O		123	129
 maturation	maturation	NN	I-NP	O		130	140
 .	.	.	O	O		140	141
 
+We	We	PRP	B-NP	O		142	144
 isolated	isolate	VBD	B-VP	O		145	153
 the	the	DT	B-NP	O		154	157
 LEC1	LEC1	NN	I-NP	B-DNA		158	162
@@ -43,6 +44,7 @@ cell	cell	NN	I-NP	O		251	255
 fate	fate	NN	I-NP	O		256	260
 .	.	.	O	O		260	261
 
+The	The	DT	B-NP	O		262	265
 LEC1	LEC1	NN	I-NP	B-DNA		266	270
 gene	gene	NN	I-NP	I-DNA		271	275
 encodes	encode	VBZ	B-VP	O		276	283
@@ -59,6 +61,7 @@ HAP3	HAP3	NN	I-NP	I-protein		345	349
 subunit	subunit	NN	I-NP	I-protein		350	357
 .	.	.	O	O		357	358
 
+LEC1	LEC1	NN	B-NP	B-RNA		359	363
 RNA	RNA	NN	I-NP	I-RNA		364	367
 accumulates	accumulate	VBZ	B-VP	O		368	379
 only	only	RB	B-ADVP	O		380	384
@@ -75,6 +78,7 @@ endosperm	endosperm	NN	B-NP	O		437	446
 tissue	tissue	NN	I-NP	O		447	453
 .	.	.	O	O		453	454
 
+Ectopic	Ectopic	JJ	B-NP	O		455	462
 postembryonic	postembryonic	JJ	I-NP	O		463	476
 expression	expression	NN	I-NP	O		477	487
 of	of	IN	B-PP	O		488	490
@@ -102,6 +106,7 @@ like	like	JJ	I-NP	I-DNA		607	611
 structures	structure	NNS	I-NP	I-DNA		612	622
 .	.	.	O	O		622	623
 
+Our	Our	PRP$	B-NP	O		624	627
 results	result	NNS	I-NP	O		628	635
 suggest	suggest	VBP	B-VP	O		636	643
 that	that	IN	B-SBAR	O		644	648

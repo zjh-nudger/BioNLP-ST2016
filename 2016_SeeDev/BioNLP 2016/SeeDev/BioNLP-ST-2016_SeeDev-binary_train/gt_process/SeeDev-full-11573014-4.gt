@@ -6,6 +6,7 @@ Seed	Seed	NNP	B-NP	O		16	20
 Development	Development	NNP	I-NP	O		21	32
 .	.	.	O	O		32	33
 
+Two	Two	CD	B-NP	O		34	37
 consequences	consequence	NNS	I-NP	O		38	50
 of	of	IN	B-PP	O		51	53
 expressing	express	VBG	B-VP	O		54	64
@@ -36,6 +37,7 @@ of	of	IN	B-PP	O		214	216
 embryogenesis	embryogenesis	NN	B-NP	O		217	230
 .	.	.	O	O		230	231
 
+First	First	RB	B-ADVP	O		232	237
 ,	,	,	O	O		237	238
 although	although	IN	B-SBAR	O		239	247
 seedlings	seedling	NNS	B-NP	O		248	257
@@ -64,6 +66,7 @@ postgerminative	postgerminative	JJ	B-NP	O		387	402
 characteristics	characteristic	NNS	I-NP	O		403	418
 .	.	.	O	O		418	419
 
+Cotyledons	Cotyledon	NNS	B-NP	O		420	430
 of	of	IN	B-PP	O		431	433
 these	these	DT	B-NP	O		434	439
 seedlings	seedling	NNS	I-NP	O		440	449
@@ -109,6 +112,7 @@ wild	wild	JJ	B-NP	O		690	694
 type	type	NN	I-NP	O		695	699
 .	.	.	O	O		699	700
 
+The	The	DT	B-NP	O		701	704
 reason	reason	NN	I-NP	O		705	711
 for	for	IN	B-PP	O		712	715
 this	this	DT	B-NP	O		716	720
@@ -134,6 +138,7 @@ expression	expression	NN	I-NP	O		822	832
 levels	level	NNS	I-NP	O		833	839
 .	.	.	O	O		839	840
 
+Second	Second	RB	B-ADVP	O		841	847
 ,	,	,	O	O		847	848
 regardless	regardless	RB	B-ADVP	O		849	859
 of	of	IN	B-PP	O		860	862
@@ -182,6 +187,7 @@ and	and	CC	I-NP	O		1115	1118
 )	)	)	O	O		1120	1121
 .	.	.	O	O		1121	1122
 
+Together	Together	RB	B-ADVP	O		1123	1131
 ,	,	,	O	O		1131	1132
 these	these	DT	B-NP	O		1133	1138
 results	result	NNS	I-NP	O		1139	1146
@@ -204,6 +210,7 @@ embryo	embryo	NN	I-NP	O		1258	1264
 formation	formation	NN	I-NP	O		1265	1274
 .	.	.	O	O		1274	1275
 
+In	In	IN	B-PP	O		1276	1278
 this	this	DT	B-NP	O		1279	1283
 regard	regard	NN	I-NP	O		1284	1290
 ,	,	,	O	O		1290	1291
@@ -244,6 +251,7 @@ growing	grow	VBG	I-NP	O		1495	1502
 plantlets	plantlet	NNS	I-NP	O		1503	1512
 .	.	.	O	O		1512	1513
 
+Transgenic	Transgenic	JJ	B-NP	O		1514	1524
 seedlings	seedling	NNS	I-NP	O		1525	1534
 ectopically	ectopically	RB	B-VP	O		1535	1546
 expressing	express	VBG	I-VP	O		1547	1557
@@ -274,6 +282,7 @@ seedlings	seedling	NNS	I-NP	O		1681	1690
 )	)	)	O	O		1694	1695
 .	.	.	O	O		1695	1696
 
+Moreover	Moreover	RB	B-ADVP	O		1697	1705
 ,	,	,	O	O		1705	1706
 postembryonic	postembryonic	JJ	B-NP	O		1707	1720
 expression	expression	NN	I-NP	O		1721	1731
@@ -305,6 +314,7 @@ with	with	IN	B-PP	O		1891	1895
 LEC2	LEC2	NN	B-NP	B-protein		1896	1900
 .	.	.	O	O		1900	1901
 
+Recessive	Recessive	JJ	B-NP	O		1902	1911
 mutations	mutation	NNS	I-NP	O		1912	1921
 in	in	IN	B-PP	O		1922	1924
 the	the	DT	B-NP	O		1925	1928
@@ -332,6 +342,7 @@ medium	medium	NN	I-NP	O		2043	2049
 )	)	)	O	O		2053	2054
 .	.	.	O	O		2054	2055
 
+However	However	RB	B-ADVP	O		2056	2063
 ,	,	,	O	O		2063	2064
 LEC1	LEC1	NN	B-NP	B-protein		2065	2069
 is	be	VBZ	B-VP	O		2070	2072
@@ -353,6 +364,7 @@ seedlings	seedling	NNS	I-NP	O		2128	2137
 )	)	)	O	O		2141	2142
 .	.	.	O	O		2142	2143
 
+This	This	DT	B-NP	O		2144	2148
 result	result	NN	I-NP	O		2149	2155
 suggests	suggest	VBZ	B-VP	O		2156	2164
 that	that	IN	B-SBAR	O		2165	2169
@@ -388,6 +400,7 @@ pkl	pkl	NN	B-NP	B-protein		2335	2338
 mutants	mutant	NNS	I-NP	I-protein		2339	2346
 .	.	.	O	O		2346	2347
 
+Given	Give	VBN	B-PP	O		2348	2353
 our	our	PRP$	B-NP	O		2354	2357
 results	result	NNS	I-NP	O		2358	2365
 ,	,	,	O	O		2365	2366
@@ -404,6 +417,7 @@ pkl	pkl	NN	B-NP	B-protein		2419	2422
 mutants	mutant	NNS	I-NP	I-protein		2423	2430
 .	.	.	O	O		2430	2431
 
+The	The	DT	B-NP	O		2432	2435
 ability	ability	NN	I-NP	O		2436	2443
 of	of	IN	B-PP	O		2444	2446
 LEC2	LEC2	NN	B-NP	B-protein		2447	2451
@@ -427,6 +441,7 @@ embryogenic	embryogenic	JJ	B-NP	O		2547	2558
 competence	competence	NN	I-NP	O		2559	2569
 .	.	.	O	O		2569	2570
 
+Somatic	Somatic	JJ	B-NP	B-cell_type		2571	2578
 plant	plant	NN	I-NP	I-cell_type		2579	2584
 cells	cell	NNS	I-NP	I-cell_type		2585	2590
 generally	generally	RB	B-ADVP	O		2591	2600
@@ -444,6 +459,7 @@ embryogenesis	embryogenesis	NN	I-NP	O		2649	2662
 )	)	)	O	O		2669	2670
 .	.	.	O	O		2670	2671
 
+Embryogenic	Embryogenic	JJ	B-NP	O		2672	2683
 competence	competence	NN	I-NP	O		2684	2694
 is	be	VBZ	B-VP	O		2695	2697
 often	often	RB	I-VP	O		2698	2703
@@ -473,6 +489,7 @@ the	the	DT	B-NP	O		2853	2856
 hormone(s)	hormone(s)	NN	I-NP	O		2857	2867
 .	.	.	O	O		2867	2868
 
+LEC2	LEC2	NN	B-NP	B-protein		2869	2873
 and	and	CC	I-NP	O		2874	2877
 LEC1	LEC1	NN	I-NP	B-protein		2878	2882
 obviate	obviate	VBP	B-VP	O		2883	2890
@@ -507,6 +524,7 @@ somatic	somatic	JJ	B-NP	O		3066	3073
 embryogenesis	embryogenesis	NN	I-NP	O		3074	3087
 .	.	.	O	O		3087	3088
 
+Our	Our	PRP$	B-NP	O		3089	3092
 finding	finding	NN	I-NP	O		3093	3100
 that	that	IN	B-SBAR	O		3101	3105
 both	both	CC	O	O		3106	3110
@@ -548,6 +566,7 @@ zygotic	zygotic	JJ	B-NP	O		3298	3305
 embryogenesis	embryogenesis	NN	I-NP	O		3306	3319
 .	.	.	O	O		3319	3320
 
+Thus	Thus	RB	B-ADVP	O		3321	3325
 ,	,	,	O	O		3325	3326
 the	the	DT	B-NP	O		3327	3330
 role	role	NN	I-NP	O		3331	3335
@@ -567,6 +586,7 @@ zygotic	zygotic	JJ	B-NP	O		3408	3415
 embryogenesis	embryogenesis	NN	I-NP	O		3416	3429
 .	.	.	O	O		3429	3430
 
+Similarities	Similarity	NNS	B-NP	O		3431	3443
 in	in	IN	B-PP	O		3444	3446
 the	the	DT	B-NP	O		3447	3450
 expression	expression	NN	I-NP	O		3451	3461
@@ -596,6 +616,7 @@ embryo	embryo	NN	B-NP	O		3614	3620
 formation	formation	NN	I-NP	O		3621	3630
 .	.	.	O	O		3630	3631
 
+This	This	DT	B-NP	O		3632	3636
 interpretation	interpretation	NN	I-NP	O		3637	3651
 is	be	VBZ	B-VP	O		3652	3654
 consistent	consistent	JJ	B-ADJP	O		3655	3665
@@ -630,6 +651,7 @@ redundancy	redundancy	NN	I-NP	O		3814	3824
 )	)	)	O	O		3832	3833
 .	.	.	O	O		3833	3834
 
+Although	Although	IN	B-SBAR	O		3835	3843
 LEC1	LEC1	NN	B-NP	B-protein		3844	3848
 and	and	CC	I-NP	O		3849	3852
 LEC2	LEC2	NN	I-NP	B-protein		3853	3857
@@ -653,6 +675,7 @@ identical	identical	JJ	B-NP	O		3955	3964
 functions	function	NNS	I-NP	O		3965	3974
 .	.	.	O	O		3974	3975
 
+Mutations	Mutation	NNS	B-NP	O		3976	3985
 in	in	IN	B-PP	O		3986	3988
 each	each	DT	B-NP	O		3989	3993
 gene	gene	NN	I-NP	O		3994	3998
@@ -678,6 +701,7 @@ phenotype	phenotype	NN	I-NP	O		4075	4084
 )	)	)	O	O		4096	4097
 .	.	.	O	O		4097	4098
 
+Furthermore	Furthermore	RB	B-ADVP	O		4099	4110
 ,	,	,	O	O		4110	4111
 the	the	DT	B-NP	O		4112	4115
 vast	vast	JJ	I-NP	O		4116	4120
@@ -716,6 +740,7 @@ leaves	leaf	NNS	I-NP	O		4286	4292
 )	)	)	O	O		4296	4297
 .	.	.	O	O		4297	4298
 
+By	By	IN	B-PP	O		4299	4301
 contrast	contrast	NN	B-NP	O		4302	4310
 ,	,	,	O	O		4310	4311
 35S∷LEC2	35S∷LEC2	NN	B-NP	B-protein		4312	4320
@@ -745,6 +770,7 @@ somatic	somatic	JJ	B-NP	O		4438	4445
 embryos	embryo	NNS	I-NP	O		4446	4453
 .	.	.	O	O		4453	4454
 
+Thus	Thus	RB	B-ADVP	O		4455	4459
 ,	,	,	O	O		4459	4460
 LEC1	LEC1	NN	B-NP	B-protein		4461	4465
 and	and	CC	I-NP	O		4466	4469
@@ -761,6 +787,7 @@ embryo	embryo	NN	B-NP	O		4535	4541
 formation	formation	NN	I-NP	O		4542	4551
 .	.	.	O	O		4551	4552
 
+The	The	DT	B-NP	O		4553	4556
 precise	precise	JJ	I-NP	O		4557	4564
 roles	role	NNS	I-NP	O		4565	4570
 of	of	IN	B-PP	O		4571	4573

@@ -50,6 +50,7 @@
 50	-RRB-	_	PUNCT	-RRB-	_	43	punct	_	_	-1	4
 51	.	_	PUNCT	.	_	29	punct	_	_	277	278
 
+1	In	_	ADP	IN	_	5	case	_	_	293	295
 2	the	_	DET	DT	_	5	det	_	_	296	299
 3	transient	_	ADJ	JJ	_	5	amod	_	_	300	309
 4	expression	_	NOUN	NN	_	5	compound	_	_	310	320
@@ -106,6 +107,7 @@
 55	gene	_	NOUN	NN	_	50	nmod:of	_	_	589	593
 56	.	_	PUNCT	.	_	26	punct	_	_	593	594
 
+1	These	_	DET	DT	_	2	nsubj	_	_	595	600
 2	effectors	_	VERB	VBD	_	0	root	_	_	601	610
 3	-LRB-	_	PUNCT	-LRB-	_	9	punct	_	_	-1	4
 4	deletions	_	NOUN	NNS	_	5	compound	_	_	612	621
@@ -128,6 +130,7 @@
 21	motif	_	NOUN	NN	_	2	conj:but	_	_	696	701
 22	.	_	PUNCT	.	_	2	punct	_	_	701	702
 
+1	The	_	DET	DT	_	3	det	_	_	703	706
 2	LENETLNRRQxxELR	_	PROPN	NNP	_	3	compound	_	_	707	722
 3	motif	_	NOUN	NN	_	24	nsubj	_	_	723	728
 4	-LRB-	_	PUNCT	-LRB-	_	5	punct	_	_	-1	4
@@ -164,9 +167,10 @@
 35	-RRB-	_	PUNCT	-RRB-	_	30	punct	_	_	-1	4
 36	.	_	PUNCT	.	_	8	punct	_	_	277	278
 
-2	,	_	PUNCT	,	_	26	punct	_	_	278	279
-3	activation	_	NOUN	NN	_	26	nsubjpass	_	_	558	568
-4	of	_	ADP	IN	_	8	case	_	_	569	571
+1	Alternately	_	ADV	RB	_	26	advmod	_	_	895	906
+2	,	_	PUNCT	,	_	26	punct	_	_	906	907
+3	activation	_	NOUN	NN	_	26	nsubjpass	_	_	908	918
+4	of	_	ADP	IN	_	8	case	_	_	919	921
 5	direct	_	ADJ	JJ	_	8	amod	_	_	922	928
 6	AGL15	_	PROPN	NNP	_	8	compound	_	_	929	934
 7	downstream	_	ADJ	JJ	_	8	amod	_	_	935	945
@@ -197,6 +201,7 @@
 32	activators	_	NOUN	NNS	_	26	nmod:with	_	_	1065	1075
 33	.	_	PUNCT	.	_	26	punct	_	_	1075	1076
 
+1	Yeast	_	ADJ	JJ	_	3	amod	_	_	1077	1082
 2	two-hybrid	_	ADJ	JJ	_	3	amod	_	_	1083	1093
 3	studies	_	NOUN	NNS	_	5	nsubj	_	_	1094	1101
 4	have	_	AUX	VBP	_	5	aux	_	_	1102	1106
@@ -256,7 +261,8 @@
 58	-RRB-	_	PUNCT	-RRB-	_	36	punct	_	_	-1	4
 59	.	_	PUNCT	.	_	5	punct	_	_	277	278
 
-2	is	_	VERB	VBZ	_	3	cop	_	_	996	998
+1	It	_	PRON	PRP	_	5	nsubj	_	_	1338	1340
+2	is	_	VERB	VBZ	_	3	cop	_	_	1341	1343
 3	interesting	_	ADJ	JJ	_	0	root	_	_	1344	1355
 4	to	_	PART	TO	_	5	mark	_	_	1356	1358
 5	note	_	VERB	VB	_	3	xcomp	_	_	1359	1363
@@ -290,6 +296,7 @@
 33	-RRB-	_	PUNCT	-RRB-	_	30	punct	_	_	-1	4
 34	.	_	PUNCT	.	_	3	punct	_	_	277	278
 
+1	There	_	PRON	EX	_	2	expl	_	_	1527	1532
 2	are	_	VERB	VBP	_	0	root	_	_	1533	1536
 3	numerous	_	ADJ	JJ	_	4	amod	_	_	1537	1545
 4	examples	_	NOUN	NNS	_	2	nsubj	_	_	1546	1554
@@ -312,6 +319,7 @@
 21	repressor	_	NOUN	NN	_	19	conj:or	_	_	1666	1675
 22	.	_	PUNCT	.	_	2	punct	_	_	1675	1676
 
+1	Known	_	ADJ	JJ	_	3	amod	_	_	1677	1682
 2	transcriptional	_	ADJ	JJ	_	3	amod	_	_	1683	1698
 3	activators	_	NOUN	NNS	_	8	nsubj	_	_	1699	1709
 4	have	_	AUX	VBP	_	6	aux	_	_	1710	1714
@@ -349,12 +357,13 @@
 36	-RRB-	_	PUNCT	-RRB-	_	19	punct	_	_	-1	4
 37	.	_	PUNCT	.	_	6	punct	_	_	277	278
 
-2	that	_	DET	WDT	_	1	ref	_	_	484	488
-3	interact	_	VERB	VBP	_	1	acl:relcl	_	_	1135	1143
-4	with	_	ADP	IN	_	5	case	_	_	1144	1148
-5	SIN3	_	PROPN	NNP	_	3	nmod:with	_	_	1780	1784
-6	/	_	PUNCT	:	_	1	punct	_	_	1784	1785
-7	HDAC1	_	NUM	CD	_	8	nummod	_	_	1785	1790
+1	Co-activators	_	NOUN	NNS	_	3	nsubj	_	_	1854	1867
+2	that	_	DET	WDT	_	1	ref	_	_	1868	1872
+3	interact	_	VERB	VBP	_	1	acl:relcl	_	_	1873	1881
+4	with	_	ADP	IN	_	5	case	_	_	1882	1886
+5	SIN3	_	PROPN	NNP	_	3	nmod:with	_	_	1887	1891
+6	/	_	PUNCT	:	_	1	punct	_	_	1891	1892
+7	HDAC1	_	NUM	CD	_	8	nummod	_	_	1892	1897
 8	members	_	NOUN	NNS	_	20	nsubjpass	_	_	1898	1905
 9	,	_	PUNCT	,	_	8	punct	_	_	1905	1906
 10	giving	_	VERB	VBG	_	8	acl	_	_	1907	1913
@@ -370,6 +379,7 @@
 20	reported	_	VERB	VBN	_	1	parataxis	_	_	1964	1972
 21	.	_	PUNCT	.	_	1	punct	_	_	1972	1973
 
+1	In	_	ADP	IN	_	3	case	_	_	1974	1976
 2	the	_	DET	DT	_	3	det	_	_	1977	1980
 3	literature	_	NOUN	NN	_	7	nmod:in	_	_	1981	1991
 4	HDACs	_	PROPN	NNP	_	29	nsubj	_	_	1992	1997
@@ -413,6 +423,7 @@
 42	-RRB-	_	PUNCT	-RRB-	_	37	punct	_	_	-1	4
 43	.	_	PUNCT	.	_	7	punct	_	_	277	278
 
+1	HDA19	_	PROPN	NNP	_	27	nsubj	_	_	2082	2087
 2	has	_	AUX	VBZ	_	5	aux	_	_	2088	2091
 3	also	_	ADV	RB	_	5	advmod	_	_	2211	2215
 4	been	_	AUX	VBN	_	5	auxpass	_	_	2216	2220

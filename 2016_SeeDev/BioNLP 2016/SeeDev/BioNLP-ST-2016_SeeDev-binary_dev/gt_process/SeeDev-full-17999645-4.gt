@@ -58,6 +58,7 @@ around	around	IN	B-PP	O		335	341
 it	it	PRP	B-NP	O		342	344
 .	.	.	O	O		344	345
 
+Tighter	Tighter	NN	B-NP	O		346	353
 wrapping	wrapping	NN	I-NP	O		354	362
 of	of	IN	B-PP	O		363	365
 the	the	DT	B-NP	O		366	369
@@ -86,6 +87,7 @@ et al.	et al.	NNP	I-NP	O		494	500
 )	)	)	O	O		506	507
 .	.	.	O	O		507	508
 
+SIN3	SIN3	NN	B-NP	B-protein		509	513
 -	-	HYPH	B-NP	O		513	514
 associated	associate	VBN	I-NP	O		514	524
 proteins	protein	NNS	I-NP	O		525	533
@@ -113,6 +115,7 @@ Ekwall	Ekwall	NN	I-NP	O		644	650
 )	)	)	O	O		656	657
 .	.	.	O	O		657	658
 
+SAP18	SAP18	NN	B-NP	B-protein		659	664
 ,	,	,	O	O		664	665
 like	like	IN	B-PP	O		666	670
 other	other	JJ	B-NP	O		671	676
@@ -195,6 +198,7 @@ targeted	target	VBN	B-VP	I-DNA		1043	1051
 genes	gene	NNS	B-NP	I-DNA		1052	1057
 .	.	.	O	O		1057	1058
 
+When	When	WRB	B-ADVP	O		1059	1063
 directed	direct	VBN	B-VP	O		1064	1072
 to	to	TO	B-PP	O		1073	1075
 regulatory	regulatory	JJ	B-NP	B-DNA		1076	1086
@@ -250,6 +254,7 @@ et al.	et al.	FW	I-ADVP	O		1295	1301
 )	)	)	O	O		1307	1308
 .	.	.	O	O		1308	1309
 
+We	We	PRP	B-NP	O		1310	1312
 demonstrated	demonstrate	VBD	B-VP	O		1313	1325
 that	that	IN	B-SBAR	O		1326	1330
 SAP18	SAP18	NN	B-NP	B-protein		1331	1336
@@ -283,6 +288,7 @@ Figure	Figure	NN	B-NP	B-DNA		1460	1466
 )	)	)	O	O		1468	1469
 .	.	.	O	O		1469	1470
 
+Likewise	Likewise	RB	B-ADVP	O		1471	1479
 ,	,	,	O	O		1479	1480
 SAP18	SAP18	NN	B-NP	B-protein		1481	1486
 also	also	RB	B-ADVP	O		1487	1491

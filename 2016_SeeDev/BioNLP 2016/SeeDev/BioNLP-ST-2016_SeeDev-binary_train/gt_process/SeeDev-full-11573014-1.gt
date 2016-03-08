@@ -24,6 +24,7 @@ embryo	embryo	NN	B-NP	O		132	138
 development	development	NN	I-NP	O		139	150
 .	.	.	O	O		150	151
 
+LEC2	LEC2	NN	B-NP	B-protein		152	156
 is	be	VBZ	B-VP	O		157	159
 required	require	VBN	I-VP	O		160	168
 for	for	IN	B-PP	O		169	172
@@ -51,6 +52,7 @@ premature	premature	JJ	B-NP	O		312	321
 germination	germination	NN	I-NP	O		322	333
 .	.	.	O	O		333	334
 
+We	We	PRP	B-NP	O		335	337
 cloned	clone	VBD	B-VP	O		338	344
 the	the	DT	B-NP	O		345	348
 LEC2	LEC2	NN	I-NP	B-DNA		349	353
@@ -90,6 +92,7 @@ transcription	transcription	NN	I-NP	B-protein		535	548
 factors	factor	NNS	I-NP	I-protein		549	556
 .	.	.	O	O		556	557
 
+We	We	PRP	B-NP	O		558	560
 showed	show	VBD	B-VP	O		561	567
 that	that	IN	B-SBAR	O		568	572
 LEC2	LEC2	NN	B-NP	B-RNA		573	577
@@ -130,6 +133,7 @@ and	and	CC	I-NP	O		804	807
 FUSCA3	FUSCA3	NN	I-NP	B-protein		808	814
 .	.	.	O	O		814	815
 
+Ectopic	Ectopic	JJ	B-NP	O		816	823
 ,	,	,	I-NP	O		823	824
 postembryonic	postembryonic	JJ	I-NP	O		825	838
 expression	expression	NN	I-NP	O		839	849
@@ -159,6 +163,7 @@ to	to	TO	B-PP	O		996	998
 seedlings	seedling	NNS	B-NP	O		999	1008
 .	.	.	O	O		1008	1009
 
+Together	Together	RB	B-ADVP	O		1010	1018
 ,	,	,	O	O		1018	1019
 these	these	DT	B-NP	O		1020	1025
 results	result	NNS	I-NP	O		1026	1033
@@ -181,6 +186,7 @@ embryo	embryo	NN	B-NP	O		1146	1152
 development	development	NN	I-NP	O		1153	1164
 .	.	.	O	O		1164	1165
 
+Embryogenesis	Embryogenesis	NN	B-NP	O		1166	1179
 in	in	IN	B-PP	O		1180	1182
 flowering	flowering	NN	B-NP	O		1183	1192
 plants	plant	NNS	I-NP	O		1193	1199
@@ -218,6 +224,7 @@ gametophyte	gametophyte	NN	I-NP	O		1365	1376
 respectively	respectively	RB	B-ADVP	O		1378	1390
 .	.	.	O	O		1390	1391
 
+The	The	DT	B-NP	O		1392	1395
 endosperm	endosperm	NN	I-NP	O		1396	1405
 initially	initially	RB	B-ADVP	O		1406	1415
 undergoes	undergo	VBZ	B-VP	O		1416	1425
@@ -239,6 +246,7 @@ cellularizes	cellulariz	NNS	I-NP	O		1505	1517
 )	)	)	O	O		1520	1521
 .	.	.	O	O		1521	1522
 
+The	The	DT	B-NP	O		1523	1526
 developing	develop	VBG	I-NP	O		1527	1537
 embryo	embryo	NN	I-NP	O		1538	1544
 is	be	VBZ	B-VP	O		1545	1547
@@ -266,6 +274,7 @@ mature	mature	JJ	I-NP	O		1654	1660
 seed	seed	NN	I-NP	O		1661	1665
 .	.	.	O	O		1665	1666
 
+Development	Development	NN	B-NP	O		1667	1678
 of	of	IN	B-PP	O		1679	1681
 the	the	DT	B-NP	O		1682	1685
 zygote	zygote	NN	I-NP	O		1686	1692
@@ -283,6 +292,7 @@ distinct	distinct	JJ	I-NP	O		1753	1761
 phases	phase	NNS	I-NP	O		1762	1768
 .	.	.	O	O		1768	1769
 
+During	During	IN	B-PP	O		1770	1776
 the	the	DT	B-NP	O		1777	1780
 early	early	JJ	I-NP	O		1781	1786
 morphogenesis	morphogenesis	NN	I-NP	O		1787	1800
@@ -327,6 +337,7 @@ systems	system	NNS	I-NP	O		2008	2015
 )	)	)	O	O		2020	2021
 .	.	.	O	O		2021	2022
 
+The	The	DT	B-NP	O		2023	2026
 morphogenesis	morphogenesis	NN	I-NP	O		2027	2040
 phase	phase	NN	I-NP	O		2041	2046
 is	be	VBZ	B-VP	O		2047	2049
@@ -351,6 +362,7 @@ occur	occur	VBP	B-VP	O		2132	2137
 )	)	)	O	O		2143	2144
 .	.	.	O	O		2144	2145
 
+During	During	IN	B-PP	O		2146	2152
 this	this	DT	B-NP	O		2153	2157
 late	late	JJ	I-NP	O		2158	2162
 phase	phase	NN	I-NP	O		2163	2168
@@ -374,6 +386,7 @@ the	the	DT	B-NP	O		2263	2266
 seed	seed	NN	I-NP	O		2267	2271
 .	.	.	O	O		2271	2272
 
+It	It	PRP	B-NP	O		2273	2275
 is	be	VBZ	B-VP	O		2276	2278
 also	also	RB	B-ADVP	O		2279	2283
 during	during	IN	B-PP	O		2284	2290
@@ -398,6 +411,7 @@ seed	seed	NN	B-NP	O		2396	2400
 development	development	NN	I-NP	O		2401	2412
 .	.	.	O	O		2412	2413
 
+At	At	IN	B-PP	O		2414	2416
 the	the	DT	B-NP	O		2417	2420
 end	end	NN	I-NP	O		2421	2424
 of	of	IN	B-PP	O		2425	2427
@@ -418,6 +432,7 @@ quiescent	quiescent	JJ	B-ADJP	O		2500	2509
 metabolically	metabolically	RB	B-ADVP	O		2510	2523
 .	.	.	O	O		2523	2524
 
+Although	Although	IN	B-SBAR	O		2525	2533
 many	many	JJ	B-NP	O		2534	2538
 aspects	aspect	NNS	I-NP	O		2539	2546
 of	of	IN	B-PP	O		2547	2549
@@ -443,6 +458,7 @@ embryo	embryo	NN	B-NP	O		2671	2677
 development	development	NN	I-NP	O		2678	2689
 .	.	.	O	O		2689	2690
 
+The	The	DT	B-NP	O		2691	2694
 Arabidopsis	Arabidopsis	NN	I-NP	B-DNA		2695	2706
 LEAFY	LEAFY	NN	I-NP	I-DNA		2707	2712
 COTYLEDON	COTYLEDON	NN	I-NP	I-DNA		2713	2722
@@ -473,6 +489,7 @@ development	development	NN	I-NP	O		2804	2815
 )	)	)	O	O		2818	2819
 .	.	.	O	O		2819	2820
 
+Unlike	Unlike	IN	B-PP	O		2821	2827
 most	most	JJS	B-NP	O		2828	2832
 other	other	JJ	I-NP	O		2833	2838
 embryonic	embryonic	JJ	I-NP	B-protein		2839	2848
@@ -509,6 +526,7 @@ maturation	maturation	NN	I-NP	O		3026	3036
 phases	phase	NNS	I-NP	O		3037	3043
 .	.	.	O	O		3043	3044
 
+Early	Early	RB	B-ADVP	O		3045	3050
 in	in	IN	B-PP	O		3051	3053
 embryogenesis	embryogenesis	NN	B-NP	O		3054	3067
 ,	,	,	O	O		3067	3068
@@ -529,6 +547,7 @@ identity	identity	NN	I-NP	O		3137	3145
 )	)	)	O	O		3152	3153
 .	.	.	O	O		3153	3154
 
+Late	Late	RB	B-ADVP	O		3155	3159
 in	in	IN	B-PP	O		3160	3162
 embryogenesis	embryogenesis	NN	B-NP	O		3163	3176
 ,	,	,	O	O		3176	3177
@@ -560,6 +579,7 @@ genes	gene	NNS	I-NP	I-DNA		3319	3324
 )	)	)	O	O		3331	3332
 .	.	.	O	O		3332	3333
 
+Consistent	Consistent	JJ	B-ADJP	O		3334	3344
 with	with	IN	B-PP	O		3345	3349
 the	the	DT	B-NP	O		3350	3353
 finding	finding	NN	I-NP	O		3354	3361
@@ -593,6 +613,7 @@ program	program	NN	I-NP	O		3488	3495
 )	)	)	O	O		3511	3512
 .	.	.	O	O		3512	3513
 
+Thus	Thus	RB	B-ADVP	O		3514	3518
 ,	,	,	O	O		3518	3519
 LEC	LEC	NN	B-NP	B-DNA		3520	3523
 genes	gene	NNS	I-NP	I-DNA		3524	3529
@@ -622,6 +643,7 @@ maturation	maturation	NN	I-NP	O		3672	3682
 phases	phase	NNS	I-NP	O		3683	3689
 .	.	.	O	O		3689	3690
 
+Identification	Identification	NN	B-NP	O		3691	3705
 and	and	CC	O	O		3706	3709
 analysis	analysis	NN	B-NP	O		3710	3718
 of	of	IN	B-PP	O		3719	3721
@@ -642,6 +664,7 @@ their	their	PRP$	B-NP	O		3811	3816
 functions	function	NNS	I-NP	O		3817	3826
 .	.	.	O	O		3826	3827
 
+LEC1	LEC1	NN	B-NP	B-protein		3828	3832
 shares	share	VBZ	B-VP	O		3833	3839
 extensive	extensive	JJ	B-NP	O		3840	3849
 sequence	sequence	NN	I-NP	O		3850	3858
@@ -668,6 +691,7 @@ regulator	regulator	NN	I-NP	I-protein		3969	3978
 )	)	)	O	O		3982	3983
 .	.	.	O	O		3983	3984
 
+Ectopic	Ectopic	JJ	B-NP	O		3985	3992
 expression	expression	NN	I-NP	O		3993	4003
 of	of	IN	B-PP	O		4004	4006
 LEC1	LEC1	NN	B-NP	B-protein		4007	4011
@@ -710,6 +734,7 @@ cells	cell	NNS	B-NP	O		4219	4224
 )	)	)	O	O		4228	4229
 .	.	.	O	O		4229	4230
 
+Thus	Thus	RB	B-ADVP	O		4231	4235
 ,	,	,	O	O		4235	4236
 we	we	PRP	B-NP	O		4237	4239
 hypothesized	hypothesize	VBD	B-VP	O		4240	4252
@@ -735,6 +760,7 @@ maturation	maturation	NN	I-NP	O		4391	4401
 phases	phase	NNS	I-NP	O		4402	4408
 .	.	.	O	O		4408	4409
 
+FUS3	FUS3	NN	B-NP	B-protein		4410	4414
 also	also	RB	B-ADVP	O		4415	4419
 encodes	encode	VBZ	B-VP	O		4420	4427
 a	a	DT	B-NP	O		4428	4429
@@ -757,6 +783,7 @@ development	development	NN	I-NP	O		4522	4533
 )	)	)	O	O		4537	4538
 .	.	.	O	O		4538	4539
 
+Transient	Transient	JJ	B-NP	O		4540	4549
 assays	assay	NNS	I-NP	O		4550	4556
 showed	show	VBD	B-VP	O		4557	4563
 that	that	IN	B-SBAR	O		4564	4568
@@ -775,6 +802,7 @@ maturation	maturation	NN	B-NP	O		4631	4641
 )	)	)	O	O		4645	4646
 .	.	.	O	O		4646	4647
 
+Thus	Thus	RB	B-ADVP	O		4648	4652
 ,	,	,	O	O		4652	4653
 two	two	CD	B-NP	O		4654	4657
 LEC	LEC	NNP	I-NP	B-DNA		4658	4661
@@ -795,6 +823,7 @@ other	other	JJ	B-NP	O		4753	4758
 genes	gene	NNS	I-NP	O		4759	4764
 .	.	.	O	O		4764	4765
 
+In	In	IN	B-PP	O		4766	4768
 this	this	DT	B-NP	O		4769	4773
 article	article	NN	I-NP	O		4774	4781
 ,	,	,	O	O		4781	4782
@@ -813,6 +842,7 @@ embryo	embryo	NN	B-NP	O		4834	4840
 development	development	NN	I-NP	O		4841	4852
 .	.	.	O	O		4852	4853
 
+Because	Because	IN	B-SBAR	O		4854	4861
 genetic	genetic	JJ	B-NP	O		4862	4869
 studies	study	NNS	I-NP	O		4870	4877
 suggest	suggest	VBP	B-VP	O		4878	4885
@@ -848,6 +878,7 @@ embryo	embryo	NN	B-NP	O		5032	5038
 development	development	NN	I-NP	O		5039	5050
 .	.	.	O	O		5050	5051
 
+We	We	PRP	B-NP	O		5052	5054
 cloned	clone	VBD	B-VP	O		5055	5061
 the	the	DT	B-NP	O		5062	5065
 LEC2	LEC2	NN	I-NP	B-DNA		5066	5070
@@ -876,6 +907,7 @@ transcription	transcription	NN	I-NP	B-protein		5205	5218
 factors	factor	NNS	I-NP	I-protein		5219	5226
 .	.	.	O	O		5226	5227
 
+Significant	Significant	JJ	B-NP	O		5228	5239
 insight	insight	NN	I-NP	O		5240	5247
 into	into	IN	B-PP	O		5248	5252
 the	the	DT	B-NP	O		5253	5256
@@ -900,6 +932,7 @@ somatic	somatic	JJ	B-NP	O		5363	5370
 embryos	embryo	NNS	I-NP	O		5371	5378
 .	.	.	O	O		5378	5379
 
+Together	Together	RB	B-ADVP	O		5380	5388
 ,	,	,	O	O		5388	5389
 these	these	DT	B-NP	O		5390	5395
 results	result	NNS	I-NP	O		5396	5403

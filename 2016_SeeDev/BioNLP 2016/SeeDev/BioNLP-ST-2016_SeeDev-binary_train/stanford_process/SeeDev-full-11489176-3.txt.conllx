@@ -27,6 +27,7 @@
 27	expression	_	NOUN	NN	_	18	dep	_	_	153	163
 28	.	_	PUNCT	.	_	12	punct	_	_	163	164
 
+1	To	_	PART	TO	_	2	mark	_	_	165	167
 2	determine	_	VERB	VB	_	20	advcl	_	_	168	177
 3	whether	_	SCONJ	IN	_	8	mark	_	_	178	185
 4	ABI4	_	PROPN	NNP	_	8	nsubj	_	_	186	190
@@ -55,6 +56,7 @@
 27	assays	_	NOUN	NNS	_	20	nmod:in	_	_	329	335
 28	.	_	PUNCT	.	_	20	punct	_	_	335	336
 
+1	The	_	DET	DT	_	3	det	_	_	337	340
 2	assay	_	ADJ	JJ	_	3	amod	_	_	341	346
 3	system	_	NOUN	NN	_	4	nsubj	_	_	347	353
 4	was	_	VERB	VBD	_	0	root	_	_	354	357
@@ -82,6 +84,7 @@
 26	GAL4	_	PROPN	NNP	_	24	nmod:of	_	_	480	484
 27	.	_	PUNCT	.	_	4	punct	_	_	484	485
 
+1	Direct	_	ADJ	JJ	_	2	amod	_	_	486	492
 2	interaction	_	NOUN	NN	_	9	nsubj	_	_	493	504
 3	of	_	ADP	IN	_	7	case	_	_	505	507
 4	the	_	DET	DT	_	7	det	_	_	508	511
@@ -123,6 +126,7 @@
 40	-RRB-	_	PUNCT	-RRB-	_	35	punct	_	_	-1	4
 41	.	_	PUNCT	.	_	9	punct	_	_	163	164
 
+1	The	_	DET	DT	_	2	det	_	_	337	340
 2	GAL4	_	NOUN	NN	_	0	root	_	_	480	484
 3	-	_	PUNCT	:	_	2	punct	_	_	624	625
 4	binding	_	ADJ	JJ	_	5	amod	_	_	716	723
@@ -179,7 +183,8 @@
 55	-RRB-	_	PUNCT	-RRB-	_	50	punct	_	_	-1	4
 56	.	_	PUNCT	.	_	2	punct	_	_	163	164
 
-2	the	_	DET	DT	_	3	det	_	_	181	184
+1	Although	_	SCONJ	IN	_	4	mark	_	_	979	987
+2	the	_	DET	DT	_	3	det	_	_	988	991
 3	truncation	_	NOUN	NN	_	4	nsubj	_	_	992	1002
 4	reduces	_	VERB	VBZ	_	21	advcl	_	_	1003	1010
 5	target	_	NOUN	NN	_	7	compound	_	_	1011	1017
@@ -214,6 +219,7 @@
 34	-RRB-	_	PUNCT	-RRB-	_	32	punct	_	_	-1	4
 35	.	_	PUNCT	.	_	21	punct	_	_	163	164
 
+1	The	_	DET	DT	_	2	det	_	_	337	340
 2	BD	_	PROPN	NNP	_	0	root	_	_	732	734
 3	-	_	PUNCT	:	_	2	punct	_	_	735	736
 4	ABI5	_	PROPN	NNP	_	5	compound	_	_	1191	1195
@@ -262,7 +268,8 @@
 47	-RRB-	_	PUNCT	-RRB-	_	45	punct	_	_	-1	4
 48	.	_	PUNCT	.	_	2	punct	_	_	163	164
 
-2	of	_	ADP	IN	_	4	case	_	_	246	248
+1	Combination	_	PROPN	NNP	_	0	root	_	_	1427	1438
+2	of	_	ADP	IN	_	4	case	_	_	1439	1441
 3	these	_	DET	DT	_	4	det	_	_	1442	1447
 4	GAL4	_	NOUN	NN	_	1	nmod:of	_	_	1448	1452
 5	-	_	PUNCT	:	_	1	punct	_	_	1452	1453
@@ -290,8 +297,9 @@
 27	-RRB-	_	PUNCT	-RRB-	_	25	punct	_	_	-1	4
 28	.	_	PUNCT	.	_	1	punct	_	_	163	164
 
-2	and	_	CONJ	CC	_	1	cc	_	_	404	407
-3	ABI4	_	PROPN	NNP	_	6	nsubj	_	_	736	740
+1	ABI1	_	PROPN	NNP	_	6	nsubj	_	_	1551	1555
+2	and	_	CONJ	CC	_	1	cc	_	_	1556	1559
+3	ABI4	_	PROPN	NNP	_	6	nsubj	_	_	1560	1564
 4	did	_	AUX	VBD	_	6	aux	_	_	1565	1568
 5	not	_	PART	RB	_	6	neg	_	_	1569	1572
 6	interact	_	VERB	VB	_	0	root	_	_	1573	1581
@@ -312,9 +320,11 @@
 21	ABI5	_	PROPN	NNP	_	19	nmod:with	_	_	1656	1660
 22	.	_	PUNCT	.	_	6	punct	_	_	1660	1661
 
+1	Figure	_	NOUN	NNS	_	0	root	_	_	1662	1668
 2	1	_	NUM	CD	_	1	nummod	_	_	1669	1670
 3	.	_	PUNCT	.	_	1	punct	_	_	1670	1671
 
+1	Tests	_	NOUN	NNS	_	4	dep	_	_	1672	1677
 2	for	_	ADP	IN	_	3	case	_	_	1678	1681
 3	pairwise	_	NOUN	NN	_	1	nmod:for	_	_	1682	1690
 4	interactions	_	NOUN	NNS	_	9	dep	_	_	1691	1703

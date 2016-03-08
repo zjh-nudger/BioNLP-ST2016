@@ -29,6 +29,7 @@
 29	datasets	_	NOUN	NNS	_	25	dobj	_	_	203	211
 30	.	_	PUNCT	.	_	2	punct	_	_	211	212
 
+1	Genes	_	NOUN	NNS	_	13	nsubjpass	_	_	213	218
 2	encoding	_	VERB	VBG	_	1	acl	_	_	219	227
 3	the	_	DET	DT	_	5	det	_	_	228	231
 4	known	_	VERB	VBN	_	5	amod	_	_	232	237
@@ -70,6 +71,7 @@
 40	profile	_	NOUN	NN	_	35	nmod:with	_	_	462	469
 41	.	_	PUNCT	.	_	13	punct	_	_	469	470
 
+1	In	_	ADP	IN	_	5	case	_	_	471	473
 2	the	_	DET	DT	_	5	det	_	_	474	477
 3	triacylglycerol	_	ADJ	JJ	_	5	amod	_	_	478	493
 4	assembly	_	NOUN	NN	_	5	compound	_	_	494	502
@@ -105,6 +107,7 @@
 34	oleosins	_	NOUN	NNS	_	33	dobj	_	_	675	683
 35	.	_	PUNCT	.	_	26	punct	_	_	683	684
 
+1	We	_	PRON	PRP	_	3	nsubj	_	_	685	687
 2	also	_	ADV	RB	_	3	advmod	_	_	688	692
 3	detected	_	VERB	VBD	_	0	root	_	_	693	701
 4	a	_	DET	DT	_	6	det	_	_	702	703
@@ -185,6 +188,7 @@
 79	genes	_	NOUN	NNS	_	74	nmod:of	_	_	1076	1081
 80	.	_	PUNCT	.	_	3	punct	_	_	1081	1082
 
+1	The	_	DET	DT	_	4	det	_	_	1083	1086
 2	conserved	_	ADJ	JJ	_	4	amod	_	_	1087	1096
 3	CCAAT	_	ADJ	JJ	_	4	amod	_	_	1097	1102
 4	motifs	_	NOUN	NNS	_	23	nsubjpass	_	_	1103	1109

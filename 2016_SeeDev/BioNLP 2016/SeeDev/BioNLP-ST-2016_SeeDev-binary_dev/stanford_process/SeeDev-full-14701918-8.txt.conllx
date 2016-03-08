@@ -32,6 +32,7 @@
 32	obvious	_	ADJ	JJ	_	0	root	_	_	178	185
 33	.	_	PUNCT	.	_	32	punct	_	_	185	186
 
+1	At	_	ADP	IN	_	2	case	_	_	187	189
 2	least	_	ADJ	JJS	_	3	nmod:npmod	_	_	190	195
 3	two	_	NUM	CD	_	4	nummod	_	_	196	199
 4	hypotheses	_	NOUN	NNS	_	6	nsubj	_	_	200	210
@@ -47,6 +48,7 @@
 14	synthesis	_	NOUN	NN	_	6	nmod:on	_	_	272	281
 15	.	_	PUNCT	.	_	6	punct	_	_	281	282
 
+1	The	_	DET	DT	_	2	det	_	_	283	286
 2	formation	_	NOUN	NN	_	12	nsubjpass	_	_	287	296
 3	of	_	ADP	IN	_	6	case	_	_	297	299
 4	the	_	DET	DT	_	6	det	_	_	300	303
@@ -99,6 +101,7 @@
 51	vacuole	_	NOUN	NN	_	48	nmod:of	_	_	574	581
 52	.	_	PUNCT	.	_	12	punct	_	_	581	582
 
+1	Such	_	ADJ	JJ	_	3	amod	_	_	583	587
 2	passive	_	ADJ	JJ	_	3	amod	_	_	588	595
 3	processes	_	NOUN	NNS	_	10	nsubj	_	_	596	605
 4	may	_	AUX	MD	_	5	aux	_	_	606	609
@@ -125,6 +128,7 @@
 25	column	_	NOUN	NN	_	21	nmod:of	_	_	734	740
 26	.	_	PUNCT	.	_	5	punct	_	_	740	741
 
+1	An	_	DET	DT	_	7	det	_	_	742	744
 2	alternate	_	ADJ	JJ	_	7	amod	_	_	745	754
 3	but	_	CONJ	CC	_	2	cc	_	_	755	758
 4	not	_	ADV	RB	_	7	amod	_	_	759	762
@@ -170,8 +174,9 @@
 44	-RRB-	_	PUNCT	-RRB-	_	33	punct	_	_	-1	4
 45	.	_	PUNCT	.	_	8	punct	_	_	185	186
 
-2	of	_	ADP	IN	_	5	case	_	_	238	240
-3	the	_	DET	DT	_	5	det	_	_	275	278
+1	Determination	_	PROPN	NNP	_	9	nsubjpass	_	_	994	1007
+2	of	_	ADP	IN	_	5	case	_	_	1008	1010
+3	the	_	DET	DT	_	5	det	_	_	1011	1014
 4	exact	_	ADJ	JJ	_	5	amod	_	_	1015	1020
 5	processes	_	NOUN	NNS	_	1	nmod:of	_	_	1021	1030
 6	involved	_	VERB	VBN	_	5	acl	_	_	1031	1039

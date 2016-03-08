@@ -49,6 +49,7 @@ state	state	NN	I-NP	O		290	295
 )	)	)	O	O		310	311
 .	.	.	O	O		311	312
 
+Upon	Upon	IN	B-PP	O		313	317
 reception	reception	NN	B-NP	O		318	327
 of	of	IN	B-PP	O		328	330
 the	the	DT	B-NP	O		331	334
@@ -66,6 +67,7 @@ development	development	NN	I-NP	O		400	411
 begins	begin	VBZ	B-VP	O		412	418
 .	.	.	O	O		418	419
 
+Thus	Thus	RB	B-ADVP	O		420	424
 ,	,	,	O	O		424	425
 seed	seed	NN	B-NP	O		426	430
 maturation	maturation	NN	I-NP	O		431	441
@@ -85,6 +87,7 @@ seedling	seedling	NN	I-NP	O		541	549
 development	development	NN	I-NP	O		550	561
 .	.	.	O	O		561	562
 
+This	This	DT	B-NP	O		563	567
 unique	unique	JJ	I-NP	O		568	574
 form	form	NN	I-NP	O		575	579
 of	of	IN	B-PP	O		580	582
@@ -117,6 +120,7 @@ Steeves	Steeve	NNS	B-NP	O		726	733
 )	)	)	O	O		738	739
 .	.	.	O	O		739	740
 
+Because	Because	IN	B-SBAR	O		741	748
 lower	low	JJR	B-NP	O		749	754
 plants	plant	NNS	I-NP	O		755	761
 do	do	VBP	B-VP	O		762	764
@@ -163,6 +167,7 @@ by	by	IN	B-PP	O		966	968
 )	)	)	O	O		988	989
 .	.	.	O	O		989	990
 
+Little	Little	JJ	B-NP	O		991	997
 is	be	VBZ	B-VP	O		998	1000
 known	know	VBN	I-VP	O		1001	1006
 at	at	IN	B-PP	O		1007	1009
@@ -186,6 +191,7 @@ are	be	VBP	B-VP	O		1124	1127
 coordinated	coordinate	VBN	I-VP	O		1128	1139
 .	.	.	O	O		1139	1140
 
+Genetic	Genetic	JJ	B-NP	O		1140	1147
 strategies	strategy	NNS	I-NP	O		1148	1158
 employed	employ	VBN	B-VP	O		1159	1167
 to	to	TO	B-VP	O		1168	1170
@@ -205,6 +211,7 @@ affect	affect	VBP	B-VP	O		1279	1285
 embryogenesis	embryogenesis	NN	B-NP	O		1286	1299
 .	.	.	O	O		1299	1300
 
+One	One	CD	B-NP	O		1301	1304
 class	class	NN	I-NP	O		1305	1310
 of	of	IN	B-PP	O		1311	1313
 mutations	mutation	NNS	B-NP	O		1314	1323
@@ -242,6 +249,7 @@ embryo	embryo	NN	B-NP	O		1457	1463
 morphogenesis	morphogenesis	NN	I-NP	O		1464	1477
 .	.	.	O	O		1477	1478
 
+Many	Many	JJ	B-NP	O		1479	1483
 of	of	IN	B-PP	O		1484	1486
 the	the	DT	B-NP	O		1487	1490
 corresponding	corresponding	JJ	I-NP	B-protein		1491	1504
@@ -262,6 +270,7 @@ regulatory	regulatory	JJ	I-NP	O		1590	1600
 roles	role	NNS	I-NP	O		1601	1606
 .	.	.	O	O		1606	1607
 
+A	A	DT	B-NP	O		1608	1609
 second	second	JJ	I-NP	O		1610	1616
 class	class	NN	I-NP	O		1617	1622
 of	of	IN	B-PP	O		1623	1625
@@ -285,6 +294,7 @@ et al.	et_al.	NNP	I-NP	O		1715	1721
 )	)	)	O	O		1726	1727
 .	.	.	O	O		1727	1728
 
+The	The	DT	B-NP	O		1729	1732
 expression	expression	NN	I-NP	O		1733	1743
 patterns	pattern	NNS	I-NP	O		1744	1752
 of	of	IN	B-PP	O		1753	1755
@@ -313,6 +323,7 @@ embryogenesis	embryogenesis	NN	B-NP	O		1851	1864
 )	)	)	O	O		1879	1880
 .	.	.	O	O		1880	1881
 
+Another	Another	DT	B-NP	O		1882	1889
 class	class	NN	I-NP	O		1890	1895
 ,	,	,	O	O		1895	1896
 including	include	VBG	B-PP	O		1897	1906
@@ -335,6 +346,7 @@ meristems	meristem	NNS	I-NP	O		1989	1998
 )	)	)	O	O		2012	2013
 .	.	.	O	O		2013	2014
 
+Although	Although	IN	B-SBAR	O		2015	2023
 these	these	DT	B-NP	O		2024	2029
 genes	gene	NNS	I-NP	O		2030	2035
 play	play	VBP	B-VP	O		2036	2040
@@ -358,6 +370,7 @@ postembryonic	postembryonic	JJ	B-NP	O		2144	2157
 development	development	NN	I-NP	O		2158	2169
 .	.	.	O	O		2169	2170
 
+ABSCISIC	ABSCISIC	NN	B-NP	O		2171	2179
 ACID	ACID	NN	I-NP	O		2180	2184
 INSENSITIVE3	INSENSITIVE3	NN	I-NP	O		2185	2197
 (	(	(	O	O		2198	2199
@@ -388,6 +401,7 @@ maturation	maturation	NN	I-NP	O		2318	2328
 )	)	)	O	O		2343	2344
 .	.	.	O	O		2344	2345
 
+However	However	RB	B-ADVP	O		2346	2353
 ,	,	,	O	O		2353	2354
 its	its	PRP$	B-NP	O		2355	2358
 function	function	NN	I-NP	O		2359	2367
@@ -401,6 +415,7 @@ of	of	IN	B-PP	O		2398	2400
 embryogenesis	embryogenesis	NN	B-NP	O		2401	2414
 .	.	.	O	O		2414	2415
 
+Although	Although	IN	B-SBAR	O		2416	2424
 each	each	DT	B-NP	O		2425	2429
 of	of	IN	B-PP	O		2430	2432
 these	these	DT	B-NP	O		2433	2438
@@ -429,6 +444,7 @@ maturation	maturation	NN	I-NP	O		2581	2591
 phases	phase	NNS	I-NP	O		2592	2598
 .	.	.	O	O		2598	2599
 
+The	The	DT	B-NP	O		2599	2602
 LEAFY	LEAFY	NN	I-NP	B-DNA		2603	2608
 COTYLEDON1	COTYLEDON1	NN	I-NP	I-DNA		2609	2619
 (	(	(	O	I-DNA		2620	2621
@@ -457,6 +473,7 @@ Meinke	Meinke	NNP	B-NP	O		2695	2701
 )	)	)	O	O		2739	2740
 .	.	.	O	O		2740	2741
 
+As	As	IN	B-SBAR	O		2742	2744
 summarized	summarize	VBN	B-VP	O		2745	2755
 in	in	IN	B-PP	O		2756	2758
 Figure	Figure	NN	B-NP	O		2759	2765
@@ -477,6 +494,7 @@ embryo	embryo	NN	I-NP	O		2836	2842
 development	development	NN	I-NP	O		2843	2854
 .	.	.	O	O		2854	2855
 
+LEC1	LEC1	NN	B-NP	B-protein		2856	2860
 is	be	VBZ	B-VP	O		2861	2863
 required	require	VBN	I-VP	O		2864	2872
 for	for	IN	B-PP	O		2873	2876
@@ -517,6 +535,7 @@ genes	gene	NNS	I-NP	I-DNA		3041	3046
 )	)	)	O	O		3067	3068
 .	.	.	O	O		3068	3069
 
+LEC1	LEC1	NN	B-NP	B-protein		3070	3074
 is	be	VBZ	B-VP	O		3075	3077
 also	also	RB	I-VP	O		3078	3082
 involved	involve	VBN	I-VP	O		3083	3091
@@ -564,6 +583,7 @@ et al.	et_al.	NNP	I-NP	O		3365	3371
 )	)	)	O	O		3376	3377
 .	.	.	O	O		3377	3378
 
+LEC1	LEC1	NN	B-NP	B-protein		3379	3383
 plays	play	VBZ	B-VP	O		3384	3389
 a	a	DT	B-NP	O		3390	3391
 role	role	NN	I-NP	O		3392	3396
@@ -578,6 +598,7 @@ as	as	RB	B-ADVP	O		3446	3448
 well	well	RB	I-ADVP	O		3449	3453
 .	.	.	O	O		3453	3454
 
+Embryonic	Embryonic	JJ	B-NP	O		3455	3464
 leaves	leaf	NNS	I-NP	O		3465	3471
 or	or	CC	I-NP	O		3472	3474
 cotyledons	cotyledon	NNS	I-NP	O		3475	3485
@@ -605,6 +626,7 @@ Arabidopsis	Arabidopsis	NN	B-NP	O		3586	3597
 )	)	)	O	O		3612	3613
 .	.	.	O	O		3613	3614
 
+The	The	DT	B-NP	O		3615	3618
 anatomy	anatomy	NN	I-NP	O		3619	3626
 of	of	IN	B-PP	O		3627	3629
 lec1	lec1	NN	B-NP	O		3630	3634
@@ -630,6 +652,7 @@ et al.	et_al.	NNP	I-NP	O		3725	3731
 )	)	)	O	O		3736	3737
 .	.	.	O	O		3737	3738
 
+Finally	Finally	RB	B-ADVP	O		3739	3746
 ,	,	,	O	O		3746	3747
 LEC1	LEC1	NN	B-NP	B-protein		3748	3752
 appears	appear	VBZ	B-VP	O		3753	3760
@@ -641,6 +664,7 @@ embryo	embryo	NN	B-NP	O		3780	3786
 development	development	NN	I-NP	O		3787	3798
 .	.	.	O	O		3798	3799
 
+Desiccation	Desiccation	NN	B-NP	O		3800	3811
 -	-	HYPH	I-NP	O		3811	3812
 intolerant	intolerant	JJ	I-NP	O		3812	3822
 lec1	lec1	NN	I-NP	O		3823	3827
@@ -679,6 +703,7 @@ phenotypes	phenotype	NNS	I-NP	O		4014	4024
 )	)	)	O	O		4039	4040
 .	.	.	O	O		4040	4041
 
+Two	Two	CD	B-NP	O		4042	4045
 other	other	JJ	I-NP	O		4046	4051
 LEC	LEC	NNP	I-NP	B-DNA		4052	4055
 class	class	NN	I-NP	I-DNA		4056	4061
@@ -720,6 +745,7 @@ maturation	maturation	NN	B-NP	O		4231	4241
 )	)	)	O	O		4261	4262
 .	.	.	O	O		4262	4263
 
+Although	Although	IN	B-SBAR	O		4264	4272
 nothing	nothing	NN	B-NP	O		4273	4280
 has	have	VBZ	B-VP	O		4281	4284
 been	be	VBN	I-VP	O		4285	4289
@@ -757,6 +783,7 @@ embryonic	embryonic	JJ	I-NP	O		4474	4483
 processes	process	NNS	I-NP	O		4484	4493
 .	.	.	O	O		4493	4494
 
+Figure	Figure	NN	B-NP	O		4494	4500
 1	1	CD	I-NP	O		4501	4502
 .	.	.	I-NP	O		4502	4503
  Pleiotropic	 Pleiotropic	JJ	I-NP	O		4503	4515
@@ -782,6 +809,7 @@ as	as	IN	B-SBAR	O		4630	4632
 follows	follow	VBZ	B-VP	O		4633	4640
 .	.	.	O	O		4640	4641
 
+Embryo	Embryo	NN	B-NP	O		4642	4648
 shape	shape	NN	I-NP	O		4649	4654
 :	:	:	O	O		4654	4655
 the	the	DT	B-NP	O		4656	4659
@@ -803,6 +831,7 @@ not	not	RB	I-VP	O		4732	4735
 curl	curl	VB	I-VP	O		4736	4740
 .	.	.	O	O		4740	4741
 
+Anthocyanin	Anthocyanin	NN	B-NP	B-protein		4742	4753
 generally	generally	RB	B-ADVP	O		4754	4763
 accumulates	accumulate	VBZ	B-VP	O		4764	4775
 at	at	IN	B-PP	O		4776	4778
@@ -813,6 +842,7 @@ mutant	mutant	JJ	B-NP	B-protein		4791	4797
 cotyledons	cotyledon	NNS	I-NP	I-protein		4798	4808
 .	.	.	O	O		4808	4809
 
+Precocious	Precocious	JJ	B-NP	O		4810	4820
 germination	germination	NN	I-NP	O		4821	4832
 :	:	:	O	O		4832	4833
 the	the	DT	B-NP	O		4834	4837
@@ -851,6 +881,7 @@ leaf	leaf	NN	B-NP	O		5011	5015
 primordia	primordia	NN	I-NP	O		5016	5025
 .	.	.	O	O		5025	5026
 
+Defects	Defect	NNS	B-NP	O		5027	5034
 in	in	IN	B-PP	O		5035	5037
 seed	seed	NN	B-NP	O		5038	5042
 maturation	maturation	NN	I-NP	O		5043	5053
@@ -872,6 +903,7 @@ the	the	DT	B-NP	O		5134	5137
 plant	plant	NN	I-NP	O		5138	5143
 .	.	.	O	O		5143	5144
 
+However	However	RB	B-ADVP	O		5145	5152
 ,	,	,	O	O		5152	5153
 lec1	lec1	NN	B-NP	O		5154	5158
 embryos	embryo	NNS	I-NP	O		5159	5166
@@ -889,6 +921,7 @@ mutant	mutant	JJ	I-NP	O		5243	5249
 plants	plant	NNS	I-NP	O		5250	5256
 .	.	.	O	O		5256	5257
 
+The	The	DT	B-NP	O		5258	5261
 promoter	promoter	NN	I-NP	B-DNA		5262	5270
 of	of	IN	B-PP	O		5271	5273
 a	a	DT	B-NP	O		5274	5275
@@ -914,6 +947,7 @@ lec1	lec1	NN	I-NP	B-protein		5376	5380
 mutant	mutant	NN	I-NP	I-protein		5381	5387
 .	.	.	O	O		5387	5388
 
+Incomplete	Incomplete	JJ	B-NP	O		5389	5399
 specification	specification	NN	I-NP	O		5400	5413
 of	of	IN	B-PP	O		5414	5416
 cotyledon	cotyledon	NN	B-NP	O		5417	5426
@@ -927,6 +961,7 @@ on	on	IN	B-PP	O		5470	5472
 cotyledons	cotyledon	NNS	B-NP	O		5473	5483
 .	.	.	O	O		5483	5484
 
+Trichomes	Trichome	NNS	B-NP	O		5485	5494
 are	be	VBP	B-VP	O		5495	5498
 present	present	JJ	B-ADJP	O		5499	5506
 on	on	IN	B-PP	O		5507	5509
@@ -957,6 +992,7 @@ apical	apical	JJ	I-NP	O		5606	5612
 meristem	meristem	NN	I-NP	O		5613	5621
 .	.	.	O	O		5621	5622
 
+View	View	NNP	B-NP	O		5622	5626
 thumbnail	thumbnail	DT	I-NP	O		5627	5636
 imagesView	imagesView	NNP	I-NP	O		5637	5647
 high	high	JJ	I-NP	O		5648	5652
@@ -989,6 +1025,7 @@ transcription	transcription	NN	I-NP	I-protein		5790	5803
 factor	factor	NN	I-NP	I-protein		5804	5810
 .	.	.	O	O		5810	5811
 
+Expression	Expression	NN	B-NP	O		5812	5822
 studies	study	NNS	I-NP	O		5823	5830
 showed	show	VBD	B-VP	O		5831	5837
 that	that	IN	B-SBAR	O		5838	5842
@@ -1009,6 +1046,7 @@ seed	seed	NN	I-NP	O		5912	5916
 development	development	NN	I-NP	O		5917	5928
 .	.	.	O	O		5928	5929
 
+Ectopic	Ectopic	JJ	B-NP	O		5930	5937
 expression	expression	NN	I-NP	O		5938	5948
 of	of	IN	B-PP	O		5949	5951
 the	the	DT	B-NP	O		5952	5955
@@ -1025,6 +1063,7 @@ vegetative	vegetative	JJ	B-NP	B-cell_type		6019	6029
 cells	cell	NNS	I-NP	I-cell_type		6030	6035
 .	.	.	O	O		6035	6036
 
+We	We	PRP	B-NP	O		6037	6039
 suggest	suggest	VBP	B-VP	O		6040	6047
 that	that	IN	B-SBAR	O		6048	6052
 LEC1	LEC1	NN	B-NP	B-protein		6053	6057

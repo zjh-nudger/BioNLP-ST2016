@@ -5,6 +5,7 @@ Seed	Seed	NNP	I-NP	O		22	26
 Mass	Mass	NNP	I-NP	O		27	31
 .	.	.	O	O		31	32
 
+AP2	AP2	NN	B-NP	B-protein		33	36
 was	be	VBD	B-VP	O		37	40
 identified	identify	VBN	I-VP	O		41	51
 originally	originally	RB	B-ADVP	O		52	62
@@ -38,6 +39,7 @@ factor	factor	NN	I-NP	I-protein		189	195
 )	)	)	O	O		203	204
 .	.	.	O	O		204	205
 
+Here	Here	RB	B-ADVP	O		206	210
 ,	,	,	O	O		210	211
 we	we	PRP	B-NP	O		212	214
 show	show	VBP	B-VP	O		215	219
@@ -52,6 +54,7 @@ large	large	JJ	B-NP	O		262	267
 seeds	seed	NNS	I-NP	O		268	273
 .	.	.	O	O		273	274
 
+Our	Our	PRP$	B-NP	O		275	278
 studies	study	NNS	I-NP	O		279	286
 using	use	VBG	B-VP	O		287	292
 an	an	DT	B-NP	O		293	295
@@ -76,6 +79,7 @@ Table	Table	JJ	B-NP	B-protein		399	404
 )	)	)	O	O		406	407
 .	.	.	O	O		407	408
 
+A	A	DT	B-NP	O		409	410
 recent	recent	JJ	I-NP	O		411	417
 study	study	NN	I-NP	O		418	423
 provided	provide	VBD	B-VP	O		424	432
@@ -105,6 +109,7 @@ seeds	seed	NNS	I-NP	O		578	583
 )	)	)	O	O		587	588
 .	.	.	O	O		588	589
 
+Thus	Thus	RB	B-ADVP	O		590	594
 ,	,	,	O	O		594	595
 the	the	DT	B-NP	O		596	599
 extent	extent	NN	I-NP	O		600	606
@@ -157,6 +162,7 @@ mutant	mutant	JJ	B-NP	O		870	876
 plants	plant	NNS	I-NP	O		877	883
 .	.	.	O	O		883	884
 
+Given	Give	VBN	B-VP	O		885	890
 that	that	IN	B-SBAR	O		891	895
 limited	limited	JJ	B-NP	O		896	903
 availability	availability	NN	I-NP	O		904	916
@@ -201,6 +207,7 @@ normal	normal	JJ	B-NP	O		1115	1121
 fertility	fertility	NN	I-NP	O		1122	1131
 .	.	.	O	O		1131	1132
 
+We	We	PRP	B-NP	O		1133	1135
 confirmed	confirm	VBD	B-VP	O		1136	1145
 that	that	IN	B-SBAR	O		1146	1150
 reduced	reduce	VBN	B-NP	O		1151	1158
@@ -233,6 +240,7 @@ Table	Table	JJ	B-NP	B-protein		1289	1294
 )	)	)	O	O		1296	1297
 .	.	.	O	O		1297	1298
 
+However	However	RB	B-ADVP	O		1299	1306
 ,	,	,	O	O		1306	1307
 the	the	DT	B-NP	O		1308	1311
 remaining	remain	VBG	I-NP	O		1312	1321
@@ -255,6 +263,7 @@ to	to	TO	B-PP	O		1402	1404
 fertility	fertility	NN	B-NP	O		1405	1414
 .	.	.	O	O		1414	1415
 
+The	The	DT	B-NP	O		1416	1419
 early	early	JJ	I-NP	O		1420	1425
 flowering	flowering	NN	I-NP	O		1426	1435
 of	of	IN	B-PP	O		1436	1438
@@ -295,6 +304,7 @@ on	on	IN	B-PP	O		1617	1619
 fertility	fertility	NN	B-NP	O		1620	1629
 .	.	.	O	O		1629	1630
 
+Leaf	Leaf	NN	B-NP	O		1631	1635
 number	number	NN	I-NP	O		1636	1642
 is	be	VBZ	B-VP	O		1643	1645
 closely	closely	RB	B-ADJP	O		1646	1653
@@ -331,6 +341,7 @@ resources	resource	NNS	I-NP	O		1813	1822
 available	available	JJ	B-ADJP	O		1823	1832
 .	.	.	O	O		1832	1833
 
+Yet	Yet	RB	B-ADVP	O		1834	1837
 ,	,	,	O	O		1837	1838
 ap2	ap2	NN	B-NP	B-protein		1839	1842
 mutants	mutant	NNS	I-NP	I-protein		1843	1850
@@ -342,6 +353,7 @@ larger	large	JJR	I-NP	O		1878	1884
 seeds	seed	NNS	I-NP	O		1885	1890
 .	.	.	O	O		1890	1891
 
+Maternal	Maternal	JJ	B-NP	O		1892	1900
 Effect	Effect	NN	I-NP	O		1901	1907
 of	of	IN	B-PP	O		1908	1910
 AP2	AP2	NN	B-NP	B-protein		1911	1914
@@ -350,6 +362,7 @@ Seed	Seed	NNP	B-NP	O		1918	1922
 Mass	Mass	NNP	I-NP	O		1923	1927
 .	.	.	O	O		1927	1928
 
+Experiments	Experiment	NNS	B-NP	O		1929	1940
 in	in	IN	B-PP	O		1941	1943
 which	which	WDT	B-NP	O		1944	1949
 wildtype	wildtype	NN	B-NP	O		1950	1958
@@ -385,6 +398,7 @@ maternal	maternal	JJ	I-NP	B-DNA		2127	2135
 genome	genome	NN	I-NP	I-DNA		2136	2142
 .	.	.	O	O		2142	2143
 
+Consistent	Consistent	JJ	B-ADJP	O		2144	2154
 with	with	IN	B-PP	O		2155	2159
 this	this	DT	B-NP	O		2160	2164
 finding	finding	NN	I-NP	O		2165	2172
@@ -416,6 +430,7 @@ plant	plant	NN	I-NP	O		2307	2312
 )	)	)	O	O		2316	2317
 .	.	.	O	O		2317	2318
 
+One	One	CD	B-NP	O		2319	2322
 interpretation	interpretation	NN	I-NP	O		2323	2337
 of	of	IN	B-PP	O		2338	2340
 our	our	PRP$	B-NP	O		2341	2344
@@ -451,6 +466,7 @@ seed	seed	NN	B-NP	O		2510	2514
 mass	mass	NN	I-NP	O		2515	2519
 .	.	.	O	O		2519	2520
 
+Alternatively	Alternatively	RB	B-ADVP	O		2521	2534
 ,	,	,	O	O		2534	2535
 because	because	IN	B-SBAR	O		2536	2543
 the	the	DT	B-NP	O		2544	2547
@@ -479,6 +495,7 @@ the	the	DT	B-NP	O		2673	2676
 endosperm	endosperm	NN	I-NP	B-cell_type		2677	2686
 .	.	.	O	O		2686	2687
 
+A	A	DT	B-NP	O		2688	2689
 QTL	QTL	NN	I-NP	O		2690	2693
 analysis	analysis	NN	I-NP	O		2694	2702
 of	of	IN	B-PP	O		2703	2705
@@ -505,6 +522,7 @@ mass	mass	NN	I-NP	O		2816	2820
 )	)	)	O	O		2824	2825
 .	.	.	O	O		2825	2826
 
+A	A	DT	B-NP	O		2827	2828
 number	number	NN	I-NP	O		2829	2835
 of	of	IN	B-PP	O		2836	2838
 QTL	QTL	NN	B-NP	B-protein		2839	2842
@@ -538,6 +556,7 @@ maternal	maternal	JJ	B-NP	O		2995	3003
 tissues	tissue	NNS	I-NP	O		3004	3011
 .	.	.	O	O		3011	3012
 
+The	The	DT	B-NP	O		3013	3016
 gene	gene	NN	I-NP	O		3017	3021
 identities	identity	NNS	I-NP	O		3022	3032
 of	of	IN	B-PP	O		3033	3035
@@ -571,6 +590,7 @@ IV	IV	CD	I-NP	I-DNA		3168	3170
 )	)	)	O	O		3174	3175
 .	.	.	O	O		3175	3176
 
+Conversely	Conversely	RB	B-ADVP	O		3177	3187
 ,	,	,	O	O		3187	3188
 a	a	DT	B-NP	O		3189	3190
 recent	recent	JJ	I-NP	O		3191	3197
@@ -599,6 +619,7 @@ size	size	NN	I-NP	O		3318	3322
 )	)	)	O	O		3326	3327
 .	.	.	O	O		3327	3328
 
+The	The	DT	B-NP	O		3329	3332
 endosperm	endosperm	NN	I-NP	O		3333	3342
 has	have	VBZ	B-VP	O		3343	3346
 been	be	VBN	I-VP	O		3347	3351
@@ -644,6 +665,7 @@ mass	mass	NN	I-NP	O		3555	3559
 )	)	)	O	O		3566	3567
 .	.	.	O	O		3567	3568
 
+Although	Although	IN	B-SBAR	O		3569	3577
 little	little	JJ	B-NP	O		3578	3584
 is	be	VBZ	B-VP	O		3585	3587
 known	know	VBN	I-VP	O		3588	3593
@@ -670,6 +692,7 @@ of	of	IN	B-PP	O		3706	3708
 AP2	AP2	NN	B-NP	B-protein		3709	3712
 .	.	.	O	O		3712	3713
 
+For	For	IN	B-PP	O		3714	3717
 example	example	NN	B-NP	O		3718	3725
 ,	,	,	O	O		3725	3726
 mutations	mutation	NNS	B-NP	O		3727	3736
@@ -700,6 +723,7 @@ excess	excess	NN	I-NP	O		3834	3840
 )	)	)	O	O		3851	3852
 .	.	.	O	O		3852	3853
 
+However	However	RB	B-ADVP	O		3854	3861
 ,	,	,	O	O		3861	3862
 these	these	DT	B-NP	O		3863	3868
 mutations	mutation	NNS	I-NP	O		3869	3878
@@ -732,6 +756,7 @@ gametophytic	gametophytic	JJ	I-NP	O		4004	4016
 mutations	mutation	NNS	I-NP	O		4017	4026
 .	.	.	O	O		4026	4027
 
+Thus	Thus	RB	B-ADVP	O		4028	4032
 ,	,	,	O	O		4032	4033
 AP2	AP2	NN	B-NP	B-protein		4034	4037
 does	do	VBZ	B-VP	O		4038	4042
@@ -753,6 +778,7 @@ common	common	JJ	I-NP	O		4125	4131
 pathway	pathway	NN	I-NP	O		4132	4139
 .	.	.	O	O		4139	4140
 
+Two	Two	CD	B-NP	O		4141	4144
 other	other	JJ	I-NP	O		4145	4150
 genes	gene	NNS	I-NP	O		4151	4156
 ,	,	,	O	O		4156	4157
@@ -792,6 +818,7 @@ development	development	NN	I-NP	O		4327	4338
 )	)	)	O	O		4342	4343
 .	.	.	O	O		4343	4344
 
+However	However	RB	B-ADVP	O		4345	4352
 ,	,	,	O	O		4352	4353
 unlike	unlike	IN	B-PP	O		4354	4360
 AP2	AP2	NN	B-NP	B-protein		4361	4364
@@ -810,6 +837,7 @@ effect	effect	NN	I-NP	O		4428	4434
 mutations	mutation	NNS	I-NP	O		4435	4444
 .	.	.	O	O		4444	4445
 
+Thus	Thus	RB	B-ADVP	O		4446	4450
 ,	,	,	O	O		4450	4451
 the	the	DT	B-NP	O		4452	4455
 IKU	IKU	NN	I-NP	B-DNA		4456	4459
@@ -825,6 +853,7 @@ does	do	VBZ	O	O		4510	4514
 AP2	AP2	NN	B-NP	B-protein		4515	4518
 .	.	.	O	O		4518	4519
 
+How	How	WRB	B-ADVP	O		4520	4523
 does	do	VBZ	O	O		4524	4528
 AP2	AP2	NN	B-NP	B-protein		4529	4532
 act	act	NN	I-NP	O		4533	4536
@@ -835,6 +864,7 @@ seed	seed	NN	B-NP	O		4559	4563
 mass	mass	NN	I-NP	O		4564	4568
 ?	?	.	O	O		4568	4569
 
+Our	Our	PRP$	B-NP	O		4570	4573
 experiments	experiment	NNS	I-NP	O		4574	4585
 suggest	suggest	VBP	B-VP	O		4586	4593
 that	that	IN	B-SBAR	O		4594	4598
@@ -864,6 +894,7 @@ Table	Table	JJ	B-NP	B-protein		4686	4691
 )	)	)	O	O		4693	4694
 .	.	.	O	O		4694	4695
 
+Others	Other	NNS	B-NP	O		4696	4702
 have	have	VBP	B-VP	O		4703	4707
 shown	show	VBN	I-VP	O		4708	4713
 that	that	IN	B-SBAR	O		4714	4718
@@ -885,6 +916,7 @@ size	size	NN	I-NP	O		4799	4803
 )	)	)	O	O		4807	4808
 .	.	.	O	O		4808	4809
 
+Similar	Similar	JJ	B-ADJP	O		4810	4817
 to	to	TO	B-PP	O		4818	4820
 our	our	PRP$	B-NP	O		4821	4824
 findings	finding	NNS	I-NP	O		4825	4833
@@ -906,6 +938,7 @@ maternal	maternal	JJ	B-NP	B-protein		4924	4932
 factors	factor	NNS	I-NP	I-protein		4933	4940
 .	.	.	O	O		4940	4941
 
+However	However	RB	B-ADVP	O		4942	4949
 ,	,	,	O	O		4949	4950
 by	by	IN	B-PP	O		4951	4953
 contrast	contrast	NN	B-NP	O		4954	4962
@@ -928,6 +961,7 @@ allelic	allelic	JJ	I-NP	O		5052	5059
 variation	variation	NN	I-NP	O		5060	5069
 .	.	.	O	O		5069	5070
 
+Our	Our	PRP$	B-NP	O		5071	5074
 finding	finding	NN	I-NP	O		5075	5082
 that	that	IN	B-SBAR	O		5083	5087
 AP2	AP2	NN	B-NP	B-protein		5088	5091
@@ -958,6 +992,7 @@ ecotype	ecotype	NN	I-NP	O		5230	5237
 variations	variation	NNS	I-NP	O		5238	5248
 .	.	.	O	O		5248	5249
 
+The	The	DT	B-NP	O		5250	5253
 seed	seed	NN	I-NP	O		5254	5258
 coat	coat	NN	I-NP	O		5259	5263
 has	have	VBZ	B-VP	O		5264	5267
@@ -969,6 +1004,7 @@ seed	seed	NN	B-NP	O		5297	5301
 mass	mass	NN	I-NP	O		5302	5306
 .	.	.	O	O		5306	5307
 
+For	For	IN	B-PP	O		5308	5311
 example	example	NN	B-NP	O		5312	5319
 ,	,	,	O	O		5319	5320
 sporophytic	sporophytic	JJ	B-NP	O		5321	5332
@@ -1048,6 +1084,7 @@ bleach	bleach	VB	I-VP	O		5735	5741
 )	)	)	O	O		5749	5750
 .	.	.	O	O		5750	5751
 
+Although	Although	IN	B-SBAR	O		5752	5760
 it	it	PRP	B-NP	O		5761	5763
 is	be	VBZ	B-VP	O		5764	5766
 not	not	RB	O	O		5767	5770
@@ -1081,6 +1118,7 @@ ap2	ap2	NN	B-NP	B-protein		5925	5928
 mutants	mutant	NNS	I-NP	I-protein		5929	5936
 .	.	.	O	O		5936	5937
 
+AP2	AP2	NN	B-NP	B-protein		5938	5941
 ,	,	,	O	O		5941	5942
 Seed	Seed	NNP	B-NP	O		5943	5947
 Mass	Mass	NNP	I-NP	O		5948	5952
@@ -1091,6 +1129,7 @@ Sugar	Sugar	NNP	I-NP	O		5966	5971
 Metabolism	Metabolism	NNP	I-NP	O		5972	5982
 .	.	.	O	O		5982	5983
 
+Our	Our	PRP$	B-NP	O		5984	5987
 findings	finding	NNS	I-NP	O		5988	5996
 that	that	IN	B-SBAR	O		5997	6001
 the	the	DT	B-NP	O		6002	6005
@@ -1147,6 +1186,7 @@ Table	Table	JJ	B-NP	B-protein		6264	6269
 )	)	)	O	O		6271	6272
 .	.	.	O	O		6272	6273
 
+During	During	IN	B-PP	O		6274	6280
 seed	seed	NN	B-NP	O		6281	6285
 development	development	NN	I-NP	O		6286	6297
 ,	,	,	O	O		6297	6298
@@ -1172,6 +1212,7 @@ ref	ref	NN	B-NP	O		6403	6406
 )	)	)	O	O		6410	6411
 .	.	.	O	O		6411	6412
 
+Specifically	Specifically	RB	B-ADVP	O		6413	6425
 ,	,	,	O	O		6425	6426
 a	a	DT	B-NP	O		6427	6428
 high	high	JJ	I-NP	O		6429	6433
@@ -1221,6 +1262,7 @@ phase	phase	NN	I-NP	O		6691	6696
 )	)	)	O	O		6703	6704
 .	.	.	O	O		6704	6705
 
+For	For	IN	B-PP	O		6706	6709
 example	example	NN	B-NP	O		6710	6717
 ,	,	,	O	O		6717	6718
 immature	immature	JJ	B-NP	O		6719	6727
@@ -1253,6 +1295,7 @@ phase	phase	NN	I-NP	O		6901	6906
 )	)	)	O	O		6910	6911
 .	.	.	O	O		6911	6912
 
+Thus	Thus	RB	B-ADVP	O		6913	6917
 ,	,	,	O	O		6917	6918
 cell	cell	NN	B-NP	O		6919	6923
 division	division	NN	I-NP	O		6924	6932
@@ -1294,6 +1337,7 @@ developing	develop	VBG	B-NP	O		7141	7151
 seeds	seed	NNS	I-NP	O		7152	7157
 .	.	.	O	O		7157	7158
 
+These	These	DT	B-NP	O		7159	7164
 changes	change	NNS	I-NP	O		7165	7172
 resulted	result	VBD	B-VP	O		7173	7181
 in	in	IN	B-PP	O		7182	7184
@@ -1344,6 +1388,7 @@ Fig	Fig	NNP	B-NP	O		7399	7402
 )	)	)	O	O		7405	7406
 .	.	.	O	O		7406	7407
 
+For	For	IN	B-PP	O		7408	7411
 example	example	NN	B-NP	O		7412	7419
 ,	,	,	O	O		7419	7420
 hexose	hexose	NN	B-NP	O		7421	7427
@@ -1376,6 +1421,7 @@ seed	seed	NN	I-NP	O		7541	7545
 development	development	NN	I-NP	O		7546	7557
 .	.	.	O	O		7557	7558
 
+We	We	PRP	B-NP	O		7559	7561
 speculate	speculate	VBP	B-VP	O		7562	7571
 that	that	IN	B-SBAR	O		7572	7576
 the	the	DT	B-NP	O		7577	7580
@@ -1413,12 +1459,14 @@ ap2	ap2	NN	B-NP	B-protein		7764	7767
 mutants	mutant	NNS	I-NP	I-protein		7768	7775
 .	.	.	O	O		7775	7776
 
+AP2	AP2	NN	B-NP	B-protein		7777	7780
 is	be	VBZ	B-VP	O		7781	7783
 a	a	DT	B-NP	O		7784	7785
 transcription	transcription	NN	I-NP	B-protein		7786	7799
 factor	factor	NN	I-NP	I-protein		7800	7806
 .	.	.	O	O		7806	7807
 
+Thus	Thus	RB	B-ADVP	O		7808	7812
 ,	,	,	O	O		7812	7813
 it	it	PRP	B-NP	O		7814	7816
 is	be	VBZ	B-VP	O		7817	7819
@@ -1436,6 +1484,7 @@ other	other	JJ	B-NP	O		7879	7884
 genes	gene	NNS	I-NP	O		7885	7890
 .	.	.	O	O		7890	7891
 
+Given	Give	VBN	B-PP	O		7892	7897
 the	the	DT	B-NP	O		7898	7901
 dramatic	dramatic	JJ	I-NP	O		7902	7910
 changes	change	NNS	I-NP	O		7911	7918
@@ -1468,6 +1517,7 @@ bound	bind	VBN	I-NP	I-protein		8046	8051
 invertases	invertas	NNS	I-NP	I-protein		8052	8062
 .	.	.	O	O		8062	8063
 
+Sucrose	Sucrose	NN	B-NP	O		8064	8071
 is	be	VBZ	B-VP	O		8072	8074
 transported	transport	VBN	I-VP	O		8075	8086
 from	from	IN	B-PP	O		8087	8091
@@ -1500,6 +1550,7 @@ embryogenesis	embryogenesis	NN	B-NP	O		8218	8231
 )	)	)	O	O		8242	8243
 .	.	.	O	O		8243	8244
 
+During	During	IN	B-PP	O		8245	8251
 the	the	DT	B-NP	O		8252	8255
 early	early	JJ	I-NP	O		8256	8261
 phase	phase	NN	I-NP	O		8262	8267
@@ -1531,6 +1582,7 @@ hydrolyze	hydrolyze	NN	B-NP	O		8394	8403
 sucrose	sucrose	NN	I-NP	O		8404	8411
 .	.	.	O	O		8411	8412
 
+Hexoses	Hexos	NNS	B-NP	O		8413	8420
 formed	form	VBN	B-VP	O		8421	8427
 by	by	IN	B-PP	O		8428	8430
 the	the	DT	B-NP	O		8431	8434
@@ -1545,6 +1597,7 @@ embryo	embryo	NN	B-NP	B-cell_type		8489	8495
 cells	cell	NNS	I-NP	I-cell_type		8496	8501
 .	.	.	O	O		8501	8502
 
+Cell	Cell	NN	B-NP	O		8503	8507
 -	-	HYPH	B-NP	O		8507	8508
 wall	wall	NN	I-NP	O		8508	8512
 -	-	HYPH	O	O		8512	8513
@@ -1577,6 +1630,7 @@ sucrose	sucrose	NN	B-NP	B-protein		8671	8678
 synthase	synthase	NN	I-NP	I-protein		8679	8687
 .	.	.	O	O		8687	8688
 
+Cell	Cell	NN	B-NP	O		8689	8693
 -	-	HYPH	B-NP	O		8693	8694
 wall	wall	NN	I-NP	O		8694	8698
 -	-	HYPH	O	O		8698	8699
@@ -1619,6 +1673,7 @@ enzyme	enzyme	NN	I-NP	O		8891	8897
 )	)	)	O	O		8905	8906
 .	.	.	O	O		8906	8907
 
+Thus	Thus	RB	B-ADVP	O		8908	8912
 ,	,	,	O	O		8912	8913
 AP2	AP2	NN	B-NP	B-protein		8914	8917
 may	may	MD	B-VP	O		8918	8921
@@ -1636,6 +1691,7 @@ invertase	invertase	NN	I-NP	O		8970	8979
 activity	activity	NN	I-NP	O		8980	8988
 .	.	.	O	O		8988	8989
 
+We	We	PRP	B-NP	O		8990	8992
 note	note	VBP	B-VP	O		8993	8997
 that	that	IN	B-SBAR	O		8998	9002
 two	two	CD	B-NP	O		9003	9006
@@ -1661,6 +1717,7 @@ of	of	IN	B-PP	O		9113	9115
 AP2	AP2	NN	B-NP	B-protein		9116	9119
 .	.	.	O	O		9119	9120
 
+Mutations	Mutation	NNS	B-NP	O		9121	9130
 in	in	IN	B-PP	O		9131	9133
 the	the	DT	B-NP	O		9134	9137
 Arabidopsis	Arabidopsis	NN	I-NP	B-DNA		9138	9149
@@ -1687,6 +1744,7 @@ content	content	NN	I-NP	O		9244	9251
 )	)	)	O	O		9259	9260
 .	.	.	O	O		9260	9261
 
+Arabidopsis	Arabidopsis	NN	B-NP	B-DNA		9262	9273
 AINTEGUMENTA	AINTEGUMENTA	NN	I-NP	I-DNA		9274	9286
 gene	gene	NN	I-NP	I-DNA		9287	9291
 is	be	VBZ	B-VP	O		9292	9294
@@ -1706,6 +1764,7 @@ proliferation	proliferation	NN	I-NP	O		9338	9351
 )	)	)	O	O		9359	9360
 .	.	.	O	O		9360	9361
 
+Ectopic	Ectopic	JJ	B-NP	O		9362	9369
 expression	expression	NN	I-NP	O		9370	9380
 of	of	IN	B-PP	O		9381	9383
 AINTEGUMENTA	AINTEGUMENTA	NN	B-NP	O		9384	9396
@@ -1731,6 +1790,7 @@ tobacco	tobacco	NN	I-NP	O		9490	9497
 )	)	)	O	O		9501	9502
 .	.	.	O	O		9502	9503
 
+The	The	DT	B-NP	O		9504	9507
 increase	increase	NN	I-NP	O		9508	9516
 in	in	IN	B-PP	O		9517	9519
 seed	seed	NN	B-NP	O		9520	9524
@@ -1752,6 +1812,7 @@ seed	seed	NN	B-NP	O		9608	9612
 development	development	NN	I-NP	O		9613	9624
 .	.	.	O	O		9624	9625
 
+Thus	Thus	RB	B-ADVP	O		9626	9630
 ,	,	,	O	O		9630	9631
 other	other	JJ	B-NP	O		9632	9637
 AP2	AP2	NN	I-NP	B-protein		9638	9641

@@ -32,6 +32,7 @@ less	less	RBR	B-ADJP	O		173	177
 obvious	obvious	JJ	I-ADJP	O		178	185
 .	.	.	O	O		185	186
 
+At	At	IN	B-NP	O		187	189
 least	least	JJS	I-NP	O		190	195
 two	two	CD	I-NP	O		196	199
 hypotheses	hypothesis	NNS	I-NP	O		200	210
@@ -47,6 +48,7 @@ mucilage	mucilage	NN	B-NP	O		263	271
 synthesis	synthesis	NN	I-NP	O		272	281
 .	.	.	O	O		281	282
 
+The	The	DT	B-NP	O		283	286
 formation	formation	NN	I-NP	O		287	296
 of	of	IN	B-PP	O		297	299
 the	the	DT	B-NP	O		300	303
@@ -99,6 +101,7 @@ the	the	DT	B-NP	O		570	573
 vacuole	vacuole	NN	I-NP	O		574	581
 .	.	.	O	O		581	582
 
+Such	Such	JJ	B-NP	O		583	587
 passive	passive	JJ	I-NP	O		588	595
 processes	process	NNS	I-NP	O		596	605
 may	may	MD	B-VP	O		606	609
@@ -125,6 +128,7 @@ cytoplasmic	cytoplasmic	JJ	I-NP	O		722	733
 column	column	NN	I-NP	O		734	740
 .	.	.	O	O		740	741
 
+An	An	DT	B-NP	O		742	744
 alternate	alternate	JJ	I-NP	O		745	754
 but	but	CC	I-NP	O		755	758
 not	not	RB	I-NP	O		759	762
@@ -169,6 +173,7 @@ et al.	et_al.	NNP	I-NP	O		979	985
 )	)	)	O	O		991	992
 .	.	.	O	O		992	993
 
+Determination	Determination	NN	B-NP	O		994	1007
 of	of	IN	B-PP	O		1008	1010
 the	the	DT	B-NP	O		1011	1014
 exact	exact	JJ	I-NP	O		1015	1020

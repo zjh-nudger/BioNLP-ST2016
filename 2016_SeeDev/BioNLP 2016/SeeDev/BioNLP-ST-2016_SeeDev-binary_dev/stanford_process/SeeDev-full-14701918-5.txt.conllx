@@ -29,6 +29,7 @@
 29	production	_	NOUN	NN	_	26	nmod:of	_	_	181	191
 30	.	_	PUNCT	.	_	18	punct	_	_	191	192
 
+1	Two	_	NUM	CD	_	2	nummod	_	_	193	196
 2	lines	_	NOUN	NNS	_	5	nsubj	_	_	197	202
 3	of	_	ADP	IN	_	4	case	_	_	203	205
 4	evidence	_	NOUN	NN	_	2	nmod:of	_	_	206	214
@@ -48,6 +49,7 @@
 18	biosynthesis	_	NOUN	NNS	_	16	dobj	_	_	301	313
 19	.	_	PUNCT	.	_	5	punct	_	_	313	314
 
+1	First	_	ADV	RB	_	11	advmod	_	_	315	320
 2	,	_	PUNCT	,	_	11	punct	_	_	320	321
 3	the	_	DET	DT	_	7	det	_	_	322	325
 4	only	_	ADV	RB	_	7	advmod	_	_	326	330
@@ -65,6 +67,7 @@
 16	epidermis	_	NOUN	NN	_	11	nmod:in	_	_	396	405
 17	.	_	PUNCT	.	_	11	punct	_	_	405	406
 
+1	Second	_	X	LS	_	7	advmod	_	_	407	413
 2	,	_	PUNCT	,	_	7	punct	_	_	413	414
 3	MUM4	_	PROPN	NNP	_	4	compound	_	_	415	419
 4	expression	_	NOUN	NN	_	7	nsubjpass	_	_	420	430
@@ -90,6 +93,7 @@
 24	coat	_	NOUN	NN	_	20	nmod:of	_	_	541	545
 25	.	_	PUNCT	.	_	7	punct	_	_	545	546
 
+1	Such	_	DET	PDT	_	4	det:predet	_	_	547	551
 2	a	_	DET	DT	_	4	det	_	_	552	553
 3	specific	_	ADJ	JJ	_	4	amod	_	_	554	562
 4	up-regulation	_	NOUN	NN	_	8	nsubj	_	_	563	576
@@ -122,6 +126,7 @@
 31	synthesis	_	NOUN	NN	_	28	nmod:for	_	_	717	726
 32	.	_	PUNCT	.	_	8	punct	_	_	726	727
 
+1	If	_	SCONJ	IN	_	2	mark	_	_	728	730
 2	so	_	ADV	RB	_	13	advcl	_	_	731	733
 3	,	_	PUNCT	,	_	13	punct	_	_	733	734
 4	the	_	DET	DT	_	5	det	_	_	735	738
@@ -150,6 +155,7 @@
 27	biosynthesis	_	NOUN	NNS	_	24	nmod:in	_	_	856	868
 28	.	_	PUNCT	.	_	13	punct	_	_	868	869
 
+1	Our	_	PRON	PRP$	_	2	nmod:poss	_	_	870	873
 2	data	_	NOUN	NNS	_	3	nsubj	_	_	874	878
 3	indicate	_	VERB	VBP	_	0	root	_	_	879	887
 4	that	_	SCONJ	IN	_	8	mark	_	_	888	892
@@ -179,6 +185,7 @@
 28	-RRB-	_	PUNCT	-RRB-	_	25	punct	_	_	-1	4
 29	.	_	PUNCT	.	_	3	punct	_	_	191	192
 
+1	This	_	DET	DT	_	2	det	_	_	1015	1019
 2	result	_	NOUN	NN	_	3	nsubj	_	_	1020	1026
 3	suggests	_	VERB	VBZ	_	0	root	_	_	1027	1035
 4	a	_	DET	DT	_	6	det	_	_	1036	1037
@@ -206,6 +213,7 @@
 26	coat	_	NOUN	NN	_	20	nmod:in	_	_	1190	1194
 27	.	_	PUNCT	.	_	3	punct	_	_	1194	1195
 
+1	In	_	ADP	IN	_	2	case	_	_	1196	1198
 2	one	_	NUM	CD	_	8	nmod:in	_	_	1199	1202
 3	of	_	ADP	IN	_	5	case	_	_	1203	1205
 4	these	_	DET	DT	_	5	det	_	_	1206	1211
@@ -229,6 +237,7 @@
 22	-RRB-	_	PUNCT	-RRB-	_	19	punct	_	_	-1	4
 23	.	_	PUNCT	.	_	8	punct	_	_	191	192
 
+1	In	_	ADP	IN	_	4	case	_	_	1196	1198
 2	other	_	ADJ	JJ	_	4	amod	_	_	1298	1303
 3	epidermal	_	ADJ	JJ	_	4	amod	_	_	1304	1313
 4	systems	_	NOUN	NNS	_	16	nmod:in	_	_	1314	1321
@@ -274,6 +283,7 @@
 44	GL2	_	NUM	CD	_	18	nmod:to	_	_	1510	1513
 45	.	_	PUNCT	.	_	16	punct	_	_	1513	1514
 
+1	Therefore	_	ADV	RB	_	4	advmod	_	_	1515	1524
 2	,	_	PUNCT	,	_	4	punct	_	_	1524	1525
 3	we	_	PRON	PRP	_	4	nsubj	_	_	1526	1528
 4	favor	_	VERB	VBP	_	0	root	_	_	1529	1534
@@ -313,6 +323,7 @@
 38	-RRB-	_	PUNCT	-RRB-	_	35	punct	_	_	-1	4
 39	.	_	PUNCT	.	_	4	punct	_	_	191	192
 
+1	Recent	_	ADJ	JJ	_	2	amod	_	_	1701	1707
 2	results	_	NOUN	NNS	_	3	nsubj	_	_	1708	1715
 3	suggest	_	VERB	VBP	_	0	root	_	_	1716	1723
 4	that	_	SCONJ	IN	_	22	mark	_	_	1724	1728

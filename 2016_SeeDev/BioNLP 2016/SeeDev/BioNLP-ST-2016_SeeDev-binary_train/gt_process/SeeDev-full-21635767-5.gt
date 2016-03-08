@@ -81,6 +81,7 @@ PROTEIN	PROTEIN	NN	B-NP	O		327	334
 1	1	CD	I-NP	O		342	343
 .	.	.	O	O		343	344
 
+To	To	TO	B-VP	O		345	347
 computationally	computationally	RB	I-VP	O		348	363
 identify	identify	VB	I-VP	O		364	372
 cis-acting	cis-acting	JJ	B-NP	B-DNA		373	383

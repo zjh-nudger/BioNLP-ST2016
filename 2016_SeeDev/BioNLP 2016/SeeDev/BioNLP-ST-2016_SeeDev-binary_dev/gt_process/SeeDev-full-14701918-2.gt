@@ -27,6 +27,7 @@ and	and	CC	I-NP	O		134	137
 germination	germination	NN	I-NP	O		138	149
 .	.	.	O	O		149	150
 
+One	One	CD	B-NP	O		151	154
 adaptation	adaptation	NN	I-NP	O		155	165
 believed	believe	VBN	B-VP	O		166	174
 to	to	TO	I-VP	O		175	177
@@ -49,6 +50,7 @@ seed	seed	NN	I-NP	O		261	265
 coat	coat	NN	I-NP	O		266	270
 .	.	.	O	O		270	271
 
+This	This	DT	B-NP	O		272	276
 specialization	specialization	NN	I-NP	O		277	291
 ,	,	,	O	O		291	292
 known	know	VBN	B-VP	O		293	298
@@ -84,6 +86,7 @@ Bouman	Bouman	NNP	I-NP	O		442	448
 )	)	)	O	O		454	455
 .	.	.	O	O		455	456
 
+Seed	Seed	NN	B-NP	O		457	461
 imbibition	imbibition	NN	I-NP	O		462	472
 in	in	IN	B-PP	O		473	475
 these	these	DT	B-NP	O		476	481

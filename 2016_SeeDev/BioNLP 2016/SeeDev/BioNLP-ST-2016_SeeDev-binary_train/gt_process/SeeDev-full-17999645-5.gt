@@ -49,6 +49,7 @@ et al.	et al.	NNP	I-NP	O		272	278
 )	)	)	O	O		290	291
 .	.	.	O	O		291	292
 
+In	In	IN	B-PP	O		293	295
 the	the	DT	B-NP	O		296	299
 transient	transient	JJ	I-NP	O		300	309
 expression	expression	NN	I-NP	O		310	320
@@ -105,6 +106,7 @@ reporter	reporter	NN	I-NP	I-DNA		580	588
 gene	gene	NN	I-NP	I-DNA		589	593
 .	.	.	O	O		593	594
 
+These	These	DT	B-NP	O		595	600
 effectors	effector	NNS	I-NP	O		601	610
 (	(	(	O	O		611	612
 deletions A	deletions A	NN	B-NP	O		612	623
@@ -126,6 +128,7 @@ LxLxL	LxLxL	NN	I-NP	B-DNA		690	695
 motif	motif	NN	I-NP	I-DNA		696	701
 .	.	.	O	O		701	702
 
+The	The	DT	B-NP	O		703	706
 LENETLNRRQxxELR	LENETLNRRQxxELR	NN	I-NP	B-DNA		707	722
 motif	motif	NN	I-NP	I-DNA		723	728
 (	(	(	O	O		729	730
@@ -161,6 +164,7 @@ et al.	et al.	FW	I-ADVP	O		880	886
 )	)	)	O	O		892	893
 .	.	.	O	O		893	894
 
+Alternately	Alternately	RB	B-ADVP	O		895	906
 ,	,	,	O	O		906	907
 activation	activation	NN	B-NP	O		908	918
 of	of	IN	B-PP	O		919	921
@@ -192,6 +196,7 @@ transcriptional	transcriptional	JJ	B-NP	B-protein		1049	1064
 activators	activator	NNS	I-NP	I-protein		1065	1075
 .	.	.	O	O		1075	1076
 
+Yeast	Yeast	JJ	B-NP	O		1077	1082
 two-hybrid	two-hybrid	JJ	I-NP	O		1083	1093
 studies	study	NNS	I-NP	O		1094	1101
 have	have	VBP	B-VP	O		1102	1106
@@ -248,6 +253,7 @@ et al.	et al.	FW	I-ADVP	O		1323	1329
 )	)	)	O	O		1335	1336
 .	.	.	O	O		1336	1337
 
+It	It	PRP	B-NP	O		1338	1340
 is	be	VBZ	B-VP	O		1341	1343
 interesting	interesting	JJ	B-ADJP	O		1344	1355
 to	to	TO	B-VP	O		1356	1358
@@ -282,6 +288,7 @@ shown	show	VBN	I-VP	O		1519	1524
 )	)	)	O	O		1524	1525
 .	.	.	O	O		1525	1526
 
+There	There	EX	B-NP	O		1527	1532
 are	be	VBP	B-VP	O		1533	1536
 numerous	numerous	JJ	B-NP	O		1537	1545
 examples	example	NNS	I-NP	O		1546	1554
@@ -304,6 +311,7 @@ or	or	CC	I-NP	O		1663	1665
 repressor	repressor	NN	I-NP	O		1666	1675
 .	.	.	O	O		1675	1676
 
+Known	Know	VBN	B-NP	O		1677	1682
 transcriptional	transcriptional	JJ	I-NP	B-protein		1683	1698
 activators	activator	NNS	I-NP	I-protein		1699	1709
 have	have	VBP	B-VP	O		1710	1714
@@ -339,6 +347,7 @@ et al.	et al.	FW	I-ADVP	O		1839	1845
 )	)	)	O	O		1851	1852
 .	.	.	O	O		1852	1853
 
+Co-activators	Co-activator	NNS	B-NP	B-protein		1854	1867
 that	that	WDT	B-NP	O		1868	1872
 interact	interact	VBP	B-VP	O		1873	1881
 with	with	IN	B-PP	O		1882	1886
@@ -360,6 +369,7 @@ been	be	VBN	I-VP	O		1959	1963
 reported	report	VBN	I-VP	O		1964	1972
 .	.	.	O	O		1972	1973
 
+In	In	IN	B-PP	O		1974	1976
 the	the	DT	B-NP	O		1977	1980
 literature	literature	NN	I-NP	O		1981	1991
 HDACs	HDAC	NNS	I-NP	O		1992	1997
@@ -402,6 +412,7 @@ et al.	et al.	FW	I-ADVP	O		2186	2192
 )	)	)	O	O		2198	2199
 .	.	.	O	O		2199	2200
 
+HDA19	HDA19	NN	B-NP	B-protein		2201	2206
 has	have	VBZ	B-VP	O		2207	2210
 also	also	RB	I-VP	O		2211	2215
 been	be	VBN	I-VP	O		2216	2220

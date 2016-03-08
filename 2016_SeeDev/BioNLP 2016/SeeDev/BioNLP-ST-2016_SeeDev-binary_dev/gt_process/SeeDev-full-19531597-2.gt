@@ -57,6 +57,7 @@ et al.	et_al.	NNP	I-NP	O		304	310
 )	)	)	O	O		316	317
 .	.	.	O	O		317	318
 
+Seeds	Seed	NNS	B-NP	O		319	324
 are	be	VBP	B-VP	O		325	328
 formed	form	VBN	I-VP	O		329	335
 after	after	IN	B-PP	O		336	341
@@ -98,6 +99,7 @@ maternal	maternal	JJ	B-NP	O		541	549
 origin	origin	NN	I-NP	O		550	556
 .	.	.	O	O		556	557
 
+Seed	Seed	NN	B-NP	O		558	562
 development	development	NN	I-NP	O		563	574
 can	can	MD	B-VP	O		575	578
 be	be	VB	I-VP	O		579	581
@@ -123,6 +125,7 @@ is	be	VBZ	B-VP	O		708	710
 established	establish	VBN	I-VP	O		711	722
 .	.	.	O	O		722	723
 
+Second	Second	RB	B-ADVP	O		724	730
 ,	,	,	O	O		730	731
 the	the	DT	B-NP	O		732	735
 maturation	maturation	NN	I-NP	O		736	746
@@ -144,6 +147,7 @@ desiccation	desiccation	NN	B-NP	O		834	845
 tolerance	tolerance	NN	I-NP	O		846	855
 .	.	.	O	O		855	856
 
+Third	Third	RB	B-ADVP	O		857	862
 ,	,	,	O	O		862	863
 the	the	DT	B-NP	O		864	867
 embryo	embryo	NN	I-NP	O		868	874
@@ -160,6 +164,7 @@ upon	upon	IN	B-PP	O		922	926
 germination	germination	NN	B-NP	O		927	938
 .	.	.	O	O		938	939
 
+With	With	IN	B-PP	O		940	944
 respect	respect	NN	B-NP	O		945	952
 to	to	TO	B-VP	O		953	955
 seed	seed	VB	I-VP	O		956	960
@@ -178,6 +183,7 @@ among	among	IN	B-PP	O		1036	1041
 species	specie	NNS	B-NP	O		1042	1049
 .	.	.	O	O		1049	1050
 
+Arabidopsis thaliana	Arabidopsis_thaliana	NNP	B-NP	O		1051	1071
 has	have	VBZ	B-VP	O		1072	1075
 been	be	VBN	I-VP	O		1076	1080
 developed	develop	VBN	I-VP	O		1081	1090
@@ -223,6 +229,7 @@ et al.	et_al.	NNP	I-NP	O		1297	1303
 )	)	)	O	O		1309	1310
 .	.	.	O	O		1310	1311
 
+Important	Important	JJ	B-NP	O		1312	1321
 programs	program	NNS	I-NP	O		1322	1330
 of	of	IN	B-PP	O		1331	1333
 gene	gene	NN	B-NP	O		1334	1338
@@ -251,6 +258,7 @@ et al.	et_al.	NNP	I-NP	O		1473	1479
 )	)	)	O	O		1485	1486
 .	.	.	O	O		1486	1487
 
+An	An	DT	B-NP	O		1488	1490
 understanding	understanding	NN	I-NP	O		1491	1504
 of	of	IN	B-PP	O		1505	1507
 gene	gene	NN	B-NP	O		1508	1512
@@ -309,6 +317,7 @@ et al.	et_al.	NNP	I-NP	O		1777	1783
 )	)	)	O	O		1789	1790
 .	.	.	O	O		1790	1791
 
+Similarly	Similarly	RB	B-ADVP	O		1792	1801
 ,	,	,	O	O		1801	1802
 orthologous	orthologous	JJ	B-NP	B-DNA		1803	1814
 genes	gene	NNS	I-NP	I-DNA		1815	1820
@@ -351,6 +360,7 @@ et al.	et_al.	FW	I-ADVP	O		1979	1985
 )	)	)	O	O		1991	1992
 .	.	.	O	O		1992	1993
 
+In	In	IN	B-PP	O		1994	1996
 dicot	dicot	NN	B-NP	O		1997	2002
 species	specie	NNS	I-NP	O		2003	2010
 ,	,	,	O	O		2010	2011
@@ -369,6 +379,7 @@ seed	seed	NN	B-NP	O		2089	2093
 maturation	maturation	NN	I-NP	O		2094	2104
 .	.	.	O	O		2104	2105
 
+The	The	DT	B-NP	O		2106	2109
 class	class	NN	I-NP	O		2110	2115
 of	of	IN	B-PP	O		2116	2118
 maturation	maturation	NN	B-NP	B-DNA		2119	2129
@@ -407,6 +418,7 @@ mid-maturation	mid-maturation	JJ	I-NP	O		2296	2310
 phase	phase	NN	I-NP	O		2311	2316
 .	.	.	O	O		2316	2317
 
+The	The	DT	B-NP	O		2318	2321
 late	late	JJ	I-NP	B-DNA		2322	2326
 embryogenesis	embryogenesis	NN	I-NP	I-DNA		2327	2340
 abundant	abundant	NN	I-NP	I-DNA		2341	2349
@@ -446,6 +458,7 @@ Wise	Wise	NNP	I-NP	O		2519	2523
 )	)	)	O	O		2529	2530
 .	.	.	O	O		2530	2531
 
+MAT	MAT	NN	B-NP	O		2532	2535
 promoter	promoter	NN	I-NP	O		2536	2544
 analyses	analysis	NNS	I-NP	O		2545	2553
 have	have	VBP	B-VP	O		2554	2558
@@ -468,6 +481,7 @@ seed	seed	NN	B-NP	O		2677	2681
 maturation	maturation	NN	I-NP	O		2682	2692
 .	.	.	O	O		2692	2693
 
+Among	Among	IN	B-PP	O		2694	2699
 them	them	PRP	B-NP	O		2700	2704
 ,	,	,	O	O		2704	2705
 G-box	G-box	NN	B-NP	B-DNA		2706	2711
@@ -506,6 +520,7 @@ Carbonero	Carbonero	NNP	I-NP	O		2841	2850
 )	)	)	O	O		2856	2857
 .	.	.	O	O		2857	2858
 
+The	The	DT	B-NP	O		2859	2862
 corresponding	correspond	VBG	I-NP	O		2863	2876
 associated	associate	VBN	I-NP	O		2877	2887
 TFs	TF	NNS	I-NP	B-protein		2888	2891
@@ -531,6 +546,7 @@ families	family	NNS	I-NP	I-protein		2955	2963
 respectively	respectively	RB	B-ADVP	O		2965	2977
 .	.	.	O	O		2977	2978
 
+Cooperation	Cooperation	NN	B-NP	O		2979	2990
 of	of	IN	B-PP	O		2991	2993
 these	these	DT	B-NP	O		2994	2999
 regulatory	regulatory	JJ	I-NP	B-DNA		3000	3010
@@ -575,6 +591,7 @@ et al.	et_al.	NNP	I-NP	O		3208	3214
 )	)	)	O	O		3220	3221
 .	.	.	O	O		3221	3222
 
+TFs	TF	NNS	B-NP	B-protein		3223	3226
 of	of	IN	B-PP	O		3227	3229
 the	the	DT	B-NP	O		3230	3233
 bZIP	bZIP	NN	I-NP	O		3234	3238
@@ -627,6 +644,7 @@ et al.	et_al.	FW	I-ADVP	O		3443	3449
 )	)	)	O	O		3455	3456
 .	.	.	O	O		3456	3457
 
+Expression	Expression	NN	B-NP	O		3458	3468
 during	during	IN	B-PP	O		3469	3475
 seed	seed	NN	B-NP	O		3476	3480
 development	development	NN	I-NP	O		3481	3492

@@ -59,6 +59,7 @@
 59	-RRB-	_	PUNCT	-RRB-	_	35	punct	_	_	-1	4
 60	.	_	PUNCT	.	_	11	punct	_	_	280	281
 
+1	Seeds	_	NOUN	NNS	_	3	nsubjpass	_	_	319	324
 2	are	_	AUX	VBP	_	3	auxpass	_	_	325	328
 3	formed	_	VERB	VBN	_	0	root	_	_	329	335
 4	after	_	ADP	IN	_	8	case	_	_	336	341
@@ -100,6 +101,7 @@
 40	origin	_	NOUN	NN	_	37	nmod:of	_	_	550	556
 41	.	_	PUNCT	.	_	3	punct	_	_	556	557
 
+1	Seed	_	NOUN	NN	_	2	compound	_	_	558	562
 2	development	_	NOUN	NN	_	5	nsubjpass	_	_	563	574
 3	can	_	AUX	MD	_	5	aux	_	_	575	578
 4	be	_	AUX	VB	_	5	auxpass	_	_	579	581
@@ -125,6 +127,7 @@
 24	established	_	VERB	VBN	_	14	advcl	_	_	711	722
 25	.	_	PUNCT	.	_	5	punct	_	_	722	723
 
+1	Second	_	X	LS	_	7	advmod	_	_	724	730
 2	,	_	PUNCT	,	_	7	punct	_	_	730	731
 3	the	_	DET	DT	_	5	det	_	_	732	735
 4	maturation	_	NOUN	NN	_	5	compound	_	_	736	746
@@ -146,6 +149,7 @@
 20	tolerance	_	NOUN	NN	_	17	nmod:of	_	_	846	855
 21	.	_	PUNCT	.	_	7	punct	_	_	855	856
 
+1	Third	_	X	LS	_	6	advmod	_	_	857	862
 2	,	_	PUNCT	,	_	6	punct	_	_	862	863
 3	the	_	DET	DT	_	4	det	_	_	864	867
 4	embryo	_	NOUN	NN	_	6	nsubj	_	_	868	874
@@ -162,6 +166,7 @@
 15	germination	_	NOUN	NN	_	13	nmod:upon	_	_	927	938
 16	.	_	PUNCT	.	_	6	punct	_	_	938	939
 
+1	With	_	ADP	IN	_	2	case	_	_	940	944
 2	respect	_	NOUN	NN	_	15	nmod:with	_	_	945	952
 3	to	_	ADP	TO	_	5	case	_	_	953	955
 4	seed	_	NOUN	NN	_	5	compound	_	_	956	960
@@ -180,6 +185,7 @@
 17	species	_	NOUN	NNS	_	15	nmod:among	_	_	1042	1049
 18	.	_	PUNCT	.	_	15	punct	_	_	1049	1050
 
+1	Arabidopsis	_	PROPN	NNP	_	2	compound	_	_	1051	1062
 2	thaliana	_	PROPN	NNP	_	5	nsubjpass	_	_	1063	1071
 3	has	_	AUX	VBZ	_	5	aux	_	_	1072	1075
 4	been	_	AUX	VBN	_	5	auxpass	_	_	1076	1080
@@ -227,6 +233,7 @@
 46	-RRB-	_	PUNCT	-RRB-	_	31	punct	_	_	-1	4
 47	.	_	PUNCT	.	_	5	punct	_	_	280	281
 
+1	Important	_	ADJ	JJ	_	2	amod	_	_	1312	1321
 2	programs	_	NOUN	NNS	_	21	nsubj	_	_	1322	1330
 3	of	_	ADP	IN	_	5	case	_	_	1331	1333
 4	gene	_	NOUN	NN	_	5	compound	_	_	1334	1338
@@ -256,6 +263,7 @@
 28	-RRB-	_	PUNCT	-RRB-	_	23	punct	_	_	-1	4
 29	.	_	PUNCT	.	_	18	punct	_	_	280	281
 
+1	An	_	DET	DT	_	2	det	_	_	1488	1490
 2	understanding	_	NOUN	NN	_	11	nsubjpass	_	_	1491	1504
 3	of	_	ADP	IN	_	6	case	_	_	1505	1507
 4	gene	_	NOUN	NN	_	6	compound	_	_	1508	1512
@@ -317,7 +325,8 @@
 60	-RRB-	_	PUNCT	-RRB-	_	50	punct	_	_	-1	4
 61	.	_	PUNCT	.	_	11	punct	_	_	280	281
 
-2	,	_	PUNCT	,	_	23	punct	_	_	281	282
+1	Similarly	_	ADV	RB	_	23	advmod	_	_	1792	1801
+2	,	_	PUNCT	,	_	23	punct	_	_	1801	1802
 3	orthologous	_	ADJ	JJ	_	4	amod	_	_	1803	1814
 4	genes	_	NOUN	NNS	_	23	nsubj	_	_	1815	1820
 5	from	_	ADP	IN	_	6	case	_	_	1821	1825
@@ -363,9 +372,10 @@
 45	-RRB-	_	PUNCT	-RRB-	_	35	punct	_	_	-1	4
 46	.	_	PUNCT	.	_	23	punct	_	_	280	281
 
-2	dicot	_	ADJ	JJ	_	3	amod	_	_	1130	1135
-3	species	_	NOUN	NNS	_	9	nmod:in	_	_	1943	1950
-4	,	_	PUNCT	,	_	9	punct	_	_	1965	1966
+1	In	_	ADP	IN	_	3	case	_	_	1994	1996
+2	dicot	_	ADJ	JJ	_	3	amod	_	_	1997	2002
+3	species	_	NOUN	NNS	_	9	nmod:in	_	_	2003	2010
+4	,	_	PUNCT	,	_	9	punct	_	_	2010	2011
 5	key	_	ADJ	JJ	_	6	amod	_	_	2012	2015
 6	TFs	_	NOUN	NNS	_	9	nsubjpass	_	_	2016	2019
 7	have	_	AUX	VBP	_	9	aux	_	_	2020	2024
@@ -381,6 +391,7 @@
 17	maturation	_	NOUN	NN	_	9	nmod:during	_	_	2094	2104
 18	.	_	PUNCT	.	_	9	punct	_	_	2104	2105
 
+1	The	_	DET	DT	_	2	det	_	_	2106	2109
 2	class	_	NOUN	NN	_	14	nsubj	_	_	2110	2115
 3	of	_	ADP	IN	_	5	case	_	_	2116	2118
 4	maturation	_	NOUN	NN	_	5	compound	_	_	2119	2129
@@ -419,6 +430,7 @@
 37	phase	_	NOUN	NN	_	32	nmod:in	_	_	2311	2316
 38	.	_	PUNCT	.	_	14	punct	_	_	2316	2317
 
+1	The	_	DET	DT	_	3	det	_	_	2318	2321
 2	late	_	ADJ	JJ	_	3	amod	_	_	2322	2326
 3	embryogenesis	_	NOUN	NNS	_	22	nsubjpass	_	_	2327	2340
 4	abundant	_	ADJ	JJ	_	8	amod	_	_	2341	2349
@@ -458,6 +470,7 @@
 38	-RRB-	_	PUNCT	-RRB-	_	37	punct	_	_	-1	4
 39	.	_	PUNCT	.	_	19	punct	_	_	280	281
 
+1	MAT	_	PROPN	NNP	_	3	compound	_	_	2137	2140
 2	promoter	_	NOUN	NN	_	3	compound	_	_	2536	2544
 3	analyses	_	NOUN	NNS	_	5	nsubj	_	_	2545	2553
 4	have	_	AUX	VBP	_	5	aux	_	_	2554	2558
@@ -480,6 +493,7 @@
 21	maturation	_	NOUN	NN	_	5	nmod:during	_	_	2682	2692
 22	.	_	PUNCT	.	_	5	punct	_	_	2692	2693
 
+1	Among	_	ADP	IN	_	2	case	_	_	2694	2699
 2	them	_	PRON	PRP	_	22	nmod:among	_	_	2700	2704
 3	,	_	PUNCT	,	_	22	punct	_	_	2704	2705
 4	G-box	_	ADJ	JJ	_	19	amod	_	_	2706	2711
@@ -518,7 +532,8 @@
 37	-RRB-	_	PUNCT	-RRB-	_	27	punct	_	_	-1	4
 38	.	_	PUNCT	.	_	22	punct	_	_	280	281
 
-2	corresponding	_	ADJ	JJ	_	4	amod	_	_	1929	1942
+1	The	_	DET	DT	_	4	det	_	_	2106	2109
+2	corresponding	_	ADJ	JJ	_	4	amod	_	_	2863	2876
 3	associated	_	ADJ	JJ	_	4	amod	_	_	2877	2887
 4	TFs	_	NOUN	NN	_	5	nsubj	_	_	2888	2891
 5	belong	_	VERB	VBP	_	0	root	_	_	2892	2898
@@ -543,6 +558,7 @@
 24	respectively	_	ADV	RB	_	17	advmod	_	_	2965	2977
 25	.	_	PUNCT	.	_	5	punct	_	_	2977	2978
 
+1	Cooperation	_	PROPN	NNP	_	18	nsubj	_	_	2979	2990
 2	of	_	ADP	IN	_	5	case	_	_	2991	2993
 3	these	_	DET	DT	_	5	det	_	_	2994	2999
 4	regulatory	_	ADJ	JJ	_	5	amod	_	_	3000	3010
@@ -588,8 +604,9 @@
 44	-RRB-	_	PUNCT	-RRB-	_	31	punct	_	_	-1	4
 45	.	_	PUNCT	.	_	12	punct	_	_	280	281
 
-2	of	_	ADP	IN	_	5	case	_	_	399	401
-3	the	_	DET	DT	_	5	det	_	_	435	438
+1	TFs	_	PROPN	NNP	_	17	nsubjpass	_	_	2016	2019
+2	of	_	ADP	IN	_	5	case	_	_	2116	2118
+3	the	_	DET	DT	_	5	det	_	_	2639	2642
 4	bZIP	_	NOUN	NN	_	5	compound	_	_	2928	2932
 5	class	_	NOUN	NN	_	1	nmod:of	_	_	3239	3244
 6	,	_	PUNCT	,	_	1	punct	_	_	3244	3245
@@ -642,8 +659,9 @@
 53	-RRB-	_	PUNCT	-RRB-	_	48	punct	_	_	-1	4
 54	.	_	PUNCT	.	_	17	punct	_	_	280	281
 
-2	during	_	ADP	IN	_	4	case	_	_	1394	1400
-3	seed	_	NOUN	NN	_	4	compound	_	_	1401	1405
+1	Expression	_	VERB	VBN	_	31	advcl	_	_	3458	3468
+2	during	_	ADP	IN	_	4	case	_	_	3469	3475
+3	seed	_	NOUN	NN	_	4	compound	_	_	3476	3480
 4	development	_	NOUN	NN	_	1	nmod:during	_	_	3481	3492
 5	,	_	PUNCT	,	_	31	punct	_	_	3492	3493
 6	specific	_	ADJ	JJ	_	28	amod	_	_	3494	3502

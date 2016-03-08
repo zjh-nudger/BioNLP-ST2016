@@ -20,6 +20,7 @@ interacting	interact	VBG	B-VP	I-protein		73	84
 protein	protein	NN	B-NP	I-protein		85	92
 .	.	.	O	O		92	93
 
+The	The	DT	B-NP	O		94	97
 SIN	SIN	NN	I-NP	B-protein		98	101
 /	/	SYM	B-NP	O		101	102
 HDAC	HDAC	NN	I-NP	B-protein		102	106
@@ -47,6 +48,7 @@ and	and	CC	I-NP	O		202	205
 SDS3	SDS3	NN	I-NP	B-protein		206	210
 .	.	.	O	O		210	211
 
+However	However	RB	B-ADVP	O		212	219
 ,	,	,	O	O		219	220
 yeast	yeast	NN	B-NP	O		221	226
 has	have	VBZ	B-VP	O		227	230
@@ -70,6 +72,7 @@ Ekwall	Ekwall	NN	I-NP	O		302	308
 )	)	)	O	O		314	315
 .	.	.	O	O		315	316
 
+Arabidopsis	Arabidopsis	NNP	B-NP	O		317	328
 has	have	VBZ	B-VP	O		329	332
 two	two	CD	B-NP	O		333	336
 HDAC1	HDAC1	NN	I-NP	O		337	342
@@ -109,6 +112,7 @@ Galbraith	Galbraith	NNP	I-NP	O		498	507
 )	)	)	O	O		513	514
 .	.	.	O	O		514	515
 
+We	We	PRP	B-NP	O		516	518
 show	show	VBP	B-VP	O		519	523
 here	here	RB	B-ADVP	O		524	528
 that	that	IN	B-SBAR	O		529	533
@@ -135,6 +139,7 @@ Figure	Figure	NN	B-NP	O		625	631
 )	)	)	O	O		633	634
 .	.	.	O	O		634	635
 
+Although	Although	IN	B-SBAR	O		636	644
 the	the	DT	B-NP	O		645	648
 C-domain	C-domain	NN	I-NP	B-protein		649	657
 alone	alone	RB	B-ADVP	O		658	663

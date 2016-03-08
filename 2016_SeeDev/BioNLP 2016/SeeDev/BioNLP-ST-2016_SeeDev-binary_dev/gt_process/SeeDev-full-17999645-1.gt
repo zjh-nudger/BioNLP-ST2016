@@ -52,6 +52,7 @@ et al.	et al.	NNP	I-NP	O		263	269
 )	)	)	O	O		275	276
 .	.	.	O	O		276	277
 
+Plants	Plant	NNS	B-NP	O		278	284
 uniquely	uniquely	RB	B-ADVP	O		285	293
 possess	possess	VBP	B-VP	O		294	301
 a	a	DT	B-NP	O		302	303
@@ -83,6 +84,7 @@ domain	domain	NN	I-NP	I-protein		426	432
 )	)	)	O	O		432	433
 .	.	.	O	O		433	434
 
+Compared	Compare	VBN	B-PP	O		435	443
 with	with	IN	B-PP	O		444	448
 other	other	JJ	B-NP	O		449	454
 kingdoms	kingdom	NNS	I-NP	O		455	463
@@ -128,6 +130,7 @@ et al.	et al.	NNP	I-NP	O		654	660
 )	)	)	O	O		666	667
 .	.	.	O	O		667	668
 
+AGAMOUS	AGAMOUS	NN	B-NP	O		669	676
 -	-	HYPH	O	O		676	677
 like	like	JJ	O	O		677	681
 15	15	CD	B-NP	O		682	684
@@ -176,6 +179,7 @@ et al.	et al.	NNP	I-NP	O		832	838
 )	)	)	O	O		844	845
 .	.	.	O	O		845	846
 
+The	The	DT	B-NP	O		847	850
 MADS	MADS	NN	I-NP	B-protein		851	855
 domain	domain	NN	I-NP	I-protein		856	862
 itself	itself	PRP	B-NP	O		863	869
@@ -212,6 +216,7 @@ Meyerowitz	Meyerowitz	NNP	I-NP	O		1006	1016
 )	)	)	O	O		1022	1023
 .	.	.	O	O		1023	1024
 
+The	The	DT	B-NP	O		1025	1028
 intervening	intervening	NN	I-NP	B-protein		1029	1040
 (	(	(	O	I-protein		1041	1042
 I	I	NN	B-NP	I-protein		1042	1043
@@ -239,6 +244,7 @@ et al.	et al.	FW	I-ADVP	O		1131	1137
 )	)	)	O	O		1143	1144
 .	.	.	O	O		1144	1145
 
+MADS	MADS	NN	B-NP	B-protein		1146	1150
 -	-	HYPH	I-NP	I-protein		1150	1151
 domain	domain	NN	I-NP	I-protein		1151	1157
 proteins	protein	NNS	I-NP	I-protein		1158	1166
@@ -321,6 +327,7 @@ Perry	Perry	NNP	I-NP	O		1481	1486
 )	)	)	O	O		1492	1493
 .	.	.	O	O		1493	1494
 
+The	The	DT	B-NP	O		1495	1498
 K	K	NN	I-NP	B-protein		1499	1500
 domain	domain	NN	I-NP	I-protein		1501	1507
 is	be	VBZ	B-VP	O		1508	1510
@@ -337,6 +344,7 @@ et al.	et al.	NNP	I-NP	O		1575	1581
 )	)	)	O	O		1587	1588
 .	.	.	O	O		1588	1589
 
+The	The	DT	B-NP	O		1590	1593
 carboxyl	carboxyl	NN	I-NP	B-protein		1594	1602
 -	-	HYPH	O	I-protein		1602	1603
 terminal	terminal	JJ	O	I-protein		1603	1611
@@ -410,6 +418,7 @@ et al.	et al.	FW	I-NP	O		1891	1897
 )	)	)	O	O		1903	1904
 .	.	.	O	O		1904	1905
 
+The	The	DT	B-NP	O		1906	1909
 literature	literature	NN	I-NP	O		1910	1920
 contains	contain	VBZ	B-VP	O		1921	1929
 a	a	DT	B-NP	O		1930	1931
@@ -521,6 +530,7 @@ based	base	VBN	I-NP	O		2386	2391
 regulation	regulation	NN	I-NP	O		2392	2402
 .	.	.	O	O		2402	2403
 
+There	There	EX	B-NP	O		2404	2409
 is	be	VBZ	B-VP	O		2410	2412
 also	also	RB	B-ADVP	O		2413	2417
 a	a	DT	B-NP	O		2418	2419
@@ -612,6 +622,7 @@ Goto	Goto	NNP	I-NP	O		2828	2832
 )	)	)	O	O		2838	2839
 .	.	.	O	O		2839	2840
 
+MADS	MADS	NN	B-NP	B-protein		2841	2845
 -	-	HYPH	I-NP	I-protein		2845	2846
 domain	domain	NN	I-NP	I-protein		2846	2852
 transcription	transcription	NN	I-NP	I-protein		2853	2866
@@ -631,6 +642,7 @@ these	these	DT	B-NP	O		2952	2957
 interactions	interaction	NNS	I-NP	O		2958	2970
 .	.	.	O	O		2970	2971
 
+For	For	IN	B-PP	O		2972	2975
 instance	instance	NN	B-NP	O		2976	2984
 ,	,	,	O	O		2984	2985
 ectopic	ectopic	JJ	B-NP	O		2986	2993
@@ -660,6 +672,7 @@ et al.	et al.	FW	I-ADVP	O		3110	3116
 )	)	)	O	O		3122	3123
 .	.	.	O	O		3123	3124
 
+However	However	RB	B-NP	O		3125	3132
 AP1	AP1	NN	I-NP	B-protein		3133	3136
 and	and	CC	I-NP	O		3137	3140
 SEP3	SEP3	NN	I-NP	B-protein		3141	3145
@@ -707,6 +720,7 @@ Meyerowitz	Meyerowitz	NNP	I-NP	O		3331	3341
 )	)	)	O	O		3347	3348
 .	.	.	O	O		3348	3349
 
+Neither	Neither	CC	O	O		3350	3357
 LUG	LUG	NN	B-NP	B-protein		3358	3361
 nor	nor	CC	I-NP	O		3362	3365
 SEU	SEU	NN	I-NP	O		3366	3369
@@ -756,6 +770,7 @@ et al.	et al.	FW	I-ADVP	O		3590	3596
 )	)	)	O	O		3602	3603
 .	.	.	O	O		3603	3604
 
+AGL15	AGL15	NN	B-NP	O		3605	3610
 preferentially	preferentially	RB	B-ADVP	O		3611	3625
 accumulates	accumulate	VBZ	B-VP	O		3626	3637
 in	in	IN	B-PP	O		3638	3640
@@ -803,6 +818,7 @@ et al.	et al.	FW	B-NP	O		3839	3845
 )	)	)	O	O		3851	3852
 .	.	.	O	O		3852	3853
 
+AGL15	AGL15	NN	B-NP	B-protein		3854	3859
 is	be	VBZ	B-VP	O		3860	3862
 expressed	express	VBN	I-VP	O		3863	3872
 at	at	IN	B-PP	O		3873	3875
@@ -825,6 +841,7 @@ et al.	et al.	NNP	I-NP	O		3960	3966
 )	)	)	O	O		3972	3973
 .	.	.	O	O		3973	3974
 
+Research	Research	NN	B-NP	O		3975	3983
 in	in	IN	B-PP	O		3984	3986
 our	our	PRP$	B-NP	O		3987	3990
 lab	lab	NN	I-NP	B-protein		3991	3994
@@ -883,6 +900,7 @@ are	be	VBP	B-VP	O		4232	4235
 repressed	repress	VBN	I-VP	O		4236	4245
 .	.	.	O	O		4245	4246
 
+A	A	DT	B-NP	O		4247	4248
 number	number	NN	I-NP	O		4249	4255
 of	of	IN	B-PP	O		4256	4258
 direct	direct	JJ	B-NP	O		4259	4265
@@ -908,6 +926,7 @@ only	only	RB	B-ADVP	O		4376	4380
 weakly	weakly	RB	I-ADVP	O		4381	4387
 .	.	.	O	O		4387	4388
 
+Taken	Take	VBN	B-VP	O		4389	4394
 together	together	RB	B-ADVP	O		4395	4403
 these	these	DT	B-NP	O		4404	4409
 data	datum	NNS	I-NP	O		4410	4414
@@ -937,6 +956,7 @@ in	in	IN	B-PP	O		4553	4555
 planta	planta	NN	B-NP	O		4556	4562
 .	.	.	O	O		4562	4563
 
+AGL15	AGL15	NN	B-NP	B-protein		4564	4569
 possesses	possess	VBZ	B-VP	O		4570	4579
 the	the	DT	B-NP	O		4580	4583
 ability	ability	NN	I-NP	O		4584	4591
@@ -983,6 +1003,7 @@ et al.	et al.	FW	I-ADVP	O		4770	4776
 )	)	)	O	O		4782	4783
 .	.	.	O	O		4783	4784
 
+Although	Although	IN	B-SBAR	O		4785	4793
 AGL15	AGL15	NN	B-NP	B-protein		4794	4799
 has	have	VBZ	B-VP	O		4800	4803
 been	be	VBN	I-VP	O		4804	4808
@@ -1027,6 +1048,7 @@ been	be	VBN	I-VP	O		5016	5020
 reported	report	VBN	I-VP	O		5021	5029
 .	.	.	O	O		5029	5030
 
+Here	Here	RB	B-ADVP	O		5031	5035
 we	we	PRP	B-NP	O		5036	5038
 report	report	VBP	B-VP	O		5039	5045
 that	that	IN	B-SBAR	O		5046	5050
@@ -1112,6 +1134,7 @@ two-hybrid	two-hybrid	JJ	I-NP	O		5457	5467
 studies	study	NNS	I-NP	O		5468	5475
 .	.	.	O	O		5475	5476
 
+We	We	PRP	B-NP	O		5477	5479
 also	also	RB	B-ADVP	O		5480	5484
 show	show	VBP	B-VP	O		5485	5489
 that	that	IN	B-SBAR	O		5490	5494
@@ -1140,6 +1163,7 @@ repressive	repressive	JJ	I-NP	O		5621	5631
 function	function	NN	I-NP	O		5632	5640
 .	.	.	O	O		5640	5641
 
+The	The	DT	B-NP	O		5642	5645
 interaction	interaction	NN	I-NP	O		5646	5657
 of	of	IN	B-PP	O		5658	5660
 AGL15	AGL15	NN	B-NP	B-protein		5661	5666

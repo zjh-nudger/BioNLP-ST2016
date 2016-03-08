@@ -24,6 +24,7 @@ in	in	IN	B-PP	O		112	114
 development	development	NN	B-NP	O		115	126
 .	.	.	O	O		126	127
 
+To	To	TO	B-VP	O		128	130
 assess	assess	VB	I-VP	O		131	137
 the	the	DT	B-NP	O		138	141
 functions	function	NNS	I-NP	O		142	151
@@ -43,6 +44,7 @@ DCL1	DCL1	NN	B-NP	B-protein		235	239
 loss	loss	NN	I-NP	O		240	244
 .	.	.	O	O		244	245
 
+We	We	PRP	B-NP	O		246	248
 found	find	VBD	B-VP	O		249	254
 that	that	IN	B-SBAR	O		255	259
 DCL1	DCL1	NN	B-NP	B-protein		260	264
@@ -74,6 +76,7 @@ subprotoderm	subprotoderm	NN	I-NP	O		404	416
 cells	cell	NNS	I-NP	O		417	422
 .	.	.	O	O		422	423
 
+By	By	IN	B-PP	O		424	426
 the	the	DT	B-NP	O		427	430
 early	early	JJ	I-NP	O		431	436
 globular	globular	JJ	I-NP	O		437	445
@@ -95,6 +98,7 @@ miRNA	miRNA	NN	I-NP	O		505	510
 targets	target	NNS	I-NP	O		511	518
 .	.	.	O	O		518	519
 
+In	In	IN	B-PP	O		520	522
 dcl1	dcl1	NN	B-NP	O		523	527
 eight	eight	CD	I-NP	O		528	533
 -	-	HYPH	I-NP	O		533	534
@@ -119,6 +123,7 @@ transcription	transcription	NN	I-NP	I-protein		629	642
 factors	factor	NNS	I-NP	I-protein		643	650
 .	.	.	O	O		650	651
 
+SPL10	SPL10	NN	B-NP	B-protein		652	657
 and	and	CC	I-NP	O		658	661
 SPL11	SPL11	NN	I-NP	B-protein		662	667
 are	be	VBP	B-VP	O		668	671
@@ -141,6 +146,7 @@ patterning	patterning	NN	I-NP	O		758	768
 defects	defect	NNS	I-NP	O		769	776
 .	.	.	O	O		776	777
 
+Moreover	Moreover	RB	B-ADVP	O		778	786
 ,	,	,	O	O		786	787
 as	as	RB	B-ADVP	O		788	790
 early	early	RB	I-ADVP	O		791	796

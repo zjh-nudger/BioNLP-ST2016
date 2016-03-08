@@ -31,6 +31,7 @@ gene	gene	NN	I-NP	O		168	172
 expression	expression	NN	I-NP	O		173	183
 .	.	.	O	O		183	184
 
+We	We	PRP	B-NP	O		185	187
 have	have	VBP	B-VP	O		188	192
 used	use	VBN	I-VP	O		193	197
 the	the	DT	B-NP	O		198	201
@@ -51,6 +52,7 @@ physical	physical	JJ	I-NP	O		295	303
 interactions	interaction	NNS	I-NP	O		304	316
 .	.	.	O	O		316	317
 
+By	By	IN	B-PP	O		318	320
 this	this	DT	B-NP	O		321	325
 criterion	criterion	NN	I-NP	O		326	335
 ,	,	,	O	O		335	336
@@ -71,6 +73,7 @@ form	form	VB	I-VP	O		406	410
 homodimers	homodimer	NNS	B-NP	B-protein		411	421
 .	.	.	O	O		421	422
 
+The	The	DT	B-NP	O		423	426
 B1	B1	NN	I-NP	B-protein		427	429
 domain	domain	NN	I-NP	I-protein		430	436
 of	of	IN	B-PP	O		437	439
@@ -99,6 +102,7 @@ VP1	VP1	NN	I-NP	B-protein		552	555
 family	family	NN	I-NP	I-protein		556	562
 .	.	.	O	O		562	563
 
+The	The	DT	B-NP	O		564	567
 ABI5	ABI5	NN	I-NP	B-protein		568	572
 domains	domain	NNS	I-NP	I-protein		573	580
 required	require	VBN	B-VP	O		581	589
@@ -122,6 +126,7 @@ the	the	DT	B-NP	O		684	687
 protein	protein	NN	I-NP	O		688	695
 .	.	.	O	O		695	696
 
+An	An	DT	B-NP	O		697	699
 additional	additional	JJ	I-NP	O		700	710
 conserved	conserve	VBN	I-NP	O		711	720
 charged	charge	VBN	I-NP	O		721	728
@@ -138,6 +143,7 @@ this	this	DT	B-NP	O		799	803
 assay	assay	NN	I-NP	O		804	809
 .	.	.	O	O		809	810
 
+Yeast	Yeast	JJ	B-NP	O		811	816
 one-hybrid	one-hybrid	JJ	I-NP	O		817	827
 assays	assay	NNS	I-NP	O		828	834
 with	with	IN	B-PP	O		835	839

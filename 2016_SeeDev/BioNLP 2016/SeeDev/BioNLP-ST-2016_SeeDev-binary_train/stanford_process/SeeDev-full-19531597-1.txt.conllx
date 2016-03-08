@@ -35,6 +35,7 @@
 35	DOFs	_	PROPN	NNP	_	25	conj:and	_	_	187	191
 36	.	_	PUNCT	.	_	1	punct	_	_	191	192
 
+1	In	_	ADP	IN	_	3	case	_	_	193	195
 2	this	_	DET	DT	_	3	det	_	_	196	200
 3	work	_	NOUN	NN	_	6	nmod:in	_	_	201	205
 4	,	_	PUNCT	,	_	6	punct	_	_	205	206
@@ -66,6 +67,7 @@
 30	genes	_	NOUN	NNS	_	26	nmod:of	_	_	368	373
 31	.	_	PUNCT	.	_	6	punct	_	_	373	374
 
+1	Gain	_	ADJ	JJ	_	7	amod	_	_	375	379
 2	-	_	PUNCT	:	_	4	punct	_	_	379	380
 3	and	_	CONJ	CC	_	4	cc	_	_	381	384
 4	loss	_	NOUN	NN	_	7	dep	_	_	385	389
@@ -87,6 +89,7 @@
 20	expression	_	NOUN	NN	_	16	conj:and	_	_	486	496
 21	.	_	PUNCT	.	_	8	punct	_	_	496	497
 
+1	Specific	_	ADJ	JJ	_	21	nsubjpass	_	_	498	506
 2	in	_	ADP	IN	_	3	case	_	_	507	509
 3	vivo	_	NOUN	NN	_	1	nmod:in	_	_	510	514
 4	and	_	CONJ	CC	_	1	cc	_	_	515	518
@@ -109,6 +112,7 @@
 21	demonstrated	_	VERB	VBN	_	0	root	_	_	604	616
 22	.	_	PUNCT	.	_	21	punct	_	_	616	617
 
+1	Importantly	_	ADV	RB	_	10	advmod	_	_	618	629
 2	,	_	PUNCT	,	_	10	punct	_	_	629	630
 3	heterodimerization	_	VERB	VBN	_	10	dep	_	_	631	649
 4	with	_	ADP	IN	_	5	case	_	_	650	654
@@ -141,6 +145,7 @@
 31	activation	_	NOUN	NN	_	24	nmod:in	_	_	829	839
 32	.	_	PUNCT	.	_	10	punct	_	_	839	840
 
+1	Full	_	PROPN	NNP	_	0	root	_	_	841	845
 2	-	_	PUNCT	:	_	1	punct	_	_	845	846
 3	level	_	NOUN	NN	_	6	compound	_	_	846	851
 4	target	_	NOUN	NN	_	6	compound	_	_	852	858
@@ -160,6 +165,7 @@
 18	partners	_	NOUN	NNS	_	12	nmod:of	_	_	958	966
 19	.	_	PUNCT	.	_	1	punct	_	_	966	967
 
+1	Whereas	_	SCONJ	IN	_	5	mark	_	_	968	975
 2	bZIP53	_	NOUN	NNS	_	5	nsubj	_	_	976	982
 3	does	_	AUX	VBZ	_	5	aux	_	_	983	987
 4	not	_	PART	RB	_	5	neg	_	_	988	991
@@ -194,6 +200,7 @@
 33	planta	_	NOUN	NN	_	26	nmod:in	_	_	1176	1182
 34	.	_	PUNCT	.	_	26	punct	_	_	1182	1183
 
+1	We	_	PRON	PRP	_	3	nsubj	_	_	1184	1186
 2	therefore	_	ADV	RB	_	3	advmod	_	_	1187	1196
 3	propose	_	VERB	VBP	_	0	root	_	_	1197	1204
 4	that	_	SCONJ	IN	_	8	mark	_	_	1205	1209

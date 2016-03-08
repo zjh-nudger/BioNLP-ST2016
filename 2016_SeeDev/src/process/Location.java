@@ -27,7 +27,7 @@ public class Location {
 			for (int j = 0; j < supportLineList.size(); j++) {
 				if(supportLineList.get(j).length() == 0) {
 					newList.add(supportLineList.get(j));
-					j++;
+					//j++;
 					continue;
 				}
 

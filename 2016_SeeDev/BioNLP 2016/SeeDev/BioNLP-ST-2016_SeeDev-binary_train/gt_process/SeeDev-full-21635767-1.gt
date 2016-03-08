@@ -28,6 +28,7 @@ microarray	microarray	NN	I-NP	O		192	202
 datasets	dataset	NNS	I-NP	O		203	211
 .	.	.	O	O		211	212
 
+Genes	Gene	NNS	B-NP	O		213	218
 encoding	encode	VBG	B-VP	O		219	227
 the	the	DT	B-NP	O		228	231
 known	known	JJ	I-NP	O		232	237
@@ -69,6 +70,7 @@ expression	expression	NN	I-NP	O		451	461
 profile	profile	NN	I-NP	O		462	469
 .	.	.	O	O		469	470
 
+In	In	IN	B-PP	O		471	473
 the	the	DT	B-NP	O		474	477
 triacylglycerol	triacylglycerol	NN	I-NP	O		478	493
 assembly	assembly	NN	I-NP	O		494	502
@@ -104,6 +106,7 @@ encoding	encode	VBG	B-VP	O		666	674
 oleosins	oleosin	NNS	B-NP	O		675	683
 .	.	.	O	O		683	684
 
+We	We	PRP	B-NP	O		685	687
 also	also	RB	B-ADVP	O		688	692
 detected	detect	VBD	B-VP	O		693	701
 a	a	DT	B-NP	O		702	703
@@ -184,6 +187,7 @@ biosynthetic	biosynthetic	JJ	I-NP	I-DNA		1063	1075
 genes	gene	NNS	I-NP	I-DNA		1076	1081
 .	.	.	O	O		1081	1082
 
+The	The	DT	B-NP	O		1083	1086
 conserved	conserve	VBN	I-NP	O		1087	1096
 CCAAT	CCAAT	NN	I-NP	B-DNA		1097	1102
 motifs	motif	NNS	I-NP	I-DNA		1103	1109

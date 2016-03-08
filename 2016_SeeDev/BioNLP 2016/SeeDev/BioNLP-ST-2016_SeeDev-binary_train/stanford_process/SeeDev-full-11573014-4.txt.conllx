@@ -6,6 +6,7 @@
 6	Development	_	PROPN	NNP	_	1	nmod:in	_	_	21	32
 7	.	_	PUNCT	.	_	1	punct	_	_	32	33
 
+1	Two	_	NUM	CD	_	2	nummod	_	_	34	37
 2	consequences	_	NOUN	NNS	_	19	nsubj	_	_	38	50
 3	of	_	ADP	IN	_	4	mark	_	_	51	53
 4	expressing	_	VERB	VBG	_	2	acl	_	_	54	64
@@ -36,6 +37,7 @@
 29	embryogenesis	_	NOUN	NNS	_	27	nmod:of	_	_	217	230
 30	.	_	PUNCT	.	_	9	punct	_	_	230	231
 
+1	First	_	ADV	RB	_	22	advmod	_	_	232	237
 2	,	_	PUNCT	,	_	22	punct	_	_	237	238
 3	although	_	SCONJ	IN	_	9	mark	_	_	239	247
 4	seedlings	_	NOUN	NNS	_	9	nsubj	_	_	248	257
@@ -64,6 +66,7 @@
 27	characteristics	_	NOUN	NNS	_	23	conj:negcc	_	_	403	418
 28	.	_	PUNCT	.	_	22	punct	_	_	418	419
 
+1	Cotyledons	_	NOUN	NNS	_	10	nsubj	_	_	420	430
 2	of	_	ADP	IN	_	4	case	_	_	431	433
 3	these	_	DET	DT	_	4	det	_	_	434	439
 4	seedlings	_	NOUN	NNS	_	1	nmod:of	_	_	440	449
@@ -109,6 +112,7 @@
 44	type	_	NOUN	NN	_	42	xcomp	_	_	695	699
 45	.	_	PUNCT	.	_	5	punct	_	_	699	700
 
+1	The	_	DET	DT	_	2	det	_	_	701	704
 2	reason	_	NOUN	NN	_	10	nsubj	_	_	705	711
 3	for	_	ADP	IN	_	5	case	_	_	712	715
 4	this	_	DET	DT	_	5	det	_	_	716	720
@@ -134,6 +138,7 @@
 24	levels	_	NOUN	NNS	_	20	nmod:in	_	_	833	839
 25	.	_	PUNCT	.	_	10	punct	_	_	839	840
 
+1	Second	_	X	LS	_	11	advmod	_	_	841	847
 2	,	_	PUNCT	,	_	11	punct	_	_	847	848
 3	regardless	_	ADV	RB	_	11	advmod	_	_	849	859
 4	of	_	ADP	IN	_	7	case	_	_	860	862
@@ -182,8 +187,9 @@
 47	-RRB-	_	PUNCT	-RRB-	_	42	punct	_	_	-1	4
 48	.	_	PUNCT	.	_	11	punct	_	_	32	33
 
-2	,	_	PUNCT	,	_	5	punct	_	_	237	238
-3	these	_	DET	DT	_	4	det	_	_	434	439
+1	Together	_	ADV	RB	_	5	advmod	_	_	1123	1131
+2	,	_	PUNCT	,	_	5	punct	_	_	1131	1132
+3	these	_	DET	DT	_	4	det	_	_	1133	1138
 4	results	_	NOUN	NNS	_	5	nsubj	_	_	1139	1146
 5	suggest	_	VERB	VBP	_	0	root	_	_	1147	1154
 6	that	_	SCONJ	IN	_	11	mark	_	_	1155	1159
@@ -204,6 +210,7 @@
 21	formation	_	NOUN	NN	_	18	dobj	_	_	1265	1274
 22	.	_	PUNCT	.	_	5	punct	_	_	1274	1275
 
+1	In	_	ADP	IN	_	3	case	_	_	1276	1278
 2	this	_	DET	DT	_	3	det	_	_	1279	1283
 3	regard	_	NOUN	NN	_	7	nmod:in	_	_	1284	1290
 4	,	_	PUNCT	,	_	7	punct	_	_	1290	1291
@@ -244,6 +251,7 @@
 39	plantlets	_	NOUN	NNS	_	35	nmod:of	_	_	1503	1512
 40	.	_	PUNCT	.	_	7	punct	_	_	1512	1513
 
+1	Transgenic	_	PROPN	NNP	_	2	nsubj	_	_	1514	1524
 2	seedlings	_	VERB	VBZ	_	0	root	_	_	1525	1534
 3	ectopically	_	ADV	RB	_	4	advmod	_	_	1535	1546
 4	expressing	_	VERB	VBG	_	2	xcomp	_	_	1547	1557
@@ -274,7 +282,8 @@
 29	-RRB-	_	PUNCT	-RRB-	_	28	punct	_	_	-1	4
 30	.	_	PUNCT	.	_	2	punct	_	_	32	33
 
-2	,	_	PUNCT	,	_	8	punct	_	_	237	238
+1	Moreover	_	ADV	RB	_	8	advmod	_	_	1697	1705
+2	,	_	PUNCT	,	_	8	punct	_	_	1705	1706
 3	postembryonic	_	ADJ	JJ	_	4	amod	_	_	1707	1720
 4	expression	_	NOUN	NN	_	10	nsubj	_	_	1721	1731
 5	of	_	ADP	IN	_	6	case	_	_	1732	1734
@@ -305,6 +314,7 @@
 30	LEC2	_	PROPN	NNP	_	28	nmod:with	_	_	1896	1900
 31	.	_	PUNCT	.	_	8	punct	_	_	1900	1901
 
+1	Recessive	_	ADJ	JJ	_	2	amod	_	_	1902	1911
 2	mutations	_	NOUN	NNS	_	12	nsubj	_	_	1912	1921
 3	in	_	ADP	IN	_	10	case	_	_	1922	1924
 4	the	_	DET	DT	_	10	det	_	_	1925	1928
@@ -332,9 +342,10 @@
 26	-RRB-	_	PUNCT	-RRB-	_	25	punct	_	_	-1	4
 27	.	_	PUNCT	.	_	12	punct	_	_	32	33
 
-2	,	_	PUNCT	,	_	5	punct	_	_	237	238
-3	LEC1	_	PROPN	NNP	_	5	nsubjpass	_	_	1580	1584
-4	is	_	AUX	VBZ	_	5	auxpass	_	_	1610	1612
+1	However	_	ADV	RB	_	5	advmod	_	_	2056	2063
+2	,	_	PUNCT	,	_	5	punct	_	_	2063	2064
+3	LEC1	_	PROPN	NNP	_	5	nsubjpass	_	_	2065	2069
+4	is	_	AUX	VBZ	_	5	auxpass	_	_	2070	2072
 5	expressed	_	VERB	VBN	_	0	root	_	_	2073	2082
 6	in	_	ADP	IN	_	8	case	_	_	2083	2085
 7	the	_	DET	DT	_	8	det	_	_	2086	2089
@@ -353,7 +364,8 @@
 20	-RRB-	_	PUNCT	-RRB-	_	19	punct	_	_	-1	4
 21	.	_	PUNCT	.	_	5	punct	_	_	32	33
 
-2	result	_	NOUN	NN	_	3	nsubj	_	_	1139	1145
+1	This	_	DET	DT	_	2	det	_	_	2144	2148
+2	result	_	NOUN	NN	_	3	nsubj	_	_	2149	2155
 3	suggests	_	VERB	VBZ	_	0	root	_	_	2156	2164
 4	that	_	SCONJ	IN	_	9	mark	_	_	2165	2169
 5	the	_	DET	DT	_	8	det	_	_	2170	2173
@@ -388,6 +400,7 @@
 34	mutants	_	NOUN	NNS	_	31	nmod:in	_	_	2339	2346
 35	.	_	PUNCT	.	_	3	punct	_	_	2346	2347
 
+1	Given	_	VERB	VBN	_	3	case	_	_	2348	2353
 2	our	_	PRON	PRP$	_	3	nmod:poss	_	_	2354	2357
 3	results	_	NOUN	NNS	_	6	nmod:given	_	_	2358	2365
 4	,	_	PUNCT	,	_	6	punct	_	_	2365	2366
@@ -404,6 +417,7 @@
 15	mutants	_	NOUN	NNS	_	12	nmod:in	_	_	2423	2430
 16	.	_	PUNCT	.	_	6	punct	_	_	2430	2431
 
+1	The	_	DET	DT	_	2	det	_	_	2432	2435
 2	ability	_	NOUN	NN	_	11	nsubj	_	_	2436	2443
 3	of	_	ADP	IN	_	4	case	_	_	2444	2446
 4	LEC2	_	PROPN	NNP	_	2	nmod:of	_	_	2447	2451
@@ -427,6 +441,7 @@
 22	competence	_	NOUN	NN	_	19	nmod:of	_	_	2559	2569
 23	.	_	PUNCT	.	_	11	punct	_	_	2569	2570
 
+1	Somatic	_	ADJ	JJ	_	3	amod	_	_	2571	2578
 2	plant	_	NOUN	NN	_	3	compound	_	_	2579	2584
 3	cells	_	NOUN	NNS	_	9	nsubj	_	_	2585	2590
 4	generally	_	ADV	RB	_	7	advmod	_	_	2591	2600
@@ -444,8 +459,9 @@
 16	-RRB-	_	PUNCT	-RRB-	_	15	punct	_	_	-1	4
 17	.	_	PUNCT	.	_	7	punct	_	_	32	33
 
-2	competence	_	NOUN	NN	_	5	nsubjpass	_	_	2559	2569
-3	is	_	AUX	VBZ	_	5	auxpass	_	_	2660	2662
+1	Embryogenic	_	ADJ	JJ	_	2	amod	_	_	2672	2683
+2	competence	_	NOUN	NN	_	5	nsubjpass	_	_	2684	2694
+3	is	_	AUX	VBZ	_	5	auxpass	_	_	2695	2697
 4	often	_	ADV	RB	_	5	advmod	_	_	2698	2703
 5	induced	_	VERB	VBN	_	0	root	_	_	2704	2711
 6	by	_	ADP	IN	_	7	mark	_	_	2712	2714
@@ -473,6 +489,7 @@
 28	hormone-LRB-s-RRB-	_	NOUN	NN	_	25	nmod:of	_	_	-1	17
 29	.	_	PUNCT	.	_	5	punct	_	_	32	33
 
+1	LEC2	_	PROPN	NNP	_	4	nsubj	_	_	69	73
 2	and	_	CONJ	CC	_	1	cc	_	_	149	152
 3	LEC1	_	PROPN	NNP	_	4	nsubj	_	_	1580	1584
 4	obviate	_	VERB	VBD	_	0	root	_	_	2883	2890
@@ -507,6 +524,7 @@
 33	embryogenesis	_	NOUN	NNS	_	30	nmod:of	_	_	3074	3087
 34	.	_	PUNCT	.	_	4	punct	_	_	3087	3088
 
+1	Our	_	PRON	PRP$	_	2	nmod:poss	_	_	3089	3092
 2	finding	_	NOUN	NN	_	26	nsubj	_	_	3093	3100
 3	that	_	SCONJ	IN	_	10	mark	_	_	3101	3105
 4	both	_	DET	DT	_	8	cc:preconj	_	_	3106	3110
@@ -548,6 +566,7 @@
 40	embryogenesis	_	NOUN	NNS	_	35	nmod:during	_	_	3306	3319
 41	.	_	PUNCT	.	_	26	punct	_	_	3319	3320
 
+1	Thus	_	ADV	RB	_	13	advmod	_	_	3321	3325
 2	,	_	PUNCT	,	_	13	punct	_	_	3325	3326
 3	the	_	DET	DT	_	4	det	_	_	3327	3330
 4	role	_	NOUN	NN	_	13	nsubj	_	_	3331	3335
@@ -567,6 +586,7 @@
 18	embryogenesis	_	NOUN	NNS	_	13	nmod:in	_	_	3416	3429
 19	.	_	PUNCT	.	_	13	punct	_	_	3429	3430
 
+1	Similarities	_	NOUN	NNS	_	13	nsubj	_	_	3431	3443
 2	in	_	ADP	IN	_	5	case	_	_	3444	3446
 3	the	_	DET	DT	_	5	det	_	_	3447	3450
 4	expression	_	NOUN	NN	_	5	compound	_	_	3451	3461
@@ -596,6 +616,7 @@
 28	formation	_	NOUN	NN	_	26	dobj	_	_	3621	3630
 29	.	_	PUNCT	.	_	13	punct	_	_	3630	3631
 
+1	This	_	DET	DT	_	2	det	_	_	3632	3636
 2	interpretation	_	NOUN	NN	_	4	nsubj	_	_	3637	3651
 3	is	_	VERB	VBZ	_	4	cop	_	_	3652	3654
 4	consistent	_	ADJ	JJ	_	0	root	_	_	3655	3665
@@ -630,10 +651,11 @@
 33	-RRB-	_	PUNCT	-RRB-	_	30	punct	_	_	-1	4
 34	.	_	PUNCT	.	_	4	punct	_	_	32	33
 
-2	LEC1	_	PROPN	NNP	_	9	nsubj	_	_	1580	1584
-3	and	_	CONJ	CC	_	2	cc	_	_	2255	2258
-4	LEC2	_	PROPN	NNP	_	9	nsubj	_	_	2387	2391
-5	are	_	VERB	VBP	_	7	cop	_	_	3130	3133
+1	Although	_	SCONJ	IN	_	7	mark	_	_	3835	3843
+2	LEC1	_	PROPN	NNP	_	9	nsubj	_	_	3844	3848
+3	and	_	CONJ	CC	_	2	cc	_	_	3849	3852
+4	LEC2	_	PROPN	NNP	_	9	nsubj	_	_	3853	3857
+5	are	_	VERB	VBP	_	7	cop	_	_	3858	3861
 6	each	_	DET	DT	_	7	advmod	_	_	3862	3866
 7	sufficient	_	ADJ	JJ	_	17	advcl	_	_	3867	3877
 8	to	_	PART	TO	_	9	mark	_	_	3878	3880
@@ -653,6 +675,7 @@
 22	functions	_	NOUN	NNS	_	17	dobj	_	_	3965	3974
 23	.	_	PUNCT	.	_	17	punct	_	_	3974	3975
 
+1	Mutations	_	NOUN	NNS	_	0	root	_	_	3976	3985
 2	in	_	ADP	IN	_	5	case	_	_	3986	3988
 3	each	_	DET	DT	_	5	det	_	_	3989	3993
 4	gene	_	NOUN	NN	_	5	compound	_	_	3994	3998
@@ -678,8 +701,9 @@
 24	-RRB-	_	PUNCT	-RRB-	_	19	punct	_	_	-1	4
 25	.	_	PUNCT	.	_	1	punct	_	_	32	33
 
-2	,	_	PUNCT	,	_	9	punct	_	_	237	238
-3	the	_	DET	DT	_	5	det	_	_	269	272
+1	Furthermore	_	ADV	RB	_	9	advmod	_	_	4099	4110
+2	,	_	PUNCT	,	_	9	punct	_	_	4110	4111
+3	the	_	DET	DT	_	5	det	_	_	4112	4115
 4	vast	_	ADJ	JJ	_	5	amod	_	_	4116	4120
 5	majority	_	NOUN	NN	_	18	nsubj	_	_	4121	4129
 6	of	_	ADP	IN	_	8	case	_	_	4130	4132
@@ -716,6 +740,7 @@
 37	-RRB-	_	PUNCT	-RRB-	_	36	punct	_	_	-1	4
 38	.	_	PUNCT	.	_	9	punct	_	_	32	33
 
+1	By	_	ADP	IN	_	2	case	_	_	4299	4301
 2	contrast	_	NOUN	NN	_	18	nmod:by	_	_	4302	4310
 3	,	_	PUNCT	,	_	18	punct	_	_	4310	4311
 4	35S∷LEC2	_	NUM	CD	_	5	nummod	_	_	4312	4320
@@ -745,6 +770,7 @@
 28	embryos	_	NOUN	NNS	_	25	nmod:to	_	_	4446	4453
 29	.	_	PUNCT	.	_	18	punct	_	_	4453	4454
 
+1	Thus	_	ADV	RB	_	7	advmod	_	_	4455	4459
 2	,	_	PUNCT	,	_	7	punct	_	_	4459	4460
 3	LEC1	_	PROPN	NNP	_	7	nsubj	_	_	4461	4465
 4	and	_	CONJ	CC	_	3	cc	_	_	4466	4469
@@ -761,6 +787,7 @@
 15	formation	_	NOUN	NN	_	12	nmod:in	_	_	4542	4551
 16	.	_	PUNCT	.	_	7	punct	_	_	4551	4552
 
+1	The	_	DET	DT	_	3	det	_	_	4553	4556
 2	precise	_	ADJ	JJ	_	3	amod	_	_	4557	4564
 3	roles	_	NOUN	NNS	_	14	nsubjpass	_	_	4565	4570
 4	of	_	ADP	IN	_	5	case	_	_	4571	4573

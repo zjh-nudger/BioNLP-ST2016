@@ -56,6 +56,7 @@
 56	-RRB-	_	PUNCT	-RRB-	_	51	punct	_	_	-1	4
 57	.	_	PUNCT	.	_	3	punct	_	_	163	164
 
+1	Complementary	_	ADJ	JJ	_	3	amod	_	_	333	346
 2	expression	_	NOUN	NN	_	3	compound	_	_	347	357
 3	analyses	_	NOUN	NNS	_	8	nsubj	_	_	358	366
 4	and	_	CONJ	CC	_	3	cc	_	_	367	370
@@ -91,6 +92,7 @@
 34	-RRB-	_	PUNCT	-RRB-	_	29	punct	_	_	-1	4
 35	.	_	PUNCT	.	_	8	punct	_	_	163	164
 
+1	The	_	DET	DT	_	5	det	_	_	565	568
 2	‘contrapuntal’	_	NOUN	NN	_	5	compound	_	_	569	583
 3	or	_	CONJ	CC	_	2	cc	_	_	584	586
 4	differential	_	NOUN	NN	_	5	compound	_	_	587	599
@@ -133,6 +135,7 @@
 41	respectively	_	ADV	RB	_	32	advmod	_	_	845	857
 42	.	_	PUNCT	.	_	20	punct	_	_	857	858
 
+1	As	_	SCONJ	IN	_	9	mark	_	_	859	861
 2	groups	_	NOUN	NNS	_	9	nsubj	_	_	862	868
 3	of	_	ADP	IN	_	4	case	_	_	869	871
 4	enzymes	_	NOUN	NNS	_	2	nmod:of	_	_	872	879
@@ -167,6 +170,7 @@
 33	elements	_	NOUN	NNS	_	25	dobj	_	_	1041	1049
 34	.	_	PUNCT	.	_	16	punct	_	_	1049	1050
 
+1	For	_	ADP	IN	_	2	case	_	_	1051	1054
 2	instance	_	NOUN	NN	_	19	nmod:for	_	_	1055	1063
 3	,	_	PUNCT	,	_	19	punct	_	_	1063	1064
 4	a	_	DET	DT	_	5	det	_	_	1065	1066
@@ -206,7 +210,8 @@
 38	-RRB-	_	PUNCT	-RRB-	_	33	punct	_	_	-1	4
 39	.	_	PUNCT	.	_	19	punct	_	_	163	164
 
-2	is	_	AUX	VBZ	_	3	auxpass	_	_	200	202
+1	This	_	DET	DT	_	3	nsubjpass	_	_	1246	1250
+2	is	_	AUX	VBZ	_	3	auxpass	_	_	1251	1253
 3	corroborated	_	VERB	VBN	_	0	root	_	_	1254	1266
 4	in	_	ADP	IN	_	6	case	_	_	1267	1269
 5	our	_	PRON	PRP$	_	6	nmod:poss	_	_	1270	1273
@@ -250,6 +255,7 @@
 43	-RRB-	_	PUNCT	-RRB-	_	42	punct	_	_	-1	4
 44	.	_	PUNCT	.	_	3	punct	_	_	163	164
 
+1	The	_	DET	DT	_	4	det	_	_	565	568
 2	WRI1	_	PROPN	NNP	_	4	compound	_	_	1471	1475
 3	transcription	_	NOUN	NN	_	4	compound	_	_	1476	1489
 4	factor	_	NOUN	NN	_	30	nsubj	_	_	1490	1496
@@ -297,6 +303,7 @@
 46	acids	_	NOUN	NNS	_	38	nmod:into	_	_	1731	1736
 47	.	_	PUNCT	.	_	28	punct	_	_	1736	1737
 
+1	This	_	DET	DT	_	2	det	_	_	1738	1742
 2	hypothesis	_	NOUN	NNS	_	4	nsubjpass	_	_	1743	1753
 3	was	_	AUX	VBD	_	4	auxpass	_	_	1754	1757
 4	based	_	VERB	VBN	_	0	root	_	_	1758	1763
@@ -341,10 +348,11 @@
 43	-RRB-	_	PUNCT	-RRB-	_	33	punct	_	_	-1	4
 44	.	_	PUNCT	.	_	4	punct	_	_	163	164
 
-2	this	_	DET	DT	_	3	det	_	_	198	202
-3	study	_	NOUN	NN	_	34	nmod:in	_	_	1274	1279
-4	,	_	PUNCT	,	_	34	punct	_	_	1496	1497
-5	the	_	DET	DT	_	6	det	_	_	1538	1541
+1	In	_	ADP	IN	_	3	case	_	_	1980	1982
+2	this	_	DET	DT	_	3	det	_	_	1983	1987
+3	study	_	NOUN	NN	_	34	nmod:in	_	_	1988	1993
+4	,	_	PUNCT	,	_	34	punct	_	_	1993	1994
+5	the	_	DET	DT	_	6	det	_	_	1995	1998
 6	use	_	NOUN	NN	_	34	nsubj	_	_	1999	2002
 7	of	_	ADP	IN	_	11	case	_	_	2003	2005
 8	the	_	DET	DT	_	11	det	_	_	2006	2009
@@ -397,7 +405,8 @@
 55	-RRB-	_	PUNCT	-RRB-	_	52	punct	_	_	-1	4
 56	.	_	PUNCT	.	_	34	punct	_	_	163	164
 
-2	,	_	PUNCT	,	_	16	punct	_	_	173	174
+1	Finally	_	ADV	RB	_	16	advmod	_	_	2245	2252
+2	,	_	PUNCT	,	_	16	punct	_	_	2252	2253
 3	EMSA	_	PROPN	NNP	_	16	nsubj	_	_	2254	2258
 4	-LRB-	_	PUNCT	-LRB-	_	5	punct	_	_	-1	4
 5	Figure	_	NOUN	NN	_	3	appos	_	_	1434	1440
@@ -438,6 +447,7 @@
 40	planta	_	NOUN	NN	_	38	nmod:in	_	_	2447	2453
 41	.	_	PUNCT	.	_	16	punct	_	_	2453	2454
 
+1	It	_	PRON	PRP	_	3	nsubj	_	_	2455	2457
 2	is	_	VERB	VBZ	_	3	cop	_	_	2458	2460
 3	noteworthy	_	ADJ	JJ	_	0	root	_	_	2461	2471
 4	that	_	SCONJ	IN	_	25	mark	_	_	2472	2476
@@ -486,6 +496,7 @@
 47	-RRB-	_	PUNCT	-RRB-	_	45	punct	_	_	-1	4
 48	.	_	PUNCT	.	_	3	punct	_	_	163	164
 
+1	This	_	DET	DT	_	3	det	_	_	1246	1250
 2	slight	_	ADJ	JJ	_	3	amod	_	_	2725	2731
 3	delay	_	NOUN	NN	_	17	nsubj	_	_	2732	2737
 4	in	_	ADP	IN	_	6	case	_	_	2738	2740
@@ -540,9 +551,10 @@
 53	-RRB-	_	PUNCT	-RRB-	_	40	punct	_	_	-1	4
 54	.	_	PUNCT	.	_	17	punct	_	_	163	164
 
-2	Cernac	_	PROPN	NNP	_	9	nsubj	_	_	1593	1599
-3	and	_	CONJ	CC	_	2	cc	_	_	1600	1603
-4	Benning	_	PROPN	NNP	_	9	nsubj	_	_	1604	1611
+1	Whereas	_	SCONJ	IN	_	9	mark	_	_	3055	3062
+2	Cernac	_	PROPN	NNP	_	9	nsubj	_	_	3063	3069
+3	and	_	CONJ	CC	_	2	cc	_	_	3070	3073
+4	Benning	_	PROPN	NNP	_	9	nsubj	_	_	3074	3081
 5	-LRB-	_	PUNCT	-LRB-	_	6	punct	_	_	-1	4
 6	2004	_	NUM	CD	_	2	appos	_	_	1613	1617
 7	-RRB-	_	PUNCT	-RRB-	_	6	punct	_	_	-1	4
@@ -605,6 +617,7 @@
 64	-RRB-	_	PUNCT	-RRB-	_	60	punct	_	_	-1	4
 65	.	_	PUNCT	.	_	26	punct	_	_	163	164
 
+1	Several	_	ADJ	JJ	_	2	amod	_	_	3420	3427
 2	factors	_	NOUN	NNS	_	24	nsubj	_	_	3428	3435
 3	like	_	ADP	IN	_	5	case	_	_	3436	3440
 4	growth	_	NOUN	NN	_	5	compound	_	_	3441	3447
@@ -633,6 +646,7 @@
 27	discrepancies	_	NOUN	NNS	_	24	dobj	_	_	3592	3605
 28	.	_	PUNCT	.	_	24	punct	_	_	3605	3606
 
+1	However	_	ADV	RB	_	6	advmod	_	_	3607	3614
 2	,	_	PUNCT	,	_	6	punct	_	_	3614	3615
 3	it	_	PRON	PRP	_	8	nsubj	_	_	3616	3618
 4	is	_	VERB	VBZ	_	6	cop	_	_	3619	3621
@@ -662,7 +676,8 @@
 28	-RRB-	_	PUNCT	-RRB-	_	23	punct	_	_	-1	4
 29	.	_	PUNCT	.	_	6	punct	_	_	163	164
 
-2	the	_	DET	DT	_	4	det	_	_	179	182
+1	In	_	ADP	IN	_	4	case	_	_	1980	1982
+2	the	_	DET	DT	_	4	det	_	_	1995	1998
 3	Ws	_	PROPN	NNP	_	4	compound	_	_	3749	3751
 4	background	_	NOUN	NN	_	23	nmod:in	_	_	3752	3762
 5	-LRB-	_	PUNCT	-LRB-	_	7	punct	_	_	-1	4
@@ -696,9 +711,10 @@
 33	-RRB-	_	PUNCT	-RRB-	_	32	punct	_	_	-1	4
 34	.	_	PUNCT	.	_	23	punct	_	_	163	164
 
-2	,	_	PUNCT	,	_	8	punct	_	_	173	174
-3	fatty	_	ADJ	JJ	_	5	amod	_	_	450	455
-4	acid	_	ADJ	JJ	_	5	amod	_	_	456	460
+1	Likewise	_	ADV	RB	_	8	advmod	_	_	3946	3954
+2	,	_	PUNCT	,	_	8	punct	_	_	3954	3955
+3	fatty	_	ADJ	JJ	_	5	amod	_	_	3956	3961
+4	acid	_	ADJ	JJ	_	5	amod	_	_	3962	3966
 5	concentration	_	NOUN	NN	_	8	nsubj	_	_	3967	3980
 6	is	_	VERB	VBZ	_	8	cop	_	_	3981	3983
 7	more	_	ADV	RBR	_	8	advmod	_	_	3984	3988
@@ -724,9 +740,10 @@
 27	-RRB-	_	PUNCT	-RRB-	_	18	punct	_	_	-1	4
 28	.	_	PUNCT	.	_	8	punct	_	_	163	164
 
-2	,	_	PUNCT	,	_	5	punct	_	_	173	174
-3	it	_	PRON	PRP	_	7	nsubj	_	_	881	883
-4	is	_	VERB	VBZ	_	5	cop	_	_	1016	1018
+1	Therefore	_	ADV	RB	_	5	advmod	_	_	4077	4086
+2	,	_	PUNCT	,	_	5	punct	_	_	4086	4087
+3	it	_	PRON	PRP	_	7	nsubj	_	_	4088	4090
+4	is	_	VERB	VBZ	_	5	cop	_	_	4091	4093
 5	tempting	_	ADJ	JJ	_	0	root	_	_	4094	4102
 6	to	_	PART	TO	_	7	mark	_	_	4103	4105
 7	speculate	_	VERB	VB	_	5	xcomp	_	_	4106	4115

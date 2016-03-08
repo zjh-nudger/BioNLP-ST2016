@@ -24,6 +24,7 @@ dcl	dcl	NN	B-NP	O		132	135
 embryos	embryo	NNS	I-NP	O		139	146
 .	.	.	O	O		146	147
 
+WUSCHEL	WUSCHEL	NN	B-NP	O		148	155
 -	-	HYPH	B-PP	O		155	156
 related	relate	VBN	B-NP	O		156	163
 HOMEOBOX2	HOMEOBOX2	NN	I-NP	B-RNA		164	173
@@ -51,6 +52,7 @@ et al.	et_al.	NNP	I-NP	O		276	282
 )	)	)	O	O		287	288
 .	.	.	O	O		288	289
 
+After	After	IN	B-SBAR	O		290	295
 the	the	DT	B-NP	O		296	299
 two	two	CD	I-NP	O		300	303
 /	/	SYM	I-NP	O		303	304
@@ -114,6 +116,7 @@ WOX2	WOX2	NN	I-NP	B-protein		558	562
 expression	expression	NN	I-NP	O		563	573
 .	.	.	O	O		573	574
 
+Similar	Similar	JJ	B-ADJP	O		575	582
 to	to	TO	B-PP	O		583	585
 WOX2	WOX2	NN	B-NP	B-protein		586	590
 ,	,	,	O	O		590	591
@@ -147,6 +150,7 @@ et al.	et_al.	NNP	I-NP	O		732	738
 )	)	)	O	O		743	744
 .	.	.	O	O		744	745
 
+Approximately	Approximately	RB	B-NP	O		746	759
 89%	89%	CD	I-NP	O		760	763
 (	(	(	O	O		764	765
 72	72	CD	B-NP	O		765	767
@@ -197,6 +201,7 @@ Fig	Fig	NNP	I-NP	O		995	998
 )	)	)	O	O		1001	1002
 .	.	.	O	O		1002	1003
 
+In	In	IN	B-PP	O		1004	1006
 contrast	contrast	NN	B-NP	O		1007	1015
 to	to	TO	B-PP	O		1016	1018
 WOX2	WOX2	NN	B-NP	B-protein		1019	1023
@@ -225,6 +230,7 @@ et al.	et_al.	NNP	I-NP	O		1132	1138
 )	)	)	O	O		1143	1144
 .	.	.	O	O		1144	1145
 
+WOX8	WOX8	NN	B-NP	B-RNA		1146	1150
 transcripts	transcript	NNS	I-NP	I-RNA		1151	1162
 were	be	VBD	B-VP	O		1163	1167
 detected	detect	VBN	I-VP	O		1168	1176
@@ -272,6 +278,7 @@ Fig	Fig	NNP	B-NP	O		1368	1371
 )	)	)	O	O		1375	1376
 .	.	.	O	O		1376	1377
 
+Thus	Thus	RB	B-ADVP	O		1378	1382
 ,	,	,	O	O		1382	1383
 dcl1	dcl1	NN	B-NP	O		1384	1388
 embryos	embryo	NNS	I-NP	O		1389	1396
@@ -299,6 +306,7 @@ cell	cell	NN	I-NP	O		1511	1515
 stage	stage	NN	I-NP	O		1516	1521
 .	.	.	O	O		1521	1522
 
+To	To	TO	B-VP	O		1523	1525
 test	test	VB	I-VP	O		1526	1530
 whether	whether	IN	B-SBAR	O		1531	1538
 DCL1	DCL1	NN	B-NP	B-protein		1539	1543
@@ -324,6 +332,7 @@ radial	radial	JJ	I-NP	O		1655	1661
 axis	axis	NN	I-NP	O		1662	1666
 .	.	.	O	O		1666	1667
 
+A. thaliana	A._thaliana	NN	B-NP	O		1668	1679
 MERISTEM	MERISTEM	NN	I-NP	O		1680	1688
 LAYER1	LAYER1	NN	I-NP	O		1689	1695
 (	(	(	O	O		1696	1697
@@ -362,6 +371,7 @@ et al.	et_al.	FW	I-NP	O		1853	1859
 )	)	)	O	O		1864	1865
 .	.	.	O	O		1865	1866
 
+ATML1	ATML1	NN	B-NP	B-protein		1867	1872
 and	and	CC	I-NP	O		1873	1876
 PDF1	PDF1	NN	I-NP	O		1877	1881
 transcripts	transcript	NNS	I-NP	O		1882	1893
@@ -412,6 +422,7 @@ Fig	Fig	NNP	I-NP	O		2119	2122
 )	)	)	O	O		2125	2126
 .	.	.	O	O		2126	2127
 
+This	This	DT	B-NP	O		2128	2132
 observation	observation	NN	I-NP	O		2133	2144
 was	be	VBD	B-VP	O		2145	2148
 consistent	consistent	JJ	B-ADJP	O		2149	2159
@@ -448,6 +459,7 @@ et al.	et_al.	NNP	I-NP	O		2329	2335
 )	)	)	O	O		2340	2341
 .	.	.	O	O		2341	2342
 
+Consistent	Consistent	JJ	B-ADJP	O		2343	2353
 with	with	IN	B-PP	O		2354	2358
 the	the	DT	B-NP	O		2359	2362
 reduction	reduction	NN	I-NP	O		2363	2372
@@ -486,6 +498,7 @@ Fig	Fig	NNP	I-NP	O		2542	2545
 )	)	)	O	O		2548	2549
 .	.	.	O	O		2549	2550
 
+Moreover	Moreover	RB	B-ADVP	O		2551	2559
 ,	,	,	O	O		2559	2560
 vascular	vascular	JJ	B-NP	O		2561	2569
 primordium	primordium	NN	I-NP	O		2570	2580
@@ -508,6 +521,7 @@ Fig	Fig	NNP	I-NP	O		2663	2666
 )	)	)	O	O		2669	2670
 .	.	.	O	O		2670	2671
 
+In	In	IN	B-PP	O		2672	2674
 addition	addition	NN	B-NP	O		2675	2683
 to	to	TO	B-PP	O		2684	2686
 the	the	DT	B-NP	O		2687	2690
@@ -537,6 +551,7 @@ Fig	Fig	NNP	B-NP	O		2818	2821
 )	)	)	O	O		2825	2826
 .	.	.	O	O		2826	2827
 
+Furthermore	Furthermore	RB	B-ADVP	O		2828	2839
 ,	,	,	O	O		2839	2840
 hypophysis	hypophysis	NN	B-NP	B-protein		2841	2851
 markers	marker	NNS	I-NP	I-protein		2852	2859
@@ -559,6 +574,7 @@ Fig	Fig	NNP	I-NP	O		2928	2931
 )	)	)	O	O		2934	2935
 .	.	.	O	O		2935	2936
 
+Considered	Consider	VBN	B-VP	O		2937	2947
 together	together	RB	B-ADVP	O		2948	2956
 with	with	IN	B-PP	O		2957	2961
 the	the	DT	B-NP	O		2962	2965
@@ -587,6 +603,7 @@ dcl1	dcl1	NN	B-NP	O		3108	3112
 embryos	embryo	NNS	I-NP	O		3113	3120
 .	.	.	O	O		3120	3121
 
+The	The	DT	B-NP	O		3122	3125
 plant	plant	NN	I-NP	B-protein		3126	3131
 hormone	hormone	NN	I-NP	I-protein		3132	3139
 auxin	auxin	NN	I-NP	I-protein		3140	3145
@@ -620,6 +637,7 @@ et al.	et_al.	FW	B-NP	O		3304	3310
 )	)	)	O	O		3315	3316
 .	.	.	O	O		3316	3317
 
+Because	Because	IN	B-SBAR	O		3318	3325
 the	the	DT	B-NP	O		3326	3329
 auxin	auxin	NN	I-NP	B-DNA		3330	3335
 signaling	signaling	NN	I-NP	I-DNA		3336	3345
@@ -683,6 +701,7 @@ auxin	auxin	NN	I-NP	O		3663	3668
 signaling	signaling	NN	I-NP	O		3669	3678
 .	.	.	O	O		3678	3679
 
+Although	Although	IN	B-SBAR	O		3680	3688
 presumptive	presumptive	JJ	B-NP	B-cell_line		3689	3700
 dcl	dcl	NN	I-NP	I-cell_line		3701	3704
 1-5	1-5	CD	I-NP	I-cell_line		3704	3707
@@ -708,6 +727,7 @@ Fig	Fig	NNP	B-NP	O		3834	3837
 )	)	)	O	O		3841	3842
 .	.	.	O	O		3842	3843
 
+Therefore	Therefore	RB	B-ADVP	O		3844	3853
 ,	,	,	O	O		3853	3854
 DCL1	DCL1	NN	B-NP	B-protein		3855	3859
 is	be	VBZ	B-VP	O		3860	3862
@@ -723,6 +743,7 @@ auxin	auxin	NN	B-NP	O		3912	3917
 signaling	signaling	NN	I-NP	O		3918	3927
 .	.	.	O	O		3927	3928
 
+Given	Give	VBN	B-PP	O		3929	3934
 the	the	DT	B-NP	O		3935	3938
 severe	severe	JJ	I-NP	O		3939	3945
 subprotodermal	subprotodermal	JJ	I-NP	O		3946	3960
@@ -758,6 +779,7 @@ signaling	signaling	NN	I-NP	I-protein		4129	4138
 factors	factor	NNS	I-NP	I-protein		4139	4146
 .	.	.	O	O		4146	4147
 
+Therefore	Therefore	RB	B-ADVP	O		4148	4157
 ,	,	,	O	O		4157	4158
 the	the	DT	B-NP	O		4159	4162
 auxin	auxin	NN	I-NP	O		4163	4168

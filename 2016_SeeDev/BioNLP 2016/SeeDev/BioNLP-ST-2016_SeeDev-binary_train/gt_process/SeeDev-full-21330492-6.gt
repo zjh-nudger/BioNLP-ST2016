@@ -27,6 +27,7 @@ in	in	IN	B-PP	O		182	184
 development	development	NN	B-NP	O		185	196
 .	.	.	O	O		196	197
 
+Our	Our	PRP$	B-NP	O		198	201
 microarray	microarray	NN	I-NP	O		202	212
 analysis	analysis	NN	I-NP	O		213	221
 indicated	indicate	VBD	B-VP	O		222	231
@@ -48,6 +49,7 @@ dcl	dcl	NN	B-NP	B-cell_line		286	289
 1-15	1-15	CD	I-NP	I-cell_line		289	293
 .	.	.	O	O		293	294
 
+These	These	DT	B-NP	O		295	300
 genes	gene	NNS	I-NP	O		301	306
 have	have	VBP	B-VP	O		307	311
 previously	previously	RB	I-VP	O		312	322
@@ -71,6 +73,7 @@ in	in	IN	B-PP	O		415	417
 seedlings	seedling	NNS	B-NP	O		418	427
 .	.	.	O	O		427	428
 
+Interestingly	Interestingly	RB	B-ADVP	O		429	442
 ,	,	,	O	O		442	443
 several	several	JJ	B-NP	O		444	451
 other	other	JJ	I-NP	O		452	457
@@ -103,6 +106,7 @@ ASIL2	ASIL2	NN	B-NP	B-protein		566	571
 )	)	)	O	O		571	572
 .	.	.	O	O		572	573
 
+It	It	PRP	B-NP	O		574	576
 has	have	VBZ	B-VP	O		577	580
 already	already	RB	I-VP	O		581	588
 been	be	VBN	I-VP	O		589	593
@@ -149,6 +153,7 @@ et al.	et_al.	FW	I-NP	O		781	787
 )	)	)	O	O		793	794
 .	.	.	O	O		794	795
 
+We	We	PRP	B-NP	O		796	798
 analyzed	analyze	VBD	B-VP	O		799	807
 single	single	JJ	B-NP	O		808	814
 and	and	CC	I-NP	O		815	818
@@ -185,6 +190,7 @@ miRNA	miRNA	NN	B-NP	B-DNA		990	995
 targets	target	NNS	I-NP	I-DNA		996	1003
 .	.	.	O	O		1003	1004
 
+Thus	Thus	RB	B-ADVP	O		1005	1009
 ,	,	,	O	O		1009	1010
 our	our	PRP$	B-NP	O		1011	1014
 studies	study	NNS	I-NP	O		1015	1022

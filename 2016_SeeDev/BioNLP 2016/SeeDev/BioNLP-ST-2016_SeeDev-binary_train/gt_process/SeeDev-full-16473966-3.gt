@@ -37,6 +37,7 @@ receptor	receptor	NN	I-NP	I-protein		177	185
 SERK1	SERK1	NN	I-NP	I-protein		186	191
 .	.	.	O	O		191	192
 
+Based	Base	VBN	B-PP	O		193	198
 on	on	IN	B-PP	O		199	201
 our	our	PRP$	B-NP	O		202	205
 data	datum	NNS	I-NP	O		206	210
@@ -57,6 +58,7 @@ general	general	JJ	B-NP	O		290	297
 use	use	NN	I-NP	O		298	301
 .	.	.	O	O		301	302
 
+Compared	Compare	VBN	B-PP	O		303	311
 with	with	IN	B-PP	O		312	316
 other	other	JJ	B-NP	O		317	322
 techniques	technique	NNS	I-NP	O		323	333
@@ -131,6 +133,7 @@ Bouwmeester	Bouwmeester	NNP	I-NP	O		734	745
 )	)	)	O	O		751	752
 .	.	.	O	O		752	753
 
+Another	Another	DT	B-NP	O		754	761
 advantage	advantage	NN	I-NP	O		762	771
 is	be	VBZ	B-VP	O		772	774
 that	that	IN	B-SBAR	O		775	779
@@ -151,6 +154,7 @@ fusion	fusion	NN	I-NP	B-protein		859	865
 proteins	protein	NNS	I-NP	I-protein		866	874
 .	.	.	O	O		874	875
 
+This	This	DT	B-NP	O		876	880
 allows	allow	VBZ	B-VP	O		881	887
 predictions	prediction	NNS	B-NP	O		888	899
 concerning	concern	VBG	B-PP	O		900	910
@@ -178,6 +182,7 @@ et al.	et_al.	NNP	I-NP	O		1026	1032
 )	)	)	O	O		1038	1039
 .	.	.	O	O		1039	1040
 
+Other	Other	JJ	B-NP	O		1041	1046
 tags	tag	NNS	I-NP	O		1047	1051
 have	have	VBP	B-VP	O		1052	1056
 been	be	VBN	I-VP	O		1057	1061
@@ -226,6 +231,7 @@ et al.	et_al.	NNP	I-NP	O		1298	1304
 )	)	)	O	O		1310	1311
 .	.	.	O	O		1311	1312
 
+Our	Our	PRP$	B-NP	O		1313	1316
 procedure	procedure	NN	I-NP	O		1317	1326
 differs	differ	VBZ	B-VP	O		1327	1334
 in	in	IN	B-PP	O		1335	1337
@@ -264,6 +270,7 @@ constitutive	constitutive	JJ	I-NP	B-DNA		1519	1531
 promoters	promoter	NNS	I-NP	I-DNA		1532	1541
 .	.	.	O	O		1541	1542
 
+Also	Also	RB	B-ADVP	O		1543	1547
 ,	,	,	O	O		1547	1548
 we	we	PRP	B-NP	O		1549	1551
 used	use	VBD	B-VP	O		1552	1556
@@ -283,6 +290,7 @@ used	use	VBN	B-VP	O		1627	1631
 previously	previously	RB	B-ADVP	O		1632	1642
 .	.	.	O	O		1642	1643
 
+SERK1	SERK1	NN	B-NP	B-protein		1644	1649
 and	and	CC	I-NP	O		1650	1653
 BR	BR	NN	I-NP	B-protein		1654	1656
 Signaling	Signaling	NN	I-NP	I-protein		1657	1666
@@ -342,6 +350,7 @@ SERK1	SERK1	NN	I-NP	B-protein		1900	1905
 complex	complex	NN	I-NP	I-protein		1906	1913
 .	.	.	O	O		1913	1914
 
+This	This	DT	B-NP	O		1915	1919
 finding	finding	NN	I-NP	O		1920	1927
 implies	imply	VBZ	B-VP	O		1928	1935
 that	that	IN	B-SBAR	O		1936	1940
@@ -356,6 +365,7 @@ BR	BR	NN	B-NP	B-protein		1987	1989
 signaling	signaling	NN	I-NP	O		1990	1999
 .	.	.	O	O		1999	2000
 
+Recently	Recently	RB	B-ADVP	O		2001	2009
 ,	,	,	O	O		2009	2010
 we	we	PRP	B-NP	O		2011	2013
 showed	show	VBD	B-VP	O		2014	2020
@@ -393,6 +403,7 @@ et al.	et_al.	FW	I-ADVP	O		2190	2196
 )	)	)	O	O		2202	2203
 .	.	.	O	O		2203	2204
 
+Further	Further	JJ	B-NP	O		2205	2212
 biochemical	biochemical	JJ	I-NP	O		2213	2224
 evidence	evidence	NN	I-NP	O		2225	2233
 comes	come	VBZ	B-VP	O		2234	2239
@@ -420,6 +431,7 @@ of	of	IN	B-PP	O		2345	2347
 protoplasts	protoplast	NNS	B-NP	B-cell_type		2348	2359
 .	.	.	O	O		2359	2360
 
+FRET	FRET	NN	B-NP	O		2361	2365
 studies	study	NNS	I-NP	O		2366	2373
 between	between	IN	B-PP	O		2374	2381
 SERK1	SERK1	NN	B-NP	B-protein		2382	2387
@@ -454,6 +466,7 @@ et al.	et_al.	NNP	I-NP	O		2510	2516
 )	)	)	O	O		2523	2524
 .	.	.	O	O		2524	2525
 
+Our	Our	PRP$	B-NP	O		2526	2529
 results	result	NNS	I-NP	O		2530	2537
 showed	show	VBD	B-VP	O		2538	2544
 that	that	IN	B-SBAR	O		2545	2549
@@ -486,6 +499,7 @@ or	or	CC	O	O		2703	2705
 internalization	internalization	NN	B-NP	O		2706	2721
 .	.	.	O	O		2721	2722
 
+Another	Another	DT	B-NP	O		2723	2730
 piece	piece	NN	I-NP	O		2731	2736
 of	of	IN	B-PP	O		2737	2739
 evidence	evidence	NN	B-NP	O		2740	2748
@@ -533,6 +547,7 @@ Li	Li	NNP	I-NP	O		2965	2967
 )	)	)	O	O		2973	2974
 .	.	.	O	O		2974	2975
 
+Genetic	Genetic	JJ	B-NP	O		2976	2983
 analysis	analysis	NN	I-NP	O		2984	2992
 of	of	IN	B-PP	O		2993	2995
 the	the	DT	B-NP	O		2996	2999
@@ -565,6 +580,7 @@ SERK3–BRI1	SERK3–BRI1	NN	B-NP	O		3146	3156
 interactions	interaction	NNS	I-NP	O		3157	3169
 .	.	.	O	O		3169	3170
 
+Notably	Notably	RB	B-ADVP	O		3171	3178
 ,	,	,	O	O		3178	3179
 none	none	NN	B-NP	O		3180	3184
 of	of	IN	B-PP	O		3185	3187
@@ -609,6 +625,7 @@ SERK1	SERK1	NN	I-NP	B-protein		3338	3343
 complex	complex	NN	I-NP	I-protein		3344	3351
 .	.	.	O	O		3351	3352
 
+It	It	PRP	B-NP	O		3353	3355
 is	be	VBZ	B-VP	O		3356	3358
 unlikely	unlikely	JJ	B-ADJP	O		3359	3367
 that	that	IN	B-SBAR	O		3368	3372
@@ -642,6 +659,7 @@ same	same	JJ	I-NP	O		3488	3492
 time	time	NN	I-NP	O		3493	3497
 .	.	.	O	O		3497	3498
 
+Especially	Especially	RB	B-ADVP	O		3499	3509
 because	because	IN	B-SBAR	O		3510	3517
 proteins	protein	NNS	B-NP	O		3518	3526
 such	such	JJ	B-PP	O		3527	3531
@@ -689,6 +707,7 @@ be	be	VB	I-VP	O		3767	3769
 expected	expect	VBN	I-VP	O		3770	3778
 .	.	.	O	O		3778	3779
 
+An	An	DT	B-NP	O		3780	3782
 indication	indication	NN	I-NP	O		3783	3793
 of	of	IN	B-PP	O		3794	3796
 the	the	DT	B-NP	O		3797	3800
@@ -725,6 +744,7 @@ et al.	et_al.	NNP	I-NP	O		3969	3975
 )	)	)	O	O		3981	3982
 .	.	.	O	O		3982	3983
 
+It	It	PRP	B-NP	O		3984	3986
 was	be	VBD	B-VP	O		3987	3990
 proposed	propose	VBN	I-VP	O		3991	3999
 that	that	IN	B-SBAR	O		4000	4004
@@ -754,6 +774,7 @@ Li	Li	NNP	I-NP	O		4107	4109
 )	)	)	O	O		4115	4116
 .	.	.	O	O		4116	4117
 
+This	This	DT	B-NP	O		4118	4122
 was	be	VBD	B-VP	O		4123	4126
 recently	recently	RB	I-VP	O		4127	4135
 confirmed	confirm	VBN	I-VP	O		4136	4145
@@ -778,6 +799,7 @@ et al.	et_al.	NNP	I-NP	O		4243	4249
 )	)	)	O	O		4256	4257
 .	.	.	O	O		4257	4258
 
+In	In	IN	B-PP	O		4259	4261
 that	that	DT	B-NP	O		4262	4266
 work	work	NN	I-NP	O		4267	4271
 ,	,	,	O	O		4271	4272
@@ -803,6 +825,7 @@ brassinolide	brassinolide	NN	B-NP	O		4361	4373
 dependent	dependent	JJ	I-ADJP	O		4374	4383
 .	.	.	O	O		4383	4384
 
+Because	Because	IN	B-SBAR	O		4385	4392
 we	we	PRP	B-NP	O		4393	4395
 did	do	VBD	B-VP	O		4396	4399
 not	not	RB	I-VP	O		4400	4403
@@ -838,6 +861,7 @@ SERK1	SERK1	NN	I-NP	B-protein		4567	4572
 protein	protein	NN	I-NP	I-protein		4573	4580
 .	.	.	O	O		4580	4581
 
+This	This	DT	B-NP	O		4582	4586
 notion	notion	NN	I-NP	O		4587	4593
 seems	seem	VBZ	B-VP	O		4594	4599
 to	to	TO	I-VP	O		4600	4602
@@ -860,6 +884,7 @@ in	in	IN	B-PP	O		4689	4691
 seedlings	seedling	NNS	B-NP	O		4692	4701
 .	.	.	O	O		4701	4702
 
+Although	Although	IN	B-SBAR	O		4703	4711
 our	our	PRP$	B-NP	O		4712	4715
 results	result	NNS	I-NP	O		4716	4723
 do	do	VBP	B-VP	O		4724	4726
@@ -906,6 +931,7 @@ TGF	TGF	NN	B-NP	I-protein		4928	4931
 receptors	receptor	NNS	B-NP	I-protein		4935	4944
 .	.	.	O	O		4944	4945
 
+Each	Each	DT	B-NP	O		4946	4950
 type	type	NN	I-NP	O		4951	4955
 of	of	IN	B-PP	O		4956	4958
 TGF	TGF	NN	B-NP	B-protein		4959	4962
@@ -927,6 +953,7 @@ cell	cell	NN	I-NP	O		5027	5031
 surface	surface	NN	I-NP	O		5032	5039
 .	.	.	O	O		5039	5040
 
+TGF	TGF	NN	B-NP	B-protein		5041	5044
 -	-	HYPH	I-NP	O		5044	5045
 ß	ß	NN	I-NP	O		5045	5046
 binding	binding	NN	I-NP	O		5047	5054
@@ -965,6 +992,7 @@ TGF	TGF	NN	I-NP	B-protein		5242	5245
 signal	signal	NN	I-NP	O		5248	5254
 .	.	.	O	O		5254	5255
 
+Combinatorial	Combinatorial	JJ	B-NP	O		5256	5269
 interactions	interaction	NNS	I-NP	O		5270	5282
 in	in	IN	B-PP	O		5283	5285
 the	the	DT	B-NP	O		5286	5289
@@ -986,6 +1014,7 @@ same	same	JJ	I-NP	O		5397	5401
 ligand	ligand	NN	I-NP	O		5402	5408
 .	.	.	O	O		5408	5409
 
+One	One	CD	B-NP	O		5410	5413
 receptor	receptor	NN	I-NP	O		5414	5422
 combination	combination	NN	I-NP	O		5423	5434
 often	often	RB	B-ADVP	O		5435	5440
@@ -1015,6 +1044,7 @@ Derynck	Derynck	NNP	I-NP	O		5578	5585
 )	)	)	O	O		5591	5592
 .	.	.	O	O		5592	5593
 
+This	This	DT	B-NP	O		5594	5598
 so-called	so-called	JJ	I-NP	O		5599	5608
 tetrameric	tetrameric	JJ	I-NP	O		5609	5619
 model	model	NN	I-NP	O		5620	5625
@@ -1037,6 +1067,7 @@ et al.	et_al.	NNP	I-NP	O		5685	5691
 )	)	)	O	O		5698	5699
 .	.	.	O	O		5699	5700
 
+Other	Other	JJ	B-NP	O		5701	5706
 SERK1	SERK1	NN	I-NP	O		5707	5712
 Complex	Complex	NN	I-NP	O		5713	5720
 Components	Component	NNS	I-NP	O		5721	5731
@@ -1078,6 +1109,7 @@ et al.	et_al.	FW	I-NP	O		5929	5935
 )	)	)	O	O		5941	5942
 .	.	.	O	O		5942	5943
 
+Collectively	Collectively	RB	B-ADVP	O		5944	5956
 ,	,	,	O	O		5956	5957
 these	these	DT	B-NP	O		5958	5963
 proteins	protein	NNS	I-NP	O		5964	5972
@@ -1101,6 +1133,7 @@ degradation	degradation	NN	I-NP	O		6075	6086
 respectively	respectively	RB	B-ADVP	O		6088	6100
 .	.	.	O	O		6100	6101
 
+It	It	PRP	B-NP	O		6102	6104
 is	be	VBZ	B-VP	O		6105	6107
 likely	likely	JJ	B-ADJP	O		6108	6114
 that	that	IN	B-SBAR	O		6115	6119
@@ -1113,6 +1146,7 @@ trafficking	trafficking	NN	I-NP	O		6159	6170
 functions	function	NNS	I-NP	O		6171	6180
 .	.	.	O	O		6180	6181
 
+Previously	Previously	RB	B-ADVP	O		6182	6192
 ,	,	,	O	O		6192	6193
 it	it	PRP	B-NP	O		6194	6196
 was	be	VBD	B-VP	O		6197	6200
@@ -1133,6 +1167,7 @@ et al.	et_al.	FW	B-ADJP	O		6256	6262
 )	)	)	O	O		6268	6269
 .	.	.	O	O		6269	6270
 
+The	The	DT	B-NP	O		6271	6274
 results	result	NNS	I-NP	O		6275	6282
 presented	present	VBN	B-VP	O		6283	6292
 here	here	RB	B-ADVP	O		6293	6297
@@ -1178,6 +1213,7 @@ two-hybrid	two-hybrid	JJ	I-NP	O		6512	6522
 screening	screening	NN	I-NP	O		6523	6532
 .	.	.	O	O		6532	6533
 
+The	The	DT	B-NP	O		6534	6537
 kinase	kinase	NN	I-NP	B-protein		6538	6544
 domain	domain	NN	I-NP	I-protein		6545	6551
 of	of	IN	B-PP	O		6552	6554
@@ -1206,6 +1242,7 @@ et al.	et_al.	FW	I-ADVP	O		6648	6654
 )	)	)	O	O		6660	6661
 .	.	.	O	O		6661	6662
 
+In	In	FW	B-ADVP	O		6663	6665
 vitro	vitro	FW	I-ADVP	O		6666	6671
 ,	,	,	O	O		6671	6672
 the	the	DT	B-NP	O		6673	6676
@@ -1217,6 +1254,7 @@ phosphorylation	phosphorylation	NN	I-NP	O		6698	6713
 dependent	dependent	JJ	I-ADJP	O		6714	6723
 .	.	.	O	O		6723	6724
 
+In	In	FW	B-ADVP	O		6725	6727
 vivo	vivo	FW	I-ADVP	O		6728	6732
 ,	,	,	O	O		6732	6733
 it	it	PRP	B-NP	O		6734	6736
@@ -1256,6 +1294,7 @@ et al.	et_al.	FW	I-ADVP	O		6911	6917
 )	)	)	O	O		6923	6924
 .	.	.	O	O		6924	6925
 
+For	For	IN	B-PP	O		6926	6929
 two	two	CD	B-NP	O		6930	6933
 other	other	JJ	I-NP	O		6934	6939
 LRR	LRR	NN	I-NP	B-protein		6940	6943
@@ -1308,6 +1347,7 @@ SERK1	SERK1	NN	I-NP	B-protein		7146	7151
 receptor	receptor	NN	I-NP	I-protein		7152	7160
 .	.	.	O	O		7160	7161
 
+CDC48	CDC48	NN	B-NP	B-protein		7162	7167
 protein	protein	NN	I-NP	I-protein		7168	7175
 assembles	assemble	VBZ	B-VP	O		7176	7185
 mainly	mainly	RB	B-ADVP	O		7186	7192
@@ -1322,6 +1362,7 @@ et al.	et_al.	NNP	I-NP	O		7221	7227
 )	)	)	O	O		7233	7234
 .	.	.	O	O		7234	7235
 
+In	In	IN	B-PP	O		7236	7238
 Arabidopsis	Arabidopsis	NN	B-NP	B-cell_line		7239	7250
 suspension	suspension	NN	I-NP	I-cell_line		7251	7261
 -	-	HYPH	B-NP	I-cell_line		7261	7262
@@ -1346,6 +1387,7 @@ of	of	IN	B-PP	O		7348	7350
 kD	kD	NN	I-NP	I-protein		7355	7357
 .	.	.	O	O		7357	7358
 
+Recently	Recently	RB	B-ADVP	O		7359	7367
 ,	,	,	O	O		7367	7368
 it	it	PRP	B-NP	O		7369	7371
 was	be	VBD	B-VP	O		7372	7375
@@ -1389,6 +1431,7 @@ et al.	et_al.	FW	I-ADVP	O		7587	7593
 )	)	)	O	O		7599	7600
 .	.	.	O	O		7600	7601
 
+Plant	Plant	NN	B-NP	B-protein		7602	7607
 14-3	14-3	CD	I-NP	I-protein		7608	7612
 -3	-3	CD	I-NP	I-protein		7612	7614
 proteins	protein	NNS	I-NP	I-protein		7615	7623
@@ -1409,6 +1452,7 @@ et al.	et_al.	FW	I-ADVP	O		7693	7699
 )	)	)	O	O		7705	7706
 .	.	.	O	O		7706	7707
 
+Five	Five	CD	B-NP	O		7708	7712
 Arabidopsis	Arabidopsis	NNP	I-NP	O		7713	7724
 14-3	14-3	CD	I-NP	O		7725	7729
 -3	-3	CD	I-NP	O		7729	7731
@@ -1461,6 +1505,7 @@ et al.	et_al.	NNP	I-NP	O		7939	7945
 )	)	)	O	O		7951	7952
 .	.	.	O	O		7952	7953
 
+Two	Two	CD	B-NP	O		7954	7957
 transcription	transcription	NN	I-NP	B-protein		7958	7971
 factors	factor	NNS	I-NP	I-protein		7972	7979
 were	be	VBD	B-VP	O		7980	7984
@@ -1486,6 +1531,7 @@ finger	finger	NN	I-NP	I-protein		8072	8078
 protein	protein	NN	I-NP	I-protein		8079	8086
 .	.	.	O	O		8086	8087
 
+Most	Most	RBS	B-ADVP	O		8088	8092
 likely	likely	RB	I-ADVP	O		8093	8099
 ,	,	,	O	O		8099	8100
 these	these	DT	B-NP	O		8101	8106
@@ -1508,6 +1554,7 @@ adaptor	adaptor	NN	B-NP	B-protein		8194	8201
 proteins	protein	NNS	I-NP	I-protein		8202	8210
 .	.	.	O	O		8210	8211
 
+It	It	PRP	B-NP	O		8212	8214
 has	have	VBZ	B-VP	O		8215	8218
 been	be	VBN	I-VP	O		8219	8223
 shown	show	VBN	I-VP	O		8224	8229
@@ -1543,6 +1590,7 @@ Xing	Xing	NN	I-NP	O		8388	8392
 )	)	)	O	O		8398	8399
 .	.	.	O	O		8399	8400
 
+One	One	CD	B-NP	O		8401	8404
 of	of	IN	B-PP	O		8405	8407
 the	the	DT	B-NP	O		8408	8411
 other	other	JJ	I-NP	O		8412	8417
@@ -1590,6 +1638,7 @@ et al.	et_al.	NNP	I-NP	O		8643	8649
 )	)	)	O	O		8655	8656
 .	.	.	O	O		8656	8657
 
+AGL15	AGL15	NN	B-NP	B-protein		8658	8663
 was	be	VBD	B-VP	O		8664	8667
 shown	show	VBN	I-VP	O		8668	8673
 to	to	TO	I-VP	O		8674	8676
@@ -1612,6 +1661,7 @@ et al.	et_al.	NNP	I-NP	O		8745	8751
 )	)	)	O	O		8757	8758
 .	.	.	O	O		8758	8759
 
+SERK1	SERK1	NN	B-NP	B-protein		8760	8765
 and	and	CC	I-NP	O		8766	8769
 AGL15	AGL15	NN	I-NP	B-protein		8770	8775
 are	be	VBP	B-VP	O		8776	8779
@@ -1629,6 +1679,7 @@ early	early	JJ	B-NP	O		8853	8858
 embryogenesis	embryogenesis	NN	I-NP	O		8859	8872
 .	.	.	O	O		8872	8873
 
+As	As	IN	B-SBAR	O		8874	8876
 found	find	VBN	B-VP	O		8877	8882
 for	for	IN	B-PP	O		8883	8886
 SERK1	SERK1	NN	B-NP	B-protein		8887	8892
@@ -1668,6 +1719,7 @@ et al.	et_al.	FW	B-NP	O		9065	9071
 )	)	)	O	O		9077	9078
 .	.	.	O	O		9078	9079
 
+Interestingly	Interestingly	RB	B-ADVP	O		9080	9093
 ,	,	,	O	O		9093	9094
 AGL15	AGL15	NN	B-NP	B-protein		9095	9100
 -	-	HYPH	O	O		9100	9101
@@ -1687,6 +1739,7 @@ et al.	et_al.	FW	B-NP	O		9172	9178
 )	)	)	O	O		9184	9185
 .	.	.	O	O		9185	9186
 
+It	It	PRP	B-NP	O		9187	9189
 was	be	VBD	B-VP	O		9190	9193
 shown	show	VBN	I-VP	O		9194	9199
 that	that	IN	B-SBAR	O		9200	9204
@@ -1709,6 +1762,7 @@ et al.	et_al.	NNP	I-NP	O		9282	9288
 )	)	)	O	O		9295	9296
 .	.	.	O	O		9296	9297
 
+Those	Those	DT	B-NP	O		9298	9303
 authors	author	NNS	I-NP	O		9304	9311
 described	describe	VBD	B-VP	O		9312	9321
 how	how	WRB	B-ADVP	O		9322	9325
@@ -1745,6 +1799,7 @@ its	its	PRP$	B-NP	O		9524	9527
 promoter	promoter	NN	I-NP	B-DNA		9528	9536
 .	.	.	O	O		9536	9537
 
+These	These	DT	B-NP	O		9538	9543
 data	datum	NNS	I-NP	O		9544	9548
 and	and	CC	O	O		9549	9552
 our	our	PRP$	B-NP	O		9553	9556
@@ -1764,6 +1819,7 @@ signaling	signaling	NN	I-NP	O		9623	9632
 pathway	pathway	NN	I-NP	O		9633	9640
 .	.	.	O	O		9640	9641
 
+The	The	DT	B-NP	O		9642	9645
 other	other	JJ	I-NP	O		9646	9651
 putative	putative	JJ	I-NP	O		9652	9660
 transcription	transcription	NN	I-NP	B-protein		9661	9674
@@ -1814,6 +1870,7 @@ et al.	et_al.	FW	I-NP	O		9926	9932
 )	)	)	O	O		9938	9939
 .	.	.	O	O		9939	9940
 
+Recently	Recently	RB	B-ADVP	O		9941	9949
 ,	,	,	O	O		9949	9950
 it	it	PRP	B-NP	O		9951	9953
 was	be	VBD	B-VP	O		9954	9957
@@ -1836,6 +1893,7 @@ et al.	et_al.	FW	I-ADVP	O		10053	10059
 )	)	)	O	O		10065	10066
 .	.	.	O	O		10066	10067
 
+In	In	IN	B-PP	O		10068	10070
 conclusion	conclusion	NN	B-NP	O		10071	10081
 ,	,	,	O	O		10081	10082
 we	we	PRP	B-NP	O		10083	10085

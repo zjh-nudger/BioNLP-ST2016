@@ -52,6 +52,7 @@ Perry	Perry	NNP	I-NP	O		259	264
 )	)	)	O	O		270	271
 .	.	.	O	O		271	272
 
+We	We	PRP	B-NP	O		273	275
 previously	previously	RB	B-ADVP	O		276	286
 reported	report	VBD	B-VP	O		287	295
 that	that	IN	B-SBAR	O		296	300
@@ -68,6 +69,7 @@ Perry	Perry	NNP	I-NP	O		346	351
 )	)	)	O	O		357	358
 .	.	.	O	O		358	359
 
+AGL15	AGL15	NN	B-NP	B-protein		360	365
 can	can	MD	B-VP	O		366	369
 also	also	RB	I-VP	O		370	374
 directly	directly	RB	I-VP	O		375	383
@@ -91,6 +93,7 @@ b	b	NN	B-NP	O		483	484
 )	)	)	O	O		484	485
 .	.	.	O	O		485	486
 
+No	No	DT	B-NP	O		487	489
 noticeable	noticeable	JJ	I-NP	O		490	500
 increase	increase	NN	I-NP	O		501	509
 in	in	IN	B-PP	O		510	512
@@ -181,6 +184,7 @@ domain	domain	NN	I-NP	I-protein		958	964
 proteins	protein	NNS	I-NP	I-protein		965	973
 .	.	.	O	O		973	974
 
+AGL15	AGL15	NN	B-NP	B-protein		975	980
 binds	bind	VBZ	B-VP	O		981	986
 the	the	DT	B-NP	O		987	990
 promoter	promoter	NN	I-NP	B-DNA		991	999
@@ -192,6 +196,7 @@ its	its	PRP$	B-NP	O		1023	1026
 transcription	transcription	NN	I-NP	O		1027	1040
 .	.	.	O	O		1040	1041
 
+There	There	EX	B-NP	O		1042	1047
 is	be	VBZ	B-VP	O		1048	1050
 an	an	DT	B-NP	O		1051	1053
 increase	increase	NN	I-NP	O		1054	1062
@@ -221,6 +226,7 @@ tissues	tissue	NNS	I-NP	O		1186	1193
 tested	test	VBN	B-VP	O		1194	1200
 .	.	.	O	O		1200	1201
 
+In	In	IN	B-PP	O		1202	1204
 contrast	contrast	NN	B-NP	O		1205	1213
 to	to	TO	B-PP	O		1214	1216
 what	what	WP	B-NP	O		1217	1221
@@ -266,6 +272,7 @@ the	the	DT	B-NP	O		1443	1446
 seed	seed	NN	I-NP	O		1447	1451
 .	.	.	O	O		1451	1452
 
+There	There	EX	B-NP	O		1453	1458
 are	be	VBP	B-VP	O		1459	1462
 numerous	numerous	JJ	B-NP	O		1463	1471
 examples	example	NNS	I-NP	O		1472	1480
@@ -296,6 +303,7 @@ Davies	Davies	NNP	I-NP	O		1608	1614
 )	)	)	O	O		1620	1621
 .	.	.	O	O		1621	1622
 
+However	However	RB	B-ADVP	O		1623	1630
 ,	,	,	O	O		1630	1631
 CBF2	CBF2	NN	B-NP	B-protein		1632	1636
 is	be	VBZ	B-VP	O		1637	1639
@@ -339,6 +347,7 @@ Figure	Figure	NN	B-NP	B-protein		1839	1845
 )	)	)	O	O		1848	1849
 .	.	.	O	O		1849	1850
 
+In	In	IN	B-PP	O		1851	1853
 support	support	NN	B-NP	O		1854	1861
 of	of	IN	B-PP	O		1862	1864
 this	this	DT	B-NP	O		1865	1869
@@ -374,6 +383,7 @@ by	by	IN	B-PP	O		2033	2035
 Prof	Prof	NN	B-NP	B-protein		2036	2040
 .	.	.	O	O		2040	2041
 
+Michael	Michael	NNP	B-NP	O		2042	2049
 Thomashow	Thomashow	NNP	I-NP	O		2050	2059
 ,	,	,	O	O		2059	2060
 Michigan	Michigan	NNP	B-NP	O		2061	2069
@@ -395,6 +405,7 @@ overexpresser	overexpresser	NN	I-NP	O		2138	2151
 line	line	NN	I-NP	O		2152	2156
 .	.	.	O	O		2156	2157
 
+The	The	DT	B-NP	O		2158	2161
 latter	latter	JJ	I-NP	O		2162	2168
 showed	show	VBD	B-VP	O		2169	2175
 stronger	strong	JJR	B-NP	O		2176	2184
@@ -430,6 +441,7 @@ data	datum	NNS	I-NP	O		2350	2354
 )	)	)	O	O		2354	2355
 .	.	.	O	O		2355	2356
 
+LEA76	LEA76	NN	B-NP	B-protein		2357	2362
 ,	,	,	O	O		2362	2363
 CBF2	CBF2	NN	B-NP	B-protein		2364	2368
 (	(	(	O	O		2369	2370
@@ -490,6 +502,7 @@ Figure	Figure	NN	B-NP	O		2657	2663
 )	)	)	O	O		2666	2667
 .	.	.	O	O		2667	2668
 
+It	It	PRP	B-NP	O		2669	2671
 has	have	VBZ	B-VP	O		2672	2675
 been	be	VBN	I-VP	O		2676	2680
 demonstrated	demonstrate	VBN	I-VP	O		2681	2693
@@ -567,6 +580,7 @@ still	still	RB	B-ADVP	O		3067	3072
 apparent	apparent	JJ	B-ADJP	O		3073	3081
 .	.	.	O	O		3081	3082
 
+Ectopic	Ectopic	JJ	B-NP	O		3083	3090
 expression	expression	NN	I-NP	O		3091	3101
 of	of	IN	B-PP	O		3102	3104
 SAP18	SAP18	NN	B-NP	B-protein		3105	3110
@@ -602,6 +616,7 @@ binding	bind	VBG	B-NP	I-protein		3277	3284
 proteins	protein	NNS	I-NP	I-protein		3285	3293
 .	.	.	O	O		3293	3294
 
+However	However	RB	B-ADVP	O		3295	3302
 ,	,	,	O	O		3302	3303
 AGL15	AGL15	NN	B-NP	B-protein		3304	3309
 and	and	CC	I-NP	O		3310	3313
@@ -627,6 +642,7 @@ these	these	DT	B-NP	O		3432	3437
 loci	locus	NNS	I-NP	O		3438	3442
 .	.	.	O	O		3442	3443
 
+We	We	PRP	B-NP	O		3444	3446
 have	have	VBP	B-VP	O		3447	3451
 demonstrated	demonstrate	VBN	I-VP	O		3452	3464
 that	that	IN	B-SBAR	O		3465	3469
@@ -667,6 +683,7 @@ Figure	Figure	NN	B-NP	O		3612	3618
 )	)	)	O	O		3620	3621
 .	.	.	O	O		3621	3622
 
+Published	Published	JJ	B-NP	O		3623	3632
 results	result	NNS	I-NP	O		3633	3640
 support	support	VBP	B-VP	O		3641	3648
 a	a	DT	B-NP	O		3649	3650

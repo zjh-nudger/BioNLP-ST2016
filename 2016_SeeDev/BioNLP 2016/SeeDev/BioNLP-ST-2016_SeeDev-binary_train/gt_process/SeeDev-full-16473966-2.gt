@@ -23,6 +23,7 @@ signaling	signaling	NN	I-NP	O		100	109
 pathways	pathway	NNS	I-NP	O		110	118
 .	.	.	O	O		118	119
 
+For	For	IN	B-PP	O		120	123
 example	example	NN	B-NP	O		124	131
 ,	,	,	O	O		131	132
 the	the	DT	B-NP	O		133	136
@@ -88,6 +89,7 @@ Torii	Torii	NNP	B-NP	O		448	453
 )	)	)	O	O		459	460
 .	.	.	O	O		460	461
 
+Extensive	Extensive	JJ	B-NP	O		462	471
 genetic	genetic	JJ	I-NP	O		472	479
 and	and	CC	I-NP	O		480	483
 biochemical	biochemical	JJ	I-NP	O		484	495
@@ -105,6 +107,7 @@ signaling	signaling	NN	I-NP	O		572	581
 pathways	pathway	NNS	I-NP	O		582	590
 .	.	.	O	O		590	591
 
+For	For	IN	B-PP	O		592	595
 example	example	NN	B-NP	O		596	603
 ,	,	,	O	O		603	604
 negative	negative	JJ	B-NP	O		605	613
@@ -166,6 +169,7 @@ et al.	et_al.	FW	I-NP	O		865	871
 respectively	respectively	RB	B-ADVP	O		880	892
 .	.	.	O	O		892	893
 
+Their	Their	PRP$	B-NP	O		894	899
 potential	potential	JJ	I-NP	O		900	909
 substrates	substrate	NNS	I-NP	O		910	920
 are	be	VBP	B-VP	O		921	924
@@ -201,6 +205,7 @@ et al.	et_al.	FW	I-ADVP	O		1035	1041
 )	)	)	O	O		1047	1048
 .	.	.	O	O		1048	1049
 
+We	We	PRP	B-NP	O		1050	1052
 previously	previously	RB	B-ADVP	O		1053	1063
 identified	identify	VBD	B-VP	O		1064	1074
 Arabidopsis	Arabidopsis	NN	B-NP	B-protein		1075	1086
@@ -242,6 +247,7 @@ female	female	JJ	I-NP	O		1265	1271
 gametophytes	gametophyte	NNS	I-NP	O		1272	1284
 .	.	.	O	O		1284	1285
 
+In	In	IN	B-PP	O		1286	1288
 sporophytic	sporophytic	JJ	B-NP	O		1289	1300
 tissues	tissue	NNS	I-NP	O		1301	1308
 ,	,	,	O	O		1308	1309
@@ -281,6 +287,7 @@ et al.	et_al.	NNP	I-NP	O		1471	1477
 )	)	)	O	O		1483	1484
 .	.	.	O	O		1484	1485
 
+Ectopic	Ectopic	JJ	B-NP	O		1486	1493
 expression	expression	NN	I-NP	O		1494	1504
 of	of	IN	B-PP	O		1505	1507
 SERK1	SERK1	NN	B-NP	B-protein		1508	1513
@@ -309,6 +316,7 @@ et al.	et_al.	FW	I-ADVP	O		1633	1639
 )	)	)	O	O		1645	1646
 .	.	.	O	O		1646	1647
 
+SERK1	SERK1	NN	B-NP	B-protein		1648	1653
 is	be	VBZ	B-VP	O		1654	1656
 a	a	DT	B-NP	O		1657	1658
 member	member	NN	I-NP	O		1659	1665
@@ -341,6 +349,7 @@ et al.	et_al.	FW	I-ADVP	O		1789	1795
 )	)	)	O	O		1801	1802
 .	.	.	O	O		1802	1803
 
+The	The	DT	B-NP	O		1804	1807
 SERK1	SERK1	NN	I-NP	B-DNA		1808	1813
 knockout	knockout	NN	I-NP	I-DNA		1814	1822
 alleles	allele	NNS	I-NP	I-DNA		1823	1830
@@ -383,6 +392,7 @@ et al.	et_al.	NNP	I-NP	O		2009	2015
 )	)	)	O	O		2021	2022
 .	.	.	O	O		2022	2023
 
+SERK3	SERK3	NN	B-NP	B-protein		2024	2029
 or	or	CC	I-NP	O		2030	2032
 BRI1	BRI1	NN	I-NP	B-protein		2033	2037
 -	-	HYPH	O	O		2037	2038
@@ -425,6 +435,7 @@ Li	Li	NNP	I-NP	O		2198	2200
 )	)	)	O	O		2206	2207
 .	.	.	O	O		2207	2208
 
+Recently	Recently	RB	B-ADVP	O		2209	2217
 ,	,	,	O	O		2217	2218
 we	we	PRP	B-NP	O		2219	2221
 showed	show	VBD	B-VP	O		2222	2228
@@ -458,6 +469,7 @@ et al.	et_al.	FW	I-ADVP	O		2388	2394
 )	)	)	O	O		2400	2401
 .	.	.	O	O		2401	2402
 
+SERK1	SERK1	NN	B-NP	B-protein		2403	2408
 was	be	VBD	B-VP	O		2409	2412
 shown	show	VBN	I-VP	O		2413	2418
 to	to	TO	I-VP	O		2419	2421
@@ -490,6 +502,7 @@ et al.	et_al.	FW	I-ADVP	O		2553	2559
 )	)	)	O	O		2565	2566
 .	.	.	O	O		2566	2567
 
+Using	Use	VBG	B-VP	O		2568	2573
 a	a	DT	B-NP	O		2574	2575
 yeast	yeast	NN	I-NP	O		2576	2581
 two-hybrid	two-hybrid	JJ	I-NP	O		2582	2592
@@ -520,6 +533,7 @@ al	al	FW	I-NP	O		2688	2690
 )	)	)	O	O		2697	2698
 .	.	.	O	O		2698	2699
 
+These	These	DT	B-NP	O		2700	2705
 interactions	interaction	NNS	I-NP	O		2706	2718
 suggested	suggest	VBD	B-VP	O		2719	2728
 analogy	analogy	NN	B-NP	O		2729	2736
@@ -569,6 +583,7 @@ et al.	et_al.	FW	I-ADVP	O		2939	2945
 )	)	)	O	O		2957	2958
 .	.	.	O	O		2958	2959
 
+KAPP	KAPP	NN	B-NP	B-protein		2960	2964
 has	have	VBZ	B-VP	O		2965	2968
 also	also	RB	I-VP	O		2969	2973
 been	be	VBN	I-VP	O		2974	2978
@@ -602,6 +617,7 @@ Becraft	Becraft	NNP	B-NP	O		3088	3095
 )	)	)	O	O		3101	3102
 .	.	.	O	O		3102	3103
 
+Transgenic	Transgenic	JJ	B-NP	O		3104	3114
 studies	study	NNS	I-NP	O		3115	3122
 indicate	indicate	VBP	B-VP	O		3123	3131
 that	that	IN	B-SBAR	O		3132	3136
@@ -636,6 +652,7 @@ et al.	et_al.	NNP	I-NP	O		3259	3265
 )	)	)	O	O		3271	3272
 .	.	.	O	O		3272	3273
 
+Identification	Identification	NN	B-NP	O		3274	3288
 of	of	IN	B-PP	O		3289	3291
 proteins	protein	NNS	B-NP	O		3292	3300
 can	can	MD	B-VP	O		3301	3304
@@ -660,6 +677,7 @@ mass	mass	NN	B-NP	O		3419	3423
 spectrometry	spectrometry	NN	I-NP	O		3424	3436
 .	.	.	O	O		3436	3437
 
+This	This	DT	B-NP	O		3438	3442
 technique	technique	NN	I-NP	O		3443	3452
 has	have	VBZ	B-VP	O		3453	3456
 been	be	VBN	I-VP	O		3457	3461
@@ -673,6 +691,7 @@ multiprotein	multiprotein	NN	B-NP	B-protein		3493	3505
 complexes	complex	NNS	I-NP	I-protein		3506	3515
 .	.	.	O	O		3515	3516
 
+For	For	IN	B-PP	O		3517	3520
 the	the	DT	B-NP	O		3521	3524
 epidermal	epidermal	JJ	I-NP	B-protein		3525	3534
 growth	growth	NN	I-NP	I-protein		3535	3541
@@ -727,6 +746,7 @@ et al.	et_al.	FW	I-ADVP	O		3812	3818
 )	)	)	O	O		3824	3825
 .	.	.	O	O		3825	3826
 
+For	For	IN	B-PP	O		3827	3830
 only	only	RB	B-NP	O		3831	3835
 a	a	DT	I-NP	O		3836	3837
 few	few	JJ	I-NP	O		3838	3841
@@ -741,6 +761,7 @@ been	be	VBN	I-VP	O		3880	3884
 defined	define	VBN	I-VP	O		3885	3892
 .	.	.	O	O		3892	3893
 
+One	One	CD	B-NP	O		3894	3897
 example	example	NN	I-NP	O		3898	3905
 is	be	VBZ	B-VP	O		3906	3908
 the	the	DT	B-NP	O		3909	3912
@@ -762,6 +783,7 @@ and	and	CC	O	O		3989	3992
 kD	kD	NN	I-NP	O		3997	3999
 .	.	.	O	O		3999	4000
 
+The	The	DT	B-NP	O		4001	4004
 larger	large	JJR	I-NP	O		4005	4011
 450-kD	450-kD	JJ	I-NP	B-protein		4012	4018
 complex	complex	NN	I-NP	I-protein		4019	4026
@@ -791,6 +813,7 @@ et al.	et_al.	FW	I-ADVP	O		4146	4152
 )	)	)	O	O		4158	4159
 .	.	.	O	O		4159	4160
 
+In	In	IN	B-PP	O		4161	4163
 this	this	DT	B-NP	O		4164	4168
 study	study	NN	I-NP	O		4169	4174
 ,	,	,	O	O		4174	4175
@@ -806,6 +829,7 @@ complex(es)	complex(es)	FW	B-ADVP	O		4224	4235
 in vivo	in_vivo	FW	I-ADVP	O		4236	4243
 .	.	.	O	O		4243	4244
 
+We	We	PRP	B-NP	O		4245	4247
 combined	combine	VBD	B-VP	O		4248	4256
 immunoprecipitation	immunoprecipitation	NN	B-NP	O		4257	4276
 of	of	IN	B-PP	O		4277	4279
@@ -831,6 +855,7 @@ protein	protein	NN	I-NP	O		4381	4388
 identification	identification	NN	I-NP	O		4389	4403
 .	.	.	O	O		4403	4404
 
+Using	Use	VBG	B-VP	O		4405	4410
 this	this	DT	B-NP	O		4411	4415
 method	method	NN	I-NP	O		4416	4422
 ,	,	,	O	O		4422	4423
@@ -861,6 +886,7 @@ et al.	et_al.	FW	I-ADVP	O		4530	4536
 )	)	)	O	O		4542	4543
 .	.	.	O	O		4543	4544
 
+Additional	Additional	JJ	B-NP	O		4545	4555
 proteins	protein	NNS	I-NP	O		4556	4564
 were	be	VBD	B-VP	O		4565	4569
 also	also	RB	I-VP	O		4570	4574
@@ -907,6 +933,7 @@ finger	finger	NN	I-NP	I-protein		4745	4751
 protein	protein	NN	I-NP	I-protein		4752	4759
 .	.	.	O	O		4759	4760
 
+In	In	IN	B-PP	O		4761	4763
 particular	particular	JJ	B-NP	O		4764	4774
 ,	,	,	O	O		4774	4775
 the	the	DT	B-NP	O		4776	4779
@@ -944,6 +971,7 @@ tagged	tag	VBN	I-NP	O		4981	4987
 receptors	receptor	NNS	I-NP	O		4988	4997
 .	.	.	O	O		4997	4998
 
+Our	Our	PRP$	B-NP	O		4999	5002
 data	datum	NNS	I-NP	O		5003	5007
 show	show	VBP	B-VP	O		5008	5012
 that	that	IN	B-SBAR	O		5013	5017

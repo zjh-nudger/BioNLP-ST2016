@@ -29,6 +29,7 @@ mucilage	mucilage	NN	B-NP	O		172	180
 production	production	NN	I-NP	O		181	191
 .	.	.	O	O		191	192
 
+Two	Two	CD	B-NP	O		193	196
 lines	line	NNS	I-NP	O		197	202
 of	of	IN	B-PP	O		203	205
 evidence	evidence	NN	B-NP	O		206	214
@@ -48,6 +49,7 @@ mucilage	mucilage	NN	B-NP	O		292	300
 biosynthesis	biosynthesis	NN	I-NP	O		301	313
 .	.	.	O	O		313	314
 
+First	First	RB	B-ADVP	O		315	320
 ,	,	,	O	O		320	321
 the	the	DT	B-NP	O		322	325
 only	only	JJ	I-NP	O		326	330
@@ -65,6 +67,7 @@ coat	coat	NN	I-NP	O		391	395
 epidermis	epidermis	NN	I-NP	O		396	405
 .	.	.	O	O		405	406
 
+Second	Second	RB	B-ADVP	O		407	413
 ,	,	,	O	O		413	414
 MUM4	MUM4	NN	B-NP	B-protein		415	419
 expression	expression	NN	I-NP	O		420	430
@@ -90,6 +93,7 @@ seed	seed	NN	I-NP	O		536	540
 coat	coat	NN	I-NP	O		541	545
 .	.	.	O	O		545	546
 
+Such	Such	PDT	B-NP	O		547	551
 a	a	DT	I-NP	O		552	553
 specific	specific	JJ	I-NP	O		554	562
 up-regulation	up-regulation	NN	I-NP	O		563	576
@@ -122,6 +126,7 @@ mucilage	mucilage	NN	B-NP	O		708	716
 synthesis	synthesis	NN	I-NP	O		717	726
 .	.	.	O	O		726	727
 
+If	If	IN	B-SBAR	O		728	730
 so	so	RB	B-ADVP	O		731	733
 ,	,	,	O	O		733	734
 the	the	DT	B-NP	O		735	738
@@ -150,6 +155,7 @@ RGI	RGI	NN	B-NP	O		852	855
 biosynthesis	biosynthesis	NN	I-NP	O		856	868
 .	.	.	O	O		868	869
 
+Our	Our	PRP$	B-NP	O		870	873
 data	datum	NNS	I-NP	O		874	878
 indicate	indicate	VBP	B-VP	O		879	887
 that	that	IN	B-SBAR	O		888	892
@@ -179,6 +185,7 @@ Fig	Fig	NNP	B-NP	O		1005	1008
 )	)	)	O	O		1012	1013
 .	.	.	O	O		1013	1014
 
+This	This	DT	B-NP	O		1015	1019
 result	result	NN	I-NP	O		1020	1026
 suggests	suggest	VBZ	B-VP	O		1027	1035
 a	a	DT	B-NP	O		1036	1037
@@ -206,6 +213,7 @@ seed	seed	NN	I-NP	O		1185	1189
 coat	coat	NN	I-NP	O		1190	1194
 .	.	.	O	O		1194	1195
 
+In	In	IN	B-PP	O		1196	1198
 one	one	CD	B-NP	O		1199	1202
 of	of	IN	B-PP	O		1203	1205
 these	these	DT	B-NP	O		1206	1211
@@ -229,6 +237,7 @@ Fig	Fig	NNP	B-NP	O		1286	1289
 )	)	)	O	O		1292	1293
 .	.	.	O	O		1293	1294
 
+In	In	IN	B-PP	O		1295	1297
 other	other	JJ	B-NP	O		1298	1303
 epidermal	epidermal	JJ	I-NP	O		1304	1313
 systems	system	NNS	I-NP	O		1314	1321
@@ -273,6 +282,7 @@ activate	activate	VB	I-VP	O		1501	1509
 GL2	GL2	NN	B-NP	B-protein		1510	1513
 .	.	.	O	O		1513	1514
 
+Therefore	Therefore	RB	B-ADVP	O		1515	1524
 ,	,	,	O	O		1524	1525
 we	we	PRP	B-NP	O		1526	1528
 favor	favor	VBP	B-VP	O		1529	1534
@@ -312,6 +322,7 @@ Fig	Fig	NNP	B-NP	O		1692	1695
 )	)	)	O	O		1698	1699
 .	.	.	O	O		1699	1700
 
+Recent	Recent	JJ	B-NP	O		1701	1707
 results	result	NNS	I-NP	O		1708	1715
 suggest	suggest	VBP	B-VP	O		1716	1723
 that	that	IN	B-SBAR	O		1724	1728

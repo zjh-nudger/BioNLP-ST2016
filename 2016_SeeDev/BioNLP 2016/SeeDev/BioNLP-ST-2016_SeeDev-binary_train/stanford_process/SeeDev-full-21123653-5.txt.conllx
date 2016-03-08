@@ -24,6 +24,7 @@
 24	embryos	_	VERB	VBZ	_	3	parataxis	_	_	139	146
 25	.	_	PUNCT	.	_	3	punct	_	_	146	147
 
+1	WUSCHEL	_	PROPN	NNP	_	0	root	_	_	148	155
 2	-	_	PUNCT	:	_	1	punct	_	_	155	156
 3	related	_	ADJ	JJ	_	4	amod	_	_	156	163
 4	HOMEOBOX2	_	NOUN	NN	_	1	dep	_	_	164	173
@@ -52,7 +53,8 @@
 27	-RRB-	_	PUNCT	-RRB-	_	23	punct	_	_	-1	4
 28	.	_	PUNCT	.	_	1	punct	_	_	146	147
 
-2	the	_	DET	DT	_	3	det	_	_	210	213
+1	After	_	ADP	IN	_	3	case	_	_	290	295
+2	the	_	DET	DT	_	3	det	_	_	296	299
 3	two	_	NUM	CD	_	5	nmod:after	_	_	300	303
 4	/	_	PUNCT	:	_	5	punct	_	_	303	304
 5	four	_	NUM	CD	_	0	root	_	_	304	308
@@ -115,6 +117,7 @@
 62	expression	_	NOUN	NN	_	59	dobj	_	_	563	573
 63	.	_	PUNCT	.	_	5	punct	_	_	573	574
 
+1	Similar	_	VERB	VBG	_	7	dep	_	_	575	582
 2	to	_	ADP	TO	_	5	case	_	_	583	585
 3	WOX2	_	PROPN	NNP	_	5	compound	_	_	586	590
 4	,	_	PUNCT	,	_	5	punct	_	_	590	591
@@ -149,6 +152,7 @@
 33	-RRB-	_	PUNCT	-RRB-	_	29	punct	_	_	-1	4
 34	.	_	PUNCT	.	_	7	punct	_	_	146	147
 
+1	Approximately	_	ADV	RB	_	2	advmod	_	_	746	759
 2	89%	_	NUM	CD	_	0	root	_	_	760	763
 3	-LRB-	_	PUNCT	-LRB-	_	4	punct	_	_	-1	4
 4	72	_	NUM	CD	_	2	dep	_	_	765	767
@@ -199,6 +203,7 @@
 49	-RRB-	_	PUNCT	-RRB-	_	46	punct	_	_	-1	4
 50	.	_	PUNCT	.	_	2	punct	_	_	146	147
 
+1	In	_	ADP	IN	_	2	case	_	_	1004	1006
 2	contrast	_	NOUN	NN	_	11	nmod:in	_	_	1007	1015
 3	to	_	ADP	TO	_	4	case	_	_	1016	1018
 4	WOX2	_	PROPN	NNP	_	2	nmod:to	_	_	1019	1023
@@ -228,10 +233,11 @@
 28	-RRB-	_	PUNCT	-RRB-	_	24	punct	_	_	-1	4
 29	.	_	PUNCT	.	_	11	punct	_	_	146	147
 
-2	transcripts	_	NOUN	NNS	_	4	nsubjpass	_	_	181	192
-3	were	_	AUX	VBD	_	4	auxpass	_	_	338	342
-4	detected	_	VERB	VBN	_	0	root	_	_	347	355
-5	in	_	ADP	IN	_	6	case	_	_	356	358
+1	WOX8	_	PROPN	NNP	_	2	compound	_	_	1033	1037
+2	transcripts	_	NOUN	NNS	_	4	nsubjpass	_	_	1038	1049
+3	were	_	AUX	VBD	_	4	auxpass	_	_	1163	1167
+4	detected	_	VERB	VBN	_	0	root	_	_	1168	1176
+5	in	_	ADP	IN	_	6	case	_	_	1177	1179
 6	90%	_	NUM	CD	_	4	nmod:in	_	_	1180	1183
 7	-LRB-	_	PUNCT	-LRB-	_	8	punct	_	_	-1	4
 8	62	_	NUM	CD	_	6	dep	_	_	1185	1187
@@ -275,11 +281,12 @@
 46	-RRB-	_	PUNCT	-RRB-	_	43	punct	_	_	-1	4
 47	.	_	PUNCT	.	_	4	punct	_	_	146	147
 
-2	,	_	PUNCT	,	_	5	punct	_	_	319	320
-3	dcl1	_	ADJ	JJ	_	4	amod	_	_	480	484
-4	embryos	_	NOUN	NNS	_	5	nsubj	_	_	533	540
-5	had	_	VERB	VBD	_	0	root	_	_	541	544
-6	detectable	_	ADJ	JJ	_	7	amod	_	_	547	557
+1	Thus	_	ADV	RB	_	5	advmod	_	_	1378	1382
+2	,	_	PUNCT	,	_	5	punct	_	_	1382	1383
+3	dcl1	_	ADJ	JJ	_	4	amod	_	_	1384	1388
+4	embryos	_	NOUN	NNS	_	5	nsubj	_	_	1389	1396
+5	had	_	VERB	VBD	_	0	root	_	_	1397	1400
+6	detectable	_	ADJ	JJ	_	7	amod	_	_	1401	1411
 7	defects	_	NOUN	NNS	_	5	dobj	_	_	1412	1419
 8	in	_	ADP	IN	_	10	case	_	_	1420	1422
 9	the	_	DET	DT	_	10	det	_	_	1423	1426
@@ -302,6 +309,7 @@
 26	stage	_	NOUN	NN	_	23	dep	_	_	1516	1521
 27	.	_	PUNCT	.	_	5	punct	_	_	1521	1522
 
+1	To	_	PART	TO	_	2	mark	_	_	1523	1525
 2	test	_	VERB	VB	_	12	advcl	_	_	1526	1530
 3	whether	_	SCONJ	IN	_	6	mark	_	_	1531	1538
 4	DCL1	_	PROPN	NNP	_	6	nsubjpass	_	_	1539	1543
@@ -327,6 +335,7 @@
 24	axis	_	NOUN	NNS	_	20	nmod:along	_	_	1662	1666
 25	.	_	PUNCT	.	_	12	punct	_	_	1666	1667
 
+1	A.	_	PROPN	NNP	_	4	compound	_	_	1668	1670
 2	thaliana	_	PROPN	NNP	_	4	compound	_	_	1671	1679
 3	MERISTEM	_	PROPN	NNP	_	4	compound	_	_	1680	1688
 4	LAYER1	_	PROPN	NNP	_	16	nsubj	_	_	1689	1695
@@ -368,7 +377,8 @@
 40	-RRB-	_	PUNCT	-RRB-	_	38	punct	_	_	-1	4
 41	.	_	PUNCT	.	_	16	punct	_	_	146	147
 
-2	and	_	CONJ	CC	_	1	cc	_	_	389	392
+1	ATML1	_	PROPN	NNP	_	4	compound	_	_	1697	1702
+2	and	_	CONJ	CC	_	1	cc	_	_	1704	1707
 3	PDF1	_	PROPN	NNP	_	4	compound	_	_	1729	1733
 4	transcripts	_	NOUN	NNS	_	21	nsubj	_	_	1735	1746
 5	were	_	VERB	VBD	_	7	cop	_	_	1894	1898
@@ -418,6 +428,7 @@
 49	-RRB-	_	PUNCT	-RRB-	_	41	punct	_	_	-1	4
 50	.	_	PUNCT	.	_	7	punct	_	_	146	147
 
+1	This	_	DET	DT	_	2	det	_	_	2128	2132
 2	observation	_	NOUN	NN	_	4	nsubj	_	_	2133	2144
 3	was	_	VERB	VBD	_	4	cop	_	_	2145	2148
 4	consistent	_	ADJ	JJ	_	0	root	_	_	2149	2159
@@ -455,8 +466,9 @@
 36	-RRB-	_	PUNCT	-RRB-	_	32	punct	_	_	-1	4
 37	.	_	PUNCT	.	_	4	punct	_	_	146	147
 
-2	with	_	ADP	IN	_	17	case	_	_	2160	2164
-3	the	_	DET	DT	_	17	det	_	_	2165	2168
+1	Consistent	_	PROPN	NNP	_	18	nsubj	_	_	2343	2353
+2	with	_	ADP	IN	_	17	case	_	_	2354	2358
+3	the	_	DET	DT	_	17	det	_	_	2359	2362
 4	reduction	_	NOUN	NN	_	17	compound	_	_	2363	2372
 5	/	_	PUNCT	:	_	6	punct	_	_	2372	2373
 6	loss	_	NOUN	NN	_	17	dep	_	_	2373	2377
@@ -493,7 +505,8 @@
 37	-RRB-	_	PUNCT	-RRB-	_	34	punct	_	_	-1	4
 38	.	_	PUNCT	.	_	22	punct	_	_	146	147
 
-2	,	_	PUNCT	,	_	11	punct	_	_	319	320
+1	Moreover	_	ADV	RB	_	11	advmod	_	_	2551	2559
+2	,	_	PUNCT	,	_	11	punct	_	_	2559	2560
 3	vascular	_	NOUN	NN	_	4	compound	_	_	2561	2569
 4	primordium	_	NOUN	NN	_	11	nsubj	_	_	2570	2580
 5	and	_	CONJ	CC	_	4	cc	_	_	2581	2584
@@ -515,6 +528,7 @@
 21	-RRB-	_	PUNCT	-RRB-	_	18	punct	_	_	-1	4
 22	.	_	PUNCT	.	_	11	punct	_	_	146	147
 
+1	In	_	ADP	IN	_	2	case	_	_	1004	1006
 2	addition	_	NOUN	NN	_	19	nmod:in	_	_	2675	2683
 3	to	_	ADP	TO	_	6	case	_	_	2684	2686
 4	the	_	DET	DT	_	6	det	_	_	2687	2690
@@ -544,7 +558,8 @@
 28	-RRB-	_	PUNCT	-RRB-	_	25	punct	_	_	-1	4
 29	.	_	PUNCT	.	_	19	punct	_	_	146	147
 
-2	,	_	PUNCT	,	_	7	punct	_	_	319	320
+1	Furthermore	_	ADV	RB	_	7	advmod	_	_	2828	2839
+2	,	_	PUNCT	,	_	7	punct	_	_	2839	2840
 3	hypophysis	_	NOUN	NNS	_	4	compound	_	_	2841	2851
 4	markers	_	NOUN	NNS	_	7	nsubj	_	_	2852	2859
 5	were	_	VERB	VBD	_	7	cop	_	_	2860	2864
@@ -566,6 +581,7 @@
 21	-RRB-	_	PUNCT	-RRB-	_	13	punct	_	_	-1	4
 22	.	_	PUNCT	.	_	7	punct	_	_	146	147
 
+1	Considered	_	VERB	VBN	_	19	advcl	_	_	2937	2947
 2	together	_	ADV	RB	_	8	case	_	_	2948	2956
 3	with	_	ADP	IN	_	2	mwe	_	_	2957	2961
 4	the	_	DET	DT	_	8	det	_	_	2962	2965
@@ -594,6 +610,7 @@
 27	embryos	_	NOUN	NNS	_	24	nmod:in	_	_	3113	3120
 28	.	_	PUNCT	.	_	19	punct	_	_	3120	3121
 
+1	The	_	DET	DT	_	4	det	_	_	3122	3125
 2	plant	_	NOUN	NN	_	4	compound	_	_	3126	3131
 3	hormone	_	NOUN	NN	_	4	compound	_	_	3132	3139
 4	auxin	_	NOUN	NN	_	16	nsubj	_	_	3140	3145
@@ -630,8 +647,9 @@
 35	-RRB-	_	PUNCT	-RRB-	_	21	punct	_	_	-1	4
 36	.	_	PUNCT	.	_	6	punct	_	_	146	147
 
-2	the	_	DET	DT	_	3	det	_	_	210	213
-3	auxin	_	NOUN	NN	_	17	nsubj	_	_	3140	3145
+1	Because	_	SCONJ	IN	_	17	mark	_	_	3318	3325
+2	the	_	DET	DT	_	3	det	_	_	3326	3329
+3	auxin	_	NOUN	NN	_	17	nsubj	_	_	3330	3335
 4	signaling	_	VERB	VBG	_	3	acl	_	_	3336	3345
 5	-	_	PUNCT	:	_	4	punct	_	_	3345	3346
 6	responsive	_	ADJ	JJ	_	4	parataxis	_	_	3346	3356
@@ -694,6 +712,7 @@
 63	signaling	_	VERB	VBG	_	62	acl	_	_	3669	3678
 64	.	_	PUNCT	.	_	45	punct	_	_	3678	3679
 
+1	Although	_	SCONJ	IN	_	8	mark	_	_	3680	3688
 2	presumptive	_	ADJ	JJ	_	6	amod	_	_	3689	3700
 3	dcl	_	NOUN	NN	_	6	compound	_	_	3701	3704
 4	1-5	_	NUM	CD	_	6	nummod	_	_	3704	3707
@@ -719,21 +738,23 @@
 24	-RRB-	_	PUNCT	-RRB-	_	21	punct	_	_	-1	4
 25	.	_	PUNCT	.	_	18	punct	_	_	146	147
 
-2	,	_	PUNCT	,	_	5	punct	_	_	319	320
-3	DCL1	_	PROPN	NNP	_	5	nsubjpass	_	_	1539	1543
-4	is	_	AUX	VBZ	_	5	auxpass	_	_	1544	1546
-5	required	_	VERB	VBN	_	0	root	_	_	1547	1555
-6	for	_	ADP	IN	_	8	case	_	_	1556	1559
-7	the	_	DET	DT	_	8	det	_	_	1651	1654
-8	hypophysis	_	NOUN	NNS	_	5	nmod:for	_	_	2841	2851
-9	-	_	PUNCT	:	_	8	punct	_	_	3345	3346
-10	specific	_	ADJ	JJ	_	11	amod	_	_	3402	3410
+1	Therefore	_	ADV	RB	_	5	advmod	_	_	3844	3853
+2	,	_	PUNCT	,	_	5	punct	_	_	3853	3854
+3	DCL1	_	PROPN	NNP	_	5	nsubjpass	_	_	3855	3859
+4	is	_	AUX	VBZ	_	5	auxpass	_	_	3860	3862
+5	required	_	VERB	VBN	_	0	root	_	_	3863	3871
+6	for	_	ADP	IN	_	8	case	_	_	3872	3875
+7	the	_	DET	DT	_	8	det	_	_	3876	3879
+8	hypophysis	_	NOUN	NNS	_	5	nmod:for	_	_	3880	3890
+9	-	_	PUNCT	:	_	8	punct	_	_	3890	3891
+10	specific	_	ADJ	JJ	_	11	amod	_	_	3891	3899
 11	increase	_	NOUN	NN	_	8	dep	_	_	3900	3908
 12	in	_	ADP	IN	_	13	case	_	_	3909	3911
 13	auxin	_	NOUN	NN	_	11	nmod:in	_	_	3912	3917
 14	signaling	_	VERB	VBG	_	13	acl	_	_	3918	3927
 15	.	_	PUNCT	.	_	5	punct	_	_	3927	3928
 
+1	Given	_	VERB	VBN	_	5	case	_	_	3929	3934
 2	the	_	DET	DT	_	5	det	_	_	3935	3938
 3	severe	_	ADJ	JJ	_	5	amod	_	_	3939	3945
 4	subprotodermal	_	ADJ	JJ	_	5	amod	_	_	3946	3960
@@ -769,6 +790,7 @@
 34	factors	_	NOUN	NNS	_	28	conj:or	_	_	4139	4146
 35	.	_	PUNCT	.	_	21	punct	_	_	4146	4147
 
+1	Therefore	_	ADV	RB	_	14	advmod	_	_	4148	4157
 2	,	_	PUNCT	,	_	14	punct	_	_	4157	4158
 3	the	_	DET	DT	_	6	det	_	_	4159	4162
 4	auxin	_	ADJ	JJ	_	6	amod	_	_	4163	4168

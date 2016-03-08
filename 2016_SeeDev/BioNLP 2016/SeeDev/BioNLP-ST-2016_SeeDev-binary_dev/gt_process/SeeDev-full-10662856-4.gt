@@ -48,6 +48,7 @@ Ma	Ma	NNP	B-NP	O		236	238
 )	)	)	O	O		243	244
 .	.	.	O	O		244	245
 
+Given	Give	VBN	B-PP	O		246	251
 the	the	DT	B-NP	O		252	255
 accumulation	accumulation	NN	I-NP	O		256	268
 pattern	pattern	NN	I-NP	O		269	276
@@ -87,6 +88,7 @@ the	the	DT	B-NP	O		430	433
 plants	plant	NNS	I-NP	O		434	440
 .	.	.	O	O		440	441
 
+Effects	Effect	NNS	B-NP	O		442	449
 at	at	IN	B-PP	O		450	452
 the	the	DT	B-NP	O		453	456
 beginning	beginning	NN	I-NP	O		457	466
@@ -117,6 +119,7 @@ Thomas	Thoma	NNS	B-NP	O		601	607
 )	)	)	O	O		612	613
 .	.	.	O	O		613	614
 
+A	A	DT	B-NP	O		615	616
 partially	partially	RB	I-NP	O		617	626
 juvenilized	juvenilize	VBN	I-NP	O		627	638
 plant	plant	NN	I-NP	O		639	644
@@ -133,6 +136,7 @@ before	before	IN	B-PP	O		705	711
 flowering	flowering	NN	B-NP	O		712	721
 .	.	.	O	O		721	722
 
+The	The	DT	B-NP	O		723	726
 petioles	petiole	NNS	I-NP	O		727	735
 of	of	IN	B-PP	O		736	738
 the	the	DT	B-NP	O		739	742
@@ -158,6 +162,7 @@ AGL15	AGL15	NN	B-NP	B-DNA		863	868
 transgenes	transgene	NNS	I-NP	I-DNA		869	879
 .	.	.	O	O		879	880
 
+In	In	IN	B-PP	O		881	883
 wild	wild	JJ	B-NP	O		884	888
 -	-	HYPH	I-NP	O		888	889
 type	type	NN	I-NP	O		889	893
@@ -191,6 +196,7 @@ Poethig	Poethig	NNP	B-NP	O		1056	1063
 )	)	)	O	O		1068	1069
 .	.	.	O	O		1069	1070
 
+Although	Although	IN	B-SBAR	O		1071	1079
 the	the	DT	B-NP	O		1080	1083
 change	change	NN	I-NP	O		1084	1090
 in	in	IN	B-PP	O		1091	1093
@@ -241,6 +247,7 @@ of	of	IN	B-PP	O		1331	1333
 phase	phase	NN	B-NP	O		1334	1339
 .	.	.	O	O		1339	1340
 
+In	In	IN	B-PP	O		1341	1343
 Arabidopsis	Arabidopsis	NNP	B-NP	O		1344	1355
 ,	,	,	O	O		1355	1356
 a	a	DT	B-NP	O		1357	1358

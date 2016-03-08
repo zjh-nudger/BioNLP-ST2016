@@ -14,6 +14,7 @@ RGI	RGI	NN	B-NP	O		72	75
 biosynthesis	biosynthesis	NN	I-NP	O		76	88
 .	.	.	O	O		88	89
 
+First	First	RB	B-ADVP	O		90	95
 ,	,	,	O	O		95	96
 analysis	analysis	NN	B-NP	O		97	105
 of	of	IN	B-PP	O		106	108
@@ -48,6 +49,7 @@ type	type	NN	I-NP	O		293	297
 seeds	seed	NNS	I-NP	O		298	303
 .	.	.	O	O		303	304
 
+Second	Second	RB	B-ADVP	O		305	311
 ,	,	,	O	O		311	312
 cloning	cloning	NN	B-NP	O		313	320
 of	of	IN	B-PP	O		321	323
@@ -81,6 +83,7 @@ activated	activate	VBN	B-NP	O		493	502
 sugars	sugar	NNS	I-NP	O		503	509
 .	.	.	O	O		509	510
 
+The	The	DT	B-NP	O		511	514
 N-terminal	N-terminal	JJ	I-NP	B-protein		515	525
 portion	portion	NN	I-NP	I-protein		526	533
 of	of	IN	B-PP	O		534	536
@@ -122,6 +125,7 @@ et al.	et_al.	NNP	I-NP	O		692	698
 )	)	)	O	O		704	705
 .	.	.	O	O		705	706
 
+These	These	DT	B-NP	O		707	712
 data	datum	NNS	I-NP	O		713	717
 favor	favor	VBP	B-VP	O		718	723
 a	a	DT	B-NP	O		724	725
@@ -146,6 +150,7 @@ of	of	IN	B-PP	O		800	802
 RGI	RGI	NN	B-NP	B-protein		803	806
 .	.	.	O	O		806	807
 
+A	A	DT	B-NP	O		808	809
 reverse	reverse	JJ	I-NP	O		810	817
 genetics	genetic	NNS	I-NP	O		818	826
 approach	approach	NN	I-NP	O		827	835
@@ -183,6 +188,7 @@ et al.	et_al.	FW	I-NP	O		1001	1007
 )	)	)	O	O		1013	1014
 .	.	.	O	O		1014	1015
 
+However	However	RB	B-ADVP	O		1016	1023
 ,	,	,	O	O		1023	1024
 another	another	DT	B-NP	O		1025	1032
 role	role	NN	I-NP	O		1033	1037
@@ -211,6 +217,7 @@ NDP	NDP	NN	B-NP	B-protein		1151	1154
 l-Rha	l-Rha	NN	I-NP	B-protein		1155	1160
 .	.	.	O	O		1160	1161
 
+Gram	Gram	NN	B-NP	O		1162	1166
 -	-	HYPH	I-NP	O		1166	1167
 negative	negative	JJ	I-NP	O		1167	1175
 bacteria	bacteria	NNS	I-NP	O		1176	1184
@@ -250,6 +257,7 @@ et al.	et_al.	NNP	I-NP	O		1335	1341
 )	)	)	O	O		1347	1348
 .	.	.	O	O		1348	1349
 
+The	The	DT	B-NP	O		1350	1353
 putative	putative	JJ	I-NP	B-protein		1354	1362
 MUM4	MUM4	NN	I-NP	I-protein		1363	1367
 protein	protein	NN	I-NP	I-protein		1368	1375
@@ -292,6 +300,7 @@ Vanzin	Vanzin	NNP	I-NP	O		1566	1572
 )	)	)	O	O		1578	1579
 .	.	.	O	O		1579	1580
 
+There	There	EX	B-NP	O		1581	1586
 is	be	VBZ	B-VP	O		1587	1589
 a	a	DT	B-NP	O		1590	1591
 precedent	precedent	NN	I-NP	O		1592	1601
@@ -331,6 +340,7 @@ Reiter	Reiter	NNP	I-NP	O		1732	1738
 )	)	)	O	O		1744	1745
 .	.	.	O	O		1745	1746
 
+Therefore	Therefore	RB	B-ADVP	O		1747	1756
 ,	,	,	O	O		1756	1757
 based	base	VBN	B-PP	O		1758	1763
 on	on	IN	B-PP	O		1764	1766
@@ -370,6 +380,7 @@ Vanzin	Vanzin	NNP	I-NP	O		1928	1934
 )	)	)	O	O		1940	1941
 .	.	.	O	O		1941	1942
 
+MUM4	MUM4	NN	B-NP	B-protein		1943	1947
 is	be	VBZ	B-VP	O		1948	1950
 a	a	DT	B-NP	O		1951	1952
 member	member	NN	I-NP	O		1953	1959
@@ -411,6 +422,7 @@ acid	acid	NN	I-NP	O		2118	2122
 levels	level	NNS	I-NP	O		2123	2129
 .	.	.	O	O		2129	2130
 
+The	The	DT	B-NP	O		2131	2134
 ubiquitous	ubiquitous	JJ	I-NP	O		2135	2145
 expression	expression	NN	I-NP	O		2146	2156
 of	of	IN	B-PP	O		2157	2159
@@ -447,6 +459,7 @@ seed	seed	NN	I-NP	O		2323	2327
 coats	coat	NNS	I-NP	O		2328	2333
 .	.	.	O	O		2333	2334
 
+Redundancy	Redundancy	NN	B-NP	O		2335	2345
 in	in	IN	B-PP	O		2346	2348
 genes	gene	NNS	B-NP	O		2349	2354
 coding	cod	VBG	B-VP	O		2355	2361
@@ -475,6 +488,7 @@ cell	cell	NN	I-NP	I-cell_type		2491	2495
 walls	wall	NNS	I-NP	I-cell_type		2496	2501
 .	.	.	O	O		2501	2502
 
+In	In	IN	B-PP	O		2503	2505
 fact	fact	NN	B-NP	O		2506	2510
 ,	,	,	O	O		2510	2511
 the	the	DT	B-NP	O		2512	2515

@@ -41,6 +41,7 @@ et al.	et_al.	NNP	I-NP	O		178	184
 )	)	)	O	O		190	191
 .	.	.	O	O		191	192
 
+In	In	IN	B-PP	O		193	195
 addition	addition	NN	B-NP	O		196	204
 ,	,	,	O	O		204	205
 AP2	AP2	NN	B-NP	B-protein		206	209
@@ -56,6 +57,7 @@ co-ordinated	co-ordinated	JJ	I-NP	O		278	290
 manner	manner	NN	I-NP	O		291	297
 .	.	.	O	O		297	298
 
+In	In	IN	B-PP	O		299	301
 particular	particular	JJ	B-NP	O		302	312
 ,	,	,	I-NP	O		312	313
 micro	micro	JJ	I-NP	B-RNA		314	319
@@ -89,6 +91,7 @@ Chen	Chen	NNP	B-NP	O		448	452
 )	)	)	O	O		458	459
 .	.	.	O	O		459	460
 
+However	However	RB	B-ADVP	O		461	468
 ,	,	,	O	O		468	469
 the	the	DT	B-NP	O		470	473
 transcriptional	transcriptional	JJ	I-NP	O		474	489
@@ -108,6 +111,7 @@ et al.	et_al.	FW	I-ADVP	O		546	552
 )	)	)	O	O		558	559
 .	.	.	O	O		559	560
 
+The	The	DT	B-NP	O		561	564
 current	current	JJ	I-NP	O		565	572
 study	study	NN	I-NP	O		573	578
 showed	show	VBD	B-VP	O		579	585
@@ -123,7 +127,8 @@ AP2	AP2	NN	I-NP	B-protein		632	635
 expression	expression	NN	I-NP	O		636	646
 .	.	.	O	O		646	647
 
-is	be	VBZ	B-VP	O		650	652
+This	This	DT	B-NP	O		648	652
+is	be	VBZ	B-VP	O		653	655
 consistent	consistent	JJ	B-ADJP	O		656	666
 with	with	IN	B-PP	O		667	671
 previous	previous	JJ	B-NP	O		672	680
@@ -159,6 +164,7 @@ ERF	ERF	NN	I-NP	B-DNA		810	813
 genes	gene	NNS	I-NP	I-DNA		814	819
 .	.	.	O	O		819	820
 
+In	In	IN	B-PP	O		821	823
 addition	addition	NN	B-NP	O		824	832
 ,	,	,	O	O		832	833
 over	over	AFX	B-NP	O		834	838
@@ -174,6 +180,7 @@ of	of	IN	B-PP	O		890	892
 AP2	AP2	NN	B-NP	B-protein		893	896
 .	.	.	O	O		896	897
 
+AtEBP	AtEBP	NN	B-NP	B-protein		898	903
 is	be	VBZ	B-VP	O		904	906
 a	a	DT	B-NP	O		907	908
 transcriptional	transcriptional	JJ	I-NP	B-protein		909	924
@@ -196,6 +203,7 @@ Singh	Singh	NNP	I-NP	O		1005	1010
 )	)	)	O	O		1016	1017
 .	.	.	O	O		1017	1018
 
+Although	Although	IN	B-SBAR	O		1019	1027
 the	the	DT	B-NP	O		1028	1031
 over	over	AFX	I-NP	O		1032	1036
 -	-	HYPH	I-NP	O		1036	1037
@@ -223,6 +231,7 @@ the	the	DT	B-NP	O		1157	1160
 GCC-box	GCC-box	NN	I-NP	B-DNA		1161	1168
 .	.	.	O	O		1168	1169
 
+Interestingly	Interestingly	RB	B-ADVP	O		1170	1183
 ,	,	,	O	O		1183	1184
 analysis	analysis	NN	B-NP	O		1185	1193
 of	of	IN	B-PP	O		1194	1196
@@ -251,6 +260,7 @@ et al.	et_al.	FW	I-ADVP	O		1316	1322
 )	)	)	O	O		1328	1329
 .	.	.	O	O		1329	1330
 
+Like	Like	IN	B-PP	O		1331	1335
 Pti4	Pti4	NN	B-NP	B-protein		1336	1340
 ,	,	,	O	O		1340	1341
 transcriptional	transcriptional	JJ	B-NP	O		1342	1357
@@ -266,6 +276,7 @@ be	be	VB	I-VP	O		1402	1404
 complex	complex	JJ	B-ADJP	O		1405	1412
 .	.	.	O	O		1412	1413
 
+Down	Down	RB	B-ADVP	O		1414	1418
 -	-	HYPH	O	O		1418	1419
 regulation	regulation	NN	B-NP	O		1419	1429
 of	of	IN	B-PP	O		1430	1432
@@ -277,6 +288,7 @@ ein	ein	NN	B-NP	B-protein		1453	1456
 2-1	2-1	NN	I-NP	I-protein		1456	1459
 .	.	.	O	O		1459	1460
 
+The	The	DT	B-NP	O		1461	1464
 null	null	JJ	I-NP	O		1465	1469
 mutation	mutation	NN	I-NP	O		1470	1478
 of	of	IN	B-PP	O		1479	1481
@@ -303,6 +315,7 @@ signal	signal	NN	I-NP	O		1596	1602
 pathway	pathway	NN	I-NP	O		1603	1610
 .	.	.	O	O		1610	1611
 
+However	However	RB	B-ADVP	O		1612	1619
 ,	,	,	O	O		1619	1620
 AP2	AP2	NN	B-NP	B-protein		1621	1624
 expression	expression	NN	I-NP	O		1625	1635
@@ -328,6 +341,7 @@ various	various	JJ	B-NP	O		1727	1734
 signals	signal	NNS	I-NP	O		1735	1742
 .	.	.	O	O		1742	1743
 
+It	It	PRP	B-NP	O		1744	1746
 is	be	VBZ	B-VP	O		1747	1749
 known	know	VBN	I-VP	O		1750	1755
 that	that	IN	B-SBAR	O		1756	1760
@@ -355,6 +369,7 @@ et al.	et_al.	FW	I-ADVP	O		1860	1866
 )	)	)	O	O		1872	1873
 .	.	.	O	O		1873	1874
 
+The	The	DT	B-NP	O		1875	1878
 N-terminal	N-terminal	NN	I-NP	B-protein		1879	1889
 of	of	IN	B-PP	O		1890	1892
 EIN2	EIN2	NN	B-NP	B-protein		1893	1897
@@ -368,6 +383,7 @@ ethylene	ethylene	NN	B-NP	O		1929	1937
 responsiveness	responsiveness	NN	I-NP	O		1938	1952
 .	.	.	O	O		1952	1953
 
+On	On	IN	B-PP	O		1954	1956
 the	the	DT	B-NP	O		1957	1960
 other	other	JJ	I-NP	O		1961	1966
 hand	hand	NN	I-NP	O		1967	1971
@@ -394,6 +410,7 @@ et al.	et_al.	NNP	I-NP	O		2070	2076
 )	)	)	O	O		2082	2083
 .	.	.	O	O		2083	2084
 
+Our	Our	PRP$	B-NP	O		2085	2088
 observations	observation	NNS	I-NP	O		2089	2101
 suggested	suggest	VBD	B-VP	O		2102	2111
 that	that	IN	B-SBAR	O		2112	2116

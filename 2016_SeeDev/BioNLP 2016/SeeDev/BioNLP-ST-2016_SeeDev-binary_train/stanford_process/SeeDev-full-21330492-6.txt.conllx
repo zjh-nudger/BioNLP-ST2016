@@ -27,6 +27,7 @@
 27	development	_	NOUN	NN	_	24	nmod:in	_	_	185	196
 28	.	_	PUNCT	.	_	16	punct	_	_	196	197
 
+1	Our	_	PRON	PRP$	_	3	nmod:poss	_	_	198	201
 2	microarray	_	ADJ	JJ	_	3	amod	_	_	202	212
 3	analysis	_	NOUN	NN	_	4	nsubj	_	_	213	221
 4	indicated	_	VERB	VBD	_	0	root	_	_	222	231
@@ -48,6 +49,7 @@
 20	1-15	_	NUM	CD	_	19	nummod	_	_	289	293
 21	.	_	PUNCT	.	_	4	punct	_	_	293	294
 
+1	These	_	DET	DT	_	2	det	_	_	295	300
 2	genes	_	NOUN	NNS	_	8	nsubj	_	_	301	306
 3	have	_	AUX	VBP	_	6	aux	_	_	307	311
 4	previously	_	ADV	RB	_	6	advmod	_	_	312	322
@@ -71,6 +73,7 @@
 22	seedlings	_	NOUN	NNS	_	20	nmod:in	_	_	418	427
 23	.	_	PUNCT	.	_	6	punct	_	_	427	428
 
+1	Interestingly	_	ADV	RB	_	7	advmod	_	_	429	442
 2	,	_	PUNCT	,	_	7	punct	_	_	442	443
 3	several	_	ADJ	JJ	_	6	amod	_	_	444	451
 4	other	_	ADJ	JJ	_	6	amod	_	_	452	457
@@ -103,6 +106,7 @@
 31	-RRB-	_	PUNCT	-RRB-	_	30	punct	_	_	-1	4
 32	.	_	PUNCT	.	_	7	punct	_	_	196	197
 
+1	It	_	PRON	PRP	_	5	nsubjpass	_	_	574	576
 2	has	_	AUX	VBZ	_	5	aux	_	_	577	580
 3	already	_	ADV	RB	_	5	advmod	_	_	581	588
 4	been	_	AUX	VBN	_	5	auxpass	_	_	589	593
@@ -150,6 +154,7 @@
 46	-RRB-	_	PUNCT	-RRB-	_	41	punct	_	_	-1	4
 47	.	_	PUNCT	.	_	5	punct	_	_	196	197
 
+1	We	_	PRON	PRP	_	19	nsubj	_	_	796	798
 2	analyzed	_	VERB	VBD	_	0	root	_	_	799	807
 3	single	_	ADJ	JJ	_	7	amod	_	_	808	814
 4	and	_	CONJ	CC	_	3	cc	_	_	815	818
@@ -186,6 +191,7 @@
 35	targets	_	NOUN	NNS	_	32	nmod:of	_	_	996	1003
 36	.	_	PUNCT	.	_	2	punct	_	_	1003	1004
 
+1	Thus	_	ADV	RB	_	5	advmod	_	_	1005	1009
 2	,	_	PUNCT	,	_	5	punct	_	_	1009	1010
 3	our	_	PRON	PRP$	_	4	nmod:poss	_	_	1011	1014
 4	studies	_	NOUN	NNS	_	5	nsubj	_	_	1015	1022

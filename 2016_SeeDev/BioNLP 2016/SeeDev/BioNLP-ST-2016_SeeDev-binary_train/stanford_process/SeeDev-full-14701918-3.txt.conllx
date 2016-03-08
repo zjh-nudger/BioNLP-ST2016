@@ -82,6 +82,7 @@
 82	-RRB-	_	PUNCT	-RRB-	_	63	punct	_	_	-1	4
 83	.	_	PUNCT	.	_	15	punct	_	_	404	405
 
+1	Seed	_	NOUN	NN	_	3	compound	_	_	458	462
 2	coat	_	NOUN	NN	_	3	compound	_	_	463	467
 3	mucilage	_	NOUN	NN	_	18	nsubj	_	_	468	476
 4	is	_	VERB	VBZ	_	18	cop	_	_	477	479
@@ -119,7 +120,8 @@
 36	-RRB-	_	PUNCT	-RRB-	_	31	punct	_	_	-1	4
 37	.	_	PUNCT	.	_	18	punct	_	_	404	405
 
-2	in	_	ADP	IN	_	3	case	_	_	436	438
+1	Mutations	_	NOUN	NNS	_	10	nsubj	_	_	672	681
+2	in	_	ADP	IN	_	3	case	_	_	682	684
 3	one	_	NUM	CD	_	1	nmod:in	_	_	685	688
 4	of	_	ADP	IN	_	6	case	_	_	689	691
 5	these	_	DET	DT	_	6	det	_	_	692	697
@@ -141,6 +143,7 @@
 21	seeds	_	NOUN	NNS	_	17	nmod:from	_	_	781	786
 22	.	_	PUNCT	.	_	10	punct	_	_	786	787
 
+1	Several	_	ADJ	JJ	_	2	amod	_	_	788	795
 2	genes	_	NOUN	NNS	_	9	nsubjpass	_	_	796	801
 3	encoding	_	VERB	VBG	_	2	acl	_	_	802	810
 4	putative	_	ADJ	JJ	_	6	amod	_	_	811	819
@@ -171,6 +174,7 @@
 29	hydration	_	NOUN	NN	_	26	nmod:upon	_	_	982	991
 30	.	_	PUNCT	.	_	9	punct	_	_	991	992
 
+1	Mutants	_	NOUN	NNS	_	17	nsubj	_	_	993	1000
 2	in	_	ADP	IN	_	3	case	_	_	1001	1003
 3	AP2	_	PROPN	NNP	_	1	nmod:in	_	_	1004	1007
 4	-LRB-	_	PUNCT	-LRB-	_	5	punct	_	_	-1	4
@@ -211,6 +215,7 @@
 39	-RRB-	_	PUNCT	-RRB-	_	29	punct	_	_	-1	4
 40	.	_	PUNCT	.	_	17	punct	_	_	404	405
 
+1	TTG1	_	PROPN	NNP	_	27	nsubj	_	_	1190	1194
 2	-LRB-	_	PUNCT	-LRB-	_	5	punct	_	_	-1	4
 3	TRANSPARENT	_	PROPN	NNP	_	5	compound	_	_	1196	1207
 4	TESTA	_	PROPN	NNP	_	5	compound	_	_	1208	1213
@@ -273,7 +278,8 @@
 61	-RRB-	_	PUNCT	-RRB-	_	40	punct	_	_	-1	4
 62	.	_	PUNCT	.	_	27	punct	_	_	404	405
 
-2	has	_	AUX	VBZ	_	4	aux	_	_	1112	1115
+1	It	_	PRON	PRP	_	4	nsubjpass	_	_	1486	1488
+2	has	_	AUX	VBZ	_	4	aux	_	_	1489	1492
 3	been	_	AUX	VBN	_	4	auxpass	_	_	1493	1497
 4	shown	_	VERB	VBN	_	0	root	_	_	1498	1503
 5	at	_	ADP	IN	_	10	case	_	_	1504	1506
@@ -334,9 +340,10 @@
 60	-RRB-	_	PUNCT	-RRB-	_	46	punct	_	_	-1	4
 61	.	_	PUNCT	.	_	4	punct	_	_	404	405
 
-2	,	_	PUNCT	,	_	8	punct	_	_	405	406
-3	mutations	_	NOUN	NNS	_	11	nsubj	_	_	906	915
-4	in	_	ADP	IN	_	5	case	_	_	916	918
+1	Recently	_	ADV	RB	_	8	advmod	_	_	1761	1769
+2	,	_	PUNCT	,	_	8	punct	_	_	1769	1770
+3	mutations	_	NOUN	NNS	_	11	nsubj	_	_	1771	1780
+4	in	_	ADP	IN	_	5	case	_	_	1781	1783
 5	MYB61	_	PROPN	NNP	_	3	nmod:in	_	_	1784	1789
 6	have	_	AUX	VBP	_	8	aux	_	_	1790	1794
 7	been	_	AUX	VBN	_	8	auxpass	_	_	1795	1799
@@ -363,6 +370,7 @@
 28	-RRB-	_	PUNCT	-RRB-	_	23	punct	_	_	-1	4
 29	.	_	PUNCT	.	_	8	punct	_	_	404	405
 
+1	The	_	DET	DT	_	2	det	_	_	1922	1925
 2	objective	_	NOUN	NN	_	8	nsubj	_	_	1926	1935
 3	of	_	ADP	IN	_	5	case	_	_	1936	1938
 4	this	_	DET	DT	_	5	det	_	_	1939	1943
@@ -384,6 +392,7 @@
 20	coat	_	NOUN	NN	_	15	nmod:of	_	_	2030	2034
 21	.	_	PUNCT	.	_	6	punct	_	_	2034	2035
 
+1	Using	_	VERB	VBG	_	8	advcl	_	_	2036	2041
 2	positional	_	ADJ	JJ	_	3	amod	_	_	2042	2052
 3	cloning	_	NOUN	NN	_	1	dobj	_	_	2053	2060
 4	of	_	ADP	IN	_	5	case	_	_	2061	2063
@@ -402,6 +411,7 @@
 17	synthase	_	NOUN	NN	_	11	dobj	_	_	2124	2132
 18	.	_	PUNCT	.	_	8	punct	_	_	2132	2133
 
+1	Mutations	_	NOUN	NNS	_	5	nsubj	_	_	2134	2143
 2	in	_	ADP	IN	_	4	case	_	_	2144	2146
 3	this	_	DET	DT	_	4	det	_	_	2147	2151
 4	gene	_	NOUN	NN	_	1	nmod:in	_	_	2152	2156
@@ -419,6 +429,7 @@
 16	columella	_	NOUN	NN	_	12	conj:and	_	_	2214	2223
 17	.	_	PUNCT	.	_	5	punct	_	_	2223	2224
 
+1	Expression	_	NOUN	NN	_	2	compound	_	_	2225	2235
 2	studies	_	NOUN	NNS	_	3	nsubj	_	_	2236	2243
 3	show	_	VERB	VBP	_	0	root	_	_	2244	2248
 4	that	_	SCONJ	IN	_	8	mark	_	_	2249	2253
@@ -445,6 +456,7 @@
 25	production	_	NOUN	NN	_	22	nmod:of	_	_	2391	2401
 26	.	_	PUNCT	.	_	3	punct	_	_	2401	2402
 
+1	Furthermore	_	ADV	RB	_	4	advmod	_	_	2403	2414
 2	,	_	PUNCT	,	_	4	punct	_	_	2414	2415
 3	MUM4	_	PROPN	NNP	_	9	nsubj	_	_	2416	2420
 4	appears	_	VERB	VBZ	_	0	root	_	_	2421	2428
@@ -469,6 +481,7 @@
 23	GL2	_	PROPN	NNP	_	18	conj:and	_	_	2522	2525
 24	.	_	PUNCT	.	_	4	punct	_	_	2525	2526
 
+1	These	_	DET	DT	_	2	det	_	_	2527	2532
 2	results	_	NOUN	NNS	_	18	nsubj	_	_	2533	2540
 3	demonstrate	_	VERB	VBP	_	0	root	_	_	2541	2552
 4	the	_	DET	DT	_	5	det	_	_	2553	2556

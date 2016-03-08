@@ -9,6 +9,7 @@ Transcription	Transcription	NNP	B-NP	B-protein		45	58
 Factors	Factors	NNP	I-NP	I-protein		59	66
 .	.	.	O	O		66	67
 
+Our	Our	PRP$	B-NP	O		68	71
 findings	finding	NNS	I-NP	O		72	80
 that	that	IN	B-SBAR	O		81	85
 the	the	DT	B-NP	O		86	89
@@ -53,6 +54,7 @@ seed	seed	NN	B-NP	O		265	269
 development	development	NN	I-NP	O		270	281
 .	.	.	O	O		281	282
 
+The	The	DT	B-NP	O		283	286
 B3	B3	NN	I-NP	B-protein		287	289
 domain	domain	NN	I-NP	I-protein		290	296
 is	be	VBZ	B-VP	O		297	299
@@ -94,6 +96,7 @@ ABI3	ABI3	NN	I-NP	O		487	491
 )	)	)	O	O		495	496
 .	.	.	O	O		496	497
 
+Subsequently	Subsequently	RB	B-ADVP	O		498	510
 ,	,	,	O	O		510	511
 this	this	DT	B-NP	O		512	516
 domain	domain	NN	I-NP	O		517	523
@@ -123,6 +126,7 @@ VP1	VP1	NN	B-NP	B-protein		620	623
 )	)	)	O	O		627	628
 .	.	.	O	O		628	629
 
+Many	Many	JJ	B-NP	O		630	634
 proteins	protein	NNS	I-NP	O		635	643
 containing	contain	VBG	B-VP	O		644	654
 B3	B3	NN	B-NP	B-protein		655	657
@@ -153,6 +157,7 @@ factors	factor	NNS	I-NP	I-protein		747	754
 )	)	)	O	O		766	767
 .	.	.	O	O		767	768
 
+The	The	DT	B-NP	O		769	772
 B3	B3	NN	I-NP	B-protein		773	775
 domain	domain	NN	I-NP	I-protein		776	782
 is	be	VBZ	B-VP	O		783	785
@@ -188,6 +193,7 @@ VP1	VP1	NN	B-NP	B-protein		878	881
 )	)	)	O	O		893	894
 .	.	.	O	O		894	895
 
+To	To	TO	B-PP	O		896	898
 our	our	PRP$	B-NP	O		899	902
 knowledge	knowledge	NN	I-NP	O		903	912
 ,	,	,	O	O		912	913
@@ -203,6 +209,7 @@ to	to	TO	B-PP	O		950	952
 plants	plant	NNS	B-NP	O		953	959
 .	.	.	O	O		959	960
 
+Maximum	Maximum	JJ	B-NP	O		961	968
 parsimony	parsimony	NN	I-NP	O		969	978
 analysis	analysis	NN	I-NP	O		979	987
 (	(	(	O	O		988	989
@@ -244,6 +251,7 @@ results	result	NNS	I-NP	O		1176	1183
 )	)	)	O	O		1183	1184
 .	.	.	O	O		1184	1185
 
+All	All	DT	B-NP	O		1186	1189
 three	three	CD	I-NP	O		1190	1195
 genes	gene	NNS	I-NP	O		1196	1201
 are	be	VBP	B-VP	O		1202	1205
@@ -264,6 +272,7 @@ seed	seed	NN	I-NP	O		1305	1309
 development	development	NN	I-NP	O		1310	1321
 .	.	.	O	O		1321	1322
 
+Although	Although	IN	B-SBAR	O		1323	1331
 they	they	PRP	B-NP	O		1332	1336
 all	all	DT	B-NP	O		1337	1340
 play	play	VBP	B-VP	O		1341	1345
@@ -279,6 +288,7 @@ have	have	VBP	B-VP	O		1398	1402
 diverged	diverge	VBN	I-VP	O		1403	1411
 .	.	.	O	O		1411	1412
 
+ABI3	ABI3	NN	B-NP	B-protein		1413	1417
 is	be	VBZ	B-VP	O		1418	1420
 a	a	DT	B-NP	O		1421	1422
 transcription	transcription	NN	I-NP	B-protein		1423	1436

@@ -37,6 +37,7 @@
 37	sporogenesis	_	NOUN	NNS	_	27	nmod:in	_	_	195	207
 38	.	_	PUNCT	.	_	5	punct	_	_	207	208
 
+1	To	_	PART	TO	_	2	mark	_	_	209	211
 2	determine	_	VERB	VB	_	14	advcl	_	_	212	221
 3	the	_	DET	DT	_	4	det	_	_	222	225
 4	composition	_	NOUN	NN	_	2	dobj	_	_	226	237
@@ -66,6 +67,7 @@
 28	control	_	NOUN	NN	_	22	nmod:under	_	_	382	389
 29	.	_	PUNCT	.	_	14	punct	_	_	389	390
 
+1	The	_	DET	DT	_	4	det	_	_	391	394
 2	membrane	_	ADJ	JJ	_	4	amod	_	_	395	403
 3	receptor	_	NOUN	NN	_	4	compound	_	_	404	412
 4	complex	_	NOUN	NN	_	6	nsubjpass	_	_	413	420
@@ -103,6 +105,7 @@
 36	peptides	_	NOUN	NNS	_	35	dobj	_	_	644	652
 37	.	_	PUNCT	.	_	20	punct	_	_	652	653
 
+1	This	_	DET	DT	_	2	det	_	_	654	658
 2	approach	_	NOUN	NN	_	0	root	_	_	659	667
 3	identified	_	VERB	VBN	_	2	acl	_	_	668	678
 4	two	_	NUM	CD	_	6	nummod	_	_	679	682
@@ -133,6 +136,7 @@
 29	protein	_	NOUN	NN	_	28	dep	_	_	805	812
 30	.	_	PUNCT	.	_	2	punct	_	_	812	813
 
+1	In	_	ADP	IN	_	2	case	_	_	814	816
 2	addition	_	NOUN	NN	_	17	nmod:in	_	_	817	825
 3	,	_	PUNCT	,	_	17	punct	_	_	825	826
 4	KINASE	_	ADJ	JJ	_	15	amod	_	_	827	833
@@ -151,6 +155,7 @@
 17	found	_	VERB	VBN	_	0	root	_	_	891	896
 18	.	_	PUNCT	.	_	17	punct	_	_	896	897
 
+1	Finally	_	ADV	RB	_	8	advmod	_	_	898	905
 2	,	_	PUNCT	,	_	8	punct	_	_	905	906
 3	the	_	DET	DT	_	7	det	_	_	907	910
 4	MADS	_	PROPN	NNP	_	7	compound	_	_	911	915
@@ -184,6 +189,7 @@
 32	complex	_	NOUN	NN	_	28	nmod:of	_	_	1070	1077
 33	.	_	PUNCT	.	_	8	punct	_	_	1077	1078
 
+1	Using	_	VERB	VBG	_	8	advcl	_	_	1079	1084
 2	blue	_	ADJ	JJ	_	5	amod	_	_	1085	1089
 3	native	_	ADJ	JJ	_	5	amod	_	_	1090	1096
 4	gel	_	NOUN	NN	_	5	compound	_	_	1097	1100
@@ -214,6 +220,7 @@
 29	kD	_	NOUN	NN	_	24	nmod:between	_	_	1243	1245
 30	.	_	PUNCT	.	_	8	punct	_	_	1245	1246
 
+1	The	_	DET	DT	_	6	det	_	_	1247	1250
 2	SERK1	_	PROPN	NNP	_	6	compound	_	_	1251	1256
 3	mutant	_	ADJ	JJ	_	6	amod	_	_	1257	1263
 4	allele	_	NOUN	NN	_	6	compound	_	_	1264	1270
@@ -231,6 +238,7 @@
 16	1-119	_	NOUN	NN	_	9	nmod:of	_	_	1329	1334
 17	.	_	PUNCT	.	_	7	punct	_	_	1334	1335
 
+1	Collectively	_	ADV	RB	_	5	advmod	_	_	1336	1348
 2	,	_	PUNCT	,	_	5	punct	_	_	1348	1349
 3	these	_	DET	DT	_	4	det	_	_	1350	1355
 4	results	_	NOUN	NNS	_	5	nsubj	_	_	1356	1363

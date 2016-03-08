@@ -33,6 +33,7 @@ of	of	IN	B-PP	O		204	206
 embryogenesis	embryogenesis	NN	B-NP	O		207	220
 .	.	.	O	O		220	221
 
+We	We	PRP	B-NP	O		222	224
 propose	propose	VBP	B-VP	O		225	232
 that	that	IN	B-SBAR	O		233	237
 additional	additional	JJ	B-NP	O		238	248
@@ -66,6 +67,7 @@ and	and	CC	O	O		406	409
 TCP4	TCP4	NN	B-NP	B-protein		410	414
 .	.	.	O	O		414	415
 
+A	A	DT	B-NP	O		416	417
 link	link	NN	I-NP	O		418	422
 between	between	IN	B-PP	O		423	430
 delayed	delay	VBN	B-NP	O		431	438
@@ -86,6 +88,7 @@ experimental	experimental	JJ	B-NP	O		541	553
 confirmation	confirmation	NN	I-NP	O		554	566
 .	.	.	O	O		566	567
 
+The	The	DT	B-NP	O		568	571
 same	same	JJ	I-NP	O		572	576
 is	be	VBZ	B-VP	O		577	579
 true	true	JJ	B-ADJP	O		580	584
@@ -124,6 +127,7 @@ gene	gene	NN	I-NP	O		799	803
 expression	expression	NN	I-NP	O		804	814
 .	.	.	O	O		814	815
 
+One	One	CD	B-NP	O		816	819
 of	of	IN	B-PP	O		820	822
 the	the	DT	B-NP	O		823	826
 earliest	early	JJS	I-NP	O		827	835
@@ -144,6 +148,7 @@ Fig	Fig	NNP	B-NP	O		907	910
 )	)	)	O	O		914	915
 .	.	.	O	O		915	916
 
+We	We	PRP	B-NP	O		917	919
 propose	propose	VBP	B-VP	O		920	927
 that	that	IN	B-SBAR	O		928	932
 ,	,	,	O	O		932	933
@@ -191,6 +196,7 @@ globular	globular	JJ	I-NP	O		1154	1162
 stages	stage	NNS	I-NP	O		1163	1169
 .	.	.	O	O		1169	1170
 
+Since	Since	IN	B-SBAR	O		1171	1176
 the	the	DT	B-NP	O		1177	1180
 reduction	reduction	NN	I-NP	O		1181	1190
 of	of	IN	B-PP	O		1191	1193
@@ -277,6 +283,7 @@ cell	cell	NN	I-NP	I-cell_type		1692	1696
 types	type	NNS	I-NP	I-cell_type		1697	1702
 .	.	.	O	O		1702	1703
 
+The	The	DT	B-NP	O		1704	1707
 two	two	CD	I-NP	O		1708	1711
 transcription	transcription	NN	I-NP	B-DNA		1712	1725
 factor	factor	NN	I-NP	I-DNA		1726	1732
@@ -323,6 +330,7 @@ increase	increase	NN	I-NP	O		1948	1956
 )	)	)	O	O		1956	1957
 .	.	.	O	O		1957	1958
 
+These	These	DT	B-NP	O		1959	1964
 two	two	CD	I-NP	O		1965	1968
 genes	gene	NNS	I-NP	O		1969	1974
 were	be	VBD	B-VP	O		1975	1979
@@ -349,6 +357,7 @@ D	D	NNP	B-NP	O		2081	2082
 )	)	)	O	O		2082	2083
 .	.	.	O	O		2083	2084
 
+The	The	DT	B-NP	O		2085	2088
 ability	ability	NN	I-NP	O		2089	2096
 to	to	TO	B-VP	O		2097	2099
 suppress	suppress	VB	I-VP	O		2100	2108
@@ -381,6 +390,7 @@ dcl1	dcl1	NN	B-NP	O		2263	2267
 embryos	embryo	NNS	I-NP	O		2268	2275
 .	.	.	O	O		2275	2276
 
+However	However	RB	B-ADVP	O		2277	2284
 ,	,	,	O	O		2284	2285
 miR156	miR156	NN	B-NP	O		2286	2292
 -	-	HYPH	O	O		2292	2293
@@ -411,6 +421,7 @@ defects	defect	NNS	I-NP	O		2452	2459
 observed	observe	VBN	B-VP	O		2460	2468
 .	.	.	O	O		2468	2469
 
+Consistent	Consistent	JJ	B-ADJP	O		2470	2480
 with	with	IN	B-PP	O		2481	2485
 this	this	DT	B-NP	O		2486	2490
 idea	idea	NN	I-NP	O		2491	2495
@@ -448,6 +459,7 @@ transcription	transcription	NN	I-NP	B-protein		2648	2661
 factors	factor	NNS	I-NP	I-protein		2662	2669
 .	.	.	O	O		2669	2670
 
+Of	Of	IN	B-PP	O		2671	2673
 these	these	DT	B-NP	O		2674	2679
 seven	seven	CD	I-NP	O		2680	2685
 misregulated	misregulate	VBN	I-NP	O		2686	2698
@@ -514,6 +526,7 @@ et al.	et_al.	FW	I-NP	O		2995	3001
 )	)	)	O	O		3006	3007
 .	.	.	O	O		3007	3008
 
+However	However	RB	B-ADVP	O		3009	3016
 ,	,	,	O	O		3016	3017
 phb	phb	NN	B-NP	B-protein		3018	3021
 phv	phv	NN	I-NP	I-protein		3022	3025
@@ -550,6 +563,7 @@ embryonic	embryonic	JJ	I-NP	I-cell_type		3191	3200
 phenotypes	phenotype	NNS	I-NP	I-cell_type		3201	3211
 .	.	.	O	O		3211	3212
 
+Perhaps	Perhaps	RB	B-ADVP	O		3213	3220
 the	the	DT	B-NP	O		3221	3224
 loss	loss	NN	I-NP	O		3225	3229
 of	of	IN	B-PP	O		3230	3232
@@ -584,6 +598,7 @@ phenotypes	phenotype	NNS	I-NP	I-cell_type		3400	3410
 observed	observe	VBN	B-VP	O		3411	3419
 .	.	.	O	O		3419	3420
 
+Future	Future	JJ	B-NP	O		3421	3427
 characterization	characterization	NN	I-NP	O		3428	3444
 of	of	IN	B-PP	O		3445	3447
 how	how	WRB	B-ADVP	O		3448	3451
@@ -616,6 +631,7 @@ embryo	embryo	NN	B-NP	O		3626	3632
 morphogenesis	morphogenesis	NN	I-NP	O		3633	3646
 .	.	.	O	O		3646	3647
 
+We	We	PRP	B-NP	O		3648	3650
 also	also	RB	B-ADVP	O		3651	3655
 report	report	VBP	B-VP	O		3656	3662
 previously	previously	RB	B-NP	O		3663	3673
@@ -632,6 +648,7 @@ during	during	IN	B-PP	O		3735	3741
 embryogenesis	embryogenesis	NN	B-NP	O		3742	3755
 .	.	.	O	O		3755	3756
 
+After	After	IN	B-PP	O		3757	3762
 morphogenesis	morphogenesis	NN	B-NP	O		3763	3776
 ,	,	,	O	O		3776	3777
 seed	seed	NN	B-NP	O		3778	3782
@@ -667,6 +684,7 @@ to	to	TO	B-PP	O		3953	3955
 germination	germination	NN	B-NP	O		3956	3967
 .	.	.	O	O		3967	3968
 
+We	We	PRP	B-NP	O		3969	3971
 found	find	VBD	B-VP	O		3972	3977
 that	that	IN	B-SBAR	O		3978	3982
 miR156	miR156	NN	B-NP	O		3983	3989
@@ -698,6 +716,7 @@ has	have	VBZ	B-VP	O		4153	4156
 formed	form	VBN	I-VP	O		4157	4163
 .	.	.	O	O		4163	4164
 
+To	To	TO	B-PP	O		4165	4167
 the	the	DT	B-NP	O		4168	4171
 extent	extent	NN	I-NP	O		4172	4178
 that	that	IN	B-SBAR	O		4179	4183
@@ -773,6 +792,7 @@ et al.	et_al.	FW	I-NP	O		4572	4578
 )	)	)	O	O		4583	4584
 .	.	.	O	O		4584	4585
 
+This	This	DT	B-NP	O		4586	4590
 role	role	NN	I-NP	O		4591	4595
 for	for	IN	B-PP	O		4596	4599
 SPL10	SPL10	NN	B-NP	B-protein		4600	4605
@@ -798,6 +818,7 @@ dcl1	dcl1	NN	B-NP	O		4716	4720
 embryos	embryo	NNS	I-NP	O		4721	4728
 .	.	.	O	O		4728	4729
 
+Perhaps	Perhaps	RB	B-ADVP	O		4730	4737
 the	the	DT	B-NP	O		4738	4741
 premature	premature	JJ	I-NP	O		4742	4751
 induction	induction	NN	I-NP	O		4752	4761
@@ -814,6 +835,7 @@ is	be	VBZ	B-VP	O		4820	4822
 complete	complete	JJ	B-ADJP	O		4823	4831
 .	.	.	O	O		4831	4832
 
+Later	Later	RB	B-ADVP	O		4833	4838
 in	in	IN	B-PP	O		4839	4841
 development	development	NN	B-NP	O		4842	4853
 ,	,	,	O	O		4853	4854
@@ -844,6 +866,7 @@ maturation	maturation	NN	I-NP	O		4989	4999
 transition	transition	NN	I-NP	O		5000	5010
 .	.	.	O	O		5010	5011
 
+Although	Although	IN	B-SBAR	O		5012	5020
 miR156	miR156	NN	B-NP	O		5021	5027
 levels	level	NNS	I-NP	O		5028	5034
 do	do	VBP	B-VP	O		5035	5037
@@ -889,6 +912,7 @@ Fig	Fig	NNP	B-NP	O		5234	5237
 )	)	)	O	O		5240	5241
 .	.	.	O	O		5241	5242
 
+Therefore	Therefore	RB	B-ADVP	O		5243	5252
 ,	,	,	O	O		5252	5253
 at	at	IN	B-PP	O		5254	5256
 later	later	JJ	B-NP	O		5257	5262
@@ -923,6 +947,7 @@ expression	expression	NN	I-NP	O		5430	5440
 programs	program	NNS	I-NP	O		5441	5449
 .	.	.	O	O		5449	5450
 
+Despite	Despite	IN	B-PP	O		5451	5458
 the	the	DT	B-NP	O		5459	5462
 characterization	characterization	NN	I-NP	O		5463	5479
 of	of	IN	B-PP	O		5480	5482
@@ -974,6 +999,7 @@ well	well	RB	B-ADJP	O		5734	5738
 understood	understand	VBN	I-ADJP	O		5739	5749
 .	.	.	O	O		5749	5750
 
+Multiple	Multiple	JJ	B-NP	O		5751	5759
 factors	factor	NNS	I-NP	O		5760	5767
 may	may	MD	B-VP	O		5768	5771
 influence	influence	VB	I-VP	O		5772	5781
@@ -997,6 +1023,7 @@ phase	phase	NN	I-NP	O		5886	5891
 transition	transition	NN	I-NP	O		5892	5902
 .	.	.	O	O		5902	5903
 
+Further	Further	JJ	B-NP	O		5904	5911
 characterization	characterization	NN	I-NP	O		5912	5928
 of	of	IN	B-PP	O		5929	5931
 the	the	DT	B-NP	O		5932	5935

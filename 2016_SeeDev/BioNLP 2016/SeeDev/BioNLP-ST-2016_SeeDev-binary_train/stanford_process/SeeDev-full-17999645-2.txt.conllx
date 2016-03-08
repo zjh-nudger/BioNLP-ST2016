@@ -20,6 +20,7 @@
 20	protein	_	NOUN	NN	_	14	nmod:as	_	_	85	92
 21	.	_	PUNCT	.	_	14	punct	_	_	92	93
 
+1	The	_	DET	DT	_	5	det	_	_	94	97
 2	SIN	_	PROPN	NNP	_	5	compound	_	_	98	101
 3	/	_	PROPN	NNP	_	5	compound	_	_	101	102
 4	HDAC	_	PROPN	NNP	_	5	compound	_	_	102	106
@@ -47,6 +48,7 @@
 26	SDS3	_	PROPN	NNP	_	12	conj:and	_	_	206	210
 27	.	_	PUNCT	.	_	7	punct	_	_	210	211
 
+1	However	_	ADV	RB	_	4	advmod	_	_	212	219
 2	,	_	PUNCT	,	_	4	punct	_	_	219	220
 3	yeast	_	NOUN	NN	_	10	nsubj	_	_	221	226
 4	has	_	VERB	VBZ	_	0	root	_	_	227	230
@@ -70,7 +72,8 @@
 22	-RRB-	_	PUNCT	-RRB-	_	15	punct	_	_	-1	4
 23	.	_	PUNCT	.	_	4	punct	_	_	92	93
 
-2	has	_	VERB	VBZ	_	0	root	_	_	227	230
+1	Arabidopsis	_	NOUN	NNS	_	2	nsubj	_	_	317	328
+2	has	_	VERB	VBZ	_	0	root	_	_	329	332
 3	two	_	NUM	CD	_	4	compound	_	_	333	336
 4	HDAC1	_	NUM	CD	_	5	nummod	_	_	337	342
 5	orthologs	_	NOUN	NNS	_	2	dobj	_	_	343	352
@@ -109,7 +112,8 @@
 38	-RRB-	_	PUNCT	-RRB-	_	33	punct	_	_	-1	4
 39	.	_	PUNCT	.	_	2	punct	_	_	92	93
 
-2	show	_	VERB	VBP	_	0	root	_	_	450	454
+1	We	_	PRON	PRP	_	2	nsubj	_	_	516	518
+2	show	_	VERB	VBP	_	0	root	_	_	519	523
 3	here	_	ADV	RB	_	2	advmod	_	_	524	528
 4	that	_	SCONJ	IN	_	8	mark	_	_	529	533
 5	SAP18	_	PROPN	NNP	_	10	nsubj	_	_	534	539
@@ -135,7 +139,8 @@
 25	-RRB-	_	PUNCT	-RRB-	_	23	punct	_	_	-1	4
 26	.	_	PUNCT	.	_	2	punct	_	_	92	93
 
-2	the	_	DET	DT	_	3	det	_	_	256	259
+1	Although	_	SCONJ	IN	_	7	mark	_	_	636	644
+2	the	_	DET	DT	_	3	det	_	_	645	648
 3	C-domain	_	NOUN	NN	_	9	nsubj	_	_	649	657
 4	alone	_	ADV	RB	_	7	advmod	_	_	658	663
 5	is	_	VERB	VBZ	_	7	cop	_	_	664	666

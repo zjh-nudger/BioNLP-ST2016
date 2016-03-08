@@ -34,6 +34,7 @@ Figure	Figure	NN	B-NP	O		202	208
 )	)	)	O	O		210	211
 .	.	.	O	O		211	212
 
+AGL15	AGL15	NN	B-NP	O		213	218
 (	(	(	O	O		219	220
 AGAMOUS	AGAMOUS	NN	B-NP	O		220	227
 -	-	HYPH	O	O		227	228
@@ -93,6 +94,7 @@ Figure	Figure	NN	B-NP	O		489	495
 )	)	)	O	O		498	499
 .	.	.	O	O		499	500
 
+Two	Two	CD	B-NP	O		501	504
 repressors	repressor	NNS	I-NP	O		505	515
 of	of	IN	B-PP	O		516	518
 seed	seed	NN	B-NP	B-DNA		519	523
@@ -139,6 +141,7 @@ Figure	Figure	NN	B-NP	O		716	722
 )	)	)	O	O		725	726
 .	.	.	O	O		726	727
 
+Surprisingly	Surprisingly	RB	B-ADVP	O		728	740
 ,	,	,	O	O		740	741
 LEC2	LEC2	NN	B-NP	B-protein		742	746
 ,	,	,	O	O		746	747
@@ -172,6 +175,7 @@ developing	develop	VBG	I-NP	O		872	882
 seeds	seed	NNS	I-NP	O		883	888
 .	.	.	O	O		888	889
 
+Although	Although	IN	B-SBAR	O		890	898
 this	this	DT	B-NP	O		899	903
 result	result	NN	I-NP	O		904	910
 requires	require	VBZ	B-VP	O		911	919
@@ -200,6 +204,7 @@ morphogenesis	morphogenesis	NN	I-NP	O		1044	1057
 ]	]	)	O	O		1061	1062
 .	.	.	O	O		1062	1063
 
+Additionally	Additionally	RB	B-ADVP	O		1064	1076
 ,	,	,	O	O		1076	1077
 based	base	VBN	B-PP	O		1078	1083
 on	on	IN	B-PP	O		1084	1086
@@ -245,6 +250,7 @@ mutant	mutant	JJ	I-NP	O		1304	1310
 seeds	seed	NNS	I-NP	O		1311	1316
 .	.	.	O	O		1316	1317
 
+Therefore	Therefore	RB	B-ADVP	O		1318	1327
 ,	,	,	O	O		1327	1328
 the	the	DT	B-NP	O		1329	1332
 role	role	NN	I-NP	O		1333	1337
@@ -277,6 +283,7 @@ currently	currently	RB	B-ADVP	O		1481	1490
 thought	think	VBN	B-VP	O		1491	1498
 .	.	.	O	O		1498	1499
 
+Likewise	Likewise	RB	B-ADVP	O		1500	1508
 ,	,	,	O	O		1508	1509
 ABI4	ABI4	NN	B-NP	B-protein		1510	1514
 was	be	VBD	B-VP	O		1515	1518
@@ -289,6 +296,7 @@ seed	seed	NN	I-NP	O		1557	1561
 samples	sample	NNS	I-NP	O		1562	1569
 .	.	.	O	O		1569	1570
 
+The	The	DT	B-NP	O		1571	1574
 expression	expression	NN	I-NP	O		1575	1585
 similarity	similarity	NN	I-NP	O		1586	1596
 between	between	IN	B-PP	O		1597	1604
@@ -306,6 +314,7 @@ regulatory	regulatory	JJ	B-NP	O		1664	1674
 relationships	relationship	NNS	I-NP	O		1675	1688
 .	.	.	O	O		1688	1689
 
+Both	Both	CC	O	O		1690	1694
 LEC1	LEC1	NN	B-NP	B-protein		1695	1699
 and	and	CC	I-NP	O		1700	1703
 WRI1	WRI1	NN	I-NP	B-protein		1704	1708
@@ -341,6 +350,7 @@ Cluster	Cluster	NN	I-NP	I-DNA		1853	1860
 )	)	)	O	O		1862	1863
 .	.	.	O	O		1863	1864
 
+LEC1	LEC1	NN	B-NP	B-protein		1865	1869
 and	and	CC	I-NP	O		1870	1873
 WRI1	WRI1	NN	I-NP	B-protein		1874	1878
 are	be	VBP	B-VP	O		1879	1882

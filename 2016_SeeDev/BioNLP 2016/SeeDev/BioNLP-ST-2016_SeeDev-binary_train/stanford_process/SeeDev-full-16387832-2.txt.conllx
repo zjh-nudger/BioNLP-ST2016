@@ -33,6 +33,7 @@
 33	-RRB-	_	PUNCT	-RRB-	_	24	punct	_	_	-1	4
 34	.	_	PUNCT	.	_	6	punct	_	_	169	170
 
+1	Similar	_	ADJ	JJ	_	4	nsubj	_	_	171	178
 2	to	_	ADP	TO	_	3	case	_	_	179	181
 3	animal	_	NOUN	NN	_	1	nmod:to	_	_	182	188
 4	stem	_	VERB	VBP	_	10	ccomp	_	_	189	193
@@ -71,6 +72,7 @@
 37	differentiation	_	NOUN	NN	_	36	dobj	_	_	384	399
 38	.	_	PUNCT	.	_	10	punct	_	_	399	400
 
+1	In	_	ADP	IN	_	6	case	_	_	401	403
 2	the	_	DET	DT	_	6	det	_	_	404	407
 3	Arabidopsis	_	PROPN	NNP	_	6	compound	_	_	408	419
 4	thaliana	_	NOUN	NN	_	6	compound	_	_	420	428
@@ -99,6 +101,7 @@
 27	apex	_	NOUN	NN	_	23	nmod:of	_	_	547	551
 28	.	_	PUNCT	.	_	12	punct	_	_	551	552
 
+1	The	_	DET	DT	_	3	det	_	_	553	556
 2	stem	_	NOUN	NN	_	3	compound	_	_	557	561
 3	cells	_	NOUN	NNS	_	4	nsubj	_	_	562	567
 4	cannot	_	AUX	VBP	_	0	root	_	_	568	574
@@ -134,7 +137,8 @@
 34	-RRB-	_	PUNCT	-RRB-	_	29	punct	_	_	-1	4
 35	.	_	PUNCT	.	_	4	punct	_	_	169	170
 
-2	of	_	ADP	IN	_	7	case	_	_	296	298
+1	Expression	_	PROPN	NNP	_	24	nsubj	_	_	755	765
+2	of	_	ADP	IN	_	7	case	_	_	766	768
 3	CLAVATA3	_	PROPN	NNP	_	7	compound	_	_	769	777
 4	-LRB-	_	PUNCT	-LRB-	_	5	punct	_	_	-1	4
 5	CLV3	_	PROPN	NNP	_	7	appos	_	_	779	783
@@ -172,6 +176,7 @@
 37	meristem	_	NOUN	NN	_	33	nmod:in	_	_	948	956
 38	.	_	PUNCT	.	_	24	punct	_	_	956	957
 
+1	Only	_	ADV	RB	_	3	advmod	_	_	958	962
 2	a	_	DET	DT	_	3	advmod	_	_	963	964
 3	few	_	ADJ	JJ	_	4	nummod	_	_	965	968
 4	mutants	_	NOUN	NNS	_	7	nsubjpass	_	_	969	976
@@ -191,6 +196,7 @@
 18	differentiation	_	NOUN	NN	_	15	nmod:from	_	_	1061	1076
 19	.	_	PUNCT	.	_	7	punct	_	_	1076	1077
 
+1	One	_	NUM	CD	_	9	nsubj	_	_	1078	1081
 2	of	_	ADP	IN	_	4	case	_	_	1082	1084
 3	the	_	DET	DT	_	4	det	_	_	1085	1088
 4	genes	_	NOUN	NNS	_	1	nmod:of	_	_	1089	1094
@@ -208,7 +214,8 @@
 16	-RRB-	_	PUNCT	-RRB-	_	15	punct	_	_	-1	4
 17	.	_	PUNCT	.	_	9	punct	_	_	169	170
 
-2	is	_	VERB	VBZ	_	0	root	_	_	215	217
+1	WUS	_	PROPN	NNP	_	2	nsubj	_	_	1158	1161
+2	is	_	VERB	VBZ	_	0	root	_	_	1177	1179
 3	expressed	_	VERB	VBN	_	2	dep	_	_	1180	1189
 4	in	_	ADP	IN	_	6	case	_	_	1190	1192
 5	a	_	DET	DT	_	6	det	_	_	1193	1194
@@ -251,9 +258,10 @@
 42	-RRB-	_	PUNCT	-RRB-	_	32	punct	_	_	-1	4
 43	.	_	PUNCT	.	_	2	punct	_	_	169	170
 
-2	stem	_	NOUN	NN	_	3	compound	_	_	189	193
-3	cells	_	NOUN	NNS	_	6	nsubj	_	_	312	317
-4	in	_	ADP	IN	_	5	case	_	_	472	474
+1	The	_	DET	DT	_	3	det	_	_	553	556
+2	stem	_	NOUN	NN	_	3	compound	_	_	557	561
+3	cells	_	NOUN	NNS	_	6	nsubj	_	_	562	567
+4	in	_	ADP	IN	_	5	case	_	_	582	584
 5	turn	_	NOUN	NN	_	3	nmod:in	_	_	1408	1412
 6	signal	_	VERB	VBP	_	0	root	_	_	1413	1419
 7	back	_	ADP	RP	_	6	compound:prt	_	_	1420	1424
@@ -300,6 +308,7 @@
 48	-RRB-	_	PUNCT	-RRB-	_	38	punct	_	_	-1	4
 49	.	_	PUNCT	.	_	6	punct	_	_	169	170
 
+1	CLV3	_	PROPN	NNP	_	3	nsubj	_	_	779	783
 2	presumably	_	ADV	RB	_	3	advmod	_	_	1628	1638
 3	acts	_	VERB	VBZ	_	0	root	_	_	1639	1643
 4	as	_	SCONJ	IN	_	7	mark	_	_	1644	1646
@@ -358,6 +367,7 @@
 57	-RRB-	_	PUNCT	-RRB-	_	29	punct	_	_	-1	4
 58	.	_	PUNCT	.	_	3	punct	_	_	169	170
 
+1	In	_	ADP	IN	_	3	case	_	_	401	403
 2	floral	_	ADJ	JJ	_	3	amod	_	_	1906	1912
 3	meristems	_	NOUN	NNS	_	18	nmod:in	_	_	1913	1922
 4	that	_	DET	WDT	_	3	ref	_	_	1923	1927
@@ -411,6 +421,7 @@
 52	-RRB-	_	PUNCT	-RRB-	_	42	punct	_	_	-1	4
 53	.	_	PUNCT	.	_	18	punct	_	_	169	170
 
+1	The	_	DET	DT	_	4	det	_	_	553	556
 2	primary	_	ADJ	JJ	_	4	amod	_	_	2184	2191
 3	shoot	_	NOUN	NN	_	4	compound	_	_	2192	2197
 4	meristem	_	NOUN	NN	_	6	nsubjpass	_	_	2198	2206
@@ -428,6 +439,7 @@
 16	-RRB-	_	PUNCT	-RRB-	_	11	punct	_	_	-1	4
 17	.	_	PUNCT	.	_	6	punct	_	_	169	170
 
+1	In	_	ADP	IN	_	2	case	_	_	401	403
 2	Arabidopsis	_	PROPN	NNP	_	19	nmod:in	_	_	408	419
 3	,	_	PUNCT	,	_	19	punct	_	_	443	444
 4	the	_	DET	DT	_	5	det	_	_	445	448
@@ -466,6 +478,7 @@
 37	-RRB-	_	PUNCT	-RRB-	_	32	punct	_	_	-1	4
 38	.	_	PUNCT	.	_	19	punct	_	_	169	170
 
+1	CLV3	_	PROPN	NNP	_	2	compound	_	_	779	783
 2	expression	_	NOUN	NN	_	4	nsubjpass	_	_	2013	2023
 3	is	_	AUX	VBZ	_	4	auxpass	_	_	2201	2203
 4	detected	_	VERB	VBN	_	0	root	_	_	2487	2495
@@ -487,6 +500,7 @@
 20	-RRB-	_	PUNCT	-RRB-	_	15	punct	_	_	-1	4
 21	.	_	PUNCT	.	_	4	punct	_	_	169	170
 
+1	In	_	ADP	IN	_	4	case	_	_	401	403
 2	bent	_	NOUN	NN	_	4	compound	_	_	2583	2587
 3	cotyledon	_	NOUN	NN	_	4	compound	_	_	2588	2597
 4	embryos	_	NOUN	NNS	_	10	nmod:in	_	_	2598	2605
@@ -534,6 +548,7 @@
 46	meristems	_	NOUN	NNS	_	44	dobj	_	_	2859	2868
 47	.	_	PUNCT	.	_	10	punct	_	_	2868	2869
 
+1	Many	_	ADJ	JJ	_	2	amod	_	_	2870	2874
 2	aspects	_	NOUN	NNS	_	24	nsubjpass	_	_	2875	2882
 3	of	_	ADP	IN	_	5	case	_	_	2883	2885
 4	the	_	DET	DT	_	5	det	_	_	2886	2889
@@ -565,6 +580,7 @@
 30	redundancy	_	NOUN	NN	_	27	nmod:to	_	_	3052	3062
 31	.	_	PUNCT	.	_	20	punct	_	_	3062	3063
 
+1	Therefore	_	ADV	RB	_	4	advmod	_	_	3064	3073
 2	,	_	PUNCT	,	_	4	punct	_	_	3073	3074
 3	we	_	PRON	PRP	_	4	nsubj	_	_	3075	3077
 4	performed	_	VERB	VBD	_	0	root	_	_	3078	3087
@@ -586,6 +602,7 @@
 20	maintenance	_	NOUN	NN	_	18	dobj	_	_	3190	3201
 21	.	_	PUNCT	.	_	4	punct	_	_	3201	3202
 
+1	Here	_	ADV	RB	_	4	advmod	_	_	3203	3207
 2	,	_	PUNCT	,	_	4	punct	_	_	3207	3208
 3	we	_	PRON	PRP	_	4	nsubj	_	_	3209	3211
 4	report	_	VERB	VBP	_	0	root	_	_	3212	3218
@@ -618,6 +635,7 @@
 31	mutant	_	NOUN	NN	_	27	nmod:to	_	_	3390	3396
 32	.	_	PUNCT	.	_	4	punct	_	_	3396	3397
 
+1	We	_	PRON	PRP	_	2	nsubj	_	_	3398	3400
 2	show	_	VERB	VBP	_	0	root	_	_	3401	3405
 3	that	_	SCONJ	IN	_	15	mark	_	_	3406	3410
 4	the	_	DET	DT	_	6	det	_	_	3411	3414
@@ -716,7 +734,8 @@
 97	-RRB-	_	PUNCT	-RRB-	_	87	punct	_	_	-1	4
 98	.	_	PUNCT	.	_	2	punct	_	_	169	170
 
-2	this	_	DET	DT	_	3	det	_	_	366	370
+1	In	_	ADP	IN	_	3	case	_	_	401	403
+2	this	_	DET	DT	_	3	det	_	_	2435	2439
 3	article	_	NOUN	NN	_	6	nmod:in	_	_	3834	3841
 4	,	_	PUNCT	,	_	6	punct	_	_	3841	3842
 5	we	_	PRON	PRP	_	6	nsubj	_	_	3843	3845

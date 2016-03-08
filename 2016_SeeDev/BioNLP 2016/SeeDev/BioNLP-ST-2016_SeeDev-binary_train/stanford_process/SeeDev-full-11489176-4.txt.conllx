@@ -31,6 +31,7 @@
 31	ABIs	_	NOUN	NNS	_	27	conj:and	_	_	191	195
 32	.	_	PUNCT	.	_	18	punct	_	_	195	196
 
+1	Therefore	_	ADV	RB	_	3	advmod	_	_	197	206
 2	we	_	PRON	PRP	_	3	nsubj	_	_	207	209
 3	tested	_	VERB	VBD	_	0	root	_	_	210	216
 4	whether	_	SCONJ	IN	_	10	mark	_	_	217	224
@@ -57,6 +58,7 @@
 25	complex	_	NOUN	NN	_	21	nmod:of	_	_	339	346
 26	.	_	PUNCT	.	_	3	punct	_	_	346	347
 
+1	Although	_	SCONJ	IN	_	10	mark	_	_	348	356
 2	further	_	ADJ	JJ	_	3	amod	_	_	357	364
 3	truncations	_	NOUN	NNS	_	10	nsubj	_	_	365	376
 4	of	_	ADP	IN	_	5	case	_	_	377	379
@@ -88,6 +90,7 @@
 30	-RRB-	_	PUNCT	-RRB-	_	27	punct	_	_	-1	4
 31	.	_	PUNCT	.	_	20	punct	_	_	195	196
 
+1	While	_	SCONJ	IN	_	10	mark	_	_	503	508
 2	deletion	_	NOUN	NN	_	10	nsubj	_	_	509	517
 3	of	_	ADP	IN	_	5	case	_	_	518	520
 4	various	_	ADJ	JJ	_	5	amod	_	_	521	528
@@ -121,6 +124,7 @@
 32	domain	_	NOUN	NN	_	26	nmod:including	_	_	711	717
 33	.	_	PUNCT	.	_	22	punct	_	_	717	718
 
+1	Although	_	SCONJ	IN	_	5	mark	_	_	719	727
 2	it	_	PRON	PRP	_	5	nsubj	_	_	728	730
 3	is	_	VERB	VBZ	_	5	cop	_	_	731	733
 4	also	_	ADV	RB	_	5	advmod	_	_	734	738

@@ -44,6 +44,7 @@
 44	-RRB-	_	PUNCT	-RRB-	_	39	punct	_	_	-1	4
 45	.	_	PUNCT	.	_	9	punct	_	_	260	261
 
+1	Genetic	_	ADJ	JJ	_	2	amod	_	_	262	269
 2	studies	_	NOUN	NNS	_	4	nsubj	_	_	270	277
 3	have	_	AUX	VBP	_	4	aux	_	_	278	282
 4	identified	_	VERB	VBN	_	0	root	_	_	283	293
@@ -96,6 +97,7 @@
 51	-RRB-	_	PUNCT	-RRB-	_	46	punct	_	_	-1	4
 52	.	_	PUNCT	.	_	4	punct	_	_	260	261
 
+1	Many	_	ADJ	JJ	_	4	amod	_	_	522	526
 2	additional	_	ADJ	JJ	_	4	amod	_	_	527	537
 3	presumed	_	VERB	VBN	_	4	amod	_	_	538	546
 4	ABA	_	NOUN	NNS	_	0	root	_	_	547	550
@@ -188,8 +190,9 @@
 91	-RRB-	_	PUNCT	-RRB-	_	86	punct	_	_	-1	4
 92	.	_	PUNCT	.	_	4	punct	_	_	260	261
 
-2	,	_	PUNCT	,	_	18	punct	_	_	513	514
-3	in	_	ADP	IN	_	5	case	_	_	557	559
+1	However	_	ADV	RB	_	18	advmod	_	_	952	959
+2	,	_	PUNCT	,	_	18	punct	_	_	959	960
+3	in	_	ADP	IN	_	5	case	_	_	961	963
 4	the	_	DET	DT	_	5	det	_	_	964	967
 5	absence	_	NOUN	NN	_	18	nmod:in	_	_	968	975
 6	of	_	ADP	IN	_	8	case	_	_	976	978
@@ -208,6 +211,7 @@
 19	speculative	_	ADJ	JJ	_	18	xcomp	_	_	1050	1061
 20	.	_	PUNCT	.	_	18	punct	_	_	1061	1062
 
+1	Three	_	NUM	CD	_	0	root	_	_	1063	1068
 2	of	_	ADP	IN	_	4	case	_	_	1069	1071
 3	the	_	DET	DT	_	4	det	_	_	1072	1075
 4	ABA	_	PROPN	NNP	_	1	nmod:of	_	_	1076	1079
@@ -273,13 +277,14 @@
 64	-RRB-	_	PUNCT	-RRB-	_	45	punct	_	_	-1	4
 65	.	_	PUNCT	.	_	1	punct	_	_	260	261
 
-2	of	_	ADP	IN	_	3	case	_	_	435	437
-3	these	_	DET	DT	_	1	nmod:of	_	_	1026	1031
-4	,	_	PUNCT	,	_	3	punct	_	_	1096	1097
-5	ABI4	_	PROPN	NNP	_	3	appos	_	_	1104	1108
-6	and	_	CONJ	CC	_	5	cc	_	_	1109	1112
-7	ABI5	_	PROPN	NNP	_	5	conj:and	_	_	1113	1117
-8	,	_	PUNCT	,	_	3	punct	_	_	1117	1118
+1	Two	_	NUM	CD	_	9	nsubj	_	_	1362	1365
+2	of	_	ADP	IN	_	3	case	_	_	1366	1368
+3	these	_	DET	DT	_	1	nmod:of	_	_	1369	1374
+4	,	_	PUNCT	,	_	3	punct	_	_	1374	1375
+5	ABI4	_	PROPN	NNP	_	3	appos	_	_	1376	1380
+6	and	_	CONJ	CC	_	5	cc	_	_	1381	1384
+7	ABI5	_	PROPN	NNP	_	5	conj:and	_	_	1385	1389
+8	,	_	PUNCT	,	_	3	punct	_	_	1389	1390
 9	contain	_	VERB	VBP	_	0	root	_	_	1391	1398
 10	presumed	_	VERB	VBN	_	11	amod	_	_	1399	1407
 11	DNA	_	NOUN	NN	_	9	dobj	_	_	1408	1411
@@ -298,6 +303,7 @@
 24	respectively	_	ADV	RB	_	22	advmod	_	_	1472	1484
 25	.	_	PUNCT	.	_	9	punct	_	_	1484	1485
 
+1	ABI3	_	PROPN	NNP	_	3	nsubj	_	_	1486	1490
 2	can	_	AUX	MD	_	3	aux	_	_	1491	1494
 3	activate	_	VERB	VB	_	0	root	_	_	1495	1503
 4	transcription	_	NOUN	NN	_	3	dobj	_	_	1504	1517
@@ -337,6 +343,7 @@
 38	-RRB-	_	PUNCT	-RRB-	_	33	punct	_	_	-1	4
 39	.	_	PUNCT	.	_	3	punct	_	_	260	261
 
+1	Mutational	_	ADJ	JJ	_	2	amod	_	_	1697	1707
 2	analyses	_	NOUN	NNS	_	11	nsubj	_	_	1708	1716
 3	of	_	ADP	IN	_	6	case	_	_	1717	1719
 4	VP1	_	PROPN	NNP	_	6	compound	_	_	1720	1723
@@ -388,10 +395,11 @@
 50	-RRB-	_	PUNCT	-RRB-	_	45	punct	_	_	-1	4
 51	.	_	PUNCT	.	_	11	punct	_	_	260	261
 
-2	studies	_	NOUN	NNS	_	3	nsubj	_	_	270	277
-3	suggest	_	VERB	VBP	_	0	root	_	_	1600	1607
-4	that	_	SCONJ	IN	_	6	mark	_	_	1611	1615
-5	VP1	_	PROPN	NNP	_	6	nsubj	_	_	1720	1723
+1	These	_	DET	DT	_	2	det	_	_	1985	1990
+2	studies	_	NOUN	NNS	_	3	nsubj	_	_	1991	1998
+3	suggest	_	VERB	VBP	_	0	root	_	_	1999	2006
+4	that	_	SCONJ	IN	_	6	mark	_	_	2007	2011
+5	VP1	_	PROPN	NNP	_	6	nsubj	_	_	2012	2015
 6	activates	_	VERB	VBZ	_	3	ccomp	_	_	2016	2025
 7	transcription	_	NOUN	NN	_	6	dobj	_	_	2026	2039
 8	through	_	ADP	IN	_	11	case	_	_	2040	2047
@@ -407,6 +415,7 @@
 18	ABREs	_	NOUN	NNS	_	11	acl:relcl	_	_	2102	2107
 19	.	_	PUNCT	.	_	3	punct	_	_	2107	2108
 
+1	It	_	PRON	PRP	_	4	nsubjpass	_	_	2109	2111
 2	was	_	AUX	VBD	_	4	auxpass	_	_	2112	2115
 3	subsequently	_	ADV	RB	_	4	advmod	_	_	2116	2128
 4	shown	_	VERB	VBN	_	0	root	_	_	2129	2134
@@ -451,8 +460,9 @@
 43	-RRB-	_	PUNCT	-RRB-	_	38	punct	_	_	-1	4
 44	.	_	PUNCT	.	_	4	punct	_	_	260	261
 
-2	ABI5	_	PROPN	NNP	_	4	nsubj	_	_	1113	1117
-3	is	_	VERB	VBZ	_	4	cop	_	_	2058	2060
+1	Although	_	SCONJ	IN	_	4	mark	_	_	2336	2344
+2	ABI5	_	PROPN	NNP	_	4	nsubj	_	_	2345	2349
+3	is	_	VERB	VBZ	_	4	cop	_	_	2350	2352
 4	similar	_	ADJ	JJ	_	22	advcl	_	_	2353	2360
 5	to	_	ADP	TO	_	6	case	_	_	2361	2363
 6	EmBP1	_	NOUN	NNS	_	13	nmod:in	_	_	2364	2369
@@ -485,7 +495,8 @@
 33	-RRB-	_	PUNCT	-RRB-	_	28	punct	_	_	-1	4
 34	.	_	PUNCT	.	_	22	punct	_	_	260	261
 
-2	subfamily	_	ADV	RB	_	3	advmod	_	_	2465	2474
+1	This	_	DET	DT	_	3	nsubj	_	_	2506	2510
+2	subfamily	_	ADV	RB	_	3	advmod	_	_	2511	2520
 3	has	_	VERB	VBZ	_	0	root	_	_	2521	2524
 4	a	_	DET	DT	_	6	det	_	_	2525	2526
 5	broader	_	ADJ	JJR	_	6	amod	_	_	2527	2534
@@ -523,8 +534,9 @@
 37	-RRB-	_	PUNCT	-RRB-	_	32	punct	_	_	-1	4
 38	.	_	PUNCT	.	_	3	punct	_	_	260	261
 
-2	,	_	PUNCT	,	_	10	punct	_	_	513	514
-3	the	_	DET	DT	_	4	det	_	_	964	967
+1	Furthermore	_	ADV	RB	_	10	advmod	_	_	2701	2712
+2	,	_	PUNCT	,	_	10	punct	_	_	2712	2713
+3	the	_	DET	DT	_	4	det	_	_	2714	2717
 4	homology	_	NOUN	NN	_	10	nsubjpass	_	_	2718	2726
 5	between	_	ADP	IN	_	6	case	_	_	2727	2734
 6	ABI5	_	PROPN	NNP	_	4	nmod:between	_	_	2735	2739
@@ -538,6 +550,7 @@
 14	domain	_	NOUN	NN	_	10	nmod:to	_	_	2773	2779
 15	.	_	PUNCT	.	_	10	punct	_	_	2779	2780
 
+1	Consequently	_	ADV	RB	_	11	advmod	_	_	2781	2793
 2	,	_	PUNCT	,	_	11	punct	_	_	2793	2794
 3	any	_	DET	DT	_	4	det	_	_	2795	2798
 4	interactions	_	NOUN	NNS	_	11	nsubj	_	_	2799	2811
@@ -560,6 +573,7 @@
 21	interactions	_	NOUN	NNS	_	15	nmod:to	_	_	2912	2924
 22	.	_	PUNCT	.	_	11	punct	_	_	2924	2925
 
+1	Physiological	_	ADJ	JJ	_	2	amod	_	_	2926	2939
 2	studies	_	NOUN	NNS	_	4	nsubj	_	_	2940	2947
 3	have	_	AUX	VBP	_	4	aux	_	_	2948	2952
 4	shown	_	VERB	VBN	_	0	root	_	_	2953	2958
@@ -626,10 +640,11 @@
 65	-RRB-	_	PUNCT	-RRB-	_	48	punct	_	_	-1	4
 66	.	_	PUNCT	.	_	4	punct	_	_	260	261
 
-2	in	_	ADP	IN	_	5	case	_	_	376	378
-3	a	_	DET	DT	_	5	det	_	_	394	395
-4	common	_	ADJ	JJ	_	5	amod	_	_	3095	3101
-5	pathway	_	NOUN	NN	_	1	nmod:in	_	_	3102	3109
+1	Action	_	PROPN	NNP	_	8	nsubjpass	_	_	3263	3269
+2	in	_	ADP	IN	_	5	case	_	_	3270	3272
+3	a	_	DET	DT	_	5	det	_	_	3273	3274
+4	common	_	ADJ	JJ	_	5	amod	_	_	3275	3281
+5	pathway	_	NOUN	NN	_	1	nmod:in	_	_	3282	3289
 6	was	_	AUX	VBD	_	8	auxpass	_	_	3290	3293
 7	also	_	ADV	RB	_	8	advmod	_	_	3294	3298
 8	suggested	_	VERB	VBN	_	0	root	_	_	3299	3308
@@ -675,8 +690,9 @@
 48	-RRB-	_	PUNCT	-RRB-	_	45	punct	_	_	-1	4
 49	.	_	PUNCT	.	_	8	punct	_	_	260	261
 
-2	studies	_	NOUN	NNS	_	3	nsubj	_	_	270	277
-3	show	_	VERB	VBP	_	0	root	_	_	1755	1759
+1	Recent	_	ADJ	JJ	_	2	amod	_	_	3548	3554
+2	studies	_	NOUN	NNS	_	3	nsubj	_	_	3555	3562
+3	show	_	VERB	VBP	_	0	root	_	_	3563	3567
 4	extensive	_	ADJ	JJ	_	5	amod	_	_	3568	3577
 5	cross	_	NOUN	NN	_	3	dobj	_	_	3578	3583
 6	-	_	PUNCT	:	_	5	punct	_	_	3583	3584
@@ -698,7 +714,8 @@
 22	-RRB-	_	PUNCT	-RRB-	_	17	punct	_	_	-1	4
 23	.	_	PUNCT	.	_	3	punct	_	_	260	261
 
-2	,	_	PUNCT	,	_	10	punct	_	_	513	514
+1	Furthermore	_	ADV	RB	_	10	advmod	_	_	2701	2712
+2	,	_	PUNCT	,	_	10	punct	_	_	2712	2713
 3	ectopic	_	ADJ	JJ	_	4	amod	_	_	3673	3680
 4	expression	_	NOUN	NN	_	10	nsubj	_	_	3681	3691
 5	of	_	ADP	IN	_	7	case	_	_	3692	3694
@@ -736,6 +753,7 @@
 37	-RRB-	_	PUNCT	-RRB-	_	27	punct	_	_	-1	4
 38	.	_	PUNCT	.	_	10	punct	_	_	260	261
 
+1	Taken	_	VERB	VBN	_	6	advcl	_	_	3869	3874
 2	together	_	ADV	RB	_	1	advmod	_	_	3875	3883
 3	,	_	PUNCT	,	_	6	punct	_	_	3883	3884
 4	these	_	DET	DT	_	5	det	_	_	3885	3890
@@ -771,6 +789,7 @@
 34	expression	_	NOUN	NN	_	33	dobj	_	_	4085	4095
 35	.	_	PUNCT	.	_	6	punct	_	_	4095	4096
 
+1	Consistent	_	PROPN	NNP	_	22	nsubj	_	_	4097	4107
 2	with	_	ADP	IN	_	3	case	_	_	4108	4112
 3	this	_	DET	DT	_	1	nmod:with	_	_	4113	4117
 4	,	_	PUNCT	,	_	3	punct	_	_	4117	4118
@@ -816,7 +835,8 @@
 44	-RRB-	_	PUNCT	-RRB-	_	39	punct	_	_	-1	4
 45	.	_	PUNCT	.	_	20	punct	_	_	260	261
 
-2	two	_	NUM	CD	_	6	nummod	_	_	728	731
+1	The	_	DET	DT	_	6	det	_	_	1985	1988
+2	two	_	NUM	CD	_	6	nummod	_	_	4221	4224
 3	remaining	_	ADJ	JJ	_	6	amod	_	_	4314	4323
 4	cloned	_	NOUN	NN	_	6	compound	_	_	4324	4330
 5	ABI	_	NOUN	NN	_	6	compound	_	_	4331	4334
@@ -854,8 +874,9 @@
 37	-RRB-	_	PUNCT	-RRB-	_	27	punct	_	_	-1	4
 38	.	_	PUNCT	.	_	14	punct	_	_	260	261
 
-2	loci	_	NOUN	NNS	_	3	nsubj	_	_	299	303
-3	encode	_	VERB	VBP	_	0	root	_	_	1119	1125
+1	These	_	DET	DT	_	2	det	_	_	1985	1990
+2	loci	_	NOUN	NNS	_	3	nsubj	_	_	2988	2992
+3	encode	_	VERB	VBP	_	0	root	_	_	4512	4518
 4	highly	_	ADV	RB	_	5	advmod	_	_	4519	4525
 5	homologous	_	ADJ	JJ	_	6	amod	_	_	4526	4536
 6	members	_	NOUN	NNS	_	3	dobj	_	_	4537	4544
@@ -893,7 +914,8 @@
 38	-RRB-	_	PUNCT	-RRB-	_	33	punct	_	_	-1	4
 39	.	_	PUNCT	.	_	3	punct	_	_	260	261
 
-2	,	_	PUNCT	,	_	9	punct	_	_	513	514
+1	However	_	ADV	RB	_	9	advmod	_	_	952	959
+2	,	_	PUNCT	,	_	9	punct	_	_	959	960
 3	none	_	NOUN	NN	_	9	nsubjpass	_	_	4711	4715
 4	of	_	ADP	IN	_	6	case	_	_	4716	4718
 5	their	_	PRON	PRP$	_	6	nmod:poss	_	_	4719	4724
@@ -905,6 +927,7 @@
 11	date	_	NOUN	NN	_	9	nmod:to	_	_	4759	4763
 12	.	_	PUNCT	.	_	9	punct	_	_	4763	4764
 
+1	Both	_	DET	DT	_	3	cc:preconj	_	_	4765	4769
 2	the	_	DET	DT	_	3	det	_	_	4770	4773
 3	ABI4	_	NOUN	NN	_	8	nsubj	_	_	4774	4778
 4	and	_	CONJ	CC	_	3	cc	_	_	4779	4782
@@ -952,6 +975,7 @@
 46	PP2Cs	_	PROPN	NNP	_	42	nmod:for	_	_	5004	5009
 47	.	_	PUNCT	.	_	8	punct	_	_	5009	5010
 
+1	Recently	_	ADV	RB	_	15	advmod	_	_	5011	5019
 2	,	_	PUNCT	,	_	15	punct	_	_	5019	5020
 3	two	_	NUM	CD	_	4	nummod	_	_	5021	5024
 4	ABI5	_	NOUN	NN	_	17	nsubj	_	_	5025	5029
@@ -984,6 +1008,7 @@
 31	-RRB-	_	PUNCT	-RRB-	_	26	punct	_	_	-1	4
 32	.	_	PUNCT	.	_	15	punct	_	_	260	261
 
+1	Although	_	SCONJ	IN	_	5	mark	_	_	2336	2344
 2	this	_	DET	DT	_	3	det	_	_	4113	4117
 3	activation	_	NOUN	NN	_	5	nsubj	_	_	5104	5114
 4	was	_	VERB	VBD	_	5	cop	_	_	5186	5189
@@ -1030,6 +1055,7 @@
 45	factors	_	NOUN	NNS	_	41	nmod:of	_	_	5428	5435
 46	.	_	PUNCT	.	_	29	punct	_	_	5435	5436
 
+1	Our	_	PRON	PRP$	_	2	nmod:poss	_	_	5437	5440
 2	study	_	NOUN	NN	_	3	nsubj	_	_	5441	5446
 3	makes	_	VERB	VBZ	_	0	root	_	_	5447	5452
 4	use	_	NOUN	NN	_	10	nsubj	_	_	5453	5456
@@ -1054,6 +1080,7 @@
 23	genetically	_	NOUN	NNS	_	20	nmod:to	_	_	5585	5596
 24	.	_	PUNCT	.	_	3	punct	_	_	5596	5597
 
+1	Only	_	ADV	RB	_	2	advmod	_	_	5598	5602
 2	two	_	NUM	CD	_	0	root	_	_	5603	5606
 3	of	_	ADP	IN	_	5	case	_	_	5607	5609
 4	these	_	DET	DT	_	5	det	_	_	5610	5615
@@ -1066,6 +1093,7 @@
 11	ABI5	_	PROPN	NNP	_	9	conj:and	_	_	5655	5659
 12	.	_	PUNCT	.	_	2	punct	_	_	5659	5660
 
+1	In	_	ADP	IN	_	2	case	_	_	5661	5663
 2	addition	_	NOUN	NN	_	5	nmod:in	_	_	5664	5672
 3	,	_	PUNCT	,	_	5	punct	_	_	5672	5673
 4	ABI5	_	PROPN	NNP	_	5	nsubj	_	_	5674	5678
@@ -1082,6 +1110,7 @@
 15	homodimers	_	NOUN	NNS	_	14	dobj	_	_	5744	5754
 16	.	_	PUNCT	.	_	5	punct	_	_	5754	5755
 
+1	We	_	PRON	PRP	_	2	nsubj	_	_	5756	5758
 2	mapped	_	VERB	VBD	_	0	root	_	_	5759	5765
 3	the	_	DET	DT	_	5	det	_	_	5766	5769
 4	interacting	_	VERB	VBG	_	5	amod	_	_	5770	5781
@@ -1101,6 +1130,7 @@
 18	ABI5	_	PROPN	NNP	_	16	conj:and	_	_	5871	5875
 19	.	_	PUNCT	.	_	2	punct	_	_	5875	5876
 
+1	In	_	ADP	IN	_	2	case	_	_	5877	5879
 2	addition	_	NOUN	NN	_	5	nmod:in	_	_	5880	5888
 3	,	_	PUNCT	,	_	5	punct	_	_	5888	5889
 4	we	_	PRON	PRP	_	5	nsubj	_	_	5890	5892

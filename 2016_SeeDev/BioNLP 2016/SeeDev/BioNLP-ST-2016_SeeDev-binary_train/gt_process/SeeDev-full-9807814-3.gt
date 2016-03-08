@@ -53,6 +53,7 @@ like	like	JJ	I-NP	O		275	279
 proteins	protein	NNS	I-NP	O		280	288
 .	.	.	O	O		288	289
 
+These	These	DT	B-NP	O		290	295
 factors	factor	NNS	I-NP	O		296	303
 are	be	VBP	B-VP	O		304	307
 transcriptional	transcriptional	JJ	B-NP	B-protein		308	323
@@ -107,6 +108,7 @@ et al.	et al.	NNP	I-NP	O		562	568
 )	)	)	O	O		573	574
 .	.	.	O	O		574	575
 
+Recently	Recently	RB	B-ADVP	O		576	584
 ,	,	,	O	O		584	585
 a	a	DT	B-NP	O		586	587
 group	group	NN	I-NP	O		588	593
@@ -130,6 +132,7 @@ et al.	et al.	NNP	I-NP	O		691	697
 )	)	)	O	O		702	703
 .	.	.	O	O		703	704
 
+However	However	RB	B-ADVP	O		705	712
 ,	,	,	O	O		712	713
 the	the	DT	B-NP	O		714	717
 B3	B3	NN	I-NP	B-protein		718	720
@@ -185,6 +188,7 @@ grouped	group	VBN	I-VP	O		934	941
 together	together	RB	B-ADVP	O		942	950
 .	.	.	O	O		950	951
 
+It	It	PRP	B-NP	O		952	954
 is	be	VBZ	B-VP	O		955	957
 known	know	VBN	I-VP	O		958	963
 that	that	IN	B-SBAR	O		964	968
@@ -216,6 +220,7 @@ et al.	et al.	NNP	I-NP	O		1081	1087
 )	)	)	O	O		1092	1093
 .	.	.	O	O		1093	1094
 
+It	It	PRP	B-NP	O		1095	1097
 is	be	VBZ	B-VP	O		1098	1100
 likely	likely	JJ	B-ADJP	O		1101	1107
 ,	,	,	O	O		1107	1108
@@ -241,6 +246,7 @@ et al.	et al.	FW	I-NP	O		1215	1221
 )	)	)	O	O		1226	1227
 .	.	.	O	O		1227	1228
 
+The	The	DT	B-NP	O		1229	1232
 same	same	JJ	I-NP	O		1233	1237
 applies	apply	NNS	I-NP	O		1238	1245
 to	to	TO	B-PP	O		1246	1248
@@ -256,6 +262,7 @@ et al.	et al.	NNP	I-NP	O		1282	1288
 )	)	)	O	O		1293	1294
 .	.	.	O	O		1294	1295
 
+During	During	IN	B-PP	O		1296	1302
 embryogenesis	embryogenesis	NN	B-NP	O		1303	1316
 the	the	DT	B-NP	O		1317	1320
 FUS3	FUS3	NN	I-NP	B-RNA		1321	1325
@@ -275,6 +282,7 @@ ABI3	ABI3	NN	I-NP	B-RNA		1401	1405
 mRNA	mRNA	NN	I-NP	I-RNA		1406	1410
 .	.	.	O	O		1410	1411
 
+The	The	DT	B-NP	O		1412	1415
 finding	finding	NN	I-NP	O		1416	1423
 of	of	IN	B-PP	O		1424	1426
 co-expression	co-expression	NN	B-NP	O		1427	1440
@@ -318,6 +326,7 @@ et al.	et al.	FW	I-NP	O		1647	1653
 )	)	)	O	O		1658	1659
 .	.	.	O	O		1659	1660
 
+Future	Future	JJ	B-NP	O		1661	1667
 studies	study	NNS	I-NP	O		1668	1675
 will	will	MD	B-VP	O		1676	1680
 have	have	VB	I-VP	O		1681	1685
@@ -338,6 +347,7 @@ this	this	DT	B-NP	O		1769	1773
 synergism	synergism	NN	I-NP	O		1774	1783
 .	.	.	O	O		1783	1784
 
+So	So	RB	B-ADVP	O		1785	1787
 far	far	RB	I-ADVP	O		1788	1791
 ,	,	,	O	O		1791	1792
 FUS3	FUS3	NN	B-NP	B-protein		1793	1797
@@ -365,6 +375,7 @@ Fig	Fig	NNP	B-NP	O		1886	1889
 )	)	)	O	O		1892	1893
 .	.	.	O	O		1893	1894
 
+VP1	VP1	NN	B-NP	B-protein		1895	1898
 and	and	CC	I-NP	O		1899	1902
 ABI3	ABI3	NN	I-NP	B-protein		1903	1907
 ,	,	,	O	O		1907	1908
@@ -412,6 +423,7 @@ preceding	precede	VBG	B-VP	O		2090	2099
 B3	B3	NN	B-NP	B-protein		2100	2102
 .	.	.	O	O		2102	2103
 
+In	In	IN	B-PP	O		2104	2106
 FUS3	FUS3	NN	B-NP	B-protein		2107	2111
 ,	,	,	O	O		2111	2112
 B1	B1	NN	B-NP	B-protein		2113	2115
@@ -437,6 +449,7 @@ Fig	Fig	NNP	B-NP	O		2186	2189
 )	)	)	O	O		2193	2194
 .	.	.	O	O		2194	2195
 
+Moreover	Moreover	RB	B-ADVP	O		2196	2204
 ,	,	,	O	O		2204	2205
 the	the	DT	B-NP	O		2206	2209
 C-terminal	C-terminal	JJ	I-NP	B-protein		2210	2220
@@ -464,6 +477,7 @@ activation	activation	NN	I-NP	I-protein		2349	2359
 domains	domain	NNS	I-NP	I-protein		2360	2367
 .	.	.	O	O		2367	2368
 
+Such	Such	JJ	B-NP	O		2369	2373
 properties	property	NNS	I-NP	O		2374	2384
 have	have	VBP	B-VP	O		2385	2389
 indeed	indeed	RB	I-VP	O		2390	2396

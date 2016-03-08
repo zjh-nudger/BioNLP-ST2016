@@ -27,6 +27,7 @@
 27	accumulated	_	VERB	VBN	_	22	conj:and	_	_	162	173
 28	.	_	PUNCT	.	_	10	punct	_	_	173	174
 
+1	In	_	ADP	IN	_	2	case	_	_	175	177
 2	addition	_	NOUN	NN	_	6	nmod:in	_	_	178	186
 3	,	_	PUNCT	,	_	6	punct	_	_	186	187
 4	the	_	DET	DT	_	5	det	_	_	188	191
@@ -70,6 +71,7 @@
 42	-RRB-	_	PUNCT	-RRB-	_	24	punct	_	_	-1	4
 43	.	_	PUNCT	.	_	6	punct	_	_	173	174
 
+1	By	_	ADP	IN	_	2	case	_	_	377	379
 2	means	_	NOUN	NNS	_	10	nmod:by	_	_	380	385
 3	of	_	ADP	IN	_	5	case	_	_	386	388
 4	seed	_	NOUN	NN	_	5	compound	_	_	389	393
@@ -97,6 +99,7 @@
 26	drought	_	NOUN	NN	_	23	nmod:such_as	_	_	536	543
 27	.	_	PUNCT	.	_	10	punct	_	_	543	544
 
+1	Under	_	ADP	IN	_	4	case	_	_	545	550
 2	more	_	ADV	RBR	_	3	advmod	_	_	551	555
 3	suitable	_	ADJ	JJ	_	4	amod	_	_	556	564
 4	circumstances	_	NOUN	NNS	_	9	nmod:under	_	_	565	578
@@ -113,6 +116,7 @@
 15	commences	_	NOUN	NNS	_	11	dobj	_	_	658	667
 16	.	_	PUNCT	.	_	9	punct	_	_	667	668
 
+1	In	_	ADP	IN	_	3	case	_	_	669	671
 2	Arabidopsis	_	PROPN	NNP	_	3	compound	_	_	672	683
 3	thaliana	_	PROPN	NNP	_	14	nmod:in	_	_	684	692
 4	,	_	PUNCT	,	_	14	punct	_	_	692	693
@@ -147,7 +151,8 @@
 33	-RRB-	_	PUNCT	-RRB-	_	31	punct	_	_	-1	4
 34	.	_	PUNCT	.	_	14	punct	_	_	173	174
 
-2	,	_	PUNCT	,	_	6	punct	_	_	186	187
+1	Particularly	_	ADV	RB	_	6	advmod	_	_	849	861
+2	,	_	PUNCT	,	_	6	punct	_	_	861	862
 3	fus3	_	ADJ	JJ	_	4	amod	_	_	863	867
 4	embryos	_	NOUN	NNS	_	20	nsubj	_	_	868	875
 5	are	_	VERB	VBP	_	6	cop	_	_	876	879

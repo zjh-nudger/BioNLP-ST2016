@@ -32,6 +32,7 @@
 32	expression	_	NOUN	NN	_	24	conj:and	_	_	173	183
 33	.	_	PUNCT	.	_	6	punct	_	_	183	184
 
+1	We	_	PRON	PRP	_	3	nsubj	_	_	185	187
 2	have	_	AUX	VBP	_	3	aux	_	_	188	192
 3	used	_	VERB	VBN	_	0	root	_	_	193	197
 4	the	_	DET	DT	_	5	det	_	_	198	201
@@ -52,6 +53,7 @@
 19	interactions	_	NOUN	NNS	_	16	dobj	_	_	304	316
 20	.	_	PUNCT	.	_	3	punct	_	_	316	317
 
+1	By	_	ADP	IN	_	3	case	_	_	318	320
 2	this	_	DET	DT	_	3	det	_	_	321	325
 3	criterion	_	NOUN	NN	_	18	nmod:by	_	_	326	335
 4	,	_	PUNCT	,	_	18	punct	_	_	335	336
@@ -72,6 +74,7 @@
 19	homodimers	_	NOUN	NNS	_	18	dobj	_	_	411	421
 20	.	_	PUNCT	.	_	18	punct	_	_	421	422
 
+1	The	_	DET	DT	_	3	det	_	_	423	426
 2	B1	_	NOUN	NN	_	3	compound	_	_	427	429
 3	domain	_	NOUN	NN	_	7	nsubj	_	_	430	436
 4	of	_	ADP	IN	_	5	case	_	_	437	439
@@ -100,6 +103,7 @@
 27	family	_	NOUN	NN	_	21	nmod:of	_	_	556	562
 28	.	_	PUNCT	.	_	7	punct	_	_	562	563
 
+1	The	_	DET	DT	_	3	det	_	_	564	567
 2	ABI5	_	NUM	CD	_	3	nummod	_	_	568	572
 3	domains	_	NOUN	NNS	_	9	nsubj	_	_	573	580
 4	required	_	VERB	VBN	_	3	acl	_	_	581	589
@@ -123,6 +127,7 @@
 22	protein	_	NOUN	NN	_	13	nmod:of	_	_	688	695
 23	.	_	PUNCT	.	_	9	punct	_	_	695	696
 
+1	An	_	DET	DT	_	3	det	_	_	697	699
 2	additional	_	ADJ	JJ	_	3	amod	_	_	700	710
 3	conserved	_	NOUN	NN	_	4	nsubj	_	_	711	720
 4	charged	_	VERB	VBD	_	0	root	_	_	721	728
@@ -139,6 +144,7 @@
 15	assay	_	NOUN	NN	_	12	nmod:in	_	_	804	809
 16	.	_	PUNCT	.	_	4	punct	_	_	809	810
 
+1	Yeast	_	NOUN	NN	_	2	nsubj	_	_	811	816
 2	one-hybrid	_	VERB	VBD	_	0	root	_	_	817	827
 3	assays	_	NOUN	NNS	_	2	dobj	_	_	828	834
 4	with	_	ADP	IN	_	8	case	_	_	835	839

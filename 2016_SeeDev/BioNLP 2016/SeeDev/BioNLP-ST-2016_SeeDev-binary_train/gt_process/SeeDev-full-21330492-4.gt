@@ -28,6 +28,7 @@ et al.	et_al.	FW	I-ADVP	O		143	149
 )	)	)	O	O		155	156
 .	.	.	O	O		156	157
 
+All	All	DT	B-NP	O		158	161
 of	of	IN	B-PP	O		162	164
 these	these	DT	B-NP	O		165	170
 bind	bind	NN	I-NP	O		171	175
@@ -73,6 +74,7 @@ et al.	et_al.	NNP	I-NP	O		357	363
 )	)	)	O	O		369	370
 .	.	.	O	O		370	371
 
+We	We	PRP	B-NP	O		372	374
 found	find	VBD	B-VP	O		375	380
 that	that	IN	B-SBAR	O		381	385
 several	several	JJ	B-NP	O		386	393
@@ -104,6 +106,7 @@ I	I	NN	I-NP	O		501	502
 )	)	)	O	O		502	503
 .	.	.	O	O		503	504
 
+In	In	IN	B-PP	O		505	507
 contrast	contrast	NN	B-NP	O		508	516
 ,	,	,	O	O		516	517
 ABI3	ABI3	NN	B-NP	B-protein		518	522
@@ -117,6 +120,7 @@ down	down	RB	B-ADVP	O		551	555
 regulated	regulate	VBN	B-VP	O		556	565
 .	.	.	O	O		565	566
 
+We	We	PRP	B-NP	O		567	569
 observed	observe	VBD	B-VP	O		570	578
 that	that	IN	B-SBAR	O		579	583
 in	in	IN	B-PP	O		584	586
@@ -151,6 +155,7 @@ of	of	IN	B-PP	O		742	744
 maturation	maturation	NN	B-NP	O		745	755
 .	.	.	O	O		755	756
 
+In	In	IN	B-PP	O		757	759
 dcl	dcl	NN	B-NP	B-cell_line		760	763
 1-15	1-15	CD	I-NP	I-cell_line		763	767
 ,	,	,	O	O		767	768
@@ -181,6 +186,7 @@ the	the	DT	B-NP	O		904	907
 mutant	mutant	NN	I-NP	O		908	914
 .	.	.	O	O		914	915
 
+Our	Our	PRP$	B-NP	O		916	919
 analysis	analysis	NN	I-NP	O		920	928
 of	of	IN	B-PP	O		929	931
 lec	lec	NN	B-NP	O		932	935

@@ -79,6 +79,7 @@ et al.	et_al.	FW	I-ADVP	O		443	449
 )	)	)	O	O		455	456
 .	.	.	O	O		456	457
 
+Seed	Seed	NN	B-NP	O		458	462
 coat	coat	NN	I-NP	O		463	467
 mucilage	mucilage	NN	I-NP	O		468	476
 is	be	VBZ	B-VP	O		477	479
@@ -115,6 +116,7 @@ et al.	et_al.	FW	I-ADVP	O		657	663
 )	)	)	O	O		669	670
 .	.	.	O	O		670	671
 
+Mutations	Mutation	NNS	B-NP	O		672	681
 in	in	IN	B-PP	O		682	684
 one	one	CD	B-NP	O		685	688
 of	of	IN	B-PP	O		689	691
@@ -137,6 +139,7 @@ mature	mature	JJ	I-NP	O		774	780
 seeds	seed	NNS	I-NP	O		781	786
 .	.	.	O	O		786	787
 
+Several	Several	JJ	B-NP	O		788	795
 genes	gene	NNS	I-NP	O		796	801
 encoding	encode	VBG	B-VP	O		802	810
 putative	putative	JJ	B-NP	O		811	819
@@ -167,6 +170,7 @@ upon	upon	IN	B-PP	O		977	981
 hydration	hydration	NN	B-NP	O		982	991
 .	.	.	O	O		991	992
 
+Mutants	Mutant	NNS	B-NP	O		993	1000
 in	in	IN	B-PP	O		1001	1003
 AP2	AP2	NN	B-NP	B-protein		1004	1007
 (	(	(	O	O		1008	1009
@@ -205,6 +209,7 @@ et al.	et_al.	FW	I-ADVP	O		1175	1181
 )	)	)	O	O		1187	1188
 .	.	.	O	O		1188	1189
 
+TTG1	TTG1	NN	B-NP	B-protein		1190	1194
 (	(	(	O	O		1195	1196
 TRANSPARENT	TRANSPARENT	NN	B-NP	B-protein		1196	1207
 TESTA	TESTA	NN	I-NP	I-protein		1208	1213
@@ -264,6 +269,7 @@ et al.	et_al.	NNP	I-NP	O		1471	1477
 )	)	)	O	O		1483	1484
 .	.	.	O	O		1484	1485
 
+It	It	PRP	B-NP	O		1486	1488
 has	have	VBZ	B-VP	O		1489	1492
 been	be	VBN	I-VP	O		1493	1497
 shown	show	VBN	I-VP	O		1498	1503
@@ -323,6 +329,7 @@ Schiefelbein	Schiefelbein	NN	B-NP	O		1740	1752
 )	)	)	O	O		1758	1759
 .	.	.	O	O		1759	1760
 
+Recently	Recently	RB	B-ADVP	O		1761	1769
 ,	,	,	O	O		1769	1770
 mutations	mutation	NNS	B-NP	O		1771	1780
 in	in	IN	B-PP	O		1781	1783
@@ -351,6 +358,7 @@ et al.	et_al.	FW	I-NP	O		1907	1913
 )	)	)	O	O		1919	1920
 .	.	.	O	O		1920	1921
 
+The	The	DT	B-NP	O		1922	1925
 objective	objective	NN	I-NP	O		1926	1935
 of	of	IN	B-PP	O		1936	1938
 this	this	DT	B-NP	O		1939	1943
@@ -372,6 +380,7 @@ seed	seed	NN	I-NP	O		2025	2029
 coat	coat	NN	I-NP	O		2030	2034
 .	.	.	O	O		2034	2035
 
+Using	Use	VBG	B-VP	O		2036	2041
 positional	positional	JJ	B-NP	O		2042	2052
 cloning	cloning	NN	I-NP	O		2053	2060
 of	of	IN	B-PP	O		2061	2063
@@ -390,6 +399,7 @@ l-Rha	l-Rha	NN	I-NP	B-protein		2118	2123
 synthase	synthase	NN	I-NP	I-protein		2124	2132
 .	.	.	O	O		2132	2133
 
+Mutations	Mutation	NNS	B-NP	O		2134	2143
 in	in	IN	B-PP	O		2144	2146
 this	this	DT	B-NP	O		2147	2151
 gene	gene	NN	I-NP	O		2152	2156
@@ -407,6 +417,7 @@ altered	altered	JJ	I-NP	O		2206	2213
 columella	columella	NN	I-NP	O		2214	2223
 .	.	.	O	O		2223	2224
 
+Expression	Expression	NN	B-NP	O		2225	2235
 studies	study	NNS	I-NP	O		2236	2243
 show	show	VBP	B-VP	O		2244	2248
 that	that	IN	B-SBAR	O		2249	2253
@@ -433,6 +444,7 @@ mucilage	mucilage	NN	B-NP	O		2382	2390
 production	production	NN	I-NP	O		2391	2401
 .	.	.	O	O		2401	2402
 
+Furthermore	Furthermore	RB	B-ADVP	O		2403	2414
 ,	,	,	O	O		2414	2415
 MUM4	MUM4	NN	B-NP	B-protein		2416	2420
 appears	appear	VBZ	B-VP	O		2421	2428
@@ -457,6 +469,7 @@ and	and	CC	O	O		2518	2521
 GL2	GL2	NN	B-NP	B-protein		2522	2525
 .	.	.	O	O		2525	2526
 
+These	These	DT	B-NP	O		2527	2532
 results	result	NNS	I-NP	O		2533	2540
 demonstrate	demonstrate	VBP	B-VP	O		2541	2552
 the	the	DT	B-NP	O		2553	2556

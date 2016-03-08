@@ -54,6 +54,7 @@
 54	proteins	_	NOUN	NNS	_	5	nmod:like	_	_	280	288
 55	.	_	PUNCT	.	_	5	punct	_	_	288	289
 
+1	These	_	DET	DT	_	2	det	_	_	290	295
 2	factors	_	NOUN	NNS	_	5	nsubj	_	_	296	303
 3	are	_	VERB	VBP	_	5	cop	_	_	304	307
 4	transcriptional	_	ADJ	JJ	_	5	amod	_	_	308	323
@@ -117,8 +118,9 @@
 62	-RRB-	_	PUNCT	-RRB-	_	20	punct	_	_	-1	4
 63	.	_	PUNCT	.	_	5	punct	_	_	239	240
 
-2	,	_	PUNCT	,	_	8	punct	_	_	246	247
-3	a	_	DET	DT	_	4	det	_	_	250	251
+1	Recently	_	ADV	RB	_	8	advmod	_	_	576	584
+2	,	_	PUNCT	,	_	8	punct	_	_	584	585
+3	a	_	DET	DT	_	4	det	_	_	586	587
 4	group	_	NOUN	NN	_	8	nsubj	_	_	588	593
 5	of	_	ADP	IN	_	7	case	_	_	594	596
 6	transcription	_	NOUN	NN	_	7	compound	_	_	597	610
@@ -141,8 +143,9 @@
 23	-RRB-	_	PUNCT	-RRB-	_	19	punct	_	_	-1	4
 24	.	_	PUNCT	.	_	8	punct	_	_	239	240
 
-2	,	_	PUNCT	,	_	5	punct	_	_	246	247
-3	the	_	DET	DT	_	4	det	_	_	344	347
+1	However	_	ADV	RB	_	5	advmod	_	_	705	712
+2	,	_	PUNCT	,	_	5	punct	_	_	712	713
+3	the	_	DET	DT	_	4	det	_	_	714	717
 4	B3	_	NOUN	NN	_	5	nsubj	_	_	718	720
 5	domains	_	VERB	VBZ	_	5	conj:and	_	_	721	728
 6	present	_	ADJ	JJ	_	5	xcomp	_	_	729	736
@@ -198,6 +201,7 @@
 56	together	_	ADV	RB	_	55	advmod	_	_	942	950
 57	.	_	PUNCT	.	_	5	punct	_	_	950	951
 
+1	It	_	PRON	PRP	_	3	nsubjpass	_	_	952	954
 2	is	_	AUX	VBZ	_	3	auxpass	_	_	955	957
 3	known	_	VERB	VBN	_	0	root	_	_	958	963
 4	that	_	SCONJ	IN	_	19	mark	_	_	964	968
@@ -231,7 +235,8 @@
 32	-RRB-	_	PUNCT	-RRB-	_	28	punct	_	_	-1	4
 33	.	_	PUNCT	.	_	3	punct	_	_	239	240
 
-2	is	_	VERB	VBZ	_	3	cop	_	_	257	259
+1	It	_	PRON	PRP	_	3	nsubj	_	_	952	954
+2	is	_	VERB	VBZ	_	3	cop	_	_	955	957
 3	likely	_	ADJ	JJ	_	0	root	_	_	1101	1107
 4	,	_	PUNCT	,	_	3	punct	_	_	1107	1108
 5	therefore	_	ADV	RB	_	3	advmod	_	_	1109	1118
@@ -257,6 +262,7 @@
 25	-RRB-	_	PUNCT	-RRB-	_	23	punct	_	_	-1	4
 26	.	_	PUNCT	.	_	3	punct	_	_	239	240
 
+1	The	_	DET	DT	_	2	det	_	_	290	293
 2	same	_	ADJ	JJ	_	3	nsubj	_	_	1233	1237
 3	applies	_	VERB	VBZ	_	0	root	_	_	1238	1245
 4	to	_	ADP	TO	_	5	case	_	_	1246	1248
@@ -274,6 +280,7 @@
 16	-RRB-	_	PUNCT	-RRB-	_	14	punct	_	_	-1	4
 17	.	_	PUNCT	.	_	3	punct	_	_	239	240
 
+1	During	_	ADP	IN	_	2	case	_	_	1296	1302
 2	embryogenesis	_	NOUN	NNS	_	6	nmod:during	_	_	1303	1316
 3	the	_	DET	DT	_	5	det	_	_	1317	1320
 4	FUS3	_	PROPN	NNP	_	5	compound	_	_	1321	1325
@@ -294,6 +301,7 @@
 19	mRNA	_	NOUN	NN	_	15	nmod:of	_	_	1406	1410
 20	.	_	PUNCT	.	_	6	punct	_	_	1410	1411
 
+1	The	_	DET	DT	_	2	det	_	_	1412	1415
 2	finding	_	NOUN	NN	_	12	nsubj	_	_	1416	1423
 3	of	_	ADP	IN	_	4	case	_	_	1424	1426
 4	co-expression	_	NOUN	NN	_	2	nmod:of	_	_	1427	1440
@@ -338,6 +346,7 @@
 43	-RRB-	_	PUNCT	-RRB-	_	39	punct	_	_	-1	4
 44	.	_	PUNCT	.	_	12	punct	_	_	239	240
 
+1	Future	_	ADJ	JJ	_	2	amod	_	_	1661	1667
 2	studies	_	NOUN	NNS	_	6	nsubj	_	_	1668	1675
 3	will	_	AUX	MD	_	4	aux	_	_	1676	1680
 4	have	_	VERB	VB	_	0	root	_	_	1681	1685
@@ -358,6 +367,7 @@
 19	synergism	_	NOUN	NN	_	16	nmod:to	_	_	1774	1783
 20	.	_	PUNCT	.	_	4	punct	_	_	1783	1784
 
+1	So	_	ADP	IN	_	2	case	_	_	1785	1787
 2	far	_	ADV	RB	_	8	advmod	_	_	1788	1791
 3	,	_	PUNCT	,	_	8	punct	_	_	1791	1792
 4	FUS3	_	PROPN	NNP	_	8	nsubj	_	_	1793	1797
@@ -385,6 +395,7 @@
 26	-RRB-	_	PUNCT	-RRB-	_	23	punct	_	_	-1	4
 27	.	_	PUNCT	.	_	8	punct	_	_	239	240
 
+1	VP1	_	PROPN	NNP	_	28	nsubj	_	_	266	269
 2	and	_	CONJ	CC	_	1	cc	_	_	872	875
 3	ABI3	_	PROPN	NNP	_	28	nsubj	_	_	1249	1253
 4	,	_	PUNCT	,	_	1	punct	_	_	1460	1461
@@ -436,6 +447,7 @@
 50	B3	_	PROPN	NNP	_	32	appos	_	_	2100	2102
 51	.	_	PUNCT	.	_	28	punct	_	_	2102	2103
 
+1	In	_	ADP	IN	_	2	case	_	_	2104	2106
 2	FUS3	_	PROPN	NNP	_	6	nmod:in	_	_	2107	2111
 3	,	_	PUNCT	,	_	6	punct	_	_	2111	2112
 4	B1	_	NOUN	NN	_	6	nsubj	_	_	2113	2115
@@ -461,8 +473,9 @@
 24	-RRB-	_	PUNCT	-RRB-	_	21	punct	_	_	-1	4
 25	.	_	PUNCT	.	_	6	punct	_	_	239	240
 
-2	,	_	PUNCT	,	_	13	punct	_	_	246	247
-3	the	_	DET	DT	_	5	det	_	_	344	347
+1	Moreover	_	ADV	RB	_	13	advmod	_	_	2196	2204
+2	,	_	PUNCT	,	_	13	punct	_	_	2204	2205
+3	the	_	DET	DT	_	5	det	_	_	2206	2209
 4	C-terminal	_	ADJ	JJ	_	5	amod	_	_	2210	2220
 5	portion	_	NOUN	NN	_	13	nsubj	_	_	2221	2228
 6	of	_	ADP	IN	_	8	case	_	_	2229	2231
@@ -488,6 +501,7 @@
 26	domains	_	NOUN	NNS	_	22	nmod:in	_	_	2360	2367
 27	.	_	PUNCT	.	_	13	punct	_	_	2367	2368
 
+1	Such	_	ADJ	JJ	_	2	amod	_	_	2369	2373
 2	properties	_	NOUN	NNS	_	6	nsubjpass	_	_	2374	2384
 3	have	_	AUX	VBP	_	6	aux	_	_	2385	2389
 4	indeed	_	ADV	RB	_	6	advmod	_	_	2390	2396

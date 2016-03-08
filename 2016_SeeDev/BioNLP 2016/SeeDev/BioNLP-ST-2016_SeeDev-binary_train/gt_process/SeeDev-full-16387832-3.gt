@@ -40,6 +40,7 @@ Laux	Laux	NN	B-NP	O		237	241
 )	)	)	O	O		247	248
 .	.	.	O	O		248	249
 
+Here	Here	RB	B-ADVP	O		250	254
 ,	,	,	O	O		254	255
 we	we	PRP	B-NP	O		256	258
 identify	identify	VBP	B-VP	O		259	267
@@ -59,6 +60,7 @@ AP2	AP2	NN	B-NP	B-protein		346	349
 function	function	NN	I-NP	O		350	358
 .	.	.	O	O		358	359
 
+Stem	Stem	NNP	B-NP	O		360	364
 Cell	Cell	NNP	I-NP	O		365	369
 Maintenance	Maintenance	NNP	I-NP	O		370	381
 Is	Be	VBZ	B-VP	O		382	384
@@ -93,6 +95,7 @@ et al.	et_al.	NNP	I-NP	O		534	540
 )	)	)	O	O		552	553
 .	.	.	O	O		553	554
 
+Recently	Recently	RB	B-ADVP	O		555	563
 ,	,	,	O	O		563	564
 it	it	PRP	B-NP	O		565	567
 has	have	VBZ	B-VP	O		568	571
@@ -125,6 +128,7 @@ et al.	et_al.	NNP	I-NP	O		689	695
 )	)	)	O	O		701	702
 .	.	.	O	O		702	703
 
+Here	Here	RB	B-ADVP	O		704	708
 ,	,	,	O	O		708	709
 we	we	PRP	B-NP	O		710	712
 show	show	VBP	B-VP	O		713	717
@@ -167,6 +171,7 @@ meristem	meristem	NN	I-NP	O		894	902
 size	size	NN	I-NP	O		903	907
 .	.	.	O	O		907	908
 
+By	By	IN	B-PP	O		909	911
 contrast	contrast	NN	B-NP	O		912	920
 ,	,	,	O	O		920	921
 premature	premature	JJ	B-NP	O		922	931
@@ -190,6 +195,7 @@ l28	l28	NN	I-NP	B-DNA		1028	1031
 allele	allele	NN	I-NP	I-DNA		1032	1038
 .	.	.	O	O		1038	1039
 
+Wild	Wild	JJ	B-NP	B-protein		1040	1044
 -	-	HYPH	I-NP	I-protein		1044	1045
 type	type	NN	I-NP	I-protein		1045	1049
 AP2	AP2	NN	I-NP	I-protein		1050	1053
@@ -213,6 +219,7 @@ function	function	NN	I-NP	O		1138	1146
 there	there	RB	B-ADVP	O		1147	1152
 .	.	.	O	O		1152	1153
 
+Our	Our	PRP$	B-NP	O		1154	1157
 gene	gene	NN	I-NP	O		1158	1162
 dosage	dosage	NN	I-NP	O		1163	1169
 experiments	experiment	NNS	I-NP	O		1170	1181
@@ -229,6 +236,7 @@ l28	l28	NN	B-NP	B-protein		1233	1236
 activity	activity	NN	I-NP	O		1237	1245
 .	.	.	O	O		1245	1246
 
+A	A	DT	B-NP	O		1247	1248
 plausible	plausible	JJ	I-NP	O		1249	1258
 interpretation	interpretation	NN	I-NP	O		1259	1273
 of	of	IN	B-PP	O		1274	1276
@@ -258,6 +266,7 @@ meristem	meristem	NN	I-NP	O		1387	1395
 development	development	NN	I-NP	O		1396	1407
 .	.	.	O	O		1407	1408
 
+Definite	Definite	JJ	B-NP	O		1409	1417
 proof	proof	NN	I-NP	O		1418	1423
 of	of	IN	B-PP	O		1424	1426
 this	this	DT	B-NP	O		1427	1431
@@ -283,6 +292,7 @@ shoot	shoot	NN	I-NP	O		1541	1546
 meristem	meristem	NN	I-NP	O		1547	1555
 .	.	.	O	O		1555	1556
 
+The	The	DT	B-NP	O		1557	1560
 l28	l28	NN	I-NP	B-protein		1561	1564
 mutation	mutation	NN	I-NP	O		1565	1573
 changes	change	VBZ	B-VP	O		1574	1581
@@ -313,6 +323,7 @@ of	of	IN	B-PP	O		1727	1729
 AP2	AP2	NN	B-NP	B-protein		1730	1733
 .	.	.	O	O		1733	1734
 
+A	A	DT	B-NP	O		1735	1736
 possible	possible	JJ	I-NP	O		1737	1745
 model	model	NN	I-NP	O		1746	1751
 is	be	VBZ	B-VP	O		1752	1754
@@ -345,6 +356,7 @@ DNA	DNA	NN	B-NP	O		1909	1912
 targets	target	NNS	I-NP	O		1913	1920
 .	.	.	O	O		1920	1921
 
+Alternatively	Alternatively	RB	B-ADVP	O		1922	1935
 ,	,	,	O	O		1935	1936
 the	the	DT	B-NP	O		1937	1940
 mutant	mutant	JJ	I-NP	B-protein		1941	1947
@@ -371,6 +383,7 @@ transcriptional	transcriptional	JJ	B-NP	O		2051	2066
 regulation	regulation	NN	I-NP	O		2067	2077
 .	.	.	O	O		2077	2078
 
+Stochastic	Stochastic	JJ	B-NP	O		2079	2089
 variations	variation	NNS	I-NP	O		2090	2100
 in	in	IN	B-PP	O		2101	2103
 the	the	DT	B-NP	O		2104	2107

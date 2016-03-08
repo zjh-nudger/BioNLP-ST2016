@@ -22,6 +22,7 @@
 22	maturation	_	NOUN	NN	_	19	nmod:of	_	_	130	140
 23	.	_	PUNCT	.	_	10	punct	_	_	140	141
 
+1	We	_	PRON	PRP	_	7	nsubj	_	_	142	144
 2	isolated	_	VERB	VBD	_	0	root	_	_	145	153
 3	the	_	DET	DT	_	5	det	_	_	154	157
 4	LEC1	_	PROPN	NNP	_	5	compound	_	_	158	162
@@ -43,6 +44,7 @@
 20	fate	_	NOUN	NN	_	17	dobj	_	_	256	260
 21	.	_	PUNCT	.	_	2	punct	_	_	260	261
 
+1	The	_	DET	DT	_	3	det	_	_	262	265
 2	LEC1	_	PROPN	NNP	_	3	compound	_	_	266	270
 3	gene	_	NOUN	NN	_	4	nsubj	_	_	271	275
 4	encodes	_	VERB	VBZ	_	0	root	_	_	276	283
@@ -59,6 +61,7 @@
 15	subunit	_	NOUN	NN	_	8	appos	_	_	350	357
 16	.	_	PUNCT	.	_	4	punct	_	_	357	358
 
+1	LEC1	_	PROPN	NNP	_	2	compound	_	_	359	363
 2	RNA	_	PROPN	NNP	_	3	nsubj	_	_	364	367
 3	accumulates	_	VERB	VBZ	_	3	conj:and	_	_	368	379
 4	only	_	ADV	RB	_	3	advmod	_	_	380	384
@@ -75,6 +78,7 @@
 15	tissue	_	NOUN	NN	_	3	nmod:in	_	_	447	453
 16	.	_	PUNCT	.	_	3	punct	_	_	453	454
 
+1	Ectopic	_	ADJ	JJ	_	3	amod	_	_	455	462
 2	postembryonic	_	ADJ	JJ	_	3	amod	_	_	463	476
 3	expression	_	NOUN	NN	_	11	nsubj	_	_	477	487
 4	of	_	ADP	IN	_	7	case	_	_	488	490
@@ -102,6 +106,7 @@
 26	structures	_	NOUN	NNS	_	11	nmod:like	_	_	612	622
 27	.	_	PUNCT	.	_	11	punct	_	_	622	623
 
+1	Our	_	PRON	PRP$	_	2	nmod:poss	_	_	624	627
 2	results	_	NOUN	NNS	_	3	nsubj	_	_	628	635
 3	suggest	_	VERB	VBP	_	0	root	_	_	636	643
 4	that	_	SCONJ	IN	_	9	mark	_	_	644	648

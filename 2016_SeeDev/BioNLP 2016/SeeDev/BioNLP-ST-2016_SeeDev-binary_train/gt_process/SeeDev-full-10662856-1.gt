@@ -24,6 +24,7 @@ regulatory	regulatory	JJ	B-NP	B-protein		90	100
 factors	factor	NNS	I-NP	I-protein		101	108
 .	.	.	O	O		108	109
 
+All	All	DT	B-NP	O		110	113
 of	of	IN	B-PP	O		114	116
 the	the	DT	B-NP	O		117	120
 members	member	NNS	I-NP	O		121	128
@@ -68,6 +69,7 @@ et al.	et_al.	NNP	I-NP	O		336	342
 )	)	)	O	O		347	348
 .	.	.	O	O		348	349
 
+MADS	MADS	NN	B-NP	B-protein		350	354
 domain	domain	NN	I-NP	I-protein		355	361
 proteins	protein	NNS	I-NP	I-protein		362	370
 also	also	RB	B-ADVP	O		371	375
@@ -85,6 +87,7 @@ functional	functional	JJ	I-NP	O		440	450
 specificity	specificity	NN	I-NP	O		451	462
 .	.	.	O	O		462	463
 
+MADS	MADS	NNS	B-NP	B-protein		464	468
 domain–containing	domain–containe	VBG	B-VP	I-protein		469	486
 regulatory	regulatory	JJ	B-NP	I-protein		487	497
 factors	factor	NNS	I-NP	I-protein		498	505
@@ -131,6 +134,7 @@ in	in	IN	B-PP	O		752	754
 humans	human	NNS	B-NP	O		755	761
 .	.	.	O	O		761	762
 
+MADS	MADS	NN	B-NP	B-protein		763	767
 domain	domain	NN	I-NP	I-protein		768	774
 factors	factor	NNS	I-NP	I-protein		775	782
 form	form	VBP	B-VP	O		783	787
@@ -144,6 +148,7 @@ in	in	IN	B-PP	O		827	829
 plants	plant	NNS	B-NP	O		830	836
 .	.	.	O	O		836	837
 
+In	In	IN	B-PP	O		838	840
 addition	addition	NN	B-NP	O		841	849
 to	to	TO	B-PP	O		850	852
 the	the	DT	B-NP	O		853	856
@@ -185,6 +190,7 @@ Meyerowitz	Meyerowitz	NNP	I-NP	O		1040	1050
 )	)	)	O	O		1055	1056
 .	.	.	O	O		1056	1057
 
+The	The	DT	B-NP	O		1058	1061
 MADS	MADS	NN	I-NP	B-protein		1062	1066
 domain	domain	NN	I-NP	I-protein		1067	1073
 family	family	NN	I-NP	I-protein		1074	1080
@@ -262,6 +268,7 @@ in	in	IN	B-PP	O		1446	1448
 flowers	flower	NNS	B-NP	O		1449	1456
 .	.	.	O	O		1456	1457
 
+Family	Family	NN	B-NP	O		1458	1464
 members	member	NNS	I-NP	O		1465	1472
 that	that	WDT	B-NP	O		1473	1477
 are	be	VBP	B-VP	O		1478	1481
@@ -330,6 +337,7 @@ Amasino	Amasino	NN	B-NP	O		1832	1839
 )	)	)	O	O		1844	1845
 .	.	.	O	O		1845	1846
 
+Based	Base	VBN	B-PP	O		1847	1852
 on	on	IN	B-PP	O		1853	1855
 its	its	PRP$	B-NP	O		1856	1859
 expression	expression	NN	I-NP	O		1860	1870
@@ -354,6 +362,7 @@ is	be	VBZ	B-VP	O		1971	1973
 undefined	undefined	JJ	B-ADJP	O		1974	1983
 .	.	.	O	O		1983	1984
 
+Our	Our	PRP$	B-NP	O		1985	1988
 previous	previous	JJ	I-NP	O		1989	1997
 findings	finding	NNS	I-NP	O		1998	2006
 have	have	VBP	B-VP	O		2007	2011
@@ -381,6 +390,7 @@ life	life	NN	I-NP	O		2118	2122
 cycle	cycle	NN	I-NP	O		2123	2128
 .	.	.	O	O		2128	2129
 
+We	We	PRP	B-NP	O		2130	2132
 initially	initially	RB	B-ADVP	O		2133	2142
 isolated	isolate	VBD	B-VP	O		2143	2151
 AGL15	AGL15	NN	B-NP	B-protein		2152	2157
@@ -413,6 +423,7 @@ cDNA	cDNA	NN	I-NP	I-DNA		2317	2321
 library	library	NN	I-NP	I-DNA		2322	2329
 .	.	.	O	O		2329	2330
 
+AGL15	AGL15	NN	B-NP	B-protein		2331	2336
 is	be	VBZ	B-VP	O		2337	2339
 a	a	DT	B-NP	O		2340	2341
 single	single	JJ	I-NP	B-DNA		2342	2348
@@ -445,6 +456,7 @@ AGL15	AGL15	NN	I-NP	B-DNA		2490	2495
 locus	locus	NN	I-NP	I-DNA		2496	2501
 .	.	.	O	O		2501	2502
 
+The	The	DT	B-NP	O		2503	2506
 only	only	JJ	I-NP	O		2507	2511
 members	member	NNS	I-NP	O		2512	2519
 of	of	IN	B-PP	O		2520	2522
@@ -474,6 +486,7 @@ Ma	Ma	NNP	B-NP	O		2636	2638
 )	)	)	O	O		2643	2644
 .	.	.	O	O		2644	2645
 
+AGL15	AGL15	NN	B-NP	B-protein		2646	2651
 shows	show	VBZ	B-VP	O		2652	2657
 strong	strong	JJ	B-NP	O		2658	2664
 preferential	preferential	JJ	I-NP	O		2665	2677
@@ -496,6 +509,7 @@ et al.	et_al.	FW	I-NP	O		2765	2771
 )	)	)	O	O		2776	2777
 .	.	.	O	O		2777	2778
 
+Using	Use	VBG	B-VP	O		2779	2784
 AGL15	AGL15	NN	B-NP	B-protein		2785	2790
 -	-	HYPH	B-NP	I-protein		2790	2791
 specific	specific	JJ	I-NP	I-protein		2791	2799
@@ -535,6 +549,7 @@ et al.	et_al.	RB	B-NP	O		2961	2967
 )	)	)	O	O		2972	2973
 .	.	.	O	O		2973	2974
 
+More	More	RBR	B-ADVP	O		2975	2979
 recently	recently	RB	I-ADVP	O		2980	2988
 ,	,	,	O	O		2988	2989
 we	we	PRP	B-NP	O		2990	2992
@@ -558,6 +573,7 @@ et al.	et_al.	NNP	I-NP	O		3084	3090
 )	)	)	O	O		3095	3096
 .	.	.	O	O		3096	3097
 
+Although	Although	IN	B-SBAR	O		3098	3106
 AGL15	AGL15	NN	B-NP	B-protein		3107	3112
 accumulates	accumulate	VBZ	B-VP	O		3113	3124
 preferentially	preferentially	RB	B-ADVP	O		3125	3139
@@ -576,6 +592,7 @@ embryonic	embryonic	JJ	I-NP	O		3202	3211
 phase	phase	NN	I-NP	O		3212	3217
 .	.	.	O	O		3217	3218
 
+AGL15	AGL15	NN	B-NP	B-RNA		3219	3224
 transcripts	transcript	NNS	I-NP	I-RNA		3225	3236
 have	have	VBP	B-VP	O		3237	3241
 been	be	VBN	I-VP	O		3242	3246
@@ -616,6 +633,7 @@ et al.	et_al.	FW	I-NP	O		3433	3439
 )	)	)	O	O		3444	3445
 .	.	.	O	O		3445	3446
 
+These	These	DT	B-NP	O		3447	3452
 findings	finding	NNS	I-NP	O		3453	3461
 ,	,	,	O	O		3461	3462
 plus	plus	CC	O	O		3463	3467
@@ -654,6 +672,7 @@ postembryonic	postembryonic	JJ	B-NP	O		3672	3685
 phases	phase	NNS	I-NP	O		3686	3692
 .	.	.	O	O		3692	3693
 
+We	We	PRP	B-NP	O		3694	3696
 combined	combine	VBD	B-VP	O		3697	3705
 an	an	DT	B-NP	O		3706	3708
 analysis	analysis	NN	I-NP	O		3709	3717
@@ -681,6 +700,7 @@ AGL15	AGL15	NN	B-NP	B-protein		3854	3859
 expression	expression	NN	I-NP	O		3860	3870
 .	.	.	O	O		3870	3871
 
+Because	Because	IN	B-SBAR	O		3872	3879
 the	the	DT	B-NP	O		3880	3883
 cellular	cellular	JJ	I-NP	O		3884	3892
 localization	localization	NN	I-NP	O		3893	3905
@@ -719,6 +739,7 @@ the	the	DT	B-NP	O		4091	4094
 nuclei	nucleus	NNS	I-NP	O		4095	4101
 .	.	.	O	O		4101	4102
 
+Because	Because	IN	B-SBAR	O		4103	4110
 we	we	PRP	B-NP	O		4111	4113
 found	find	VBD	B-VP	O		4114	4119
 that	that	IN	B-SBAR	O		4120	4124
@@ -756,6 +777,7 @@ life	life	NN	I-NP	O		4315	4319
 cycle	cycle	NN	I-NP	O		4320	4325
 .	.	.	O	O		4325	4326
 
+To	To	TO	B-VP	O		4327	4329
 investigate	investigate	VB	I-VP	O		4330	4341
 these	these	DT	B-NP	O		4342	4347
 roles	role	NNS	I-NP	O		4348	4353
@@ -778,6 +800,7 @@ postembryonic	postembryonic	JJ	B-NP	O		4439	4452
 development	development	NN	I-NP	O		4453	4464
 .	.	.	O	O		4464	4465
 
+The	The	DT	B-NP	O		4466	4469
 results	result	NNS	I-NP	O		4470	4477
 were	be	VBD	B-VP	O		4478	4482
 striking	striking	JJ	B-ADJP	O		4483	4491
@@ -785,6 +808,7 @@ and	and	CC	I-ADJP	O		4492	4495
 unexpected	unexpected	JJ	I-ADJP	O		4496	4506
 .	.	.	O	O		4506	4507
 
+The	The	DT	B-NP	O		4508	4511
 combination	combination	NN	I-NP	O		4512	4523
 of	of	IN	B-PP	O		4524	4526
 effects	effect	NNS	B-NP	O		4527	4534
@@ -814,6 +838,7 @@ domain	domain	NN	I-NP	I-protein		4660	4666
 factor	factor	NN	I-NP	I-protein		4667	4673
 .	.	.	O	O		4673	4674
 
+Specifically	Specifically	RB	B-ADVP	O		4675	4687
 ,	,	,	O	O		4687	4688
 AGL15	AGL15	NN	B-NP	B-protein		4689	4694
 may	may	MD	B-VP	O		4695	4698

@@ -39,6 +39,7 @@ in	in	IN	B-PP	O		174	176
 grey	grey	NN	B-NP	O		177	181
 .	.	.	O	O		181	182
 
+In	In	IN	B-PP	O		183	185
 the	the	DT	B-NP	O		186	189
 current	current	JJ	I-NP	O		190	197
 study	study	NN	I-NP	O		198	203
@@ -72,6 +73,7 @@ in	in	IN	B-PP	O		352	354
 black	black	JJ	B-NP	O		355	360
 .	.	.	O	O		360	361
 
+The	The	DT	B-NP	O		362	365
 AP2	AP2	NN	I-NP	B-RNA		366	369
 mRNA	mRNA	NN	I-NP	I-RNA		370	374
 level	level	NN	I-NP	O		375	380
@@ -85,6 +87,7 @@ ein	ein	NN	I-NP	B-protein		403	406
 mutant	mutant	NN	I-NP	I-protein		410	416
 .	.	.	O	O		416	417
 
+The	The	DT	B-NP	O		418	421
 position	position	NN	I-NP	O		422	430
 of	of	IN	B-PP	O		431	433
 EIN3	EIN3	NN	B-NP	B-protein		434	438
@@ -100,6 +103,7 @@ under	under	IN	B-PP	O		486	491
 EIN2	EIN2	NN	B-NP	B-protein		492	496
 .	.	.	O	O		496	497
 
+It	It	PRP	B-NP	O		498	500
 is	be	VBZ	B-VP	O		501	503
 known	know	VBN	I-VP	O		504	509
 that	that	IN	B-SBAR	O		510	514
@@ -123,6 +127,7 @@ et al.	et_al.	NNP	I-NP	O		593	599
 )	)	)	O	O		605	606
 .	.	.	O	O		606	607
 
+Previous	Previous	JJ	B-NP	O		608	616
 studies	study	NNS	I-NP	O		617	624
 reported	report	VBD	B-VP	O		625	633
 that	that	IN	B-SBAR	O		634	638
@@ -150,6 +155,7 @@ et al.	et_al.	NNP	I-NP	O		739	745
 )	)	)	O	O		751	752
 .	.	.	O	O		752	753
 
+Furthermore	Furthermore	RB	B-ADVP	O		754	765
 ,	,	,	O	O		765	766
 AtEBP	AtEBP	NN	B-NP	B-protein		767	772
 expression	expression	NN	I-NP	O		773	783
@@ -172,6 +178,7 @@ study	study	NN	I-NP	O		871	876
 )	)	)	O	O		876	877
 .	.	.	O	O		877	878
 
+In	In	IN	B-PP	O		879	881
 this	this	DT	B-NP	O		882	886
 study	study	NN	I-NP	O		887	892
 ,	,	,	O	O		892	893
@@ -188,6 +195,7 @@ of	of	IN	B-PP	O		956	958
 AtEBP	AtEBP	NN	B-NP	B-protein		959	964
 .	.	.	O	O		964	965
 
+We	We	PRP	B-NP	O		966	968
 suggest	suggest	VBP	B-VP	O		969	976
 that	that	IN	B-SBAR	O		977	981
 these	these	DT	B-NP	O		982	987
@@ -199,6 +207,7 @@ one	one	CD	B-NP	O		1022	1025
 another	another	DT	I-NP	O		1026	1033
 .	.	.	O	O		1033	1034
 
+AtEBP	AtEBP	NN	B-NP	O		1035	1040
 knockout	knockout	NN	I-NP	O		1041	1049
 plants	plant	NNS	I-NP	O		1050	1056
 exhibited	exhibit	VBD	B-VP	O		1057	1066
@@ -214,6 +223,7 @@ of	of	IN	B-PP	O		1111	1113
 stamens	stamen	NNS	B-NP	O		1114	1121
 .	.	.	O	O		1121	1122
 
+An	An	DT	B-NP	O		1123	1125
 evaluation	evaluation	NN	I-NP	O		1126	1136
 was	be	VBD	B-VP	O		1137	1140
 also	also	RB	I-VP	O		1141	1145
@@ -240,6 +250,7 @@ shown	show	VBN	I-VP	O		1243	1248
 )	)	)	O	O		1248	1249
 .	.	.	O	O		1249	1250
 
+The	The	DT	B-NP	O		1251	1254
 ctr1	ctr1	NN	I-NP	B-protein		1255	1259
 mutants	mutant	NNS	I-NP	I-protein		1260	1267
 showed	show	VBD	B-VP	O		1268	1274
@@ -273,6 +284,7 @@ et al.	et_al.	FW	I-ADVP	O		1411	1417
 )	)	)	O	O		1423	1424
 .	.	.	O	O		1424	1425
 
+Interestingly	Interestingly	RB	B-ADVP	O		1426	1439
 ,	,	,	O	O		1439	1440
 the	the	DT	B-NP	O		1441	1444
 ant	ant	JJ	I-NP	B-protein		1445	1448
@@ -299,6 +311,7 @@ et al.	et_al.	NNP	I-NP	O		1542	1548
 )	)	)	O	O		1554	1555
 .	.	.	O	O		1555	1556
 
+ANT	ANT	NN	B-NP	B-protein		1557	1560
 is	be	VBZ	B-VP	O		1561	1563
 a	a	DT	B-NP	O		1564	1565
 member	member	NN	I-NP	O		1566	1572
@@ -316,6 +329,7 @@ EREBP	EREBP	NN	I-NP	B-protein		1614	1619
 domains	domain	NNS	I-NP	I-protein		1620	1627
 .	.	.	O	O		1627	1628
 
+Over	Over	AFX	B-NP	O		1629	1633
 -	-	HYPH	I-NP	O		1633	1634
 expression	expression	NN	B-NP	O		1634	1644
 of	of	IN	B-PP	O		1645	1647
@@ -328,6 +342,7 @@ in	in	IN	B-PP	O		1682	1684
 leaves	leaf	NNS	B-NP	O		1685	1691
 .	.	.	O	O		1691	1692
 
+Despite	Despite	IN	B-PP	O		1693	1700
 the	the	DT	B-NP	O		1701	1704
 accumulation	accumulation	NN	I-NP	O		1705	1717
 of	of	IN	B-PP	O		1718	1720
@@ -349,6 +364,7 @@ were	be	VBD	B-VP	O		1806	1810
 observed	observe	VBN	I-VP	O		1811	1819
 .	.	.	O	O		1819	1820
 
+Chen	Chen	NNP	B-NP	O		1821	1825
 (	(	(	O	O		1826	1827
 2004	2004	CD	B-NP	O		1827	1831
 )	)	)	O	O		1831	1832
@@ -364,6 +380,7 @@ AP2	AP2	NN	B-NP	B-protein		1896	1899
 expression	expression	NN	I-NP	O		1900	1910
 .	.	.	O	O		1910	1911
 
+That	That	DT	B-NP	O		1912	1916
 is	be	VBZ	B-VP	O		1917	1919
 ,	,	,	O	O		1919	1920
 most	most	RBS	B-NP	O		1921	1925
@@ -389,6 +406,7 @@ like	like	JJ	I-NP	O		2037	2041
 phenotype	phenotype	NN	I-NP	O		2042	2051
 .	.	.	O	O		2051	2052
 
+However	However	RB	B-ADVP	O		2053	2060
 ,	,	,	O	O		2060	2061
 over	over	AFX	B-NP	O		2062	2066
 -	-	HYPH	I-NP	O		2066	2067
@@ -411,6 +429,7 @@ floral	floral	JJ	I-NP	O		2153	2159
 phenotype	phenotype	NN	I-NP	O		2160	2169
 .	.	.	O	O		2169	2170
 
+Accumulation	Accumulation	NN	B-NP	O		2171	2183
 of	of	IN	B-PP	O		2184	2186
 AP2	AP2	NN	B-NP	B-protein		2187	2190
 protein	protein	NN	I-NP	I-protein		2191	2198
@@ -432,6 +451,7 @@ normal	normal	JJ	B-NP	O		2274	2280
 AP2	AP2	NN	I-NP	B-protein		2281	2284
 .	.	.	O	O		2284	2285
 
+Thus	Thus	RB	B-ADVP	O		2286	2290
 ,	,	,	O	O		2290	2291
 we	we	PRP	B-NP	O		2292	2294
 consider	consider	VBP	B-VP	O		2295	2303
@@ -455,6 +475,7 @@ flower	flow	JJR	B-NP	O		2399	2405
 development	development	NN	I-NP	O		2406	2417
 .	.	.	O	O		2417	2418
 
+This	This	DT	B-NP	O		2419	2423
 study	study	NN	I-NP	O		2424	2429
 has	have	VBZ	B-VP	O		2430	2433
 shown	show	VBN	I-VP	O		2434	2439
@@ -467,6 +488,7 @@ and	and	CC	I-NP	O		2477	2480
 AtEBP	AtEBP	NN	I-NP	B-protein		2481	2486
 .	.	.	O	O		2486	2487
 
+AtEBP	AtEBP	NN	B-NP	B-protein		2488	2493
 and	and	CC	I-NP	O		2494	2497
 functional	functional	JJ	I-NP	O		2498	2508
 EIN2	EIN2	NN	I-NP	B-protein		2509	2513
@@ -478,6 +500,7 @@ of	of	IN	B-PP	O		2554	2556
 AP2	AP2	NN	B-NP	B-protein		2557	2560
 .	.	.	O	O		2560	2561
 
+AtEBP	AtEBP	NN	B-NP	B-protein		2562	2567
 contributed	contribute	VBD	B-VP	O		2568	2579
 slightly	slightly	RB	B-ADVP	O		2580	2588
 to	to	TO	B-VP	O		2589	2591
@@ -489,6 +512,7 @@ stamen	staman	NNS	I-NP	O		2623	2629
 development	development	NN	I-NP	O		2630	2641
 .	.	.	O	O		2641	2642
 
+Future	Future	JJ	B-NP	O		2643	2649
 reports	report	NNS	I-NP	O		2650	2657
 in	in	IN	B-PP	O		2658	2660
 this	this	DT	B-NP	O		2661	2665

@@ -47,6 +47,7 @@
 47	Arabidopsis	_	PROPN	NNP	_	45	nmod:of	_	_	282	293
 48	.	_	PUNCT	.	_	18	punct	_	_	293	294
 
+1	With	_	ADP	IN	_	3	case	_	_	295	299
 2	the	_	DET	DT	_	3	det	_	_	300	303
 3	onset	_	NOUN	NN	_	12	nmod:with	_	_	304	309
 4	of	_	ADP	IN	_	7	case	_	_	310	312
@@ -70,6 +71,7 @@
 22	inflorescence	_	NOUN	NN	_	19	nmod:of	_	_	413	426
 23	.	_	PUNCT	.	_	12	punct	_	_	426	427
 
+1	This	_	DET	DT	_	2	det	_	_	428	432
 2	pattern	_	NOUN	NN	_	53	nsubjpass	_	_	433	440
 3	of	_	ADP	IN	_	5	case	_	_	441	443
 4	gene	_	NOUN	NN	_	5	compound	_	_	444	448
@@ -137,6 +139,7 @@
 66	-RRB-	_	PUNCT	-RRB-	_	62	punct	_	_	-1	4
 67	.	_	PUNCT	.	_	7	punct	_	_	293	294
 
+1	In	_	ADP	IN	_	2	case	_	_	789	791
 2	terms	_	NOUN	NNS	_	9	nmod:in	_	_	792	797
 3	of	_	ADP	IN	_	4	case	_	_	798	800
 4	regulation	_	NOUN	NN	_	2	nmod:of	_	_	801	811
@@ -177,15 +180,16 @@
 39	-RRB-	_	PUNCT	-RRB-	_	35	punct	_	_	-1	4
 40	.	_	PUNCT	.	_	9	punct	_	_	293	294
 
-2	the	_	DET	DT	_	4	det	_	_	300	303
-3	reproductive	_	ADJ	JJ	_	4	amod	_	_	317	329
-4	phase	_	NOUN	NN	_	11	nmod:during	_	_	330	335
-5	,	_	PUNCT	,	_	11	punct	_	_	335	336
-6	AGL15	_	NUM	CD	_	8	nummod	_	_	337	342
-7	promoter	_	NOUN	NN	_	8	compound	_	_	343	351
-8	activity	_	NOUN	NN	_	11	nsubjpass	_	_	352	360
-9	is	_	AUX	VBZ	_	11	auxpass	_	_	378	380
-10	also	_	ADV	RB	_	11	advmod	_	_	921	925
+1	During	_	ADP	IN	_	4	case	_	_	1000	1006
+2	the	_	DET	DT	_	4	det	_	_	1007	1010
+3	reproductive	_	ADJ	JJ	_	4	amod	_	_	1011	1023
+4	phase	_	NOUN	NN	_	11	nmod:during	_	_	1024	1029
+5	,	_	PUNCT	,	_	11	punct	_	_	1029	1030
+6	AGL15	_	NUM	CD	_	8	nummod	_	_	1031	1036
+7	promoter	_	NOUN	NN	_	8	compound	_	_	1037	1045
+8	activity	_	NOUN	NN	_	11	nsubjpass	_	_	1046	1054
+9	is	_	AUX	VBZ	_	11	auxpass	_	_	1055	1057
+10	also	_	ADV	RB	_	11	advmod	_	_	1058	1062
 11	associated	_	VERB	VBN	_	0	root	_	_	1063	1073
 12	with	_	ADP	IN	_	15	case	_	_	1074	1078
 13	young	_	ADJ	JJ	_	15	amod	_	_	1079	1084
@@ -193,6 +197,7 @@
 15	cells	_	NOUN	NNS	_	11	nmod:with	_	_	1094	1099
 16	.	_	PUNCT	.	_	11	punct	_	_	1099	1100
 
+1	Cell	_	ADJ	JJ	_	3	amod	_	_	1101	1105
 2	maturation	_	NOUN	NN	_	3	compound	_	_	1106	1116
 3	proceeds	_	NOUN	NNS	_	0	root	_	_	1117	1125
 4	in	_	ADP	IN	_	6	case	_	_	1126	1128
@@ -220,6 +225,7 @@
 26	-RRB-	_	PUNCT	-RRB-	_	20	punct	_	_	-1	4
 27	.	_	PUNCT	.	_	3	punct	_	_	293	294
 
+1	In	_	ADP	IN	_	3	case	_	_	789	791
 2	both	_	DET	DT	_	3	det	_	_	1240	1244
 3	leaves	_	NOUN	NNS	_	25	nmod:in	_	_	1245	1251
 4	and	_	CONJ	CC	_	3	cc	_	_	1252	1255
@@ -262,6 +268,7 @@
 41	organs	_	NOUN	NNS	_	37	nmod:of	_	_	1470	1476
 42	.	_	PUNCT	.	_	25	punct	_	_	1476	1477
 
+1	Given	_	VERB	VBN	_	3	case	_	_	1478	1483
 2	the	_	DET	DT	_	3	det	_	_	1484	1487
 3	patterns	_	NOUN	NNS	_	15	nmod:given	_	_	1488	1496
 4	of	_	ADP	IN	_	7	case	_	_	1497	1499
@@ -325,6 +332,7 @@
 62	mature	_	ADJ	JJ	_	56	acl:relcl	_	_	1841	1847
 63	.	_	PUNCT	.	_	15	punct	_	_	1847	1848
 
+1	To	_	PART	TO	_	2	mark	_	_	1849	1851
 2	define	_	VERB	VB	_	11	advcl	_	_	1852	1858
 3	more	_	ADV	RBR	_	4	advmod	_	_	1859	1863
 4	clearly	_	ADV	RB	_	2	advmod	_	_	1864	1871
@@ -353,6 +361,7 @@
 27	promoter	_	NOUN	NN	_	23	nmod:of	_	_	2004	2012
 28	.	_	PUNCT	.	_	11	punct	_	_	2012	2013
 
+1	Effects	_	PROPN	NNPS	_	7	nsubj	_	_	2014	2021
 2	of	_	ADP	IN	_	5	case	_	_	2022	2024
 3	AGL15	_	PROPN	NNP	_	5	compound	_	_	2025	2030
 4	Constitutive	_	PROPN	NNP	_	5	compound	_	_	2031	2043

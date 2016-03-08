@@ -24,6 +24,7 @@
 24	-RRB-	_	PUNCT	-RRB-	_	19	punct	_	_	-1	4
 25	.	_	PUNCT	.	_	4	punct	_	_	113	114
 
+1	This	_	DET	DT	_	2	det	_	_	123	127
 2	observation	_	NOUN	NN	_	3	nsubj	_	_	128	139
 3	lead	_	VERB	VBP	_	0	root	_	_	140	144
 4	to	_	ADP	TO	_	6	case	_	_	145	147
@@ -47,6 +48,7 @@
 22	study	_	NOUN	NN	_	17	nmod:in	_	_	252	257
 23	.	_	PUNCT	.	_	3	punct	_	_	257	258
 
+1	To	_	PART	TO	_	2	mark	_	_	259	261
 2	investigate	_	VERB	VB	_	17	advcl	_	_	262	273
 3	the	_	DET	DT	_	4	det	_	_	274	277
 4	relationships	_	NOUN	NNS	_	2	dobj	_	_	278	291
@@ -89,6 +91,7 @@
 41	-RRB-	_	PUNCT	-RRB-	_	36	punct	_	_	-1	4
 42	.	_	PUNCT	.	_	17	punct	_	_	113	114
 
+1	To	_	PART	TO	_	2	mark	_	_	259	261
 2	avoid	_	VERB	VB	_	17	advcl	_	_	491	496
 3	cross	_	NOUN	NN	_	2	dobj	_	_	497	502
 4	-	_	PUNCT	:	_	3	punct	_	_	502	503
@@ -116,7 +119,8 @@
 26	-RRB-	_	PUNCT	-RRB-	_	23	punct	_	_	-1	4
 27	.	_	PUNCT	.	_	17	punct	_	_	113	114
 
-2	the	_	DET	DT	_	4	det	_	_	148	151
+1	In	_	ADP	IN	_	4	case	_	_	617	619
+2	the	_	DET	DT	_	4	det	_	_	620	623
 3	wild	_	ADJ	JJ	_	4	amod	_	_	624	628
 4	type	_	NOUN	NN	_	14	nmod:in	_	_	629	633
 5	-LRB-	_	PUNCT	-LRB-	_	6	punct	_	_	-1	4
@@ -156,8 +160,9 @@
 39	-RRB-	_	PUNCT	-RRB-	_	34	punct	_	_	-1	4
 40	.	_	PUNCT	.	_	14	punct	_	_	113	114
 
-2	is	_	VERB	VBZ	_	0	root	_	_	125	127
-3	a	_	DET	DT	_	4	det	_	_	134	135
+1	There	_	PRON	EX	_	2	expl	_	_	788	793
+2	is	_	VERB	VBZ	_	0	root	_	_	794	796
+3	a	_	DET	DT	_	4	det	_	_	797	798
 4	point	_	NOUN	NN	_	2	nsubj	_	_	799	804
 5	-	_	PUNCT	:	_	4	punct	_	_	804	805
 6	mutation	_	NOUN	NN	_	4	dep	_	_	805	813
@@ -199,7 +204,8 @@
 42	-RRB-	_	PUNCT	-RRB-	_	37	punct	_	_	-1	4
 43	.	_	PUNCT	.	_	2	punct	_	_	113	114
 
-2	a	_	DET	DT	_	3	det	_	_	134	135
+1	As	_	ADP	IN	_	3	case	_	_	969	971
+2	a	_	DET	DT	_	3	det	_	_	972	973
 3	result	_	NOUN	NN	_	10	nmod:as	_	_	974	980
 4	,	_	PUNCT	,	_	10	punct	_	_	980	981
 5	the	_	DET	DT	_	8	det	_	_	982	985
@@ -210,6 +216,7 @@
 10	observed	_	ADJ	JJ	_	0	root	_	_	1016	1024
 11	.	_	PUNCT	.	_	10	punct	_	_	1024	1025
 
+1	To	_	PART	TO	_	2	mark	_	_	1026	1028
 2	test	_	VERB	VB	_	12	advcl	_	_	1029	1033
 3	whether	_	SCONJ	IN	_	6	mark	_	_	1034	1041
 4	AP2	_	PROPN	NNP	_	5	compound	_	_	1042	1045
@@ -230,6 +237,7 @@
 19	2-5	_	NUM	CD	_	12	nmod:in	_	_	1133	1136
 20	.	_	PUNCT	.	_	12	punct	_	_	1136	1137
 
+1	In	_	ADP	IN	_	3	case	_	_	1138	1140
 2	ap	_	NOUN	NN	_	3	compound	_	_	1141	1143
 3	2-5	_	NOUN	NNS	_	10	nmod:in	_	_	1143	1146
 4	,	_	PUNCT	,	_	10	punct	_	_	1146	1147
@@ -247,6 +255,7 @@
 16	stems	_	VERB	VBZ	_	10	conj:and	_	_	1206	1211
 17	.	_	PUNCT	.	_	10	punct	_	_	1211	1212
 
+1	The	_	DET	DT	_	4	det	_	_	1213	1216
 2	AP2	_	PROPN	NNP	_	4	compound	_	_	1217	1220
 3	mRNA	_	NOUN	NN	_	4	compound	_	_	1221	1225
 4	level	_	NOUN	NN	_	10	nsubjpass	_	_	1226	1231
@@ -276,6 +285,7 @@
 28	expression	_	NOUN	NN	_	23	dobj	_	_	1357	1367
 29	.	_	PUNCT	.	_	10	punct	_	_	1367	1368
 
+1	The	_	DET	DT	_	3	det	_	_	1369	1372
 2	expression	_	NOUN	NN	_	3	compound	_	_	1373	1383
 3	pattern	_	NOUN	NN	_	7	nsubj	_	_	1384	1391
 4	of	_	ADP	IN	_	5	case	_	_	1392	1394
@@ -329,7 +339,8 @@
 52	-RRB-	_	PUNCT	-RRB-	_	49	punct	_	_	-1	4
 53	.	_	PUNCT	.	_	7	punct	_	_	113	114
 
-2	results	_	NOUN	NNS	_	4	nsubj	_	_	1592	1599
+1	These	_	DET	DT	_	2	det	_	_	1632	1637
+2	results	_	NOUN	NNS	_	4	nsubj	_	_	1638	1645
 3	may	_	AUX	MD	_	4	aux	_	_	1646	1649
 4	suggest	_	VERB	VB	_	0	root	_	_	1650	1657
 5	that	_	SCONJ	IN	_	7	mark	_	_	1658	1662

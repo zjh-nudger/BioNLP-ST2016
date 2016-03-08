@@ -33,6 +33,7 @@ Laux	Laux	NN	B-NP	O		158	162
 )	)	)	O	O		168	169
 .	.	.	O	O		169	170
 
+Similar	Similar	JJ	B-ADJP	O		171	178
 to	to	TO	B-PP	O		179	181
 animal	animal	NN	B-NP	O		182	188
 stem	stem	NN	I-NP	O		189	193
@@ -71,6 +72,7 @@ undergo	undergo	VBP	B-VP	O		376	383
 differentiation	differentiation	NN	B-NP	O		384	399
 .	.	.	O	O		399	400
 
+In	In	IN	B-PP	O		401	403
 the	the	DT	B-NP	O		404	407
 Arabidopsis thaliana	Arabidopsis_thaliana	NNP	I-NP	O		408	428
 shoot	shoot	NN	I-NP	O		429	434
@@ -98,6 +100,7 @@ shoot	shoot	NN	I-NP	O		541	546
 apex	apex	NN	I-NP	O		547	551
 .	.	.	O	O		551	552
 
+The	The	DT	B-NP	O		553	556
 stem	stem	NN	I-NP	B-cell_type		557	561
 cells	cell	NNS	I-NP	I-cell_type		562	567
 cannot	cannot	MD	B-VP	O		568	574
@@ -133,6 +136,7 @@ Dermen	Dermen	NNP	I-NP	O		740	746
 )	)	)	O	O		752	753
 .	.	.	O	O		753	754
 
+Expression	Expression	NN	B-NP	O		755	765
 of	of	IN	B-PP	O		766	768
 CLAVATA3	CLAVATA3	NN	B-NP	B-RNA		769	777
 (	(	(	O	I-RNA		778	779
@@ -170,6 +174,7 @@ shoot	shoot	NN	I-NP	O		942	947
 meristem	meristem	NN	I-NP	O		948	956
 .	.	.	O	O		956	957
 
+Only	Only	RB	B-NP	O		958	962
 a	a	DT	I-NP	O		963	964
 few	few	JJ	I-NP	O		965	968
 mutants	mutant	NNS	I-NP	O		969	976
@@ -189,6 +194,7 @@ from	from	IN	B-PP	O		1056	1060
 differentiation	differentiation	NN	B-NP	O		1061	1076
 .	.	.	O	O		1076	1077
 
+One	One	CD	B-NP	O		1078	1081
 of	of	IN	B-PP	O		1082	1084
 the	the	DT	B-NP	O		1085	1088
 genes	gene	NNS	I-NP	O		1089	1094
@@ -206,6 +212,7 @@ WUS	WUS	NN	B-NP	O		1167	1170
 )	)	)	O	O		1170	1171
 .	.	.	O	O		1171	1172
 
+WUS	WUS	NN	B-NP	B-protein		1173	1176
 is	be	VBZ	B-VP	O		1177	1179
 expressed	express	VBN	I-VP	O		1180	1189
 in	in	IN	B-PP	O		1190	1192
@@ -247,6 +254,7 @@ et al.	et_al.	NNP	I-NP	O		1375	1381
 )	)	)	O	O		1387	1388
 .	.	.	O	O		1388	1389
 
+The	The	DT	B-NP	O		1390	1393
 stem	stem	NN	I-NP	B-cell_type		1394	1398
 cells	cell	NNS	I-NP	I-cell_type		1399	1404
 in	in	IN	B-PP	O		1405	1407
@@ -294,6 +302,7 @@ et al.	et_al.	NNP	I-NP	O		1608	1614
 )	)	)	O	O		1620	1621
 .	.	.	O	O		1621	1622
 
+CLV3	CLV3	NN	B-NP	O		1623	1627
 presumably	presumably	RB	B-ADVP	O		1628	1638
 acts	act	VBZ	B-VP	O		1639	1643
 as	as	IN	B-PP	O		1644	1646
@@ -348,6 +357,7 @@ Laux	Laux	NNP	I-NP	O		1890	1894
 )	)	)	O	O		1900	1901
 .	.	.	O	O		1901	1902
 
+In	In	IN	B-PP	O		1903	1905
 floral	floral	JJ	B-NP	O		1906	1912
 meristems	meristem	NNS	I-NP	O		1913	1922
 that	that	WDT	B-NP	O		1923	1927
@@ -399,6 +409,7 @@ et al.	et_al.	NNP	I-NP	O		2165	2171
 )	)	)	O	O		2177	2178
 .	.	.	O	O		2178	2179
 
+The	The	DT	B-NP	O		2180	2183
 primary	primary	JJ	I-NP	O		2184	2191
 shoot	shoot	NN	I-NP	O		2192	2197
 meristem	meristem	NN	I-NP	O		2198	2206
@@ -416,6 +427,7 @@ Poethig	Poethig	NNP	I-NP	O		2255	2262
 )	)	)	O	O		2268	2269
 .	.	.	O	O		2269	2270
 
+In	In	IN	B-PP	O		2271	2273
 Arabidopsis	Arabidopsis	NNP	B-NP	O		2274	2285
 ,	,	,	O	O		2285	2286
 the	the	DT	B-NP	O		2287	2290
@@ -453,6 +465,7 @@ et al.	et_al.	FW	I-ADVP	O		2453	2459
 )	)	)	O	O		2465	2466
 .	.	.	O	O		2466	2467
 
+CLV3	CLV3	NN	B-NP	O		2468	2472
 expression	expression	NN	I-NP	O		2473	2483
 is	be	VBZ	B-VP	O		2484	2486
 detected	detect	VBN	I-VP	O		2487	2495
@@ -473,6 +486,7 @@ et al.	et_al.	NNP	I-NP	O		2565	2571
 )	)	)	O	O		2577	2578
 .	.	.	O	O		2578	2579
 
+In	In	IN	B-PP	O		2580	2582
 bent	bent	JJ	B-NP	O		2583	2587
 cotyledon	cotyledon	NN	I-NP	O		2588	2597
 embryos	embryo	NNS	I-NP	O		2598	2605
@@ -520,6 +534,7 @@ floral	floral	JJ	I-NP	O		2852	2858
 meristems	meristem	NNS	I-NP	O		2859	2868
 .	.	.	O	O		2868	2869
 
+Many	Many	JJ	B-NP	O		2870	2874
 aspects	aspect	NNS	I-NP	O		2875	2882
 of	of	IN	B-PP	O		2883	2885
 the	the	DT	B-NP	O		2886	2889
@@ -551,6 +566,7 @@ genetic	genetic	JJ	B-NP	O		3044	3051
 redundancy	redundancy	NN	I-NP	O		3052	3062
 .	.	.	O	O		3062	3063
 
+Therefore	Therefore	RB	B-ADVP	O		3064	3073
 ,	,	,	O	O		3073	3074
 we	we	PRP	B-NP	O		3075	3077
 performed	perform	VBD	B-VP	O		3078	3087
@@ -572,6 +588,7 @@ cell	cell	NN	I-NP	O		3185	3189
 maintenance	maintenance	NN	I-NP	O		3190	3201
 .	.	.	O	O		3201	3202
 
+Here	Here	RB	B-ADVP	O		3203	3207
 ,	,	,	O	O		3207	3208
 we	we	PRP	B-NP	O		3209	3211
 report	report	VBP	B-VP	O		3212	3218
@@ -604,6 +621,7 @@ wus	wus	NN	I-NP	O		3386	3389
 mutant	mutant	NN	I-NP	O		3390	3396
 .	.	.	O	O		3396	3397
 
+We	We	PRP	B-NP	O		3398	3400
 show	show	VBP	B-VP	O		3401	3405
 that	that	IN	B-SBAR	O		3406	3410
 the	the	DT	B-NP	O		3411	3414
@@ -696,6 +714,7 @@ et al.	et_al.	NNP	I-NP	O		3811	3817
 )	)	)	O	O		3823	3824
 .	.	.	O	O		3824	3825
 
+In	In	IN	B-PP	O		3826	3828
 this	this	DT	B-NP	O		3829	3833
 article	article	NN	I-NP	O		3834	3841
 ,	,	,	O	O		3841	3842

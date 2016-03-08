@@ -21,6 +21,7 @@ key	key	JJ	I-NP	O		131	134
 regulator	regulator	NN	I-NP	O		135	144
 .	.	.	O	O		144	145
 
+In	In	IN	B-PP	O		146	148
 Arabidopsis	Arabidopsis	NNP	B-NP	O		149	160
 ,	,	,	O	O		160	161
 the	the	DT	B-NP	O		162	165
@@ -44,6 +45,7 @@ carpels	carpel	NNS	I-NP	O		260	267
 )	)	)	O	O		267	268
 .	.	.	O	O		268	269
 
+According	Accord	VBG	B-PP	O		270	279
 to	to	TO	B-PP	O		280	282
 the	the	DT	B-NP	O		283	286
 ‘ABC’	‘ABC’	NN	I-NP	B-cell_line		287	292
@@ -91,6 +93,7 @@ Meyerowitz	Meyerowitz	NNP	I-NP	O		492	502
 )	)	)	O	O		508	509
 .	.	.	O	O		509	510
 
+The	The	DT	B-NP	O		511	514
 APETALA2	APETALA2	NN	I-NP	B-DNA		515	523
 (	(	(	O	I-DNA		524	525
 AP2	AP2	NN	B-NP	I-DNA		525	528
@@ -116,6 +119,7 @@ ABC	ABC	NNP	I-NP	B-DNA		628	631
 genes	gene	NNS	I-NP	I-DNA		632	637
 .	.	.	O	O		637	638
 
+Although	Although	IN	B-SBAR	O		639	647
 most	most	JJS	B-NP	O		648	652
 ABC	ABC	NNP	I-NP	B-DNA		653	656
 genes	gene	NNS	I-NP	I-DNA		657	662
@@ -149,6 +153,7 @@ et al.	et_al.	NNP	I-NP	O		784	790
 )	)	)	O	O		796	797
 .	.	.	O	O		797	798
 
+The	The	DT	B-NP	O		799	802
 AP2	AP2	NN	I-NP	B-RNA		803	806
 transcript	transcript	NN	I-NP	I-RNA		807	817
 is	be	VBZ	B-VP	O		818	820
@@ -187,6 +192,7 @@ et al.	et_al.	FW	I-ADVP	O		967	973
 )	)	)	O	O		979	980
 .	.	.	O	O		980	981
 
+Recent	Recent	JJ	B-NP	O		982	988
 reports	report	NNS	I-NP	O		989	996
 showed	show	VBD	B-VP	O		997	1003
 that	that	IN	B-SBAR	O		1004	1008
@@ -234,6 +240,7 @@ Chen	Chen	NNP	B-NP	O		1199	1203
 )	)	)	O	O		1209	1210
 .	.	.	O	O		1210	1211
 
+Thus	Thus	RB	B-ADVP	O		1212	1216
 ,	,	,	O	O		1216	1217
 AP2	AP2	NN	B-NP	B-protein		1218	1221
 may	may	MD	B-VP	O		1222	1225
@@ -251,6 +258,7 @@ plant	plant	NN	I-NP	O		1274	1279
 development	development	NN	I-NP	O		1280	1291
 .	.	.	O	O		1291	1292
 
+AP2	AP2	NN	B-NP	B-protein		1293	1296
 belongs	belong	VBZ	B-VP	O		1297	1304
 to	to	TO	B-PP	O		1305	1307
 the	the	DT	B-NP	O		1308	1311
@@ -276,6 +284,7 @@ et al.	et_al.	NNP	I-NP	O		1400	1406
 )	)	)	O	O		1412	1413
 .	.	.	O	O		1413	1414
 
+It	It	PRP	B-NP	O		1415	1417
 is	be	VBZ	B-VP	O		1418	1420
 known	know	VBN	I-VP	O		1421	1426
 that	that	IN	B-SBAR	O		1427	1431
@@ -306,6 +315,7 @@ et al.	et_al.	FW	I-ADVP	O		1537	1543
 )	)	)	O	O		1549	1550
 .	.	.	O	O		1550	1551
 
+In	In	IN	B-PP	O		1552	1554
 addition	addition	NN	B-NP	O		1555	1563
 ,	,	,	O	O		1563	1564
 AP2	AP2	NN	B-NP	B-protein		1565	1568
@@ -335,6 +345,7 @@ et al.	et_al.	FW	I-ADVP	O		1677	1683
 )	)	)	O	O		1689	1690
 .	.	.	O	O		1690	1691
 
+However	However	RB	B-ADVP	O		1692	1699
 ,	,	,	O	O		1699	1700
 the	the	DT	B-NP	O		1701	1704
 relationship	relationship	NN	I-NP	O		1705	1717
@@ -353,6 +364,7 @@ fully	fully	RB	B-ADJP	O		1785	1790
 understood	understand	VBN	I-ADJP	O		1791	1801
 .	.	.	O	O		1801	1802
 
+Previously	Previously	RB	B-ADVP	O		1803	1813
 ,	,	,	O	O		1813	1814
 we	we	PRP	B-NP	O		1815	1817
 characterized	characterize	VBD	B-VP	O		1818	1831
@@ -385,6 +397,7 @@ et al.	et_al.	NNP	I-NP	O		1966	1972
 )	)	)	O	O		1978	1979
 .	.	.	O	O		1979	1980
 
+AtEBP	AtEBP	NN	B-NP	B-protein		1981	1986
 is	be	VBZ	B-VP	O		1987	1989
 regulated	regulate	VBN	I-VP	O		1990	1999
 by	by	IN	B-PP	O		2000	2002
@@ -405,6 +418,7 @@ et al.	et_al.	NNP	I-NP	O		2054	2060
 )	)	)	O	O		2066	2067
 .	.	.	O	O		2067	2068
 
+It	It	PRP	B-NP	O		2069	2071
 was	be	VBD	B-VP	O		2072	2075
 clarified	clarify	VBN	I-VP	O		2076	2085
 that	that	IN	B-SBAR	O		2086	2090
@@ -432,6 +446,7 @@ ethylene	ethylene	NN	B-NP	O		2207	2215
 signalling	signalling	NN	I-NP	O		2216	2226
 .	.	.	O	O		2226	2227
 
+Interestingly	Interestingly	RB	B-ADVP	O		2228	2241
 ,	,	,	O	O		2241	2242
 it	it	PRP	B-NP	O		2243	2245
 was	be	VBD	B-VP	O		2246	2249
@@ -451,6 +466,7 @@ et al.	et_al.	FW	I-ADVP	O		2311	2317
 )	)	)	O	O		2323	2324
 .	.	.	O	O		2324	2325
 
+Nevertheless	Nevertheless	RB	B-ADVP	O		2326	2338
 ,	,	,	O	O		2338	2339
 relationships	relationship	NNS	B-NP	O		2340	2353
 between	between	IN	B-PP	O		2354	2361
@@ -469,6 +485,7 @@ in	in	IN	B-PP	O		2435	2437
 detail	detail	NN	B-NP	O		2438	2444
 .	.	.	O	O		2444	2445
 
+Here	Here	RB	B-ADVP	O		2446	2450
 ,	,	,	O	O		2450	2451
 we	we	PRP	B-NP	O		2452	2454
 show	show	VBP	B-VP	O		2455	2459

@@ -21,6 +21,7 @@ et al.	et_al.	NNP	I-NP	O		113	119
 )	)	)	O	O		124	125
 .	.	.	O	O		125	126
 
+To	To	TO	B-VP	O		127	129
 identify	identify	VB	I-VP	O		130	138
 the	the	DT	B-NP	O		139	142
 earliest	early	JJS	I-NP	O		143	151
@@ -38,6 +39,7 @@ early	early	JJ	B-NP	O		231	236
 embryogenesis	embryogenesis	NN	I-NP	O		237	250
 .	.	.	O	O		250	251
 
+Because	Because	IN	B-SBAR	O		252	259
 dcl1	dcl1	NN	B-NP	O		260	264
 embryos	embryo	NNS	I-NP	O		265	272
 are	be	VBP	B-VP	O		273	276
@@ -76,6 +78,7 @@ were	be	VBD	B-VP	O		432	436
 examined	examine	VBN	I-VP	O		437	445
 .	.	.	O	O		445	446
 
+Embryos	Embryo	NNS	B-NP	O		447	454
 developing	develop	VBG	B-VP	O		455	465
 within	within	IN	B-PP	O		466	472
 a	a	DT	B-NP	O		473	474
@@ -109,6 +112,7 @@ type	type	NN	I-NP	O		630	634
 siblings	sibling	NNS	I-NP	O		635	643
 .	.	.	O	O		643	644
 
+It	It	PRP	B-NP	O		645	647
 was	be	VBD	B-VP	O		648	651
 reported	report	VBN	I-VP	O		652	660
 previously	previously	RB	B-ADVP	O		661	671
@@ -150,6 +154,7 @@ et al.	et_al.	NNP	I-NP	O		867	873
 )	)	)	O	O		878	879
 .	.	.	O	O		879	880
 
+Our	Our	PRP$	B-NP	O		881	884
 morphological	morphological	JJ	I-NP	O		885	898
 analysis	analysis	NN	I-NP	O		899	907
 of	of	IN	B-PP	O		908	910
@@ -170,6 +175,7 @@ Fig	Fig	NNP	B-NP	O		996	999
 )	)	)	O	O		1003	1004
 .	.	.	O	O		1004	1005
 
+We	We	PRP	B-NP	O		1006	1008
 identified	identify	VBD	B-VP	O		1009	1019
 initial	initial	JJ	B-NP	O		1020	1027
 morphological	morphological	JJ	I-NP	O		1028	1041
@@ -219,6 +225,7 @@ Fig	Fig	NNP	B-NP	O		1233	1236
 )	)	)	O	O		1240	1241
 .	.	.	O	O		1241	1242
 
+By	By	IN	B-PP	O		1243	1245
 the	the	DT	B-NP	O		1246	1249
 early	early	JJ	I-NP	O		1250	1255
 globular	globular	JJ	I-NP	O		1256	1264
@@ -246,6 +253,7 @@ Fig	Fig	NNP	B-NP	O		1356	1359
 )	)	)	O	O		1363	1364
 .	.	.	O	O		1364	1365
 
+These	These	DT	B-NP	O		1366	1371
 embryos	embryo	NNS	I-NP	O		1372	1379
 with	with	IN	B-PP	O		1380	1384
 defects	defect	NNS	B-NP	O		1385	1392
@@ -290,6 +298,7 @@ Fig	Fig	NNP	B-NP	O		1613	1616
 )	)	)	O	O		1620	1621
 .	.	.	O	O		1621	1622
 
+In	In	IN	B-PP	O		1623	1625
 subsequent	subsequent	JJ	B-NP	O		1626	1636
 stages	stage	NNS	I-NP	O		1637	1643
 ,	,	,	O	O		1643	1644
@@ -317,6 +326,7 @@ et al.	et_al.	NNP	I-NP	O		1762	1768
 )	)	)	O	O		1773	1774
 .	.	.	O	O		1774	1775
 
+Furthermore	Furthermore	RB	B-ADVP	O		1776	1787
 ,	,	,	O	O		1787	1788
 dcl	dcl	NN	B-NP	O		1789	1792
 1-5	1-5	CD	I-NP	O		1792	1795
@@ -362,6 +372,7 @@ shown	show	VBN	I-VP	O		2007	2012
 )	)	)	O	O		2012	2013
 .	.	.	O	O		2013	2014
 
+Because	Because	IN	B-SBAR	O		2015	2022
 embryos	embryo	NNS	B-NP	O		2023	2030
 from	from	IN	B-PP	O		2031	2035
 selfed	selfe	VBN	B-NP	O		2036	2042
@@ -407,6 +418,7 @@ shown	show	VBN	I-VP	O		2241	2246
 )	)	)	O	O		2246	2247
 .	.	.	O	O		2247	2248
 
+DCL1	DCL1	NN	B-NP	B-RNA		2249	2253
 transcripts	transcript	NNS	I-NP	I-RNA		2254	2265
 were	be	VBD	B-VP	O		2266	2270
 detected	detect	VBN	I-VP	O		2271	2279
@@ -465,6 +477,7 @@ Fig	Fig	NNP	I-NP	O		2545	2548
 )	)	)	O	O		2551	2552
 .	.	.	O	O		2552	2553
 
+These	These	DT	B-NP	O		2554	2559
 expression	expression	NN	I-NP	O		2560	2570
 analyses	analysis	NNS	I-NP	O		2571	2579
 further	further	RBR	B-ADVP	O		2580	2587

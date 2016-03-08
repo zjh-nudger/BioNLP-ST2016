@@ -14,6 +14,7 @@ different	different	JJ	I-NP	O		70	79
 genotype	genotype	NN	I-NP	O		80	88
 .	.	.	O	O		88	89
 
+The	The	DT	B-NP	O		90	93
 embryo	embryo	NN	I-NP	O		94	100
 that	that	WDT	B-NP	O		101	105
 develops	develop	VBZ	B-VP	O		106	114
@@ -35,6 +36,7 @@ its	its	PRP$	B-NP	O		204	207
 parents	parent	NNS	I-NP	O		208	215
 .	.	.	O	O		215	216
 
+The	The	DT	B-NP	O		217	220
 endosperm	endosperm	NN	I-NP	O		221	230
 ,	,	,	O	O		230	231
 a	a	DT	B-NP	O		232	233
@@ -75,6 +77,7 @@ paternal	paternal	JJ	I-NP	O		427	435
 parent	parent	NN	I-NP	O		436	442
 .	.	.	O	O		442	443
 
+By	By	IN	B-PP	O		444	446
 contrast	contrast	NN	B-NP	O		447	455
 ,	,	,	O	O		455	456
 the	the	DT	B-NP	O		457	460
@@ -93,6 +96,7 @@ maternal	maternal	JJ	B-NP	O		526	534
 origin	origin	NN	I-NP	O		535	541
 .	.	.	O	O		541	542
 
+Growth	Growth	NN	B-NP	O		543	549
 and	and	CC	I-NP	O		550	553
 development	development	NN	I-NP	O		554	565
 of	of	IN	B-PP	O		566	568
@@ -114,6 +118,7 @@ mature	mature	JJ	I-NP	O		641	647
 seed	seed	NN	I-NP	O		648	652
 .	.	.	O	O		652	653
 
+Although	Although	IN	B-SBAR	O		654	662
 seeds	seed	NNS	B-NP	O		663	668
 have	have	VBP	B-VP	O		669	673
 been	be	VBN	I-VP	O		674	678
@@ -141,6 +146,7 @@ or	or	CC	I-NP	O		807	809
 mass	mass	NN	I-NP	O		810	814
 .	.	.	O	O		814	815
 
+A	A	DT	B-NP	O		816	817
 critical	critical	JJ	I-NP	O		818	826
 factor	factor	NN	I-NP	O		827	833
 in	in	IN	B-PP	O		834	836
@@ -152,6 +158,7 @@ seed	seed	NN	B-NP	O		866	870
 mass	mass	NN	I-NP	O		871	875
 .	.	.	O	O		875	876
 
+Seed	Seed	NN	B-NP	O		877	881
 mass	mass	NN	I-NP	O		882	886
 is	be	VBZ	B-VP	O		887	889
 negatively	negatively	RB	I-VP	O		890	900
@@ -173,6 +180,7 @@ survival	survival	NN	B-NP	O		986	994
 )	)	)	O	O		999	1000
 .	.	.	O	O		1000	1001
 
+Small	Small	NN	B-NP	O		1002	1007
 -	-	HYPH	I-NP	O		1007	1008
 seeded	seed	VBN	I-NP	O		1008	1014
 plants	plant	NNS	I-NP	O		1015	1021
@@ -210,6 +218,7 @@ abiotic	abiotic	JJ	B-NP	O		1218	1225
 stresses	stress	NNS	I-NP	O		1226	1234
 .	.	.	O	O		1234	1235
 
+Moreover	Moreover	RB	B-ADVP	O		1236	1244
 ,	,	,	O	O		1244	1245
 seed	seed	NN	B-NP	O		1246	1250
 mass	mass	NN	I-NP	O		1251	1255
@@ -234,6 +243,7 @@ processes	process	NNS	I-NP	O		1370	1379
 involved	involve	VBN	B-VP	O		1380	1388
 .	.	.	O	O		1388	1389
 
+Several	Several	JJ	B-NP	O		1390	1397
 factors	factor	NNS	I-NP	O		1398	1405
 that	that	WDT	B-NP	O		1406	1410
 influence	influence	VBP	B-VP	O		1411	1420
@@ -244,6 +254,7 @@ been	be	VBN	I-VP	O		1436	1440
 identified	identify	VBN	I-VP	O		1441	1451
 .	.	.	O	O		1451	1452
 
+For	For	IN	B-PP	O		1453	1456
 example	example	NN	B-NP	O		1457	1464
 ,	,	,	O	O		1464	1465
 quantitative	quantitative	JJ	B-NP	O		1466	1478
@@ -270,6 +281,7 @@ plants	plant	NNS	I-NP	O		1558	1564
 )	)	)	O	O		1570	1571
 .	.	.	O	O		1571	1572
 
+An	An	DT	B-NP	O		1573	1575
 analysis	analysis	NN	I-NP	O		1576	1584
 of	of	IN	B-PP	O		1585	1587
 genetic	genetic	JJ	B-NP	O		1588	1595
@@ -326,6 +338,7 @@ seeds	seed	NNS	B-NP	O		1882	1887
 )	)	)	O	O		1891	1892
 .	.	.	O	O		1892	1893
 
+Although	Although	IN	B-SBAR	O		1894	1902
 the	the	DT	B-NP	O		1903	1906
 specific	specific	JJ	I-NP	B-DNA		1907	1915
 genes	gene	NNS	I-NP	I-DNA		1916	1921
@@ -359,6 +372,7 @@ mass	mass	NN	I-NP	O		2081	2085
 )	)	)	O	O		2089	2090
 .	.	.	O	O		2090	2091
 
+A	A	DT	B-NP	O		2092	2093
 series	series	NN	I-NP	O		2094	2100
 of	of	IN	B-PP	O		2101	2103
 studies	study	NNS	B-NP	O		2104	2111
@@ -396,6 +410,7 @@ size	size	NN	I-NP	O		2294	2298
 )	)	)	O	O		2305	2306
 .	.	.	O	O		2306	2307
 
+Seed	Seed	NN	B-NP	O		2308	2312
 mass	mass	NN	I-NP	O		2313	2317
 is	be	VBZ	B-VP	O		2318	2320
 also	also	RB	I-VP	O		2321	2325
@@ -412,6 +427,7 @@ effects	effect	NNS	I-NP	O		2357	2364
 )	)	)	O	O		2372	2373
 .	.	.	O	O		2373	2374
 
+Interploidy	Interploidy	NN	B-NP	O		2375	2386
 crosses	crosse	NNS	I-NP	O		2387	2394
 between	between	IN	B-PP	O		2395	2402
 diploid	diploid	JJ	B-NP	O		2403	2410
@@ -429,6 +445,7 @@ genomic	genomic	JJ	I-NP	O		2478	2485
 excess	excess	NN	I-NP	O		2486	2492
 .	.	.	O	O		2492	2493
 
+Seeds	Seed	NNS	B-NP	O		2494	2499
 from	from	IN	B-PP	O		2500	2504
 Arabidopsis	Arabidopsis	NN	B-NP	O		2505	2516
 plants	plant	NNS	I-NP	O		2517	2523
@@ -460,6 +477,7 @@ genomic	genomic	JJ	I-NP	O		2671	2678
 excess	excess	NN	I-NP	O		2679	2685
 .	.	.	O	O		2685	2686
 
+The	The	DT	B-NP	O		2687	2690
 parental	parental	JJ	I-NP	O		2691	2699
 conflict	conflict	NN	I-NP	O		2700	2708
 theory	theory	NN	I-NP	O		2709	2715
@@ -511,6 +529,7 @@ its	its	PRP$	B-NP	O		2959	2962
 progeny	progeny	NN	I-NP	O		2963	2970
 .	.	.	O	O		2970	2971
 
+Imprinting	Imprinting	NN	B-NP	O		2972	2982
 of	of	IN	B-PP	O		2983	2985
 maternal	maternal	JJ	B-NP	O		2986	2994
 and	and	CC	I-NP	O		2995	2998
@@ -540,6 +559,7 @@ refs	ref	NNS	B-NP	O		3116	3120
 )	)	)	O	O		3127	3128
 .	.	.	O	O		3128	3129
 
+In	In	IN	B-PP	O		3130	3132
 this	this	DT	B-NP	O		3133	3137
 study	study	NN	I-NP	O		3138	3143
 ,	,	,	O	O		3143	3144
@@ -560,6 +580,7 @@ seed	seed	NN	B-NP	O		3211	3215
 mass	mass	NN	I-NP	O		3216	3220
 .	.	.	O	O		3220	3221
 
+AP2	AP2	NN	B-NP	B-protein		3222	3225
 encodes	encode	VBZ	B-VP	O		3226	3233
 the	the	DT	B-NP	O		3234	3237
 founding	found	VBG	I-NP	O		3238	3246
@@ -603,6 +624,7 @@ binding	binding	NN	I-NP	O		3432	3439
 )	)	)	O	O		3446	3447
 .	.	.	O	O		3447	3448
 
+This	This	DT	B-NP	O		3449	3453
 transcription	transcription	NN	I-NP	B-protein		3454	3467
 factor	factor	NN	I-NP	I-protein		3468	3474
 is	be	VBZ	B-VP	O		3475	3477
@@ -634,6 +656,7 @@ indeterminancy	indeterminancy	NN	I-NP	O		3612	3626
 )	)	)	O	O		3637	3638
 .	.	.	O	O		3638	3639
 
+AP2	AP2	NN	B-NP	B-protein		3640	3643
 is	be	VBZ	B-VP	O		3644	3646
 also	also	RB	I-VP	O		3647	3651
 required	require	VBN	I-VP	O		3652	3660
@@ -652,6 +675,7 @@ development	development	NN	I-NP	O		3685	3696
 )	)	)	O	O		3708	3709
 .	.	.	O	O		3709	3710
 
+Although	Although	IN	B-SBAR	O		3711	3719
 the	the	DT	B-NP	O		3720	3723
 most	most	RBS	I-NP	O		3724	3728
 conspicuous	conspicuous	JJ	I-NP	O		3729	3740
@@ -699,6 +723,7 @@ for	for	IN	B-PP	O		3943	3946
 AP2	AP2	NN	B-NP	B-protein		3947	3950
 .	.	.	O	O		3950	3951
 
+Here	Here	RB	B-ADVP	O		3952	3956
 ,	,	,	O	O		3956	3957
 we	we	PRP	B-NP	O		3958	3960
 identify	identify	VBP	B-VP	O		3961	3969

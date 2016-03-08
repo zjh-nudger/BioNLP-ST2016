@@ -41,6 +41,7 @@ the	the	DT	B-NP	O		232	235
 embryo	embryo	NN	I-NP	O		236	242
 .	.	.	O	O		242	243
 
+Comparison	Comparison	NN	B-NP	O		244	254
 of	of	IN	B-PP	O		255	257
 these	these	DT	B-NP	O		258	263
 enhancer	enhancer	NN	I-NP	B-DNA		264	272
@@ -71,6 +72,7 @@ acid	acid	NN	I-NP	O		453	457
 biosynthesis	biosynthesis	NN	I-NP	O		458	470
 .	.	.	O	O		470	471
 
+The	The	DT	B-NP	O		472	475
 hexanucleotide	hexanucleotide	NN	I-NP	O		476	490
 AACCCA	AACCCA	NN	I-NP	O		491	497
 that	that	WDT	B-NP	O		498	502
@@ -106,6 +108,7 @@ et al.	et al.	FW	I-ADVP	O		646	652
 )	)	)	O	O		658	659
 .	.	.	O	O		659	660
 
+This	This	DT	B-NP	O		661	665
 DNA	DNA	NN	I-NP	B-protein		666	669
 binding	binding	NN	I-NP	I-protein		670	677
 factor	factor	NN	I-NP	I-protein		678	684
@@ -141,6 +144,7 @@ subunit	subunit	NN	I-NP	I-DNA		844	851
 gene	gene	NN	I-NP	I-DNA		852	856
 .	.	.	O	O		856	857
 
+SEF3	SEF3	NN	B-NP	B-protein		858	862
 -	-	HYPH	I-NP	O		862	863
 like	like	JJ	I-NP	O		863	867
 activities	activity	NNS	I-NP	O		868	878
@@ -166,6 +170,7 @@ et al.	et al.	NNP	I-NP	O		970	976
 )	)	)	O	O		982	983
 .	.	.	O	O		983	984
 
+In	In	IN	B-PP	O		985	987
 soybean	soybean	NN	B-NP	O		988	995
 ,	,	,	O	O		995	996
 SEF3	SEF3	NN	B-NP	B-protein		997	1001
@@ -193,6 +198,7 @@ et al.	et al.	NNP	I-NP	O		1101	1107
 )	)	)	O	O		1113	1114
 .	.	.	O	O		1114	1115
 
+Nevertheless	Nevertheless	RB	B-ADVP	O		1116	1128
 ,	,	,	O	O		1128	1129
 complementary	complementary	JJ	B-NP	O		1130	1143
 studies	study	NNS	I-NP	O		1144	1151
@@ -229,6 +235,7 @@ Beachy	Beachy	NNP	I-NP	O		1327	1333
 )	)	)	O	O		1339	1340
 .	.	.	O	O		1340	1341
 
+Similarly	Similarly	RB	B-ADVP	O		1342	1351
 ,	,	,	O	O		1351	1352
 in	in	IN	B-PP	O		1353	1355
 this	this	DT	B-NP	O		1356	1360
@@ -262,6 +269,7 @@ Figure 6	Figure 6	CD	B-NP	O		1487	1495
 )	)	)	O	O		1495	1496
 .	.	.	O	O		1496	1497
 
+These	These	DT	B-NP	O		1498	1503
 results	result	NNS	I-NP	O		1504	1511
 strongly	strongly	RB	B-VP	O		1512	1520
 suggest	suggest	VBP	I-VP	O		1521	1528
@@ -283,6 +291,7 @@ lipogenic	lipogenic	JJ	I-NP	O		1634	1643
 pathway	pathway	NN	I-NP	O		1644	1651
 .	.	.	O	O		1651	1652
 
+By	By	IN	B-PP	O		1653	1655
 carefully	carefully	RB	B-VP	O		1656	1665
 analysing	analyse	VBG	I-VP	O		1666	1675
 the	the	DT	B-NP	O		1676	1679

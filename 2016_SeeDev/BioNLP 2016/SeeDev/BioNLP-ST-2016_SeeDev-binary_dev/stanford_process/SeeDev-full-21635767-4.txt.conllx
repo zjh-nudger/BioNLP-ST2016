@@ -34,6 +34,7 @@
 34	-RRB-	_	PUNCT	-RRB-	_	32	punct	_	_	-1	4
 35	.	_	PUNCT	.	_	15	punct	_	_	211	212
 
+1	AGL15	_	PROPN	NNP	_	9	compound	_	_	213	218
 2	-LRB-	_	PUNCT	-LRB-	_	3	punct	_	_	-1	4
 3	AGAMOUS	_	PROPN	NNP	_	9	appos	_	_	220	227
 4	-	_	PUNCT	,	_	3	punct	_	_	227	228
@@ -93,6 +94,7 @@
 58	-RRB-	_	PUNCT	-RRB-	_	56	punct	_	_	-1	4
 59	.	_	PUNCT	.	_	20	punct	_	_	211	212
 
+1	Two	_	NUM	CD	_	2	nummod	_	_	501	504
 2	repressors	_	NOUN	NNS	_	34	nsubjpass	_	_	505	515
 3	of	_	ADP	IN	_	6	case	_	_	516	518
 4	seed	_	NOUN	NN	_	6	compound	_	_	519	523
@@ -139,7 +141,8 @@
 45	-RRB-	_	PUNCT	-RRB-	_	43	punct	_	_	-1	4
 46	.	_	PUNCT	.	_	32	punct	_	_	211	212
 
-2	,	_	PUNCT	,	_	28	punct	_	_	236	237
+1	Surprisingly	_	ADV	RB	_	28	advmod	_	_	728	740
+2	,	_	PUNCT	,	_	28	punct	_	_	740	741
 3	LEC2	_	PROPN	NNP	_	28	nsubj	_	_	742	746
 4	,	_	PUNCT	,	_	3	punct	_	_	746	747
 5	a	_	DET	DT	_	7	det	_	_	748	749
@@ -172,6 +175,7 @@
 32	seeds	_	NOUN	NNS	_	28	nmod:in	_	_	883	888
 33	.	_	PUNCT	.	_	28	punct	_	_	888	889
 
+1	Although	_	SCONJ	IN	_	4	mark	_	_	890	898
 2	this	_	DET	DT	_	3	det	_	_	899	903
 3	result	_	NOUN	NN	_	4	nsubj	_	_	904	910
 4	requires	_	VERB	VBZ	_	14	advcl	_	_	911	919
@@ -200,7 +204,8 @@
 27	-RSB-	_	NOUN	NNS	_	25	dobj	_	_	-1	4
 28	.	_	PUNCT	.	_	14	punct	_	_	211	212
 
-2	,	_	PUNCT	,	_	20	punct	_	_	236	237
+1	Additionally	_	ADV	RB	_	20	advmod	_	_	1064	1076
+2	,	_	PUNCT	,	_	20	punct	_	_	1076	1077
 3	based	_	VERB	VBN	_	6	case	_	_	1078	1083
 4	on	_	ADP	IN	_	3	mwe	_	_	1084	1086
 5	phenotype	_	ADJ	JJ	_	6	amod	_	_	1087	1096
@@ -245,6 +250,7 @@
 44	seeds	_	NOUN	NNS	_	40	nmod:to	_	_	1311	1316
 45	.	_	PUNCT	.	_	20	punct	_	_	1316	1317
 
+1	Therefore	_	ADV	RB	_	28	advmod	_	_	1318	1327
 2	,	_	PUNCT	,	_	28	punct	_	_	1327	1328
 3	the	_	DET	DT	_	4	det	_	_	1329	1332
 4	role	_	NOUN	NN	_	28	nsubj	_	_	1333	1337
@@ -277,6 +283,7 @@
 31	thought	_	VERB	VBD	_	28	dep	_	_	1491	1498
 32	.	_	PUNCT	.	_	28	punct	_	_	1498	1499
 
+1	Likewise	_	ADV	RB	_	7	advmod	_	_	1500	1508
 2	,	_	PUNCT	,	_	7	punct	_	_	1508	1509
 3	ABI4	_	PROPN	NNP	_	7	nsubjpass	_	_	1510	1514
 4	was	_	AUX	VBD	_	7	auxpass	_	_	1515	1518
@@ -289,6 +296,7 @@
 11	samples	_	NOUN	NNS	_	7	nmod:in	_	_	1562	1569
 12	.	_	PUNCT	.	_	7	punct	_	_	1569	1570
 
+1	The	_	DET	DT	_	3	det	_	_	1571	1574
 2	expression	_	NOUN	NN	_	3	compound	_	_	1575	1585
 3	similarity	_	NOUN	NN	_	13	nsubj	_	_	1586	1596
 4	between	_	ADP	IN	_	5	case	_	_	1597	1604
@@ -306,6 +314,7 @@
 16	relationships	_	NOUN	NNS	_	13	nmod:of	_	_	1675	1688
 17	.	_	PUNCT	.	_	13	punct	_	_	1688	1689
 
+1	Both	_	DET	DT	_	2	cc:preconj	_	_	1690	1694
 2	LEC1	_	PROPN	NNP	_	6	nsubjpass	_	_	1695	1699
 3	and	_	CONJ	CC	_	2	cc	_	_	1700	1703
 4	WRI1	_	PROPN	NNP	_	6	nsubjpass	_	_	1704	1708
@@ -341,6 +350,7 @@
 34	-RRB-	_	PUNCT	-RRB-	_	33	punct	_	_	-1	4
 35	.	_	PUNCT	.	_	6	punct	_	_	211	212
 
+1	LEC1	_	PROPN	NNP	_	7	nsubj	_	_	253	257
 2	and	_	CONJ	CC	_	1	cc	_	_	264	267
 3	WRI1	_	PROPN	NNP	_	7	nsubj	_	_	268	272
 4	are	_	AUX	VBP	_	5	auxpass	_	_	846	849

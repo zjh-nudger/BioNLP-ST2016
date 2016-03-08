@@ -23,6 +23,7 @@ et al.	et_al.	FW	I-ADVP	O		108	114
 )	)	)	O	O		120	121
 .	.	.	O	O		121	122
 
+This	This	DT	B-NP	O		123	127
 observation	observation	NN	I-NP	O		128	139
 lead	lead	VBP	B-VP	O		140	144
 to	to	TO	B-PP	O		145	147
@@ -46,6 +47,7 @@ current	current	JJ	I-NP	O		244	251
 study	study	NN	I-NP	O		252	257
 .	.	.	O	O		257	258
 
+To	To	TO	B-VP	O		259	261
 investigate	investigate	VB	I-VP	O		262	273
 the	the	DT	B-NP	O		274	277
 relationships	relationship	NNS	I-NP	O		278	291
@@ -88,6 +90,7 @@ leaves	leaf	NNS	I-NP	O		479	485
 )	)	)	O	O		485	486
 .	.	.	O	O		486	487
 
+To	To	TO	B-VP	O		488	490
 avoid	avoid	VB	I-VP	O		491	496
 cross	cross	AFX	B-NP	O		497	502
 -	-	HYPH	I-NP	O		502	503
@@ -115,6 +118,7 @@ Fig	Fig	NNP	B-NP	O		608	611
 )	)	)	O	O		614	615
 .	.	.	O	O		615	616
 
+In	In	IN	B-PP	O		617	619
 the	the	DT	B-NP	O		620	623
 wild	wild	JJ	I-NP	O		624	628
 type	type	NN	I-NP	O		629	633
@@ -155,6 +159,7 @@ leaves	leaf	NNS	I-NP	O		779	785
 )	)	)	O	O		785	786
 .	.	.	O	O		786	787
 
+There	There	EX	B-NP	O		788	793
 is	be	VBZ	B-VP	O		794	796
 a	a	DT	B-NP	O		797	798
 point	point	NN	I-NP	O		799	804
@@ -197,6 +202,7 @@ et al.	et_al.	FW	I-ADVP	O		954	960
 )	)	)	O	O		966	967
 .	.	.	O	O		967	968
 
+As	As	IN	B-PP	O		969	971
 a	a	DT	B-NP	O		972	973
 result	result	NN	I-NP	O		974	980
 ,	,	,	O	O		980	981
@@ -208,6 +214,7 @@ was	be	VBD	B-VP	O		1012	1015
 observed	observe	VBN	I-VP	O		1016	1024
 .	.	.	O	O		1024	1025
 
+To	To	TO	B-VP	O		1026	1028
 test	test	VB	I-VP	O		1029	1033
 whether	whether	IN	B-SBAR	O		1034	1041
 AP2	AP2	NN	B-NP	B-protein		1042	1045
@@ -228,6 +235,7 @@ ap	ap	NN	B-NP	B-protein		1131	1133
 2-5	2-5	CD	I-NP	I-protein		1133	1136
 .	.	.	O	O		1136	1137
 
+In	In	IN	B-PP	O		1138	1140
 ap	ap	NN	B-NP	O		1141	1143
 2-5	2-5	CD	I-NP	O		1143	1146
 ,	,	,	O	O		1146	1147
@@ -245,6 +253,7 @@ and	and	CC	O	O		1202	1205
 stems	stem	VBZ	B-VP	O		1206	1211
 .	.	.	O	O		1211	1212
 
+The	The	DT	B-NP	O		1213	1216
 AP2	AP2	NN	I-NP	B-RNA		1217	1220
 mRNA	mRNA	NN	I-NP	I-RNA		1221	1225
 level	level	NN	I-NP	O		1226	1231
@@ -274,6 +283,7 @@ gene	gene	NN	I-NP	O		1352	1356
 expression	expression	NN	I-NP	O		1357	1367
 .	.	.	O	O		1367	1368
 
+The	The	DT	B-NP	O		1369	1372
 expression	expression	NN	I-NP	O		1373	1383
 pattern	pattern	NN	I-NP	O		1384	1391
 of	of	IN	B-PP	O		1392	1394
@@ -327,6 +337,7 @@ shown	show	VBN	I-VP	O		1624	1629
 )	)	)	O	O		1629	1630
 .	.	.	O	O		1630	1631
 
+These	These	DT	B-NP	O		1632	1637
 results	result	NNS	I-NP	O		1638	1645
 may	may	MD	B-VP	O		1646	1649
 suggest	suggest	VB	I-VP	O		1650	1657

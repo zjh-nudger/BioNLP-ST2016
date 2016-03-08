@@ -54,6 +54,7 @@
 54	-RRB-	_	PUNCT	-RRB-	_	35	punct	_	_	-1	4
 55	.	_	PUNCT	.	_	16	punct	_	_	220	221
 
+1	We	_	PRON	PRP	_	3	nsubj	_	_	273	275
 2	previously	_	ADV	RB	_	3	advmod	_	_	276	286
 3	reported	_	VERB	VBD	_	0	root	_	_	287	295
 4	that	_	SCONJ	IN	_	6	mark	_	_	296	300
@@ -70,6 +71,7 @@
 15	-RRB-	_	PUNCT	-RRB-	_	10	punct	_	_	-1	4
 16	.	_	PUNCT	.	_	3	punct	_	_	220	221
 
+1	AGL15	_	PROPN	NNP	_	5	nsubj	_	_	301	306
 2	can	_	AUX	MD	_	5	aux	_	_	366	369
 3	also	_	ADV	RB	_	5	advmod	_	_	370	374
 4	directly	_	ADV	RB	_	5	advmod	_	_	375	383
@@ -93,6 +95,7 @@
 22	-RRB-	_	PUNCT	-RRB-	_	19	punct	_	_	-1	4
 23	.	_	PUNCT	.	_	5	punct	_	_	220	221
 
+1	No	_	DET	DT	_	3	neg	_	_	487	489
 2	noticeable	_	ADJ	JJ	_	3	amod	_	_	490	500
 3	increase	_	NOUN	NN	_	9	nsubjpass	_	_	501	509
 4	in	_	ADP	IN	_	6	case	_	_	510	512
@@ -185,6 +188,7 @@
 91	proteins	_	NOUN	NNS	_	88	dep	_	_	965	973
 92	.	_	PUNCT	.	_	9	punct	_	_	973	974
 
+1	AGL15	_	PROPN	NNP	_	8	nsubj	_	_	975	980
 2	binds	_	VERB	VBZ	_	0	root	_	_	981	986
 3	the	_	DET	DT	_	4	det	_	_	987	990
 4	promoter	_	NOUN	NN	_	2	dobj	_	_	991	999
@@ -196,6 +200,7 @@
 10	transcription	_	NOUN	NN	_	8	dobj	_	_	1027	1040
 11	.	_	PUNCT	.	_	2	punct	_	_	1040	1041
 
+1	There	_	PRON	EX	_	2	expl	_	_	1042	1047
 2	is	_	VERB	VBZ	_	0	root	_	_	1048	1050
 3	an	_	DET	DT	_	4	det	_	_	1051	1053
 4	increase	_	NOUN	NN	_	2	nsubj	_	_	1054	1062
@@ -225,6 +230,7 @@
 28	tested	_	VERB	VBD	_	2	ccomp	_	_	1194	1200
 29	.	_	PUNCT	.	_	2	punct	_	_	1200	1201
 
+1	In	_	ADP	IN	_	2	case	_	_	1202	1204
 2	contrast	_	NOUN	NN	_	23	nmod:in	_	_	1205	1213
 3	to	_	ADP	TO	_	6	mark	_	_	1214	1216
 4	what	_	PRON	WP	_	6	nsubjpass	_	_	1217	1221
@@ -270,6 +276,7 @@
 44	seed	_	NOUN	NN	_	41	nmod:in	_	_	1447	1451
 45	.	_	PUNCT	.	_	23	punct	_	_	1451	1452
 
+1	There	_	PRON	EX	_	2	expl	_	_	1453	1458
 2	are	_	VERB	VBP	_	0	root	_	_	1459	1462
 3	numerous	_	ADJ	JJ	_	4	amod	_	_	1463	1471
 4	examples	_	NOUN	NNS	_	2	nsubj	_	_	1472	1480
@@ -300,8 +307,9 @@
 29	-RRB-	_	PUNCT	-RRB-	_	19	punct	_	_	-1	4
 30	.	_	PUNCT	.	_	2	punct	_	_	220	221
 
-2	,	_	PUNCT	,	_	5	punct	_	_	221	222
-3	CBF2	_	PROPN	NNP	_	5	nsubj	_	_	1273	1277
+1	However	_	ADV	RB	_	5	advmod	_	_	1623	1630
+2	,	_	PUNCT	,	_	5	punct	_	_	1630	1631
+3	CBF2	_	PROPN	NNP	_	5	nsubj	_	_	1632	1636
 4	is	_	VERB	VBZ	_	5	cop	_	_	1637	1639
 5	repressed	_	ADJ	JJ	_	0	root	_	_	1640	1649
 6	,	_	PUNCT	,	_	5	punct	_	_	1649	1650
@@ -343,6 +351,7 @@
 42	-RRB-	_	PUNCT	-RRB-	_	40	punct	_	_	-1	4
 43	.	_	PUNCT	.	_	5	punct	_	_	220	221
 
+1	In	_	ADP	IN	_	2	case	_	_	1202	1204
 2	support	_	NOUN	NN	_	9	nmod:in	_	_	1854	1861
 3	of	_	ADP	IN	_	5	case	_	_	1862	1864
 4	this	_	DET	DT	_	5	det	_	_	1865	1869
@@ -379,6 +388,7 @@
 35	Prof	_	PROPN	NNP	_	33	nmod:by	_	_	2036	2040
 36	.	_	PUNCT	.	_	9	punct	_	_	2040	2041
 
+1	Michael	_	PROPN	NNP	_	2	compound	_	_	2042	2049
 2	Thomashow	_	PROPN	NNP	_	18	nsubj	_	_	2050	2059
 3	,	_	PUNCT	,	_	2	punct	_	_	2059	2060
 4	Michigan	_	PROPN	NNP	_	6	compound	_	_	2061	2069
@@ -400,6 +410,7 @@
 20	line	_	NOUN	NN	_	18	dobj	_	_	2152	2156
 21	.	_	PUNCT	.	_	18	punct	_	_	2156	2157
 
+1	The	_	DET	DT	_	2	det	_	_	2158	2161
 2	latter	_	NOUN	NN	_	3	nsubj	_	_	2162	2168
 3	showed	_	VERB	VBD	_	0	root	_	_	2169	2175
 4	stronger	_	ADJ	JJR	_	6	amod	_	_	2176	2184
@@ -436,7 +447,8 @@
 35	-RRB-	_	PUNCT	-RRB-	_	31	punct	_	_	-1	4
 36	.	_	PUNCT	.	_	3	punct	_	_	220	221
 
-2	,	_	PUNCT	,	_	1	punct	_	_	221	222
+1	LEA76	_	PROPN	NNP	_	33	nsubj	_	_	1003	1008
+2	,	_	PUNCT	,	_	1	punct	_	_	1111	1112
 3	CBF2	_	PROPN	NNP	_	1	appos	_	_	1273	1277
 4	-LRB-	_	PUNCT	-LRB-	_	5	punct	_	_	-1	4
 5	Figure	_	NOUN	NN	_	3	appos	_	_	473	479
@@ -499,8 +511,9 @@
 62	-RRB-	_	PUNCT	-RRB-	_	60	punct	_	_	-1	4
 63	.	_	PUNCT	.	_	33	punct	_	_	220	221
 
-2	has	_	AUX	VBZ	_	4	aux	_	_	533	536
-3	been	_	AUX	VBN	_	4	auxpass	_	_	537	541
+1	It	_	PRON	PRP	_	64	nsubjpass	_	_	2669	2671
+2	has	_	AUX	VBZ	_	4	aux	_	_	2672	2675
+3	been	_	AUX	VBN	_	4	auxpass	_	_	2676	2680
 4	demonstrated	_	VERB	VBN	_	0	root	_	_	2681	2693
 5	that	_	SCONJ	IN	_	9	mark	_	_	2694	2698
 6	AGL15	_	PROPN	NNP	_	9	nsubj	_	_	2699	2704
@@ -578,6 +591,7 @@
 78	apparent	_	ADJ	JJ	_	4	parataxis	_	_	3073	3081
 79	.	_	PUNCT	.	_	4	punct	_	_	3081	3082
 
+1	Ectopic	_	ADJ	JJ	_	2	amod	_	_	3083	3090
 2	expression	_	NOUN	NN	_	6	nsubj	_	_	3091	3101
 3	of	_	ADP	IN	_	4	case	_	_	3102	3104
 4	SAP18	_	PROPN	NNP	_	2	nmod:of	_	_	3105	3110
@@ -613,6 +627,7 @@
 34	proteins	_	NOUN	NNS	_	19	dep	_	_	3285	3293
 35	.	_	PUNCT	.	_	6	punct	_	_	3293	3294
 
+1	However	_	ADV	RB	_	17	advmod	_	_	3295	3302
 2	,	_	PUNCT	,	_	17	punct	_	_	3302	3303
 3	AGL15	_	PROPN	NNP	_	6	compound	_	_	3304	3309
 4	and	_	CONJ	CC	_	3	cc	_	_	3310	3313
@@ -638,6 +653,7 @@
 24	loci	_	NOUN	NN	_	21	nmod:at	_	_	3438	3442
 25	.	_	PUNCT	.	_	17	punct	_	_	3442	3443
 
+1	We	_	PRON	PRP	_	3	nsubj	_	_	3444	3446
 2	have	_	AUX	VBP	_	3	aux	_	_	3447	3451
 3	demonstrated	_	VERB	VBN	_	0	root	_	_	3452	3464
 4	that	_	SCONJ	IN	_	6	mark	_	_	3465	3469
@@ -678,6 +694,7 @@
 39	-RRB-	_	PUNCT	-RRB-	_	37	punct	_	_	-1	4
 40	.	_	PUNCT	.	_	3	punct	_	_	220	221
 
+1	Published	_	ADJ	JJ	_	2	amod	_	_	3623	3632
 2	results	_	NOUN	NNS	_	3	nsubj	_	_	3633	3640
 3	support	_	VERB	VBP	_	9	dep	_	_	3641	3648
 4	a	_	DET	DT	_	5	det	_	_	3649	3650

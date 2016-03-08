@@ -31,6 +31,7 @@ other	other	JJ	I-NP	O		185	190
 ABIs	ABI	NNS	I-NP	O		191	195
 .	.	.	O	O		195	196
 
+Therefore	Therefore	RB	B-ADVP	O		197	206
 we	we	PRP	B-NP	O		207	209
 tested	test	VBD	B-VP	O		210	216
 whether	whether	IN	B-SBAR	O		217	224
@@ -57,6 +58,7 @@ ternary	ternary	JJ	I-NP	B-protein		331	338
 complex	complex	NN	I-NP	I-protein		339	346
 .	.	.	O	O		346	347
 
+Although	Although	IN	B-SBAR	O		348	356
 further	further	JJ	B-NP	O		357	364
 truncations	truncation	NNS	I-NP	O		365	376
 of	of	IN	B-PP	O		377	379
@@ -88,6 +90,7 @@ shown	show	VBN	I-VP	O		495	500
 )	)	)	O	O		500	501
 .	.	.	O	O		501	502
 
+While	While	IN	B-SBAR	O		503	508
 deletion	deletion	NN	B-NP	O		509	517
 of	of	IN	B-PP	O		518	520
 various	various	JJ	B-NP	O		521	528
@@ -121,6 +124,7 @@ dimerization	dimerization	NN	I-NP	B-protein		698	710
 domain	domain	NN	I-NP	I-protein		711	717
 .	.	.	O	O		717	718
 
+Although	Although	IN	B-SBAR	O		719	727
 it	it	PRP	B-NP	O		728	730
 is	be	VBZ	B-VP	O		731	733
 also	also	RB	B-ADVP	O		734	738

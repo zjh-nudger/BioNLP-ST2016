@@ -32,6 +32,7 @@ wall	wall	NN	I-NP	O		220	224
 biosynthesis	biosynthesis	NN	I-NP	O		225	237
 .	.	.	O	O		237	238
 
+Mutations	Mutation	NNS	B-NP	O		239	248
 in	in	IN	B-PP	O		249	251
 MUM4	MUM4	NN	B-NP	B-protein		252	256
 (	(	(	O	O		257	258
@@ -53,6 +54,7 @@ cytoplasmic	cytoplasmic	JJ	I-NP	O		334	345
 rearrangement	rearrangement	NN	I-NP	O		346	359
 .	.	.	O	O		359	360
 
+We	We	PRP	B-NP	O		361	363
 show	show	VBP	B-VP	O		364	368
 that	that	IN	B-SBAR	O		369	373
 MUM4	MUM4	NN	B-NP	B-protein		374	378
@@ -84,6 +86,7 @@ Arabidopsis	Arabidopsis	NN	B-NP	O		519	530
 mucilage	mucilage	NN	I-NP	O		531	539
 .	.	.	O	O		539	540
 
+This	This	DT	B-NP	O		541	545
 result	result	NN	I-NP	O		546	552
 suggests	suggest	VBZ	B-VP	O		553	561
 that	that	IN	B-SBAR	O		562	566
@@ -106,6 +109,7 @@ coat	coat	NN	I-NP	O		672	676
 mucilage	mucilage	NN	I-NP	O		677	685
 .	.	.	O	O		685	686
 
+In	In	IN	B-PP	O		687	689
 addition	addition	NN	B-NP	O		690	698
 ,	,	,	O	O		698	699
 the	the	DT	B-NP	O		700	703
@@ -138,6 +142,7 @@ cellular	cellular	JJ	B-NP	O		875	883
 morphogenesis	morphogenesis	NN	I-NP	O		884	897
 .	.	.	O	O		897	898
 
+The	The	DT	B-NP	O		899	902
 cellular	cellular	JJ	I-NP	O		903	911
 phenotype	phenotype	NN	I-NP	O		912	921
 seen	see	VBN	B-VP	O		922	926
@@ -174,6 +179,7 @@ GL2	GL2	NN	B-NP	B-protein		1062	1065
 )	)	)	O	O		1075	1076
 .	.	.	O	O		1076	1077
 
+Expression	Expression	NN	B-NP	O		1078	1088
 studies	study	NNS	I-NP	O		1089	1096
 suggest	suggest	VBP	B-VP	O		1097	1104
 that	that	IN	B-SBAR	O		1105	1109
@@ -208,6 +214,7 @@ alternate	alternate	JJ	B-NP	O		1259	1268
 pathway(s)	pathway(s)	NN	I-NP	O		1269	1279
 .	.	.	O	O		1279	1280
 
+Our	Our	PRP$	B-NP	O		1281	1284
 results	result	NNS	I-NP	O		1285	1292
 provide	provide	VBP	B-VP	O		1293	1300
 a	a	DT	B-NP	O		1301	1302

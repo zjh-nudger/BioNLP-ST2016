@@ -45,6 +45,7 @@ et al.	et_al.	NNP	I-NP	O		253	259
 )	)	)	O	O		265	266
 .	.	.	O	O		266	267
 
+If	If	IN	B-SBAR	O		268	270
 AGL15	AGL15	NN	B-NP	B-protein		271	276
 is	be	VBZ	B-VP	O		277	279
 important	important	JJ	B-ADJP	O		280	289
@@ -105,6 +106,7 @@ the	the	DT	B-NP	O		600	603
 egg	egg	NN	I-NP	B-DNA		604	607
 .	.	.	O	O		607	608
 
+We	We	PRP	B-NP	O		609	611
 have	have	VBP	B-VP	O		612	616
 used	use	VBN	I-VP	O		617	621
 AGL15	AGL15	NN	B-NP	B-protein		622	627
@@ -125,6 +127,7 @@ of	of	IN	B-PP	O		710	712
 flowering plants	flowering_plant	NNS	B-NP	O		713	729
 .	.	.	O	O		729	730
 
+In	In	IN	B-PP	O		731	733
 every	every	DT	B-NP	O		734	739
 case	case	NN	I-NP	O		740	744
 ,	,	,	O	O		744	745
@@ -151,6 +154,7 @@ as	as	RB	B-ADVP	O		864	866
 well	well	RB	I-ADVP	O		867	871
 .	.	.	O	O		871	872
 
+The	The	DT	B-NP	O		873	876
 results	result	NNS	I-NP	O		877	884
 of	of	IN	B-PP	O		885	887
 our	our	PRP$	B-NP	O		888	891
@@ -174,6 +178,7 @@ of	of	IN	B-PP	O		1001	1003
 AGL15	AGL15	NN	B-NP	B-protein		1004	1009
 .	.	.	O	O		1009	1010
 
+In	In	IN	B-PP	O		1011	1013
 dandelion	dandelion	NN	B-NP	O		1014	1023
 ,	,	,	O	O		1023	1024
 embryos	embryo	NNS	B-NP	O		1025	1032
@@ -190,6 +195,7 @@ asexual	asexual	JJ	B-NP	O		1072	1079
 reproduction	reproduction	NN	I-NP	O		1080	1092
 .	.	.	O	O		1092	1093
 
+AGL15	AGL15	NN	B-NP	B-protein		1094	1099
 -	-	HYPH	B-PP	O		1099	1100
 related	relate	VBN	B-NP	O		1100	1107
 protein	protein	NN	I-NP	O		1108	1115
@@ -222,6 +228,7 @@ et al.	et_al.	NNP	I-NP	O		1253	1259
 )	)	)	O	O		1265	1266
 .	.	.	O	O		1266	1267
 
+The	The	DT	B-NP	O		1268	1271
 results	result	NNS	I-NP	O		1272	1279
 of	of	IN	B-PP	O		1280	1282
 our	our	PRP$	B-NP	O		1283	1286
@@ -261,6 +268,7 @@ after	after	IN	B-PP	O		1487	1492
 germination	germination	NN	B-NP	O		1493	1504
 .	.	.	O	O		1504	1505
 
+In	In	IN	B-PP	O		1506	1508
 the	the	DT	B-NP	O		1509	1512
 xtc2	xtc2	NN	I-NP	B-protein		1513	1517
 mutant	mutant	NN	I-NP	I-protein		1518	1524
@@ -307,6 +315,7 @@ initiates	initiate	VBZ	B-VP	O		1743	1752
 precociously	precociously	RB	B-ADVP	O		1753	1765
 .	.	.	O	O		1765	1766
 
+Maturation	Maturation	NN	B-NP	O		1767	1777
 -	-	HYPH	I-NP	O		1777	1778
 stagextc2	stagextc2	NN	I-NP	O		1778	1787
 embryos	embryo	NNS	I-NP	O		1788	1795
@@ -344,6 +353,7 @@ Poethig	Poethig	NNP	I-NP	O		1937	1944
 )	)	)	O	O		1950	1951
 .	.	.	O	O		1951	1952
 
+We	We	PRP	B-NP	O		1953	1955
 found	find	VBD	B-VP	O		1956	1961
 that	that	IN	B-SBAR	O		1962	1966
 AGL15	AGL15	NN	B-NP	B-protein		1967	1972
@@ -369,6 +379,7 @@ same	same	JJ	I-NP	O		2088	2092
 age	age	NN	I-NP	O		2093	2096
 .	.	.	O	O		2096	2097
 
+The	The	DT	B-NP	O		2098	2101
 results	result	NNS	I-NP	O		2102	2109
 of	of	IN	B-PP	O		2110	2112
 our	our	PRP$	B-NP	O		2113	2116
@@ -398,6 +409,7 @@ seed	seed	NN	I-NP	O		2273	2277
 environment	environment	NN	I-NP	O		2278	2289
 .	.	.	O	O		2289	2290
 
+When	When	WRB	B-ADVP	O		2291	2295
 immature	immature	JJ	B-NP	O		2296	2304
 oilseed rape	oilseed_rape	NN	I-NP	O		2305	2317
 embryos	embryo	NNS	I-NP	O		2318	2325
@@ -446,6 +458,7 @@ Fernandez	Fernandez	NN	B-NP	O		2541	2550
 )	)	)	O	O		2556	2557
 .	.	.	O	O		2557	2558
 
+The	The	DT	B-NP	O		2559	2562
 amount	amount	NN	I-NP	O		2563	2569
 of	of	IN	B-PP	O		2570	2572
 AGL15	AGL15	NN	B-NP	O		2573	2578
@@ -487,6 +500,7 @@ in	in	IN	B-PP	O		2792	2794
 culture	culture	NN	B-NP	O		2795	2802
 .	.	.	O	O		2802	2803
 
+Finally	Finally	RB	B-ADVP	O		2804	2811
 ,	,	,	O	O		2811	2812
 the	the	DT	B-NP	O		2813	2816
 results	result	NNS	I-NP	O		2817	2824
@@ -516,6 +530,7 @@ life	life	NN	I-NP	O		2963	2967
 cycle	cycle	NN	I-NP	O		2968	2973
 .	.	.	O	O		2973	2974
 
+Immature	Immature	JJ	B-NP	O		2975	2983
 oilseed rape	oilseed_rape	NN	I-NP	O		2984	2996
 microspores	microspore	NNS	I-NP	O		2997	3008
 can	can	MD	B-VP	O		3009	3012
@@ -532,6 +547,7 @@ or	or	CC	O	O		3055	3057
 embryos	embryo	NNS	B-NP	O		3058	3065
 .	.	.	O	O		3065	3066
 
+AGL15	AGL15	NN	B-NP	B-protein		3067	3072
 was	be	VBD	B-VP	O		3073	3076
 undetectable	undetectable	JJ	B-ADJP	O		3077	3089
 in	in	IN	B-PP	O		3090	3092
@@ -550,6 +566,7 @@ unorganized	unorganized	JJ	B-NP	O		3147	3158
 masses	mass	NNS	I-NP	O		3159	3165
 .	.	.	O	O		3165	3166
 
+Only	Only	RB	B-NP	O		3167	3171
 the	the	DT	I-NP	O		3172	3175
 cells	cell	NNS	I-NP	O		3176	3181
 that	that	WDT	B-NP	O		3182	3186
@@ -565,6 +582,7 @@ of	of	IN	B-PP	O		3243	3245
 AGL15	AGL15	NN	B-NP	B-protein		3246	3251
 .	.	.	O	O		3251	3252
 
+The	The	DT	B-NP	O		3253	3256
 accumulation	accumulation	NN	I-NP	O		3257	3269
 pattern	pattern	NN	I-NP	O		3270	3277
 of	of	IN	B-PP	O		3278	3280
@@ -590,6 +608,7 @@ leaf	leaf	NN	I-NP	O		3390	3394
 tissue	tissue	NN	I-NP	O		3395	3401
 .	.	.	O	O		3401	3402
 
+Immunoreactive	Immunoreactive	JJ	B-NP	B-protein		3403	3417
 protein	protein	NN	I-NP	I-protein		3418	3425
 was	be	VBD	B-VP	O		3426	3429
 present	present	JJ	B-ADJP	O		3430	3437
@@ -606,6 +625,7 @@ of	of	IN	B-PP	O		3492	3494
 alfalfa	alfalfa	NN	B-NP	O		3495	3502
 .	.	.	O	O		3502	3503
 
+Detectable	Detectable	JJ	B-NP	O		3504	3514
 amounts	amount	NNS	I-NP	O		3515	3522
 of	of	IN	B-PP	O		3523	3525
 AGL15	AGL15	NN	B-NP	B-protein		3526	3531
@@ -683,6 +703,7 @@ observation	observation	NN	I-NP	O		3891	3902
 )	)	)	O	O		3902	3903
 .	.	.	O	O		3903	3904
 
+Does	Do	VBZ	O	O		3905	3909
 the	the	DT	B-NP	O		3910	3913
 accumulation	accumulation	NN	I-NP	O		3914	3926
 of	of	IN	B-PP	O		3927	3929
@@ -704,6 +725,7 @@ leaf	leaf	NN	I-NP	I-cell_type		4020	4024
 cells	cell	NNS	I-NP	I-cell_type		4025	4030
 ?	?	.	O	O		4030	4031
 
+AGL15	AGL15	NN	B-NP	O		4032	4037
 accumulation	accumulation	NN	I-NP	O		4038	4050
 did	do	VBD	B-VP	O		4051	4054
 not	not	RB	I-VP	O		4055	4058
@@ -745,6 +767,7 @@ reproductive	reproductive	JJ	B-NP	O		4245	4257
 tissues	tissue	NNS	I-NP	O		4258	4265
 .	.	.	O	O		4265	4266
 
+However	However	RB	B-ADVP	O		4267	4274
 ,	,	,	O	O		4274	4275
 AGL15	AGL15	NN	B-NP	B-protein		4276	4281
 may	may	MD	B-VP	O		4282	4285
@@ -762,6 +785,7 @@ embryonic	embryonic	JJ	I-NP	O		4345	4354
 mode	mode	NN	I-NP	O		4355	4359
 .	.	.	O	O		4359	4360
 
+The	The	DT	B-NP	O		4361	4364
 fact	fact	NN	I-NP	O		4365	4369
 that	that	IN	B-SBAR	O		4370	4374
 immature	immature	JJ	B-NP	O		4375	4383

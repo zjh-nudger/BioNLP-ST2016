@@ -26,6 +26,7 @@ are	be	VBP	B-VP	O		158	161
 accumulated	accumulate	VBN	I-VP	O		162	173
 .	.	.	O	O		173	174
 
+In	In	IN	B-PP	O		175	177
 addition	addition	NN	B-NP	O		178	186
 ,	,	,	O	O		186	187
 the	the	DT	B-NP	O		188	191
@@ -68,6 +69,7 @@ Harada	Harada	NNP	I-NP	O		363	369
 )	)	)	O	O		374	375
 .	.	.	O	O		375	376
 
+By	By	IN	B-PP	O		377	379
 means	mean	NNS	B-NP	O		380	385
 of	of	IN	B-PP	O		386	388
 seed	seed	NN	B-NP	O		389	393
@@ -95,6 +97,7 @@ as	as	IN	I-PP	O		533	535
 drought	drought	NN	B-NP	O		536	543
 .	.	.	O	O		543	544
 
+Under	Under	IN	B-PP	O		545	550
 more	more	RBR	B-NP	O		551	555
 suitable	suitable	JJ	I-NP	O		556	564
 circumstances	circumstance	NNS	I-NP	O		565	578
@@ -111,6 +114,7 @@ development	development	NN	I-NP	O		646	657
 commences	commence	NNS	I-NP	O		658	667
 .	.	.	O	O		667	668
 
+In	In	IN	B-PP	O		669	671
 Arabidopsis thaliana	Arabidopsis_thaliana	NNP	B-NP	O		672	692
 ,	,	,	O	O		692	693
 recessive	recessive	JJ	B-NP	O		694	703
@@ -142,6 +146,7 @@ et al.	et al.	NNP	I-NP	O		835	841
 )	)	)	O	O		846	847
 .	.	.	O	O		847	848
 
+Particularly	Particularly	RB	B-ADVP	O		849	861
 ,	,	,	O	O		861	862
 fus3	fus3	NN	B-NP	O		863	867
 embryos	embryo	NNS	I-NP	O		868	875

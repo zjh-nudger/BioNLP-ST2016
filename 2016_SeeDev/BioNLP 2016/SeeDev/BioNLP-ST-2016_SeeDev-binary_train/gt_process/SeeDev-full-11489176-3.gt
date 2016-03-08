@@ -27,6 +27,7 @@ gene	gene	NN	I-NP	O		148	152
 expression	expression	NN	I-NP	O		153	163
 .	.	.	O	O		163	164
 
+To	To	TO	B-VP	O		165	167
 determine	determine	VB	I-VP	O		168	177
 whether	whether	IN	B-SBAR	O		178	185
 ABI4	ABI4	NN	B-NP	B-protein		186	190
@@ -55,6 +56,7 @@ interaction	interaction	NN	I-NP	O		317	328
 assays	assay	NNS	I-NP	O		329	335
 .	.	.	O	O		335	336
 
+The	The	DT	B-NP	O		337	340
 assay	assay	NN	I-NP	O		341	346
 system	system	NN	I-NP	O		347	353
 was	be	VBD	B-VP	O		354	357
@@ -82,6 +84,7 @@ of	of	IN	B-PP	O		477	479
 GAL4	GAL4	NN	B-NP	B-protein		480	484
 .	.	.	O	O		484	485
 
+Direct	Direct	JJ	B-NP	O		486	492
 interaction	interaction	NN	I-NP	O		493	504
 of	of	IN	B-PP	O		505	507
 the	the	DT	B-NP	O		508	511
@@ -122,6 +125,7 @@ et al.	et al.	NNP	I-NP	O		692	698
 )	)	)	O	O		704	705
 .	.	.	O	O		705	706
 
+The	The	DT	B-NP	O		707	710
 GAL4	GAL4	NN	I-NP	B-protein		711	715
 -	-	HYPH	O	I-protein		715	716
 binding	bind	VBG	B-VP	I-protein		716	723
@@ -177,6 +181,7 @@ et al.	et al.	FW	I-ADVP	O		964	970
 )	)	)	O	O		976	977
 .	.	.	O	O		977	978
 
+Although	Although	IN	B-SBAR	O		979	987
 the	the	DT	B-NP	O		988	991
 truncation	truncation	NN	I-NP	O		992	1002
 reduces	reduce	VBZ	B-VP	O		1003	1010
@@ -212,6 +217,7 @@ Figure	Figure	NN	B-NP	O		1172	1178
 )	)	)	O	O		1181	1182
 .	.	.	O	O		1182	1183
 
+The	The	DT	B-NP	O		1184	1187
 BD	BD	NN	I-NP	B-DNA		1188	1190
 -	-	HYPH	I-NP	I-DNA		1190	1191
 ABI5	ABI5	NN	I-NP	I-DNA		1191	1195
@@ -260,6 +266,7 @@ Figure	Figure	NN	B-NP	O		1415	1421
 )	)	)	O	O		1424	1425
 .	.	.	O	O		1425	1426
 
+Combination	Combination	NN	B-NP	O		1427	1438
 of	of	IN	B-PP	O		1439	1441
 these	these	DT	B-NP	O		1442	1447
 GAL4	GAL4	NN	I-NP	B-protein		1448	1452
@@ -288,6 +295,7 @@ Figure	Figure	NN	B-NP	O		1540	1546
 )	)	)	O	O		1548	1549
 .	.	.	O	O		1549	1550
 
+ABI1	ABI1	NN	B-NP	B-protein		1551	1555
 and	and	CC	I-NP	O		1556	1559
 ABI4	ABI4	NN	I-NP	B-protein		1560	1564
 did	do	VBD	B-VP	O		1565	1568
@@ -310,8 +318,10 @@ with	with	IN	B-PP	O		1651	1655
 ABI5	ABI5	NN	B-NP	B-protein		1656	1660
 .	.	.	O	O		1660	1661
 
+Figure 1	Figure 1	CD	B-NP	O		1662	1670
 .	.	.	O	O		1670	1671
 
+Tests	Test	NNS	B-NP	O		1672	1677
 for	for	IN	B-PP	O		1678	1681
 pairwise	pairwise	JJ	B-NP	O		1682	1690
 interactions	interaction	NNS	I-NP	O		1691	1703

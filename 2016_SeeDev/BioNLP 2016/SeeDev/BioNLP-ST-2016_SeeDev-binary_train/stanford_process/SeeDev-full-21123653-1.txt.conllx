@@ -24,6 +24,7 @@
 24	development	_	NOUN	NN	_	22	nmod:in	_	_	115	126
 25	.	_	PUNCT	.	_	2	punct	_	_	126	127
 
+1	To	_	PART	TO	_	2	mark	_	_	128	130
 2	assess	_	VERB	VB	_	10	advcl	_	_	131	137
 3	the	_	DET	DT	_	4	det	_	_	138	141
 4	functions	_	NOUN	NNS	_	2	dobj	_	_	142	151
@@ -43,6 +44,7 @@
 18	loss	_	NOUN	NN	_	15	nmod:of	_	_	240	244
 19	.	_	PUNCT	.	_	10	punct	_	_	244	245
 
+1	We	_	PRON	PRP	_	2	nsubj	_	_	246	248
 2	found	_	VERB	VBD	_	0	root	_	_	249	254
 3	that	_	SCONJ	IN	_	6	mark	_	_	255	259
 4	DCL1	_	PROPN	NNP	_	6	nsubjpass	_	_	260	264
@@ -74,6 +76,7 @@
 30	cells	_	NOUN	NNS	_	27	conj:and	_	_	417	422
 31	.	_	PUNCT	.	_	2	punct	_	_	422	423
 
+1	By	_	ADP	IN	_	10	case	_	_	424	426
 2	the	_	DET	DT	_	10	det	_	_	427	430
 3	early	_	ADJ	JJ	_	10	amod	_	_	431	436
 4	globular	_	NOUN	NN	_	10	compound	_	_	437	445
@@ -95,6 +98,7 @@
 20	targets	_	NOUN	NNS	_	17	dobj	_	_	511	518
 21	.	_	PUNCT	.	_	17	punct	_	_	518	519
 
+1	In	_	ADP	IN	_	3	case	_	_	520	522
 2	dcl1	_	NUM	CD	_	3	nummod	_	_	523	527
 3	eight	_	NUM	CD	_	14	nmod:in	_	_	528	533
 4	-	_	PUNCT	:	_	14	punct	_	_	533	534
@@ -119,6 +123,7 @@
 23	factors	_	NOUN	NNS	_	19	conj:and	_	_	643	650
 24	.	_	PUNCT	.	_	14	punct	_	_	650	651
 
+1	SPL10	_	PROPN	NNP	_	15	nsubjpass	_	_	652	657
 2	and	_	CONJ	CC	_	1	cc	_	_	658	661
 3	SPL11	_	PROPN	NNP	_	5	nsubjpass	_	_	662	667
 4	are	_	AUX	VBP	_	5	auxpass	_	_	668	671
@@ -141,6 +146,7 @@
 21	defects	_	NOUN	NNS	_	15	nmod:for	_	_	769	776
 22	.	_	PUNCT	.	_	5	punct	_	_	776	777
 
+1	Moreover	_	ADV	RB	_	14	advmod	_	_	778	786
 2	,	_	PUNCT	,	_	14	punct	_	_	786	787
 3	as	_	ADV	RB	_	4	advmod	_	_	788	790
 4	early	_	ADV	RB	_	14	nsubj	_	_	791	796

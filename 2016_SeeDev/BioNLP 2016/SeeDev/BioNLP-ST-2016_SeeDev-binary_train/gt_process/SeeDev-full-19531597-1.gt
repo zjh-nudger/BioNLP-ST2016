@@ -34,6 +34,7 @@ and	and	CC	O	O		183	186
 DOFs	DOF	NNS	B-NP	B-protein		187	191
 .	.	.	O	O		191	192
 
+In	In	IN	B-PP	O		193	195
 this	this	DT	B-NP	O		196	200
 work	work	NN	I-NP	O		201	205
 ,	,	,	O	O		205	206
@@ -65,6 +66,7 @@ target	target	NN	I-NP	B-DNA		361	367
 genes	gene	NNS	I-NP	I-DNA		368	373
 .	.	.	O	O		373	374
 
+Gain	Gain	NN	B-NP	B-protein		375	379
 -	-	HYPH	I-NP	O		379	380
 and	and	CC	I-NP	O		381	384
 loss	loss	NN	I-NP	O		385	389
@@ -86,6 +88,7 @@ gene	gene	NN	I-NP	O		481	485
 expression	expression	NN	I-NP	O		486	496
 .	.	.	O	O		496	497
 
+Specific	Specific	JJ	B-NP	O		498	506
 in vivo	in_vivo	NN	I-NP	O		507	514
 and	and	CC	I-NP	O		515	518
 in vitro	in_vitro	NN	I-NP	O		519	527
@@ -106,6 +109,7 @@ is	be	VBZ	B-VP	O		601	603
 demonstrated	demonstrate	VBN	I-VP	O		604	616
 .	.	.	O	O		616	617
 
+Importantly	Importantly	RB	B-ADVP	O		618	629
 ,	,	,	O	O		629	630
 heterodimerization	heterodimerization	NN	B-NP	O		631	649
 with	with	IN	B-PP	O		650	654
@@ -138,6 +142,7 @@ gene	gene	NN	I-NP	O		824	828
 activation	activation	NN	I-NP	O		829	839
 .	.	.	O	O		839	840
 
+Full	Full	JJ	B-NP	O		841	845
 -	-	HYPH	I-NP	O		845	846
 level	level	NN	I-NP	O		846	851
 target	target	NN	I-NP	O		852	858
@@ -157,6 +162,7 @@ heterodimerization	heterodimerization	NN	I-NP	I-protein		939	957
 partners	partner	NNS	I-NP	I-protein		958	966
 .	.	.	O	O		966	967
 
+Whereas	Whereas	IN	B-SBAR	O		968	975
 bZIP53	bZIP53	NN	B-NP	B-protein		976	982
 does	do	VBZ	B-VP	O		983	987
 not	not	RB	I-VP	O		988	991
@@ -191,6 +197,7 @@ in	in	IN	B-PP	O		1173	1175
 planta	planta	NN	B-NP	O		1176	1182
 .	.	.	O	O		1182	1183
 
+We	We	PRP	B-NP	O		1184	1186
 therefore	therefore	RB	B-ADVP	O		1187	1196
 propose	propose	VBP	B-VP	O		1197	1204
 that	that	IN	B-SBAR	O		1205	1209

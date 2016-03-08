@@ -45,6 +45,7 @@ Jaworski	Jaworski	NNP	I-NP	O		264	272
 )	)	)	O	O		278	279
 .	.	.	O	O		279	280
 
+Complementary	Complementary	JJ	B-NP	O		281	294
 studies	study	NNS	I-NP	O		295	302
 carried	carry	VBN	B-VP	O		303	310
 out	out	RP	B-PRT	O		311	314
@@ -94,6 +95,7 @@ Graham	Graham	NNP	I-NP	O		530	536
 )	)	)	O	O		542	543
 .	.	.	O	O		543	544
 
+In	In	IN	B-PP	O		545	547
 A	A	NN	B-NP	O		548	549
 .	.	.	O	O		549	550
  thaliana	 thaliana	NN	B-NP	O		550	559
@@ -135,6 +137,7 @@ et al.	et al.	NNP	I-NP	O		769	775
 )	)	)	O	O		781	782
 .	.	.	O	O		782	783
 
+Genes	Gene	NNS	B-NP	O		784	789
 related	relate	VBN	B-VP	O		790	797
 to	to	TO	B-PP	O		798	800
 the	the	DT	B-NP	O		801	804
@@ -154,6 +157,7 @@ expression	expression	NN	I-NP	O		888	898
 patterns	pattern	NNS	I-NP	O		899	907
 .	.	.	O	O		907	908
 
+For	For	IN	B-PP	O		909	912
 instance	instance	NN	B-NP	O		913	921
 ,	,	,	O	O		921	922
 a	a	DT	B-NP	O		923	924
@@ -203,6 +207,7 @@ Lepiniec	Lepiniec	NNP	I-NP	O		1155	1163
 )	)	)	O	O		1169	1170
 .	.	.	O	O		1170	1171
 
+The	The	DT	B-NP	O		1172	1175
 observation	observation	NN	I-NP	O		1176	1187
 that	that	IN	B-SBAR	O		1188	1192
 the	the	DT	B-NP	O		1193	1196
@@ -247,6 +252,7 @@ regulatory	regulatory	JJ	I-NP	I-DNA		1424	1434
 elements	element	NNS	I-NP	I-DNA		1435	1443
 .	.	.	O	O		1443	1444
 
+This	This	DT	B-NP	O		1445	1449
 hypothesis	hypothesis	NN	I-NP	O		1450	1460
 has	have	VBZ	B-VP	O		1461	1464
 been	be	VBN	I-VP	O		1465	1469
@@ -284,6 +290,7 @@ et al.	et al.	NNP	I-NP	O		1625	1631
 )	)	)	O	O		1637	1638
 .	.	.	O	O		1638	1639
 
+WRI1	WRI1	NN	B-NP	B-protein		1640	1644
 is	be	VBZ	B-VP	O		1645	1647
 a	a	DT	B-NP	O		1648	1649
 direct	direct	JJ	I-NP	O		1650	1656
@@ -318,6 +325,7 @@ et al.	et al.	FW	I-ADVP	O		1808	1814
 )	)	)	O	O		1821	1822
 .	.	.	O	O		1822	1823
 
+Putative	Putative	JJ	B-NP	O		1824	1832
 targets	target	NNS	I-NP	O		1833	1840
 of	of	IN	B-PP	O		1841	1843
 WRI1	WRI1	NN	B-NP	B-protein		1844	1848
@@ -354,6 +362,7 @@ et al.	et al.	FW	I-ADVP	O		1998	2004
 )	)	)	O	O		2011	2012
 .	.	.	O	O		2012	2013
 
+WRI1	WRI1	NN	B-NP	B-protein		2014	2018
 is	be	VBZ	B-VP	O		2019	2021
 a	a	DT	B-NP	O		2022	2023
 member	member	NN	I-NP	O		2024	2030
@@ -392,6 +401,7 @@ et al.	et al.	NNP	I-NP	O		2180	2186
 )	)	)	O	O		2192	2193
 .	.	.	O	O		2193	2194
 
+This	This	DT	B-NP	O		2195	2199
 family	family	NN	I-NP	O		2200	2206
 is	be	VBZ	B-VP	O		2207	2209
 best	best	RB	I-VP	O		2210	2214
@@ -436,6 +446,7 @@ et al.	et al.	NNP	I-NP	O		2393	2399
 )	)	)	O	O		2405	2406
 .	.	.	O	O		2406	2407
 
+While	While	IN	B-SBAR	O		2408	2413
 the	the	DT	B-NP	O		2414	2417
 AP2	AP2	NN	I-NP	B-protein		2418	2421
 /	/	SYM	B-NP	I-protein		2421	2422
@@ -491,6 +502,7 @@ et al.	et al.	FW	I-ADVP	O		2693	2699
 )	)	)	O	O		2705	2706
 .	.	.	O	O		2706	2707
 
+Based	Base	VBN	B-PP	O		2708	2713
 on	on	IN	B-PP	O		2714	2716
 the	the	DT	B-NP	O		2717	2720
 presence	presence	NN	I-NP	O		2721	2729
@@ -526,6 +538,7 @@ et al.	et al.	FW	I-ADVP	O		2852	2858
 )	)	)	O	O		2864	2865
 .	.	.	O	O		2865	2866
 
+The	The	DT	B-NP	O		2867	2870
 AP2	AP2	NN	I-NP	B-protein		2871	2874
 /	/	SYM	B-VP	O		2874	2875
 EREBP	EREBP	NN	B-NP	B-protein		2875	2880
@@ -550,6 +563,7 @@ other	other	JJ	B-NP	O		2976	2981
 domains	domain	NNS	I-NP	O		2982	2989
 .	.	.	O	O		2989	2990
 
+The	The	DT	B-NP	O		2991	2994
 EREBP	EREBP	NN	I-NP	B-protein		2995	3000
 family	family	NN	I-NP	I-protein		3001	3007
 (	(	(	O	O		3008	3009
@@ -586,6 +600,7 @@ members	member	NNS	I-NP	O		3137	3144
 )	)	)	O	O		3144	3145
 .	.	.	O	O		3145	3146
 
+Proteins	Protein	NNS	B-NP	O		3147	3155
 of	of	IN	B-PP	O		3156	3158
 the	the	DT	B-NP	O		3159	3162
 RAV	RAV	NN	I-NP	B-protein		3163	3166
@@ -613,6 +628,7 @@ domain	domain	NN	I-NP	I-protein		3256	3262
 )	)	)	O	O		3262	3263
 .	.	.	O	O		3263	3264
 
+The	The	DT	B-NP	O		3265	3268
 AP2	AP2	NN	I-NP	B-protein		3269	3272
 family	family	NN	I-NP	I-protein		3273	3279
 (	(	(	O	O		3280	3281
@@ -648,6 +664,7 @@ like	like	JJ	I-NP	O		3411	3415
 groups	group	NNS	I-NP	O		3416	3422
 .	.	.	O	O		3422	3423
 
+Depending	Depend	VBG	B-PP	O		3424	3433
 on	on	IN	B-PP	O		3434	3436
 the	the	DT	B-NP	O		3437	3440
 publications	publication	NNS	I-NP	O		3441	3453
@@ -706,6 +723,7 @@ et al.	et al.	FW	I-ADVP	O		3668	3674
 )	)	)	O	O		3680	3681
 .	.	.	O	O		3681	3682
 
+DNA	DNA	NN	B-NP	O		3683	3686
 binding	binding	NN	I-NP	O		3687	3694
 specificity	specificity	NN	I-NP	O		3695	3706
 has	have	VBZ	B-VP	O		3707	3710
@@ -721,6 +739,7 @@ AP2	AP2	NN	I-NP	B-DNA		3759	3762
 repeat	repeat	NN	I-NP	I-DNA		3763	3769
 .	.	.	O	O		3769	3770
 
+Proteins	Protein	NNS	B-NP	O		3771	3779
 of	of	IN	B-PP	O		3780	3782
 the	the	DT	B-NP	O		3783	3786
 ERF	ERF	NN	I-NP	B-protein		3787	3790
@@ -738,6 +757,7 @@ GCC	GCC	NN	B-NP	B-protein		3845	3848
 boxes	box	NNS	I-NP	I-protein		3849	3854
 .	.	.	O	O		3854	3855
 
+These	These	DT	B-NP	O		3856	3861
 boxes	box	NNS	I-NP	O		3862	3867
 consist	consist	VBP	B-VP	O		3868	3875
 of	of	IN	B-PP	O		3876	3878
@@ -775,6 +795,7 @@ et al.	et al.	FW	I-ADVP	O		4024	4030
 )	)	)	O	O		4036	4037
 .	.	.	O	O		4037	4038
 
+The	The	DT	B-NP	O		4039	4042
 solution	solution	NN	I-NP	O		4043	4051
 structure	structure	NN	I-NP	O		4052	4061
 of	of	IN	B-PP	O		4062	4064
@@ -799,6 +820,7 @@ et al.	et al.	NNP	I-NP	O		4138	4144
 )	)	)	O	O		4150	4151
 .	.	.	O	O		4151	4152
 
+Proteins	Protein	NNS	B-NP	O		4153	4161
 of	of	IN	B-PP	O		4162	4164
 the	the	DT	B-NP	O		4165	4168
 DREB	DREB	NN	I-NP	B-protein		4169	4173
@@ -826,6 +848,7 @@ et al.	et al.	NNP	I-NP	O		4281	4287
 )	)	)	O	O		4293	4294
 .	.	.	O	O		4294	4295
 
+The	The	DT	B-NP	O		4296	4299
 single	single	JJ	I-NP	O		4300	4306
 AP2	AP2	NN	I-NP	B-DNA		4307	4310
 repeat	repeat	NN	I-NP	I-DNA		4311	4317
@@ -861,6 +884,7 @@ et al.	et al.	FW	I-ADVP	O		4449	4455
 )	)	)	O	O		4461	4462
 .	.	.	O	O		4462	4463
 
+Little	Little	JJ	B-NP	O		4464	4470
 is	be	VBZ	B-VP	O		4471	4473
 known	know	VBN	I-VP	O		4474	4479
 about	about	IN	B-PP	O		4480	4485
@@ -878,6 +902,7 @@ and	and	CC	O	O		4549	4552
 DNA	DNA	NN	B-NP	O		4553	4556
 .	.	.	O	O		4556	4557
 
+A	A	DT	B-NP	O		4558	4559
 consensus	consensus	NN	I-NP	B-DNA		4560	4569
 binding	binding	NN	I-NP	I-DNA		4570	4577
 sequence	sequence	NN	I-NP	I-DNA		4578	4586
@@ -916,6 +941,7 @@ Krizek	Krizek	NNP	I-NP	O		4700	4706
 )	)	)	O	O		4712	4713
 .	.	.	O	O		4713	4714
 
+This	This	DT	B-NP	O		4715	4719
 consensus	consensus	NN	I-NP	O		4720	4729
 is	be	VBZ	B-VP	O		4730	4732
 much	much	RB	B-ADJP	O		4733	4737
@@ -932,6 +958,7 @@ AP2	AP2	NN	I-NP	B-DNA		4799	4802
 repeat	repeat	NN	I-NP	I-DNA		4803	4809
 .	.	.	O	O		4809	4810
 
+Each	Each	DT	B-NP	O		4811	4815
 AP2	AP2	NN	I-NP	B-protein		4816	4819
 repeat	repeat	NN	I-NP	O		4820	4826
 of	of	IN	B-PP	O		4827	4829
@@ -971,6 +998,7 @@ Krizek	Krizek	NNP	B-NP	O		5020	5026
 )	)	)	O	O		5032	5033
 .	.	.	O	O		5033	5034
 
+To	To	TO	B-PP	O		5035	5037
 date	date	NN	B-NP	O		5038	5042
 ,	,	,	O	O		5042	5043
 given	give	VBN	B-PP	O		5044	5049
@@ -1021,6 +1049,7 @@ DNA	DNA	NN	B-NP	O		5274	5277
 recognition	recognition	NN	I-NP	O		5278	5289
 .	.	.	O	O		5289	5290
 
+In	In	IN	B-PP	O		5291	5293
 this	this	DT	B-NP	O		5294	5298
 paper	paper	NN	I-NP	O		5299	5304
 ,	,	,	O	O		5304	5305
@@ -1060,6 +1089,7 @@ already	already	RB	I-VP	O		5482	5489
 expressed	express	VBN	I-VP	O		5490	5499
 .	.	.	O	O		5499	5500
 
+Consistent	Consistent	JJ	B-ADJP	O		5501	5511
 with	with	IN	B-PP	O		5512	5516
 this	this	DT	B-NP	O		5517	5521
 ,	,	,	O	O		5521	5522
@@ -1085,6 +1115,7 @@ PKp	PKp	NN	I-NP	B-protein		5612	5615
 promoters	promoter	NNS	I-NP	I-DNA		5619	5628
 .	.	.	O	O		5628	5629
 
+In	In	IN	B-PP	O		5630	5632
 addition	addition	NN	B-NP	O		5633	5641
 ,	,	,	O	O		5641	5642
 electrophoretic	electrophoretic	JJ	B-NP	O		5643	5658
@@ -1109,6 +1140,7 @@ BCCP2	BCCP2	NN	I-NP	B-DNA		5758	5763
 promoter	promoter	NN	I-NP	I-DNA		5764	5772
 .	.	.	O	O		5772	5773
 
+These	These	DT	B-NP	O		5774	5779
 results	result	NNS	I-NP	O		5780	5787
 strongly	strongly	RB	B-VP	O		5788	5796
 suggest	suggest	VBP	I-VP	O		5797	5804
@@ -1144,6 +1176,7 @@ maturation	maturation	NN	I-NP	O		5965	5975
 phase	phase	NN	I-NP	O		5976	5981
 .	.	.	O	O		5981	5982
 
+Functional	Functional	JJ	B-NP	O		5983	5993
 dissections	dissection	NNS	I-NP	O		5994	6005
 of	of	IN	B-PP	O		6006	6008
 the	the	DT	B-NP	O		6009	6012
@@ -1169,6 +1202,7 @@ of	of	IN	B-PP	O		6121	6123
 WRI1	WRI1	NN	B-NP	B-protein		6124	6128
 .	.	.	O	O		6128	6129
 
+Finally	Finally	RB	B-ADVP	O		6130	6137
 ,	,	,	O	O		6137	6138
 the	the	DT	B-NP	O		6139	6142
 modification	modification	NN	I-NP	O		6143	6155
@@ -1208,6 +1242,7 @@ promoter	promoter	NN	I-NP	O		6334	6342
 in planta	in planta	NN	I-NP	O		6343	6352
 .	.	.	O	O		6352	6353
 
+Taken	Take	VBN	B-VP	O		6354	6359
 together	together	RB	B-ADVP	O		6360	6368
 ,	,	,	O	O		6368	6369
 these	these	DT	B-NP	O		6370	6375

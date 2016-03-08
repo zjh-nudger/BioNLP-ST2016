@@ -66,6 +66,7 @@ Figure 5c	Figure 5c	NN	B-NP	O		342	351
 )	)	)	O	O		351	352
 .	.	.	O	O		352	353
 
+The	The	DT	B-NP	O		354	357
 DNA	DNA	NN	I-NP	O		358	361
 -	-	HYPH	I-NP	O		361	362
 binding	binding	NN	I-NP	O		362	369
@@ -79,6 +80,7 @@ characterized	characterize	VBN	I-VP	O		407	420
 previously	previously	RB	B-ADVP	O		421	431
 .	.	.	O	O		431	432
 
+Repeated	Repeat	VBN	B-NP	O		433	441
 selection	selection	NN	I-NP	O		442	451
 of	of	IN	B-PP	O		452	454
 random	random	JJ	B-NP	O		455	461
@@ -130,6 +132,7 @@ Krizek	Krizek	NNP	I-NP	O		681	687
 )	)	)	O	O		693	694
 .	.	.	O	O		694	695
 
+Although	Although	IN	B-SBAR	O		696	704
 the	the	DT	B-NP	O		705	708
 AW-box	AW-box	NN	I-NP	B-DNA		709	715
 sequences	sequence	NNS	I-NP	I-DNA		716	725
@@ -148,6 +151,7 @@ between	between	IN	B-PP	O		785	792
 them	them	PRP	B-NP	O		793	797
 .	.	.	O	O		797	798
 
+The	The	DT	B-NP	O		799	802
 ANT	ANT	NN	I-NP	B-protein		803	806
 -	-	HYPH	B-ADVP	O		806	807
 and	and	CC	I-ADVP	O		808	811
@@ -170,6 +174,7 @@ AP2	AP2	NN	I-NP	B-DNA		905	908
 domain	domain	NN	I-NP	I-DNA		909	915
 .	.	.	O	O		915	916
 
+The	The	DT	B-NP	O		917	920
 3′	3′	NN	I-NP	O		921	923
 -	-	HYPH	I-NP	O		923	924
 half	half	NN	I-NP	O		924	928
@@ -228,6 +233,7 @@ Krizek	Krizek	NNP	B-NP	O		1163	1169
 )	)	)	O	O		1175	1176
 .	.	.	O	O		1176	1177
 
+The	The	DT	B-NP	O		1178	1181
 opposite	opposite	JJ	I-NP	B-DNA		1182	1190
 strand	strand	NN	I-NP	I-DNA		1191	1197
 sequence	sequence	NN	I-NP	I-DNA		1198	1206
@@ -290,6 +296,7 @@ the	the	DT	B-NP	O		1398	1401
 AW-box	AW-box	NN	I-NP	B-DNA		1402	1408
 .	.	.	O	O		1408	1409
 
+The	The	DT	B-NP	O		1410	1413
 AP2	AP2	NN	I-NP	B-protein		1414	1417
 -	-	HYPH	I-NP	O		1417	1418
 type	type	NN	I-NP	B-protein		1418	1422
@@ -310,6 +317,7 @@ organ	organ	NN	B-NP	O		1527	1532
 development	development	NN	I-NP	O		1533	1544
 .	.	.	O	O		1544	1545
 
+For	For	IN	B-PP	O		1546	1549
 example	example	NN	B-NP	O		1550	1557
 ,	,	,	O	O		1557	1558
 AP2	AP2	NN	B-NP	B-protein		1559	1562
@@ -354,6 +362,7 @@ et al.	et al.	FW	I-ADVP	O		1716	1722
 )	)	)	O	O		1728	1729
 .	.	.	O	O		1729	1730
 
+ANT	ANT	NN	B-NP	B-protein		1731	1734
 regulates	regulate	VBZ	B-VP	O		1735	1744
 ovule	ovule	NN	B-NP	O		1745	1750
 development	development	NN	I-NP	O		1751	1762
@@ -401,6 +410,7 @@ et al.	et al.	FW	I-ADVP	O		1953	1959
 )	)	)	O	O		1965	1966
 .	.	.	O	O		1966	1967
 
+The	The	DT	B-NP	O		1968	1971
 AP	AP	NN	I-NP	B-protein		1972	1974
 -2	-2	CD	I-NP	I-protein		1974	1976
 type	type	NN	I-NP	I-protein		1977	1981
@@ -464,6 +474,7 @@ ANT	ANT	NN	I-NP	B-cell_type		2260	2263
 lineage	lineage	NN	I-NP	I-cell_type		2264	2271
 .	.	.	O	O		2271	2272
 
+Comparison	Comparison	NN	B-NP	O		2273	2283
 of	of	IN	B-PP	O		2284	2286
 the	the	DT	B-NP	O		2287	2290
 consensus	consensus	NN	I-NP	B-DNA		2291	2300

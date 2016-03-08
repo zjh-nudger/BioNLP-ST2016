@@ -29,6 +29,7 @@
 29	-RRB-	_	PUNCT	-RRB-	_	24	punct	_	_	-1	4
 30	.	_	PUNCT	.	_	12	punct	_	_	148	149
 
+1	All	_	DET	DT	_	15	nsubj	_	_	158	161
 2	of	_	ADP	IN	_	4	case	_	_	162	164
 3	these	_	DET	DT	_	4	det	_	_	165	170
 4	bind	_	NOUN	NN	_	1	nmod:of	_	_	171	175
@@ -78,6 +79,7 @@
 48	-RRB-	_	PUNCT	-RRB-	_	24	punct	_	_	-1	4
 49	.	_	PUNCT	.	_	15	punct	_	_	148	149
 
+1	We	_	PRON	PRP	_	2	nsubj	_	_	372	374
 2	found	_	VERB	VBD	_	0	root	_	_	375	380
 3	that	_	SCONJ	IN	_	9	mark	_	_	381	385
 4	several	_	ADJ	JJ	_	9	nsubjpass	_	_	386	393
@@ -109,6 +111,7 @@
 30	-RRB-	_	PUNCT	-RRB-	_	28	punct	_	_	-1	4
 31	.	_	PUNCT	.	_	2	punct	_	_	148	149
 
+1	In	_	ADP	IN	_	2	case	_	_	505	507
 2	contrast	_	NOUN	NN	_	6	nmod:in	_	_	508	516
 3	,	_	PUNCT	,	_	6	punct	_	_	516	517
 4	ABI3	_	PROPN	NNP	_	6	nsubj	_	_	518	522
@@ -122,6 +125,7 @@
 12	regulated	_	ADV	RB	_	9	advmod	_	_	556	565
 13	.	_	PUNCT	.	_	6	punct	_	_	565	566
 
+1	We	_	PRON	PRP	_	2	nsubj	_	_	567	569
 2	observed	_	VERB	VBD	_	0	root	_	_	570	578
 3	that	_	SCONJ	IN	_	17	mark	_	_	579	583
 4	in	_	ADP	IN	_	7	case	_	_	584	586
@@ -156,6 +160,7 @@
 33	maturation	_	NOUN	NN	_	31	nmod:of	_	_	745	755
 34	.	_	PUNCT	.	_	2	punct	_	_	755	756
 
+1	In	_	ADP	IN	_	2	case	_	_	757	759
 2	dcl	_	NOUN	NN	_	7	nmod:in	_	_	760	763
 3	1-15	_	NUM	CD	_	2	nummod	_	_	763	767
 4	,	_	PUNCT	,	_	7	punct	_	_	767	768
@@ -186,6 +191,7 @@
 29	mutant	_	ADJ	JJ	_	10	nmod:in	_	_	908	914
 30	.	_	PUNCT	.	_	7	punct	_	_	914	915
 
+1	Our	_	PRON	PRP$	_	2	nmod:poss	_	_	916	919
 2	analysis	_	NOUN	NN	_	11	nsubj	_	_	920	928
 3	of	_	ADP	IN	_	7	case	_	_	929	931
 4	lec	_	NOUN	NN	_	7	compound	_	_	932	935

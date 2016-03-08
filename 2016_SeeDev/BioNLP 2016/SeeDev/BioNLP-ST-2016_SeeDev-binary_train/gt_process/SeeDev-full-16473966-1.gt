@@ -36,6 +36,7 @@ male	male	JJ	B-NP	O		190	194
 sporogenesis	sporogenesis	NN	I-NP	O		195	207
 .	.	.	O	O		207	208
 
+To	To	TO	B-VP	O		209	211
 determine	determine	VB	I-VP	O		212	221
 the	the	DT	B-NP	O		222	225
 composition	composition	NN	I-NP	O		226	237
@@ -64,6 +65,7 @@ promoter	promoter	NN	I-NP	O		373	381
 control	control	NN	I-NP	O		382	389
 .	.	.	O	O		389	390
 
+The	The	DT	B-NP	O		391	394
 membrane	membrane	NN	I-NP	B-protein		395	403
 receptor	receptor	NN	I-NP	I-protein		404	412
 complex	complex	NN	I-NP	I-protein		413	420
@@ -101,6 +103,7 @@ released	release	VBN	I-NP	O		635	643
 peptides	peptide	NNS	I-NP	O		644	652
 .	.	.	O	O		652	653
 
+This	This	DT	B-NP	O		654	658
 approach	approach	NN	I-NP	O		659	667
 identified	identify	VBD	B-VP	O		668	678
 two	two	CD	B-NP	O		679	682
@@ -131,6 +134,7 @@ KINASE1	KINASE1	NN	I-NP	O		797	804
 protein	protein	NN	I-NP	O		805	812
 .	.	.	O	O		812	813
 
+In	In	IN	B-PP	O		814	816
 addition	addition	NN	B-NP	O		817	825
 ,	,	,	O	O		825	826
 KINASE	KINASE	NN	B-NP	B-protein		827	833
@@ -149,6 +153,7 @@ were	be	VBD	B-VP	O		886	890
 found	find	VBN	I-VP	O		891	896
 .	.	.	O	O		896	897
 
+Finally	Finally	RB	B-ADVP	O		898	905
 ,	,	,	O	O		905	906
 the	the	DT	B-NP	O		907	910
 MADS	MADS	NN	I-NP	B-protein		911	915
@@ -182,6 +187,7 @@ SERK1	SERK1	NN	I-NP	B-protein		1064	1069
 complex	complex	NN	I-NP	I-protein		1070	1077
 .	.	.	O	O		1077	1078
 
+Using	Use	VBG	B-VP	O		1079	1084
 blue	blue	JJ	B-NP	O		1085	1089
 native	native	JJ	I-NP	O		1090	1096
 gel	gel	NN	I-NP	O		1097	1100
@@ -212,6 +218,7 @@ and	and	CC	O	O		1235	1238
 kD	kD	NN	I-NP	O		1243	1245
 .	.	.	O	O		1245	1246
 
+The	The	DT	B-NP	O		1247	1250
 SERK1	SERK1	NN	I-NP	O		1251	1256
 mutant	mutant	JJ	I-NP	O		1257	1263
 allele	allele	NN	I-NP	O		1264	1270
@@ -229,6 +236,7 @@ bri	bri	NN	I-NP	O		1326	1329
 1-119	1-119	CD	I-NP	O		1329	1334
 .	.	.	O	O		1334	1335
 
+Collectively	Collectively	RB	B-ADVP	O		1336	1348
 ,	,	,	O	O		1348	1349
 these	these	DT	B-NP	O		1350	1355
 results	result	NNS	I-NP	O		1356	1363
