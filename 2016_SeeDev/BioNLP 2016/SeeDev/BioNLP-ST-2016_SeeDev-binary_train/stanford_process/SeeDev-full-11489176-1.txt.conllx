@@ -12,9 +12,9 @@
 12	acid	_	NOUN	NN	_	18	nsubj	_	_	84	88
 13	-	_	PUNCT	:	_	12	punct	_	_	88	89
 14	insensitive	_	ADJ	JJ	_	12	amod	_	_	89	100
-15	-LRB-	_	PUNCT	-LRB-	_	16	punct	_	_	-1	4
+15	(	_	PUNCT	(	_	16	punct	_	_	101	102
 16	ABI	_	PROPN	NNP	_	12	appos	_	_	102	105
-17	-RRB-	_	PUNCT	-RRB-	_	16	punct	_	_	-1	4
+17	)	_	PUNCT	)	_	16	punct	_	_	105	106
 18	loci	_	VERB	VBZ	_	6	ccomp	_	_	107	111
 19	interact	_	ADJ	JJ	_	18	xcomp	_	_	112	120
 20	to	_	PART	TO	_	21	mark	_	_	121	123

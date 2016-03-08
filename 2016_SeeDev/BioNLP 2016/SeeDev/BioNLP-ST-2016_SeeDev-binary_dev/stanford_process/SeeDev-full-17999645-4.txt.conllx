@@ -26,9 +26,9 @@
 26	planta	_	PROPN	NNP	_	32	compound	_	_	151	157
 27	Histone	_	PROPN	NNP	_	32	compound	_	_	158	165
 28	deacetylase	_	ADJ	JJ	_	32	amod	_	_	166	177
-29	-LRB-	_	PUNCT	-LRB-	_	30	punct	_	_	-1	4
-30	HDAC	_	PROPN	NNP	_	28	dep	_	_	50	54
-31	-RRB-	_	PUNCT	-RRB-	_	30	punct	_	_	-1	4
+29	(	_	PUNCT	(	_	30	punct	_	_	178	179
+30	HDAC	_	PROPN	NNP	_	28	dep	_	_	179	183
+31	)	_	PUNCT	)	_	30	punct	_	_	183	184
 32	enzymes	_	NOUN	NNS	_	24	nmod:in	_	_	185	192
 33	remove	_	VERB	VB	_	18	advcl	_	_	193	199
 34	acetyl	_	ADJ	JJ	_	35	amod	_	_	200	206
@@ -73,9 +73,9 @@
 13	to	_	ADP	TO	_	15	case	_	_	434	436
 14	transcriptional	_	ADJ	JJ	_	15	amod	_	_	437	452
 15	repression	_	NOUN	NN	_	12	nmod:to	_	_	453	463
-16	-LRB-	_	PUNCT	-LRB-	_	19	punct	_	_	-1	4
-17	for	_	ADP	IN	_	19	case	_	_	399	402
-18	a	_	DET	DT	_	19	det	_	_	405	406
+16	(	_	PUNCT	(	_	19	punct	_	_	464	465
+17	for	_	ADP	IN	_	19	case	_	_	465	468
+18	a	_	DET	DT	_	19	det	_	_	469	470
 19	review	_	NOUN	NN	_	6	dep	_	_	471	477
 20	,	_	PUNCT	,	_	19	punct	_	_	477	478
 21	see	_	VERB	VBP	_	19	dep	_	_	479	482
@@ -85,18 +85,18 @@
 25	al.	_	PROPN	NNP	_	23	conj:et	_	_	497	500
 26	,	_	PUNCT	,	_	23	punct	_	_	500	501
 27	2003	_	NUM	CD	_	23	amod	_	_	502	506
-28	-RRB-	_	PUNCT	-RRB-	_	19	punct	_	_	-1	4
-29	.	_	PUNCT	.	_	6	punct	_	_	344	345
+28	)	_	PUNCT	)	_	19	punct	_	_	506	507
+29	.	_	PUNCT	.	_	6	punct	_	_	507	508
 
 1	SIN3	_	PROPN	NNP	_	0	root	_	_	509	513
 2	-	_	PUNCT	:	_	1	punct	_	_	513	514
 3	associated	_	ADJ	JJ	_	4	amod	_	_	514	524
 4	proteins	_	NOUN	NNS	_	14	nsubj	_	_	525	533
-5	-LRB-	_	PUNCT	-LRB-	_	6	punct	_	_	-1	4
+5	(	_	PUNCT	(	_	6	punct	_	_	534	535
 6	SAP18	_	PROPN	NNP	_	4	appos	_	_	535	540
 7	and	_	CONJ	CC	_	6	cc	_	_	541	544
 8	SAP30	_	PROPN	NNP	_	6	conj:and	_	_	545	550
-9	-RRB-	_	PUNCT	-RRB-	_	6	punct	_	_	-1	4
+9	)	_	PUNCT	)	_	6	punct	_	_	550	551
 10	have	_	AUX	VBP	_	12	aux	_	_	552	556
 11	been	_	AUX	VBN	_	12	auxpass	_	_	557	561
 12	hypothesized	_	VERB	VBN	_	1	parataxis	_	_	562	574
@@ -105,7 +105,7 @@
 15	the	_	DET	DT	_	17	det	_	_	588	591
 16	SIN3–HDAC	_	NOUN	NN	_	17	compound	_	_	592	601
 17	interaction	_	NOUN	NN	_	14	dobj	_	_	602	613
-18	-LRB-	_	PUNCT	-LRB-	_	19	punct	_	_	-1	4
+18	(	_	PUNCT	(	_	19	punct	_	_	614	615
 19	discussed	_	VERB	VBN	_	17	dep	_	_	615	624
 20	by	_	ADP	IN	_	21	case	_	_	625	627
 21	Silverstein	_	PROPN	NNP	_	19	nmod:by	_	_	628	639
@@ -113,11 +113,11 @@
 23	Ekwall	_	PROPN	NNP	_	21	conj:and	_	_	644	650
 24	,	_	PUNCT	,	_	21	punct	_	_	650	651
 25	2005	_	NUM	CD	_	21	amod	_	_	652	656
-26	-RRB-	_	PUNCT	-RRB-	_	19	punct	_	_	-1	4
-27	.	_	PUNCT	.	_	1	punct	_	_	344	345
+26	)	_	PUNCT	)	_	19	punct	_	_	656	657
+27	.	_	PUNCT	.	_	1	punct	_	_	657	658
 
-1	SAP18	_	PROPN	NNP	_	16	nsubjpass	_	_	535	540
-2	,	_	PUNCT	,	_	16	punct	_	_	650	651
+1	SAP18	_	PROPN	NNP	_	16	nsubjpass	_	_	659	664
+2	,	_	PUNCT	,	_	16	punct	_	_	664	665
 3	like	_	ADP	IN	_	6	case	_	_	666	670
 4	other	_	ADJ	JJ	_	6	amod	_	_	671	676
 5	core	_	NOUN	NN	_	6	compound	_	_	677	681
@@ -138,7 +138,7 @@
 20	with	_	ADP	IN	_	22	case	_	_	755	759
 21	the	_	DET	DT	_	22	det	_	_	760	763
 22	chromatin	_	NOUN	NN	_	19	nmod:with	_	_	764	773
-23	-LRB-	_	PUNCT	-LRB-	_	24	punct	_	_	-1	4
+23	(	_	PUNCT	(	_	24	punct	_	_	774	775
 24	reviewed	_	VERB	VBN	_	19	dep	_	_	775	783
 25	by	_	ADP	IN	_	26	case	_	_	784	786
 26	Silverstein	_	PROPN	NNP	_	24	nmod:by	_	_	787	798
@@ -146,8 +146,8 @@
 28	Ekwall	_	PROPN	NNP	_	26	conj:and	_	_	803	809
 29	,	_	PUNCT	,	_	26	punct	_	_	809	810
 30	2005	_	NUM	CD	_	26	amod	_	_	811	815
-31	-RRB-	_	PUNCT	-RRB-	_	24	punct	_	_	-1	4
-32	,	_	PUNCT	,	_	16	punct	_	_	227	228
+31	)	_	PUNCT	)	_	24	punct	_	_	815	816
+32	,	_	PUNCT	,	_	16	punct	_	_	816	817
 33	but	_	CONJ	CC	_	16	cc	_	_	818	821
 34	does	_	AUX	VBZ	_	78	aux	_	_	822	826
 35	interact	_	NOUN	NN	_	78	nsubj	_	_	827	835
@@ -158,7 +158,7 @@
 40	DNA	_	NOUN	NN	_	42	compound	_	_	859	862
 41	binding	_	ADJ	JJ	_	42	amod	_	_	863	870
 42	proteins	_	NOUN	NNS	_	35	dep	_	_	871	879
-43	-LRB-	_	PUNCT	-LRB-	_	44	punct	_	_	-1	4
+43	(	_	PUNCT	(	_	44	punct	_	_	880	881
 44	e.g.	_	PROPN	NNP	_	42	dep	_	_	881	885
 45	,	_	PUNCT	,	_	44	punct	_	_	885	886
 46	Espinas	_	PROPN	NNP	_	44	conj:et	_	_	887	894
@@ -181,8 +181,8 @@
 63	;	_	PUNCT	:	_	62	punct	_	_	954	955
 64	this	_	DET	DT	_	65	det	_	_	956	960
 65	study	_	NOUN	NN	_	62	dep	_	_	961	966
-66	-RRB-	_	PUNCT	-RRB-	_	44	punct	_	_	-1	4
-67	,	_	PUNCT	,	_	42	punct	_	_	227	228
+66	)	_	PUNCT	)	_	44	punct	_	_	966	967
+67	,	_	PUNCT	,	_	42	punct	_	_	967	968
 68	implicating	_	VERB	VBG	_	42	acl	_	_	969	980
 69	it	_	PRON	PRP	_	68	dobj	_	_	981	983
 70	as	_	ADP	IN	_	73	case	_	_	984	986
@@ -222,14 +222,14 @@
 20	of	_	ADP	IN	_	22	case	_	_	1170	1172
 21	gene	_	NOUN	NN	_	22	compound	_	_	1173	1177
 22	expression	_	NOUN	NN	_	19	nmod:of	_	_	1178	1188
-23	-LRB-	_	PUNCT	-LRB-	_	24	punct	_	_	-1	4
-24	Song	_	NOUN	NN	_	22	dep	_	_	909	913
-25	and	_	CONJ	CC	_	24	cc	_	_	914	917
-26	Galbraith	_	PROPN	NNP	_	24	conj:and	_	_	918	927
-27	,	_	PUNCT	,	_	24	punct	_	_	927	928
-28	2006	_	NUM	CD	_	24	dep	_	_	929	933
-29	;	_	PUNCT	:	_	28	punct	_	_	933	934
-30	Song	_	X	FW	_	32	compound	_	_	1190	1194
+23	(	_	PUNCT	(	_	24	punct	_	_	1189	1190
+24	Song	_	NOUN	NN	_	22	dep	_	_	1190	1194
+25	and	_	CONJ	CC	_	24	cc	_	_	1195	1198
+26	Galbraith	_	PROPN	NNP	_	24	conj:and	_	_	1199	1208
+27	,	_	PUNCT	,	_	24	punct	_	_	1208	1209
+28	2006	_	NUM	CD	_	24	dep	_	_	1210	1214
+29	;	_	PUNCT	:	_	28	punct	_	_	1214	1215
+30	Song	_	X	FW	_	32	compound	_	_	1216	1220
 31	et	_	X	FW	_	32	compound	_	_	1221	1223
 32	al.	_	NOUN	NN	_	28	dep	_	_	1224	1227
 33	,	_	PUNCT	,	_	32	punct	_	_	1227	1228
@@ -258,8 +258,8 @@
 56	al.	_	PROPN	NNP	_	54	conj:et	_	_	1298	1301
 57	,	_	PUNCT	,	_	54	punct	_	_	1301	1302
 58	2001	_	NUM	CD	_	54	amod	_	_	1303	1307
-59	-RRB-	_	PUNCT	-RRB-	_	24	punct	_	_	-1	4
-60	.	_	PUNCT	.	_	17	punct	_	_	344	345
+59	)	_	PUNCT	)	_	24	punct	_	_	1307	1308
+60	.	_	PUNCT	.	_	17	punct	_	_	1308	1309
 
 1	We	_	PRON	PRP	_	23	nsubj	_	_	1310	1312
 2	demonstrated	_	VERB	VBD	_	0	root	_	_	1313	1325
@@ -290,11 +290,11 @@
 27	AGL15	_	PROPN	NNP	_	29	compound	_	_	1440	1445
 28	binding	_	VERB	VBG	_	29	amod	_	_	1446	1453
 29	site	_	NOUN	NN	_	23	nmod:with	_	_	1454	1458
-30	-LRB-	_	PUNCT	-LRB-	_	31	punct	_	_	-1	4
+30	(	_	PUNCT	(	_	31	punct	_	_	1459	1460
 31	Figure	_	NOUN	NN	_	29	appos	_	_	1460	1466
 32	7	_	NUM	CD	_	31	nummod	_	_	1467	1468
-33	-RRB-	_	PUNCT	-RRB-	_	31	punct	_	_	-1	4
-34	.	_	PUNCT	.	_	2	punct	_	_	344	345
+33	)	_	PUNCT	)	_	31	punct	_	_	1468	1469
+34	.	_	PUNCT	.	_	2	punct	_	_	1469	1470
 
 1	Likewise	_	ADV	RB	_	5	advmod	_	_	1471	1479
 2	,	_	PUNCT	,	_	5	punct	_	_	1479	1480
@@ -316,12 +316,12 @@
 18	ERF3	_	PROPN	NNP	_	20	compound	_	_	1549	1553
 19	binding	_	VERB	VBG	_	20	amod	_	_	1554	1561
 20	site	_	NOUN	NN	_	5	nmod:with	_	_	1562	1566
-21	-LRB-	_	PUNCT	-LRB-	_	22	punct	_	_	-1	4
-22	Song	_	PROPN	NNP	_	20	appos	_	_	909	913
-23	and	_	CONJ	CC	_	22	cc	_	_	914	917
-24	Galbraith	_	PROPN	NNP	_	22	conj:and	_	_	918	927
-25	,	_	PUNCT	,	_	22	punct	_	_	927	928
-26	2006	_	NUM	CD	_	22	dep	_	_	929	933
-27	-RRB-	_	PUNCT	-RRB-	_	22	punct	_	_	-1	4
-28	.	_	PUNCT	.	_	5	punct	_	_	344	345
+21	(	_	PUNCT	(	_	22	punct	_	_	1567	1568
+22	Song	_	PROPN	NNP	_	20	appos	_	_	1568	1572
+23	and	_	CONJ	CC	_	22	cc	_	_	1573	1576
+24	Galbraith	_	PROPN	NNP	_	22	conj:and	_	_	1577	1586
+25	,	_	PUNCT	,	_	22	punct	_	_	1586	1587
+26	2006	_	NUM	CD	_	22	dep	_	_	1588	1592
+27	)	_	PUNCT	)	_	22	punct	_	_	1592	1593
+28	.	_	PUNCT	.	_	5	punct	_	_	1593	1594
 

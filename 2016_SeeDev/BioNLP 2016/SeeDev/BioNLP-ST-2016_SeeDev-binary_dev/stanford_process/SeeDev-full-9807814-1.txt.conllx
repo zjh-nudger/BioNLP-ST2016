@@ -48,7 +48,7 @@
 19	end	_	NOUN	NN	_	10	nmod:at	_	_	276	279
 20	of	_	ADP	IN	_	21	mark	_	_	280	282
 21	ripening	_	VERB	VBG	_	19	acl	_	_	283	291
-22	-LRB-	_	PUNCT	-LRB-	_	24	punct	_	_	-1	4
+22	(	_	PUNCT	(	_	24	punct	_	_	292	293
 23	Goldberg	_	PROPN	NNP	_	24	compound	_	_	293	301
 24	et	_	PROPN	NNP	_	21	dep	_	_	302	304
 25	al.	_	NOUN	NN	_	24	dep	_	_	305	308
@@ -68,8 +68,8 @@
 39	&	_	CONJ	CC	_	38	cc	_	_	361	362
 40	Harada	_	PROPN	NNP	_	38	conj:&	_	_	363	369
 41	1993	_	NUM	CD	_	38	dep	_	_	370	374
-42	-RRB-	_	PUNCT	-RRB-	_	24	punct	_	_	-1	4
-43	.	_	PUNCT	.	_	6	punct	_	_	173	174
+42	)	_	PUNCT	)	_	24	punct	_	_	374	375
+43	.	_	PUNCT	.	_	6	punct	_	_	375	376
 
 1	By	_	ADP	IN	_	2	case	_	_	377	379
 2	means	_	NOUN	NNS	_	10	nmod:by	_	_	380	385
@@ -126,9 +126,9 @@
 8	the	_	DET	DT	_	10	det	_	_	717	720
 9	FUSCA3	_	PROPN	NNP	_	10	compound	_	_	721	727
 10	gene	_	NOUN	NN	_	6	nmod:in	_	_	728	732
-11	-LRB-	_	PUNCT	-LRB-	_	12	punct	_	_	-1	4
+11	(	_	PUNCT	(	_	12	punct	_	_	733	734
 12	FUS3	_	PROPN	NNP	_	6	appos	_	_	734	738
-13	-RRB-	_	PUNCT	-RRB-	_	12	punct	_	_	-1	4
+13	)	_	PUNCT	)	_	12	punct	_	_	738	739
 14	lead	_	VERB	VBP	_	0	root	_	_	740	744
 15	to	_	ADP	TO	_	18	case	_	_	745	747
 16	a	_	DET	DT	_	18	det	_	_	748	749
@@ -138,7 +138,7 @@
 20	affecting	_	VERB	VBG	_	18	acl	_	_	781	790
 21	seed	_	NOUN	NN	_	22	compound	_	_	791	795
 22	formation	_	NOUN	NN	_	20	dobj	_	_	796	805
-23	-LRB-	_	PUNCT	-LRB-	_	31	punct	_	_	-1	4
+23	(	_	PUNCT	(	_	31	punct	_	_	806	807
 24	Bäumlein	_	PROPN	NNP	_	31	dep	_	_	807	815
 25	et	_	CONJ	CC	_	24	cc	_	_	816	818
 26	al.	_	NOUN	NN	_	31	dep	_	_	819	822
@@ -148,8 +148,8 @@
 30	et	_	PROPN	NNP	_	31	nsubj	_	_	835	837
 31	al.	_	VERB	VBP	_	20	parataxis	_	_	838	841
 32	1994	_	NUM	CD	_	31	dobj	_	_	842	846
-33	-RRB-	_	PUNCT	-RRB-	_	31	punct	_	_	-1	4
-34	.	_	PUNCT	.	_	14	punct	_	_	173	174
+33	)	_	PUNCT	)	_	31	punct	_	_	846	847
+34	.	_	PUNCT	.	_	14	punct	_	_	847	848
 
 1	Particularly	_	ADV	RB	_	6	advmod	_	_	849	861
 2	,	_	PUNCT	,	_	6	punct	_	_	861	862

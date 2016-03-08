@@ -20,14 +20,14 @@
 20	MYB	_	PROPN	NNP	_	22	compound	_	_	111	114
 21	transcription	_	NOUN	NN	_	22	compound	_	_	115	128
 22	factors	_	NOUN	NNS	_	18	conj:and	_	_	129	136
-23	-LRB-	_	PUNCT	-LRB-	_	24	punct	_	_	-1	4
+23	(	_	PUNCT	(	_	24	punct	_	_	137	138
 24	Baud	_	PROPN	NNP	_	18	appos	_	_	138	142
 25	et	_	CONJ	CC	_	24	cc	_	_	143	145
 26	al.	_	PROPN	NNP	_	24	conj:et	_	_	146	149
 27	,	_	PUNCT	,	_	24	punct	_	_	149	150
 28	2008	_	NUM	CD	_	24	dep	_	_	151	155
-29	-RRB-	_	PUNCT	-RRB-	_	24	punct	_	_	-1	4
-30	.	_	PUNCT	.	_	12	punct	_	_	148	149
+29	)	_	PUNCT	)	_	24	punct	_	_	155	156
+30	.	_	PUNCT	.	_	12	punct	_	_	156	157
 
 1	All	_	DET	DT	_	15	nsubj	_	_	158	161
 2	of	_	ADP	IN	_	4	case	_	_	162	164
@@ -50,7 +50,7 @@
 19	of	_	ADP	IN	_	21	case	_	_	259	261
 20	storage	_	NOUN	NN	_	21	compound	_	_	262	269
 21	lipids	_	NOUN	NNS	_	18	nmod:of	_	_	270	276
-22	-LRB-	_	PUNCT	-LRB-	_	24	punct	_	_	-1	4
+22	(	_	PUNCT	(	_	24	punct	_	_	277	278
 23	Lara	_	PROPN	NNP	_	24	compound	_	_	278	282
 24	et	_	PROPN	NNP	_	15	dep	_	_	283	285
 25	al.	_	NUM	CD	_	24	nummod	_	_	286	289
@@ -76,8 +76,8 @@
 45	al.	_	PROPN	NNP	_	43	conj:et	_	_	360	363
 46	,	_	PUNCT	,	_	43	punct	_	_	363	364
 47	2008	_	NUM	CD	_	43	amod	_	_	365	369
-48	-RRB-	_	PUNCT	-RRB-	_	24	punct	_	_	-1	4
-49	.	_	PUNCT	.	_	15	punct	_	_	148	149
+48	)	_	PUNCT	)	_	24	punct	_	_	369	370
+49	.	_	PUNCT	.	_	15	punct	_	_	370	371
 
 1	We	_	PRON	PRP	_	2	nsubj	_	_	372	374
 2	found	_	VERB	VBD	_	0	root	_	_	375	380
@@ -105,11 +105,11 @@
 24	MYBs	_	NOUN	NNS	_	16	conj:and	_	_	479	483
 25	and	_	CONJ	CC	_	24	cc	_	_	484	487
 26	bZIPs	_	NOUN	NNS	_	24	conj:and	_	_	488	493
-27	-LRB-	_	PUNCT	-LRB-	_	28	punct	_	_	-1	4
+27	(	_	PUNCT	(	_	28	punct	_	_	494	495
 28	Table	_	PROPN	NNP	_	14	dep	_	_	495	500
 29	I	_	PROPN	NNP	_	28	dep	_	_	501	502
-30	-RRB-	_	PUNCT	-RRB-	_	28	punct	_	_	-1	4
-31	.	_	PUNCT	.	_	2	punct	_	_	148	149
+30	)	_	PUNCT	)	_	28	punct	_	_	502	503
+31	.	_	PUNCT	.	_	2	punct	_	_	503	504
 
 1	In	_	ADP	IN	_	2	case	_	_	505	507
 2	contrast	_	NOUN	NN	_	6	nmod:in	_	_	508	516

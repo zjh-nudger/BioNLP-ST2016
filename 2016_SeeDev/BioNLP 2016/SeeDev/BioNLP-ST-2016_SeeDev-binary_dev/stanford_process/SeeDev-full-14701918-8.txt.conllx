@@ -159,7 +159,7 @@
 29	to	_	PART	TO	_	30	mark	_	_	922	924
 30	undergo	_	VERB	VB	_	28	acl	_	_	925	932
 31	morphogenesis	_	NOUN	NNS	_	30	dobj	_	_	933	946
-32	-LRB-	_	PUNCT	-LRB-	_	33	punct	_	_	-1	4
+32	(	_	PUNCT	(	_	33	punct	_	_	947	948
 33	Dumville	_	PROPN	NNP	_	24	dep	_	_	948	956
 34	and	_	CONJ	CC	_	33	cc	_	_	957	960
 35	Fry	_	PROPN	NNP	_	33	conj:and	_	_	961	964
@@ -171,8 +171,8 @@
 41	al.	_	PROPN	NNP	_	39	conj:et	_	_	982	985
 42	,	_	PUNCT	,	_	33	punct	_	_	985	986
 43	2001	_	NUM	CD	_	33	amod	_	_	987	991
-44	-RRB-	_	PUNCT	-RRB-	_	33	punct	_	_	-1	4
-45	.	_	PUNCT	.	_	8	punct	_	_	185	186
+44	)	_	PUNCT	)	_	33	punct	_	_	991	992
+45	.	_	PUNCT	.	_	8	punct	_	_	992	993
 
 1	Determination	_	PROPN	NNP	_	9	nsubjpass	_	_	994	1007
 2	of	_	ADP	IN	_	5	case	_	_	1008	1010

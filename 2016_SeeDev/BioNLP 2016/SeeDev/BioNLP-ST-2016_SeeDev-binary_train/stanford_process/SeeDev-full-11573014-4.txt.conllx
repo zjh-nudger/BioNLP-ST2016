@@ -50,12 +50,12 @@
 11	range	_	NOUN	NN	_	9	dobj	_	_	299	304
 12	of	_	ADP	IN	_	13	case	_	_	305	307
 13	morphologies	_	NOUN	NNS	_	11	nmod:of	_	_	308	320
-14	-LRB-	_	PUNCT	-LRB-	_	15	punct	_	_	-1	4
+14	(	_	PUNCT	(	_	15	punct	_	_	321	322
 15	Fig	_	PROPN	NNP	_	13	dep	_	_	322	325
 16	.	_	PUNCT	.	_	15	punct	_	_	325	326
 17	5	_	NUM	CD	_	15	dep	_	_	327	328
-18	-RRB-	_	PUNCT	-RRB-	_	15	punct	_	_	-1	4
-19	,	_	PUNCT	,	_	22	punct	_	_	237	238
+18	)	_	PUNCT	)	_	15	punct	_	_	328	329
+19	,	_	PUNCT	,	_	22	punct	_	_	329	330
 20	approximately	_	ADV	RB	_	21	advmod	_	_	331	344
 21	one-third	_	NOUN	NN	_	22	nsubj	_	_	345	354
 22	possessed	_	VERB	VBD	_	0	root	_	_	355	364
@@ -178,14 +178,14 @@
 38	functional	_	ADJ	JJ	_	39	amod	_	_	1078	1088
 39	apical	_	ADJ	JJ	_	40	amod	_	_	1089	1095
 40	meristems	_	NOUN	NNS	_	36	nmod:of	_	_	1096	1105
-41	-LRB-	_	PUNCT	-LRB-	_	42	punct	_	_	-1	4
+41	(	_	PUNCT	(	_	42	punct	_	_	1106	1107
 42	Figs	_	PROPN	NNP	_	40	dep	_	_	1107	1111
 43	.	_	PUNCT	.	_	42	punct	_	_	1111	1112
 44	5	_	NUM	CD	_	42	dep	_	_	1113	1114
 45	and	_	CONJ	CC	_	44	cc	_	_	1115	1118
 46	6	_	NUM	CD	_	44	conj:and	_	_	1119	1120
-47	-RRB-	_	PUNCT	-RRB-	_	42	punct	_	_	-1	4
-48	.	_	PUNCT	.	_	11	punct	_	_	32	33
+47	)	_	PUNCT	)	_	42	punct	_	_	1120	1121
+48	.	_	PUNCT	.	_	11	punct	_	_	1121	1122
 
 1	Together	_	ADV	RB	_	5	advmod	_	_	1123	1131
 2	,	_	PUNCT	,	_	5	punct	_	_	1131	1132
@@ -277,10 +277,10 @@
 24	-	_	PUNCT	:	_	14	punct	_	_	1675	1676
 25	like	_	ADP	IN	_	26	case	_	_	1676	1680
 26	seedlings	_	NOUN	NNS	_	14	nmod:like	_	_	1681	1690
-27	-LRB-	_	PUNCT	-LRB-	_	28	punct	_	_	-1	4
+27	(	_	PUNCT	(	_	28	punct	_	_	1691	1692
 28	12	_	NUM	CD	_	26	appos	_	_	1692	1694
-29	-RRB-	_	PUNCT	-RRB-	_	28	punct	_	_	-1	4
-30	.	_	PUNCT	.	_	2	punct	_	_	32	33
+29	)	_	PUNCT	)	_	28	punct	_	_	1694	1695
+30	.	_	PUNCT	.	_	2	punct	_	_	1695	1696
 
 1	Moreover	_	ADV	RB	_	8	advmod	_	_	1697	1705
 2	,	_	PUNCT	,	_	8	punct	_	_	1705	1706
@@ -320,10 +320,10 @@
 4	the	_	DET	DT	_	10	det	_	_	1925	1928
 5	Arabidopsis	_	PROPN	NNP	_	6	compound	_	_	1929	1940
 6	PICKLE	_	PROPN	NNP	_	10	compound	_	_	1941	1947
-7	-LRB-	_	PUNCT	-LRB-	_	8	punct	_	_	-1	4
+7	(	_	PUNCT	(	_	8	punct	_	_	1948	1949
 8	PKL	_	PROPN	NNP	_	6	appos	_	_	1949	1952
-9	-RRB-	_	PUNCT	-RRB-	_	8	punct	_	_	-1	4
-10	gene	_	NOUN	NN	_	2	nmod:in	_	_	74	78
+9	)	_	PUNCT	)	_	8	punct	_	_	1952	1953
+10	gene	_	NOUN	NN	_	2	nmod:in	_	_	1954	1958
 11	also	_	ADV	RB	_	12	advmod	_	_	1959	1963
 12	induce	_	VERB	VB	_	0	root	_	_	1964	1970
 13	somatic	_	ADJ	JJ	_	14	amod	_	_	1971	1978
@@ -337,10 +337,10 @@
 21	-	_	PUNCT	:	_	20	punct	_	_	2037	2038
 22	free	_	ADJ	JJ	_	23	dep	_	_	2038	2042
 23	medium	_	NOUN	NN	_	20	amod	_	_	2043	2049
-24	-LRB-	_	PUNCT	-LRB-	_	25	punct	_	_	-1	4
+24	(	_	PUNCT	(	_	25	punct	_	_	2050	2051
 25	40	_	NUM	CD	_	20	appos	_	_	2051	2053
-26	-RRB-	_	PUNCT	-RRB-	_	25	punct	_	_	-1	4
-27	.	_	PUNCT	.	_	12	punct	_	_	32	33
+26	)	_	PUNCT	)	_	25	punct	_	_	2053	2054
+27	.	_	PUNCT	.	_	12	punct	_	_	2054	2055
 
 1	However	_	ADV	RB	_	5	advmod	_	_	2056	2063
 2	,	_	PUNCT	,	_	5	punct	_	_	2063	2064
@@ -359,10 +359,10 @@
 15	-	_	PUNCT	:	_	11	punct	_	_	2122	2123
 16	type	_	NOUN	NN	_	17	compound	_	_	2123	2127
 17	seedlings	_	NOUN	NNS	_	8	nmod:of	_	_	2128	2137
-18	-LRB-	_	PUNCT	-LRB-	_	19	punct	_	_	-1	4
+18	(	_	PUNCT	(	_	19	punct	_	_	2138	2139
 19	41	_	NUM	CD	_	17	appos	_	_	2139	2141
-20	-RRB-	_	PUNCT	-RRB-	_	19	punct	_	_	-1	4
-21	.	_	PUNCT	.	_	5	punct	_	_	32	33
+20	)	_	PUNCT	)	_	19	punct	_	_	2141	2142
+21	.	_	PUNCT	.	_	5	punct	_	_	2142	2143
 
 1	This	_	DET	DT	_	2	det	_	_	2144	2148
 2	result	_	NOUN	NN	_	3	nsubj	_	_	2149	2155
@@ -454,10 +454,10 @@
 11	for	_	ADP	IN	_	13	case	_	_	2637	2640
 12	somatic	_	ADJ	JJ	_	13	amod	_	_	2641	2648
 13	embryogenesis	_	NOUN	NNS	_	9	nmod:for	_	_	2649	2662
-14	-LRB-	_	PUNCT	-LRB-	_	15	punct	_	_	-1	4
+14	(	_	PUNCT	(	_	15	punct	_	_	2663	2664
 15	42–44	_	NUM	CD	_	13	appos	_	_	2664	2669
-16	-RRB-	_	PUNCT	-RRB-	_	15	punct	_	_	-1	4
-17	.	_	PUNCT	.	_	7	punct	_	_	32	33
+16	)	_	PUNCT	)	_	15	punct	_	_	2669	2670
+17	.	_	PUNCT	.	_	7	punct	_	_	2670	2671
 
 1	Embryogenic	_	ADJ	JJ	_	2	amod	_	_	2672	2683
 2	competence	_	NOUN	NN	_	5	nsubjpass	_	_	2684	2694
@@ -486,12 +486,12 @@
 25	removal	_	NOUN	NN	_	24	dobj	_	_	2842	2849
 26	of	_	ADP	IN	_	28	case	_	_	2850	2852
 27	the	_	DET	DT	_	28	det	_	_	2853	2856
-28	hormone-LRB-s-RRB-	_	NOUN	NN	_	25	nmod:of	_	_	-1	17
-29	.	_	PUNCT	.	_	5	punct	_	_	32	33
+28	hormone(s)	_	NOUN	NN	_	25	nmod:of	_	_	2857	2867
+29	.	_	PUNCT	.	_	5	punct	_	_	2867	2868
 
-1	LEC2	_	PROPN	NNP	_	4	nsubj	_	_	69	73
-2	and	_	CONJ	CC	_	1	cc	_	_	149	152
-3	LEC1	_	PROPN	NNP	_	4	nsubj	_	_	1580	1584
+1	LEC2	_	PROPN	NNP	_	4	nsubj	_	_	2869	2873
+2	and	_	CONJ	CC	_	1	cc	_	_	2874	2877
+3	LEC1	_	PROPN	NNP	_	4	nsubj	_	_	2878	2882
 4	obviate	_	VERB	VBD	_	0	root	_	_	2883	2890
 5	the	_	DET	DT	_	6	det	_	_	2891	2894
 6	need	_	NOUN	NN	_	4	dobj	_	_	2895	2899
@@ -540,15 +540,15 @@
 14	embryonic	_	ADJ	JJ	_	15	amod	_	_	3159	3168
 15	stages	_	NOUN	NNS	_	10	nmod:at	_	_	3169	3175
 16	tested	_	VERB	VBN	_	15	acl	_	_	3176	3182
-17	-LRB-	_	PUNCT	-LRB-	_	18	punct	_	_	-1	4
-18	Fig	_	PROPN	NNP	_	2	dep	_	_	322	325
-19	.	_	PUNCT	.	_	18	punct	_	_	325	326
-20	4	_	NUM	CD	_	18	dep	_	_	2051	2052
+17	(	_	PUNCT	(	_	18	punct	_	_	3183	3184
+18	Fig	_	PROPN	NNP	_	2	dep	_	_	3184	3187
+19	.	_	PUNCT	.	_	18	punct	_	_	3187	3188
+20	4	_	NUM	CD	_	18	dep	_	_	3189	3190
 21	;	_	PUNCT	:	_	20	punct	_	_	3190	3191
 22	ref	_	PROPN	NNP	_	20	dep	_	_	3192	3195
 23	.	_	PUNCT	.	_	22	punct	_	_	3195	3196
 24	12	_	NUM	CD	_	22	dep	_	_	3197	3199
-25	-RRB-	_	PUNCT	-RRB-	_	18	punct	_	_	-1	4
+25	)	_	PUNCT	)	_	18	punct	_	_	3199	3200
 26	opens	_	VERB	VBZ	_	0	root	_	_	3201	3206
 27	the	_	DET	DT	_	28	det	_	_	3207	3210
 28	possibility	_	NOUN	NN	_	26	dobj	_	_	3211	3222
@@ -644,12 +644,12 @@
 26	partial	_	ADJ	JJ	_	28	amod	_	_	3798	3805
 27	genetic	_	ADJ	JJ	_	28	amod	_	_	3806	3813
 28	redundancy	_	NOUN	NN	_	25	dobj	_	_	3814	3824
-29	-LRB-	_	PUNCT	-LRB-	_	30	punct	_	_	-1	4
-30	12	_	NUM	CD	_	28	appos	_	_	1692	1694
-31	,	_	PUNCT	,	_	30	punct	_	_	1705	1706
+29	(	_	PUNCT	(	_	30	punct	_	_	3825	3826
+30	12	_	NUM	CD	_	28	appos	_	_	3826	3828
+31	,	_	PUNCT	,	_	30	punct	_	_	3828	3829
 32	15	_	NUM	CD	_	30	dep	_	_	3830	3832
-33	-RRB-	_	PUNCT	-RRB-	_	30	punct	_	_	-1	4
-34	.	_	PUNCT	.	_	4	punct	_	_	32	33
+33	)	_	PUNCT	)	_	30	punct	_	_	3832	3833
+34	.	_	PUNCT	.	_	4	punct	_	_	3833	3834
 
 1	Although	_	SCONJ	IN	_	7	mark	_	_	3835	3843
 2	LEC1	_	PROPN	NNP	_	9	nsubj	_	_	3844	3848
@@ -692,14 +692,14 @@
 15	a	_	DET	DT	_	17	det	_	_	4061	4062
 16	synergistic	_	ADJ	JJ	_	17	amod	_	_	4063	4074
 17	phenotype	_	NOUN	NN	_	14	dep	_	_	4075	4084
-18	-LRB-	_	PUNCT	-LRB-	_	19	punct	_	_	-1	4
-19	12	_	NUM	CD	_	17	appos	_	_	1692	1694
-20	,	_	PUNCT	,	_	19	punct	_	_	1705	1706
-21	15	_	NUM	CD	_	19	dep	_	_	3830	3832
-22	,	_	PUNCT	,	_	19	punct	_	_	3927	3928
+18	(	_	PUNCT	(	_	19	punct	_	_	4085	4086
+19	12	_	NUM	CD	_	17	appos	_	_	4086	4088
+20	,	_	PUNCT	,	_	19	punct	_	_	4088	4089
+21	15	_	NUM	CD	_	19	dep	_	_	4090	4092
+22	,	_	PUNCT	,	_	19	punct	_	_	4092	4093
 23	16	_	NUM	CD	_	19	dep	_	_	4094	4096
-24	-RRB-	_	PUNCT	-RRB-	_	19	punct	_	_	-1	4
-25	.	_	PUNCT	.	_	1	punct	_	_	32	33
+24	)	_	PUNCT	)	_	19	punct	_	_	4096	4097
+25	.	_	PUNCT	.	_	1	punct	_	_	4097	4098
 
 1	Furthermore	_	ADV	RB	_	9	advmod	_	_	4099	4110
 2	,	_	PUNCT	,	_	9	punct	_	_	4110	4111
@@ -735,10 +735,10 @@
 32	first	_	ADJ	JJ	_	34	amod	_	_	4275	4280
 33	true	_	ADJ	JJ	_	34	amod	_	_	4281	4285
 34	leaves	_	NOUN	NNS	_	29	nmod:of	_	_	4286	4292
-35	-LRB-	_	PUNCT	-LRB-	_	36	punct	_	_	-1	4
-36	12	_	NUM	CD	_	34	appos	_	_	1692	1694
-37	-RRB-	_	PUNCT	-RRB-	_	36	punct	_	_	-1	4
-38	.	_	PUNCT	.	_	9	punct	_	_	32	33
+35	(	_	PUNCT	(	_	36	punct	_	_	4293	4294
+36	12	_	NUM	CD	_	34	appos	_	_	4294	4296
+37	)	_	PUNCT	)	_	36	punct	_	_	4296	4297
+38	.	_	PUNCT	.	_	9	punct	_	_	4297	4298
 
 1	By	_	ADP	IN	_	2	case	_	_	4299	4301
 2	contrast	_	NOUN	NN	_	18	nmod:by	_	_	4302	4310

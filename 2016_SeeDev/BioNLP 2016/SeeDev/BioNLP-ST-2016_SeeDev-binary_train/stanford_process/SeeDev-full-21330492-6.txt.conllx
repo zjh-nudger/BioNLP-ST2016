@@ -83,7 +83,7 @@
 8	down	_	ADV	RB	_	7	advmod	_	_	484	488
 9	-	_	PUNCT	:	_	7	punct	_	_	488	489
 10	regulated	_	VERB	VBN	_	7	dobj	_	_	489	498
-11	-LRB-	_	PUNCT	-LRB-	_	12	punct	_	_	-1	4
+11	(	_	PUNCT	(	_	12	punct	_	_	499	500
 12	HDA5	_	PROPN	NNP	_	10	dep	_	_	500	504
 13	,	_	PUNCT	,	_	12	punct	_	_	504	505
 14	-9	_	NUM	CD	_	12	appos	_	_	506	508
@@ -92,8 +92,8 @@
 17	,	_	PUNCT	,	_	14	punct	_	_	513	514
 18	and	_	CONJ	CC	_	14	cc	_	_	515	518
 19	HDT1	_	NUM	CD	_	14	conj:and	_	_	519	523
-20	-RRB-	_	PUNCT	-RRB-	_	12	punct	_	_	-1	4
-21	as	_	ADV	RB	_	10	cc	_	_	99	101
+20	)	_	PUNCT	)	_	12	punct	_	_	523	524
+21	as	_	ADV	RB	_	10	cc	_	_	525	527
 22	well	_	ADV	RB	_	21	mwe	_	_	528	532
 23	as	_	ADP	IN	_	21	mwe	_	_	533	535
 24	the	_	DET	DT	_	26	det	_	_	536	539
@@ -101,10 +101,10 @@
 26	homolog	_	NOUN	NN	_	10	conj:and	_	_	548	555
 27	to	_	ADP	TO	_	28	case	_	_	556	558
 28	ASIL1	_	PROPN	NNP	_	26	nmod:to	_	_	559	564
-29	-LRB-	_	PUNCT	-LRB-	_	30	punct	_	_	-1	4
+29	(	_	PUNCT	(	_	30	punct	_	_	565	566
 30	ASIL2	_	PROPN	NNP	_	28	appos	_	_	566	571
-31	-RRB-	_	PUNCT	-RRB-	_	30	punct	_	_	-1	4
-32	.	_	PUNCT	.	_	7	punct	_	_	196	197
+31	)	_	PUNCT	)	_	30	punct	_	_	571	572
+32	.	_	PUNCT	.	_	7	punct	_	_	572	573
 
 1	It	_	PRON	PRP	_	5	nsubjpass	_	_	574	576
 2	has	_	AUX	VBZ	_	5	aux	_	_	577	580
@@ -145,14 +145,14 @@
 37	at	_	ADP	IN	_	39	case	_	_	762	764
 38	two	_	NUM	CD	_	39	nummod	_	_	765	768
 39	levels	_	NOUN	NNS	_	32	nmod:at	_	_	769	775
-40	-LRB-	_	PUNCT	-LRB-	_	41	punct	_	_	-1	4
+40	(	_	PUNCT	(	_	41	punct	_	_	776	777
 41	Gao	_	PROPN	NNP	_	39	appos	_	_	777	780
 42	et	_	CONJ	CC	_	41	cc	_	_	781	783
 43	al.	_	PROPN	NNP	_	41	conj:et	_	_	784	787
 44	,	_	PUNCT	,	_	41	punct	_	_	787	788
 45	2009	_	NUM	CD	_	41	dep	_	_	789	793
-46	-RRB-	_	PUNCT	-RRB-	_	41	punct	_	_	-1	4
-47	.	_	PUNCT	.	_	5	punct	_	_	196	197
+46	)	_	PUNCT	)	_	41	punct	_	_	793	794
+47	.	_	PUNCT	.	_	5	punct	_	_	794	795
 
 1	We	_	PRON	PRP	_	19	nsubj	_	_	796	798
 2	analyzed	_	VERB	VBD	_	0	root	_	_	799	807

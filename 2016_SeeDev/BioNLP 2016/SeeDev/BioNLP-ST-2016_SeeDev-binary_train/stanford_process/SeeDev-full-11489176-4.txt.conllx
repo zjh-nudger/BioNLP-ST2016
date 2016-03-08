@@ -83,12 +83,12 @@
 23	AD	_	PROPN	NNP	_	20	nmod:with	_	_	477	479
 24	-	_	PUNCT	:	_	23	punct	_	_	479	480
 25	ABIs	_	PROPN	NNP	_	23	dep	_	_	480	484
-26	-LRB-	_	PUNCT	-LRB-	_	27	punct	_	_	-1	4
+26	(	_	PUNCT	(	_	27	punct	_	_	485	486
 27	data	_	NOUN	NNS	_	25	dep	_	_	486	490
 28	not	_	PART	RB	_	29	neg	_	_	491	494
 29	shown	_	VERB	VBN	_	27	acl	_	_	495	500
-30	-RRB-	_	PUNCT	-RRB-	_	27	punct	_	_	-1	4
-31	.	_	PUNCT	.	_	20	punct	_	_	195	196
+30	)	_	PUNCT	)	_	27	punct	_	_	500	501
+31	.	_	PUNCT	.	_	20	punct	_	_	501	502
 
 1	While	_	SCONJ	IN	_	10	mark	_	_	503	508
 2	deletion	_	NOUN	NN	_	10	nsubj	_	_	509	517
@@ -167,11 +167,11 @@
 41	a	_	DET	DT	_	43	det	_	_	942	943
 42	two-hybrid	_	ADJ	JJ	_	43	amod	_	_	944	954
 43	screen	_	NOUN	NN	_	39	nmod:in	_	_	955	961
-44	-LRB-	_	PUNCT	-LRB-	_	45	punct	_	_	-1	4
+44	(	_	PUNCT	(	_	45	punct	_	_	962	963
 45	S.N.	_	PROPN	NNP	_	43	appos	_	_	963	967
 46	,	_	PUNCT	,	_	45	punct	_	_	967	968
 47	unpublished	_	ADJ	JJ	_	48	amod	_	_	969	980
 48	results	_	NOUN	NNS	_	45	dep	_	_	981	988
-49	-RRB-	_	PUNCT	-RRB-	_	45	punct	_	_	-1	4
-50	.	_	PUNCT	.	_	34	punct	_	_	195	196
+49	)	_	PUNCT	)	_	45	punct	_	_	988	989
+50	.	_	PUNCT	.	_	34	punct	_	_	989	990
 

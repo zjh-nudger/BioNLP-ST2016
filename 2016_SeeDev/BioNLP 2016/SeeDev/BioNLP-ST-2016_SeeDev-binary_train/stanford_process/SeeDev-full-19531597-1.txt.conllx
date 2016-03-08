@@ -4,9 +4,9 @@
 4	thaliana	_	NOUN	NN	_	6	compound	_	_	29	37
 5	seed	_	NOUN	NN	_	6	compound	_	_	38	42
 6	maturation	_	NOUN	NN	_	1	nmod:of	_	_	43	53
-7	-LRB-	_	PUNCT	-LRB-	_	8	punct	_	_	-1	4
+7	(	_	PUNCT	(	_	8	punct	_	_	54	55
 8	MAT	_	PROPN	NNP	_	6	appos	_	_	55	58
-9	-RRB-	_	PUNCT	-RRB-	_	8	punct	_	_	-1	4
+9	)	_	PUNCT	)	_	8	punct	_	_	58	59
 10	genes	_	NOUN	NNS	_	12	nsubjpass	_	_	60	65
 11	is	_	AUX	VBZ	_	12	auxpass	_	_	66	68
 12	controlled	_	VERB	VBN	_	1	dep	_	_	69	79
@@ -23,10 +23,10 @@
 23	basic	_	ADJ	JJ	_	25	amod	_	_	141	146
 24	leucine	_	NOUN	NN	_	25	compound	_	_	147	154
 25	zippers	_	NOUN	NNS	_	1	nmod:such_as	_	_	155	162
-26	-LRB-	_	PUNCT	-LRB-	_	27	punct	_	_	-1	4
+26	(	_	PUNCT	(	_	27	punct	_	_	163	164
 27	bZIPs	_	NOUN	NNS	_	25	appos	_	_	164	169
-28	-RRB-	_	PUNCT	-RRB-	_	27	punct	_	_	-1	4
-29	,	_	PUNCT	,	_	25	punct	_	_	131	132
+28	)	_	PUNCT	)	_	27	punct	_	_	169	170
+29	,	_	PUNCT	,	_	25	punct	_	_	170	171
 30	B3s	_	NOUN	NNS	_	25	conj:and	_	_	172	175
 31	,	_	PUNCT	,	_	25	punct	_	_	175	176
 32	MYBs	_	PROPN	NNP	_	25	conj:and	_	_	177	181

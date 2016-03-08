@@ -40,12 +40,12 @@
 40	and	_	CONJ	CC	_	39	cc	_	_	201	204
 41	earlier	_	ADJ	JJR	_	42	amod	_	_	205	212
 42	flowering	_	NOUN	NN	_	39	conj:and	_	_	213	222
-43	-LRB-	_	PUNCT	-LRB-	_	44	punct	_	_	-1	4
+43	(	_	PUNCT	(	_	44	punct	_	_	223	224
 44	reviewed	_	VERB	VBN	_	35	dep	_	_	224	232
 45	in	_	ADP	IN	_	46	case	_	_	233	235
 46	Ma	_	PROPN	NNP	_	44	nmod:in	_	_	236	238
 47	1998	_	NUM	CD	_	46	nummod	_	_	239	243
-48	-RRB-	_	PUNCT	-RRB-	_	44	punct	_	_	-1	4
+48	)	_	PUNCT	)	_	44	punct	_	_	243	244
 49	.	_	PUNCT	.	_	23	punct	_	_	244	245
 
 1	Given	_	VERB	VBN	_	4	case	_	_	246	251
@@ -81,11 +81,11 @@
 31	,	_	PUNCT	,	_	35	punct	_	_	408	409
 32	it	_	PRON	PRP	_	35	nsubj	_	_	410	412
 33	may	_	AUX	MD	_	35	aux	_	_	413	416
-34	``	_	PUNCT	``	_	35	punct	_	_	-1	1
+34	"	_	PUNCT	"	_	35	punct	_	_	417	418
 35	juvenilize	_	VERB	VB	_	15	parataxis	_	_	418	428
-36	''	_	PUNCT	''	_	35	punct	_	_	-1	1
-37	the	_	DET	DT	_	38	det	_	_	252	255
-38	plants	_	NOUN	NNS	_	35	dobj	_	_	299	305
+36	"	_	PUNCT	"	_	35	punct	_	_	428	429
+37	the	_	DET	DT	_	38	det	_	_	430	433
+38	plants	_	NOUN	NNS	_	35	dobj	_	_	434	440
 39	.	_	PUNCT	.	_	15	punct	_	_	440	441
 
 1	Effects	_	PROPN	NNPS	_	10	nsubj	_	_	442	449
@@ -113,13 +113,13 @@
 23	an	_	DET	DT	_	25	det	_	_	575	577
 24	age-dependent	_	ADJ	JJ	_	25	amod	_	_	578	591
 25	fashion	_	NOUN	NN	_	21	nmod:in	_	_	592	599
-26	-LRB-	_	PUNCT	-LRB-	_	27	punct	_	_	-1	4
+26	(	_	PUNCT	(	_	27	punct	_	_	600	601
 27	Thomas	_	PROPN	NNP	_	25	appos	_	_	601	607
 28	1993	_	NUM	CD	_	27	nummod	_	_	608	612
-29	-RRB-	_	PUNCT	-RRB-	_	27	punct	_	_	-1	4
-30	.	_	PUNCT	.	_	10	punct	_	_	244	245
+29	)	_	PUNCT	)	_	27	punct	_	_	612	613
+30	.	_	PUNCT	.	_	10	punct	_	_	613	614
 
-1	A	_	DET	DT	_	4	det	_	_	280	281
+1	A	_	DET	DT	_	4	det	_	_	615	616
 2	partially	_	ADV	RB	_	3	advmod	_	_	617	626
 3	juvenilized	_	ADJ	JJ	_	4	amod	_	_	627	638
 4	plant	_	NOUN	NN	_	6	nsubj	_	_	639	644
@@ -187,14 +187,14 @@
 23	are	_	AUX	VBP	_	24	auxpass	_	_	1022	1025
 24	produced	_	VERB	VBN	_	10	advcl	_	_	1026	1034
 25	later	_	ADV	RB	_	24	advmod	_	_	1035	1040
-26	-LRB-	_	PUNCT	-LRB-	_	27	punct	_	_	-1	4
+26	(	_	PUNCT	(	_	27	punct	_	_	1041	1042
 27	Bowman	_	PROPN	NNP	_	24	dep	_	_	1042	1048
 28	1994	_	NUM	CD	_	27	nummod	_	_	1049	1053
 29	;	_	PUNCT	:	_	27	punct	_	_	1054	1055
 30	Poethig	_	PROPN	NNP	_	27	dep	_	_	1056	1063
 31	1997	_	NUM	CD	_	30	nummod	_	_	1064	1068
-32	-RRB-	_	PUNCT	-RRB-	_	27	punct	_	_	-1	4
-33	.	_	PUNCT	.	_	10	punct	_	_	244	245
+32	)	_	PUNCT	)	_	27	punct	_	_	1068	1069
+33	.	_	PUNCT	.	_	10	punct	_	_	1069	1070
 
 1	Although	_	SCONJ	IN	_	7	mark	_	_	1071	1079
 2	the	_	DET	DT	_	3	det	_	_	1080	1083
@@ -228,13 +228,13 @@
 30	is	_	VERB	VBZ	_	32	cop	_	_	1238	1240
 31	too	_	ADV	RB	_	32	advmod	_	_	1241	1244
 32	complex	_	ADJ	JJ	_	23	conj:and	_	_	1245	1252
-33	-LRB-	_	PUNCT	-LRB-	_	34	punct	_	_	-1	4
-34	reviewed	_	VERB	VBN	_	32	dep	_	_	224	232
-35	in	_	ADP	IN	_	36	case	_	_	233	235
-36	Poethig	_	PROPN	NNP	_	34	nmod:in	_	_	1056	1063
-37	1997	_	NUM	CD	_	36	nummod	_	_	1064	1068
-38	-RRB-	_	PUNCT	-RRB-	_	34	punct	_	_	-1	4
-39	for	_	SCONJ	IN	_	43	mark	_	_	707	710
+33	(	_	PUNCT	(	_	34	punct	_	_	1253	1254
+34	reviewed	_	VERB	VBN	_	32	dep	_	_	1254	1262
+35	in	_	ADP	IN	_	36	case	_	_	1263	1265
+36	Poethig	_	PROPN	NNP	_	34	nmod:in	_	_	1266	1273
+37	1997	_	NUM	CD	_	36	nummod	_	_	1274	1278
+38	)	_	PUNCT	)	_	34	punct	_	_	1278	1279
+39	for	_	SCONJ	IN	_	43	mark	_	_	1280	1283
 40	this	_	DET	DT	_	41	det	_	_	1284	1288
 41	character	_	NOUN	NN	_	43	nsubj	_	_	1289	1298
 42	to	_	PART	TO	_	43	mark	_	_	1299	1301
@@ -270,11 +270,11 @@
 21	of	_	ADP	IN	_	23	case	_	_	1455	1457
 22	the	_	DET	DT	_	23	det	_	_	1458	1461
 23	leaf	_	NOUN	NN	_	20	nmod:of	_	_	1462	1466
-24	-LRB-	_	PUNCT	-LRB-	_	25	punct	_	_	-1	4
+24	(	_	PUNCT	(	_	25	punct	_	_	1467	1468
 25	Telfer	_	PROPN	NNP	_	23	dep	_	_	1468	1474
 26	et	_	CONJ	CC	_	25	cc	_	_	1475	1477
 27	al.	_	NOUN	NN	_	25	conj:et	_	_	1478	1481
 28	1997	_	NUM	CD	_	27	nummod	_	_	1482	1486
-29	-RRB-	_	PUNCT	-RRB-	_	25	punct	_	_	-1	4
-30	.	_	PUNCT	.	_	14	punct	_	_	244	245
+29	)	_	PUNCT	)	_	25	punct	_	_	1486	1487
+30	.	_	PUNCT	.	_	14	punct	_	_	1487	1488
 

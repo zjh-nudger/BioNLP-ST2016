@@ -36,7 +36,7 @@
 36	lec	_	VERB	VBN	_	30	conj:or	_	_	167	170
 37	2-1	_	NUM	CD	_	38	nummod	_	_	170	173
 38	embryos	_	NOUN	NNS	_	36	dobj	_	_	174	181
-39	-LRB-	_	PUNCT	-LRB-	_	41	punct	_	_	-1	4
+39	(	_	PUNCT	(	_	41	punct	_	_	182	183
 40	Meinke	_	PROPN	NNP	_	41	compound	_	_	183	189
 41	et	_	PROPN	NNP	_	38	dep	_	_	190	192
 42	al.	_	NUM	CD	_	41	nummod	_	_	193	196
@@ -54,8 +54,8 @@
 54	al.	_	NUM	CD	_	53	nummod	_	_	229	232
 55	,	_	PUNCT	,	_	53	punct	_	_	232	233
 56	2006	_	NUM	CD	_	53	nummod	_	_	234	238
-57	-RRB-	_	PUNCT	-RRB-	_	41	punct	_	_	-1	4
-58	,	_	PUNCT	,	_	36	punct	_	_	13	14
+57	)	_	PUNCT	)	_	41	punct	_	_	238	239
+58	,	_	PUNCT	,	_	36	punct	_	_	239	240
 59	suggesting	_	VERB	VBG	_	36	advcl	_	_	241	251
 60	that	_	SCONJ	IN	_	71	mark	_	_	252	256
 61	after	_	ADP	IN	_	63	case	_	_	257	262

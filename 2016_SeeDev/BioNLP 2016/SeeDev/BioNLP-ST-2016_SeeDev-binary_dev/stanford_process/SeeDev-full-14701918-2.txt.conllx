@@ -73,7 +73,7 @@
 21	,	_	PUNCT	,	_	16	punct	_	_	389	390
 22	and	_	CONJ	CC	_	16	cc	_	_	391	394
 23	Plantaginaceae	_	PROPN	NNP	_	16	conj:and	_	_	395	409
-24	-LRB-	_	PUNCT	-LRB-	_	25	punct	_	_	-1	4
+24	(	_	PUNCT	(	_	25	punct	_	_	410	411
 25	Grubert	_	PROPN	NNP	_	23	dep	_	_	411	418
 26	,	_	PUNCT	,	_	25	punct	_	_	418	419
 27	1981	_	NUM	CD	_	25	appos	_	_	420	424
@@ -83,8 +83,8 @@
 31	Bouman	_	PROPN	NNP	_	29	conj:and	_	_	442	448
 32	,	_	PUNCT	,	_	25	punct	_	_	448	449
 33	1995	_	NUM	CD	_	25	amod	_	_	450	454
-34	-RRB-	_	PUNCT	-RRB-	_	25	punct	_	_	-1	4
-35	.	_	PUNCT	.	_	9	punct	_	_	149	150
+34	)	_	PUNCT	)	_	25	punct	_	_	454	455
+35	.	_	PUNCT	.	_	9	punct	_	_	455	456
 
 1	Seed	_	NOUN	NN	_	2	compound	_	_	457	461
 2	imbibition	_	NOUN	NN	_	6	nsubj	_	_	462	472

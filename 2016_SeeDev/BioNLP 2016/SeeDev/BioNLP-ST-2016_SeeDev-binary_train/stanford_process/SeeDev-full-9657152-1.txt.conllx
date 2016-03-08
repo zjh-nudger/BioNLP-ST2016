@@ -2,9 +2,9 @@
 2	Arabidopsis	_	PROPN	NNP	_	4	compound	_	_	4	15
 3	LEAFY	_	PROPN	NNP	_	4	compound	_	_	16	21
 4	COTYLEDON1	_	PROPN	NNP	_	8	compound	_	_	22	32
-5	-LRB-	_	PUNCT	-LRB-	_	6	punct	_	_	-1	4
+5	(	_	PUNCT	(	_	6	punct	_	_	33	34
 6	LEC1	_	PROPN	NNP	_	4	appos	_	_	34	38
-7	-RRB-	_	PUNCT	-RRB-	_	6	punct	_	_	-1	4
+7	)	_	PUNCT	)	_	6	punct	_	_	38	39
 8	gene	_	NOUN	NN	_	10	nsubjpass	_	_	40	44
 9	is	_	AUX	VBZ	_	10	auxpass	_	_	45	47
 10	required	_	VERB	VBN	_	0	root	_	_	48	56
@@ -135,6 +135,6 @@
 27	.	_	PUNCT	.	_	23	punct	_	_	811	812
 28	prs	_	NOUN	NN	_	23	conj:and	_	_	812	815
 29	.	_	PUNCT	.	_	23	punct	_	_	815	816
-30	rt-LRB-"abs_end"-RRB-	_	VERB	VBN	_	23	acl	_	_	-1	20
+30	rt("abs_end")	_	VERB	VBN	_	23	acl	_	_	816	829
 31	;	_	PUNCT	:	_	3	punct	_	_	829	830
 

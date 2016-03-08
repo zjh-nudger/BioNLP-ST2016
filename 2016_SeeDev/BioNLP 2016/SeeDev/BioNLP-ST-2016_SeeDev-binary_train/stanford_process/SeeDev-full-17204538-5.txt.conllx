@@ -8,11 +8,11 @@
 8	by	_	ADP	IN	_	10	case	_	_	42	44
 9	micro	_	ADJ	JJ	_	10	amod	_	_	45	50
 10	RNAs	_	NOUN	NNS	_	7	nmod:agent	_	_	51	55
-11	-LRB-	_	PUNCT	-LRB-	_	12	punct	_	_	-1	4
+11	(	_	PUNCT	(	_	12	punct	_	_	56	57
 12	Chen	_	PROPN	NNP	_	10	appos	_	_	57	61
 13	,	_	PUNCT	,	_	12	punct	_	_	61	62
 14	2004	_	NUM	CD	_	12	dep	_	_	63	67
-15	-RRB-	_	PUNCT	-RRB-	_	12	punct	_	_	-1	4
+15	)	_	PUNCT	)	_	12	punct	_	_	67	68
 16	and	_	CONJ	CC	_	10	cc	_	_	69	72
 17	AP2	_	ADJ	JJ	_	18	amod	_	_	73	76
 18	protein	_	NOUN	NN	_	10	conj:and	_	_	77	84
@@ -23,7 +23,7 @@
 23	and	_	CONJ	CC	_	22	cc	_	_	104	107
 24	AtEBP	_	PROPN	NNP	_	22	conj:and	_	_	108	113
 25	expression	_	NOUN	NN	_	21	nsubj	_	_	114	124
-26	-LRB-	_	PUNCT	-LRB-	_	28	punct	_	_	-1	4
+26	(	_	PUNCT	(	_	28	punct	_	_	125	126
 27	Okamuro	_	PROPN	NNP	_	28	compound	_	_	126	133
 28	et	_	PROPN	NNP	_	25	dep	_	_	134	136
 29	al.	_	NUM	CD	_	28	nummod	_	_	137	140
@@ -32,8 +32,8 @@
 32	;	_	PUNCT	:	_	28	punct	_	_	146	147
 33	this	_	DET	DT	_	34	det	_	_	148	152
 34	study	_	NOUN	NN	_	28	dep	_	_	153	158
-35	-RRB-	_	PUNCT	-RRB-	_	28	punct	_	_	-1	4
-36	,	_	PUNCT	,	_	25	punct	_	_	61	62
+35	)	_	PUNCT	)	_	28	punct	_	_	158	159
+36	,	_	PUNCT	,	_	25	punct	_	_	159	160
 37	as	_	SCONJ	IN	_	38	mark	_	_	161	163
 38	indicated	_	VERB	VBD	_	25	dep	_	_	164	173
 39	in	_	ADP	IN	_	40	case	_	_	174	176
@@ -120,14 +120,14 @@
 14	than	_	ADP	IN	_	16	case	_	_	569	573
 15	ein2	_	ADJ	JJ	_	16	amod	_	_	574	578
 16	mutants	_	NOUN	NNS	_	13	nmod:than	_	_	579	586
-17	-LRB-	_	PUNCT	-LRB-	_	18	punct	_	_	-1	4
+17	(	_	PUNCT	(	_	18	punct	_	_	587	588
 18	Wang	_	PROPN	NNP	_	16	appos	_	_	588	592
 19	et	_	CONJ	CC	_	18	cc	_	_	593	595
 20	al.	_	PROPN	NNP	_	18	conj:et	_	_	596	599
 21	,	_	PUNCT	,	_	18	punct	_	_	599	600
 22	2002	_	NUM	CD	_	18	dep	_	_	601	605
-23	-RRB-	_	PUNCT	-RRB-	_	18	punct	_	_	-1	4
-24	.	_	PUNCT	.	_	3	punct	_	_	139	140
+23	)	_	PUNCT	)	_	18	punct	_	_	605	606
+24	.	_	PUNCT	.	_	3	punct	_	_	606	607
 
 1	Previous	_	ADJ	JJ	_	2	amod	_	_	608	616
 2	studies	_	NOUN	NNS	_	3	nsubj	_	_	617	624
@@ -144,7 +144,7 @@
 13	downstream	_	ADJ	JJ	_	12	dobj	_	_	690	700
 14	of	_	ADP	IN	_	15	case	_	_	701	703
 15	EIN2	_	PROPN	NNP	_	13	nmod:of	_	_	704	708
-16	-LRB-	_	PUNCT	-LRB-	_	18	punct	_	_	-1	4
+16	(	_	PUNCT	(	_	18	punct	_	_	709	710
 17	Binder	_	PROPN	NNP	_	18	compound	_	_	710	716
 18	et	_	PROPN	NNP	_	15	dep	_	_	717	719
 19	al.	_	NUM	CD	_	18	nummod	_	_	720	723
@@ -156,8 +156,8 @@
 25	al.	_	NUM	CD	_	24	nummod	_	_	742	745
 26	,	_	PUNCT	,	_	24	punct	_	_	745	746
 27	2004	_	NUM	CD	_	24	nummod	_	_	747	751
-28	-RRB-	_	PUNCT	-RRB-	_	18	punct	_	_	-1	4
-29	.	_	PUNCT	.	_	3	punct	_	_	139	140
+28	)	_	PUNCT	)	_	18	punct	_	_	751	752
+29	.	_	PUNCT	.	_	3	punct	_	_	752	753
 
 1	Furthermore	_	ADV	RB	_	7	advmod	_	_	754	765
 2	,	_	PUNCT	,	_	7	punct	_	_	765	766
@@ -171,7 +171,7 @@
 10	in	_	ADP	IN	_	12	case	_	_	822	824
 11	ethylene	_	NOUN	NN	_	12	compound	_	_	825	833
 12	signalling	_	NOUN	NN	_	9	nmod:in	_	_	834	844
-13	-LRB-	_	PUNCT	-LRB-	_	15	punct	_	_	-1	4
+13	(	_	PUNCT	(	_	15	punct	_	_	845	846
 14	Ogawa	_	PROPN	NNP	_	15	compound	_	_	846	851
 15	et	_	PROPN	NNP	_	12	dep	_	_	852	854
 16	al.	_	NUM	CD	_	15	nummod	_	_	855	858
@@ -180,12 +180,12 @@
 19	;	_	PUNCT	:	_	15	punct	_	_	864	865
 20	this	_	DET	DT	_	21	det	_	_	866	870
 21	study	_	NOUN	NN	_	15	dep	_	_	871	876
-22	-RRB-	_	PUNCT	-RRB-	_	15	punct	_	_	-1	4
-23	.	_	PUNCT	.	_	7	punct	_	_	139	140
+22	)	_	PUNCT	)	_	15	punct	_	_	876	877
+23	.	_	PUNCT	.	_	7	punct	_	_	877	878
 
-1	In	_	ADP	IN	_	3	case	_	_	183	185
-2	this	_	DET	DT	_	3	det	_	_	866	870
-3	study	_	NOUN	NN	_	8	nmod:in	_	_	871	876
+1	In	_	ADP	IN	_	3	case	_	_	879	881
+2	this	_	DET	DT	_	3	det	_	_	882	886
+3	study	_	NOUN	NN	_	8	nmod:in	_	_	887	892
 4	,	_	PUNCT	,	_	8	punct	_	_	892	893
 5	AP2	_	PROPN	NNP	_	8	nsubjpass	_	_	894	897
 6	was	_	AUX	VBD	_	8	auxpass	_	_	898	901
@@ -248,14 +248,14 @@
 18	level	_	NOUN	NN	_	15	dobj	_	_	1221	1226
 19	of	_	ADP	IN	_	20	case	_	_	1227	1229
 20	WT	_	PROPN	NNP	_	18	nmod:of	_	_	1230	1232
-21	-LRB-	_	PUNCT	-LRB-	_	22	punct	_	_	-1	4
+21	(	_	PUNCT	(	_	22	punct	_	_	1233	1234
 22	data	_	NOUN	NNS	_	14	dep	_	_	1234	1238
 23	not	_	PART	RB	_	24	neg	_	_	1239	1242
 24	shown	_	VERB	VBN	_	22	acl	_	_	1243	1248
-25	-RRB-	_	PUNCT	-RRB-	_	22	punct	_	_	-1	4
-26	.	_	PUNCT	.	_	5	punct	_	_	139	140
+25	)	_	PUNCT	)	_	22	punct	_	_	1248	1249
+26	.	_	PUNCT	.	_	5	punct	_	_	1249	1250
 
-1	The	_	DET	DT	_	3	det	_	_	362	365
+1	The	_	DET	DT	_	3	det	_	_	1251	1254
 2	ctr1	_	ADJ	JJ	_	3	amod	_	_	1255	1259
 3	mutants	_	NOUN	NNS	_	4	nsubj	_	_	1260	1267
 4	showed	_	VERB	VBD	_	0	root	_	_	1268	1274
@@ -281,14 +281,14 @@
 24	of	_	ADP	IN	_	26	case	_	_	1386	1388
 25	the	_	DET	DT	_	26	det	_	_	1389	1392
 26	gyneocium	_	NOUN	NN	_	23	nmod:of	_	_	1393	1402
-27	-LRB-	_	PUNCT	-LRB-	_	28	punct	_	_	-1	4
+27	(	_	PUNCT	(	_	28	punct	_	_	1403	1404
 28	Kieber	_	PROPN	NNP	_	26	appos	_	_	1404	1410
 29	et	_	CONJ	CC	_	28	cc	_	_	1411	1413
 30	al.	_	PROPN	NNP	_	28	conj:et	_	_	1414	1417
 31	,	_	PUNCT	,	_	28	punct	_	_	1417	1418
 32	1993	_	NUM	CD	_	28	dep	_	_	1419	1423
-33	-RRB-	_	PUNCT	-RRB-	_	28	punct	_	_	-1	4
-34	.	_	PUNCT	.	_	4	punct	_	_	139	140
+33	)	_	PUNCT	)	_	28	punct	_	_	1423	1424
+34	.	_	PUNCT	.	_	4	punct	_	_	1424	1425
 
 1	Interestingly	_	ADV	RB	_	6	advmod	_	_	1426	1439
 2	,	_	PUNCT	,	_	6	punct	_	_	1439	1440
@@ -304,7 +304,7 @@
 12	AtEBP	_	ADJ	JJ	_	14	amod	_	_	1489	1494
 13	knockout	_	NOUN	NN	_	14	compound	_	_	1495	1503
 14	plants	_	NOUN	NNS	_	6	nmod:to	_	_	1504	1510
-15	-LRB-	_	PUNCT	-LRB-	_	17	punct	_	_	-1	4
+15	(	_	PUNCT	(	_	17	punct	_	_	1511	1512
 16	Elliott	_	PROPN	NNP	_	17	compound	_	_	1512	1519
 17	et	_	PROPN	NNP	_	14	dep	_	_	1520	1522
 18	al.	_	NUM	CD	_	17	nummod	_	_	1523	1526
@@ -316,8 +316,8 @@
 24	al.	_	NUM	CD	_	23	nummod	_	_	1545	1548
 25	,	_	PUNCT	,	_	23	punct	_	_	1548	1549
 26	1996	_	NUM	CD	_	23	nummod	_	_	1550	1554
-27	-RRB-	_	PUNCT	-RRB-	_	17	punct	_	_	-1	4
-28	.	_	PUNCT	.	_	6	punct	_	_	139	140
+27	)	_	PUNCT	)	_	17	punct	_	_	1554	1555
+28	.	_	PUNCT	.	_	6	punct	_	_	1555	1556
 
 1	ANT	_	PROPN	NNP	_	4	nsubj	_	_	1557	1560
 2	is	_	VERB	VBZ	_	4	cop	_	_	1561	1563
@@ -373,11 +373,11 @@
 21	.	_	PUNCT	.	_	20	punct	_	_	1819	1820
 
 1	Chen	_	PROPN	NNP	_	5	nsubj	_	_	1821	1825
-2	-LRB-	_	PUNCT	-LRB-	_	3	punct	_	_	-1	4
-3	2004	_	NUM	CD	_	1	appos	_	_	63	67
-4	-RRB-	_	PUNCT	-RRB-	_	3	punct	_	_	-1	4
-5	reported	_	VERB	VBD	_	0	root	_	_	625	633
-6	that	_	SCONJ	IN	_	9	mark	_	_	634	638
+2	(	_	PUNCT	(	_	3	punct	_	_	1826	1827
+3	2004	_	NUM	CD	_	1	appos	_	_	1827	1831
+4	)	_	PUNCT	)	_	3	punct	_	_	1831	1832
+5	reported	_	VERB	VBD	_	0	root	_	_	1833	1841
+6	that	_	SCONJ	IN	_	9	mark	_	_	1842	1846
 7	micro	_	ADJ	JJ	_	8	amod	_	_	1847	1852
 8	RNAs	_	NOUN	NNS	_	9	nsubj	_	_	1853	1857
 9	control	_	VERB	VBP	_	5	ccomp	_	_	1858	1865

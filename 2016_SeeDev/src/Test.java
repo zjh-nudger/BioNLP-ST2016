@@ -35,16 +35,17 @@ public class Test {
 //		System.out.println(s);
 		
 		//test3  输出每个单词的偏移量
-		File txtFile = new File(AllRoot.trainPath+ "txt");
-		File gtFile = new File(AllRoot.trainPath+ "gt");
-		File stanfordFile = new File(AllRoot.trainPath+ "stanford");
+//		File txtFile = new File(AllRoot.trainPath+ "txt");
+//		File gtFile = new File(AllRoot.trainPath+ "gt");
+//		File stanfordFile = new File(AllRoot.trainPath+ "stanford");
 		
-//		File txtFile = new File(AllRoot.devPath+ "txt");
-//		File gtFile = new File(AllRoot.devPath+ "gt");
-//		File stanfordFile = new File(AllRoot.devPath+ "stanford");
+		File txtFile = new File(AllRoot.devPath+ "txt");
+		File gtFile = new File(AllRoot.devPath+ "gt");
+		File stanfordFile = new File(AllRoot.devPath+ "stanford");
 		
 		process.Location.setPosition(txtFile, gtFile, 0, true);
 		process.Location.setPosition(txtFile, stanfordFile, 1, false);
+
 	}
 
 }

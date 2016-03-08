@@ -61,7 +61,7 @@
 11	the	_	DET	DT	_	13	det	_	_	256	259
 12	SAP	_	PROPN	NNP	_	13	compound	_	_	260	263
 13	proteins	_	NOUN	NNS	_	10	dobj	_	_	264	272
-14	-LRB-	_	PUNCT	-LRB-	_	15	punct	_	_	-1	4
+14	(	_	PUNCT	(	_	15	punct	_	_	273	274
 15	reviewed	_	VERB	VBN	_	13	dep	_	_	274	282
 16	by	_	ADP	IN	_	17	case	_	_	283	285
 17	Silverstein	_	PROPN	NNP	_	15	nmod:by	_	_	286	297
@@ -69,8 +69,8 @@
 19	Ekwall	_	PROPN	NNP	_	17	conj:and	_	_	302	308
 20	,	_	PUNCT	,	_	17	punct	_	_	308	309
 21	2005	_	NUM	CD	_	17	amod	_	_	310	314
-22	-RRB-	_	PUNCT	-RRB-	_	15	punct	_	_	-1	4
-23	.	_	PUNCT	.	_	4	punct	_	_	92	93
+22	)	_	PUNCT	)	_	15	punct	_	_	314	315
+23	.	_	PUNCT	.	_	4	punct	_	_	315	316
 
 1	Arabidopsis	_	NOUN	NNS	_	2	nsubj	_	_	317	328
 2	has	_	VERB	VBZ	_	0	root	_	_	329	332
@@ -79,19 +79,19 @@
 5	orthologs	_	NOUN	NNS	_	2	dobj	_	_	343	352
 6	,	_	PUNCT	,	_	5	punct	_	_	352	353
 7	HDA19	_	PROPN	NNP	_	5	conj:and	_	_	354	359
-8	-LRB-	_	PUNCT	-LRB-	_	9	punct	_	_	-1	4
+8	(	_	PUNCT	(	_	9	punct	_	_	360	361
 9	At4g38130	_	PROPN	NNP	_	7	appos	_	_	361	370
-10	-RRB-	_	PUNCT	-RRB-	_	9	punct	_	_	-1	4
-11	and	_	CONJ	CC	_	5	cc	_	_	202	205
+10	)	_	PUNCT	)	_	9	punct	_	_	370	371
+11	and	_	CONJ	CC	_	5	cc	_	_	372	375
 12	HDA6	_	PROPN	NNP	_	5	conj:and	_	_	376	380
-13	-LRB-	_	PUNCT	-LRB-	_	14	punct	_	_	-1	4
+13	(	_	PUNCT	(	_	14	punct	_	_	381	382
 14	At5g63110	_	PROPN	NNP	_	5	appos	_	_	382	391
-15	-RRB-	_	PUNCT	-RRB-	_	14	punct	_	_	-1	4
-16	,	_	PUNCT	,	_	2	punct	_	_	5	6
-17	and	_	CONJ	CC	_	2	cc	_	_	202	205
-18	the	_	DET	DT	_	20	det	_	_	256	259
-19	Arabidopsis	_	PROPN	NNP	_	20	compound	_	_	317	328
-20	ortholog	_	NOUN	NN	_	28	nsubj	_	_	343	351
+15	)	_	PUNCT	)	_	14	punct	_	_	391	392
+16	,	_	PUNCT	,	_	2	punct	_	_	392	393
+17	and	_	CONJ	CC	_	2	cc	_	_	394	397
+18	the	_	DET	DT	_	20	det	_	_	398	401
+19	Arabidopsis	_	PROPN	NNP	_	20	compound	_	_	402	413
+20	ortholog	_	NOUN	NN	_	28	nsubj	_	_	414	422
 21	of	_	ADP	IN	_	22	case	_	_	423	425
 22	SAP18	_	PROPN	NNP	_	20	nmod:of	_	_	426	431
 23	has	_	AUX	VBZ	_	26	aux	_	_	432	435
@@ -103,14 +103,14 @@
 29	directly	_	ADV	RB	_	28	advmod	_	_	468	476
 30	with	_	ADP	IN	_	31	case	_	_	477	481
 31	HDA19	_	PROPN	NNP	_	28	nmod:with	_	_	482	487
-32	-LRB-	_	PUNCT	-LRB-	_	33	punct	_	_	-1	4
+32	(	_	PUNCT	(	_	33	punct	_	_	488	489
 33	Song	_	PROPN	NNP	_	31	appos	_	_	489	493
 34	and	_	CONJ	CC	_	33	cc	_	_	494	497
 35	Galbraith	_	PROPN	NNP	_	33	conj:and	_	_	498	507
 36	,	_	PUNCT	,	_	33	punct	_	_	507	508
 37	2006	_	NUM	CD	_	33	dep	_	_	509	513
-38	-RRB-	_	PUNCT	-RRB-	_	33	punct	_	_	-1	4
-39	.	_	PUNCT	.	_	2	punct	_	_	92	93
+38	)	_	PUNCT	)	_	33	punct	_	_	513	514
+39	.	_	PUNCT	.	_	2	punct	_	_	514	515
 
 1	We	_	PRON	PRP	_	2	nsubj	_	_	516	518
 2	show	_	VERB	VBP	_	0	root	_	_	519	523
@@ -133,11 +133,11 @@
 19	interact	_	VERB	VB	_	8	conj:and	_	_	604	612
 20	with	_	ADP	IN	_	21	case	_	_	613	617
 21	HDA19	_	PROPN	NNP	_	19	nmod:with	_	_	618	623
-22	-LRB-	_	PUNCT	-LRB-	_	23	punct	_	_	-1	4
+22	(	_	PUNCT	(	_	23	punct	_	_	624	625
 23	Figure	_	NOUN	NN	_	21	appos	_	_	625	631
 24	1	_	NUM	CD	_	23	nummod	_	_	632	633
-25	-RRB-	_	PUNCT	-RRB-	_	23	punct	_	_	-1	4
-26	.	_	PUNCT	.	_	2	punct	_	_	92	93
+25	)	_	PUNCT	)	_	23	punct	_	_	633	634
+26	.	_	PUNCT	.	_	2	punct	_	_	634	635
 
 1	Although	_	SCONJ	IN	_	7	mark	_	_	636	644
 2	the	_	DET	DT	_	3	det	_	_	645	648
@@ -158,9 +158,9 @@
 17	it	_	PRON	PRP	_	19	nsubj	_	_	733	735
 18	is	_	VERB	VBZ	_	19	cop	_	_	736	738
 19	necessary	_	ADJ	JJ	_	0	root	_	_	739	748
-20	-LRB-	_	PUNCT	-LRB-	_	21	punct	_	_	-1	4
-21	Figure	_	NOUN	NN	_	19	dep	_	_	625	631
-22	1	_	NUM	CD	_	21	nummod	_	_	632	633
-23	-RRB-	_	PUNCT	-RRB-	_	21	punct	_	_	-1	4
-24	.	_	PUNCT	.	_	19	punct	_	_	92	93
+20	(	_	PUNCT	(	_	21	punct	_	_	749	750
+21	Figure	_	NOUN	NN	_	19	dep	_	_	750	756
+22	1	_	NUM	CD	_	21	nummod	_	_	757	758
+23	)	_	PUNCT	)	_	21	punct	_	_	758	759
+24	.	_	PUNCT	.	_	19	punct	_	_	759	760
 

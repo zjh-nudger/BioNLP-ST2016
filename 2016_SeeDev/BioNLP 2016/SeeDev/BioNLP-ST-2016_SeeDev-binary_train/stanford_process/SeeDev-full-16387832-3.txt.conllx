@@ -28,7 +28,7 @@
 28	stem	_	VERB	VB	_	27	ccomp	_	_	193	197
 29	cell	_	NOUN	NN	_	30	compound	_	_	198	202
 30	niches	_	NOUN	NNS	_	28	dobj	_	_	203	209
-31	-LRB-	_	PUNCT	-LRB-	_	32	punct	_	_	-1	4
+31	(	_	PUNCT	(	_	32	punct	_	_	210	211
 32	Weigel	_	PROPN	NNP	_	30	dep	_	_	211	217
 33	and	_	CONJ	CC	_	32	cc	_	_	218	221
 34	Jürgens	_	PROPN	NNP	_	32	conj:and	_	_	222	229
@@ -38,7 +38,7 @@
 38	Laux	_	NUM	CD	_	32	dep	_	_	237	241
 39	,	_	PUNCT	,	_	38	punct	_	_	241	242
 40	2003	_	NUM	CD	_	38	amod	_	_	243	247
-41	-RRB-	_	PUNCT	-RRB-	_	32	punct	_	_	-1	4
+41	)	_	PUNCT	)	_	32	punct	_	_	247	248
 42	.	_	PUNCT	.	_	15	punct	_	_	248	249
 
 1	Here	_	ADV	RB	_	4	advmod	_	_	250	254
@@ -86,7 +86,7 @@
 23	organ	_	NOUN	NN	_	25	compound	_	_	497	502
 24	identity	_	NOUN	NN	_	25	compound	_	_	503	511
 25	specification	_	NOUN	NN	_	21	nmod:of	_	_	512	525
-26	-LRB-	_	PUNCT	-LRB-	_	27	punct	_	_	-1	4
+26	(	_	PUNCT	(	_	27	punct	_	_	526	527
 27	Bowman	_	PROPN	NNP	_	25	appos	_	_	527	533
 28	et	_	CONJ	CC	_	27	cc	_	_	534	536
 29	al.	_	PROPN	NNP	_	27	conj:et	_	_	537	540
@@ -94,8 +94,8 @@
 31	1989	_	NUM	CD	_	27	dep	_	_	542	546
 32	,	_	PUNCT	,	_	27	punct	_	_	546	547
 33	1991	_	NUM	CD	_	27	dep	_	_	548	552
-34	-RRB-	_	PUNCT	-RRB-	_	27	punct	_	_	-1	4
-35	.	_	PUNCT	.	_	10	punct	_	_	248	249
+34	)	_	PUNCT	)	_	27	punct	_	_	552	553
+35	.	_	PUNCT	.	_	10	punct	_	_	553	554
 
 1	Recently	_	ADV	RB	_	7	advmod	_	_	555	563
 2	,	_	PUNCT	,	_	7	punct	_	_	563	564
@@ -112,7 +112,7 @@
 13	of	_	ADP	IN	_	15	case	_	_	626	628
 14	seed	_	NOUN	NN	_	15	compound	_	_	629	633
 15	size	_	NOUN	NN	_	10	nmod:of	_	_	634	638
-16	-LRB-	_	PUNCT	-LRB-	_	18	punct	_	_	-1	4
+16	(	_	PUNCT	(	_	18	punct	_	_	639	640
 17	Okamuro	_	PROPN	NNP	_	18	compound	_	_	640	647
 18	et	_	PROPN	NNP	_	15	dep	_	_	648	650
 19	al.	_	NOUN	NN	_	18	dep	_	_	651	654
@@ -130,12 +130,12 @@
 31	al.	_	PROPN	NNP	_	29	conj:et	_	_	692	695
 32	,	_	PUNCT	,	_	29	punct	_	_	695	696
 33	2005	_	NUM	CD	_	29	amod	_	_	697	701
-34	-RRB-	_	PUNCT	-RRB-	_	18	punct	_	_	-1	4
-35	.	_	PUNCT	.	_	7	punct	_	_	248	249
+34	)	_	PUNCT	)	_	18	punct	_	_	701	702
+35	.	_	PUNCT	.	_	7	punct	_	_	702	703
 
-1	Here	_	ADV	RB	_	4	advmod	_	_	250	254
-2	,	_	PUNCT	,	_	4	punct	_	_	254	255
-3	we	_	PRON	PRP	_	4	nsubj	_	_	256	258
+1	Here	_	ADV	RB	_	4	advmod	_	_	704	708
+2	,	_	PUNCT	,	_	4	punct	_	_	708	709
+3	we	_	PRON	PRP	_	4	nsubj	_	_	710	712
 4	show	_	VERB	VBP	_	0	root	_	_	713	717
 5	that	_	SCONJ	IN	_	12	mark	_	_	718	722
 6	l28	_	NUM	CD	_	11	compound	_	_	723	726
@@ -345,8 +345,8 @@
 15	AP2	_	NOUN	NN	_	10	nmod:with	_	_	1813	1816
 16	and	_	CONJ	CC	_	15	cc	_	_	1817	1820
 17	redundant	_	ADJ	JJ	_	18	amod	_	_	1821	1830
-18	factor-LRB-s-RRB-	_	NOUN	NNS	_	15	conj:and	_	_	-1	16
-19	for	_	ADP	IN	_	20	case	_	_	17	20
+18	factor(s)	_	NOUN	NNS	_	15	conj:and	_	_	1831	1840
+19	for	_	ADP	IN	_	20	case	_	_	1841	1844
 20	interactors	_	NOUN	NNS	_	10	nmod:for	_	_	1845	1856
 21	in	_	ADP	IN	_	24	case	_	_	1857	1859
 22	a	_	DET	DT	_	24	det	_	_	1860	1861

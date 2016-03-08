@@ -59,7 +59,7 @@
 59	secondary	_	ADJ	JJ	_	61	amod	_	_	358	367
 60	cell	_	NOUN	NN	_	61	compound	_	_	368	372
 61	wall	_	NOUN	NN	_	56	nmod:of	_	_	373	377
-62	-LRB-	_	PUNCT	-LRB-	_	63	punct	_	_	-1	4
+62	(	_	PUNCT	(	_	63	punct	_	_	378	379
 63	columella	_	NOUN	NN	_	20	dep	_	_	379	388
 64	;	_	PUNCT	:	_	63	punct	_	_	388	389
 65	Beeckman	_	PROPN	NNP	_	63	dep	_	_	390	398
@@ -79,8 +79,8 @@
 79	al.	_	PROPN	NNP	_	77	conj:et	_	_	446	449
 80	,	_	PUNCT	,	_	77	punct	_	_	449	450
 81	2000	_	NUM	CD	_	77	amod	_	_	451	455
-82	-RRB-	_	PUNCT	-RRB-	_	63	punct	_	_	-1	4
-83	.	_	PUNCT	.	_	15	punct	_	_	404	405
+82	)	_	PUNCT	)	_	63	punct	_	_	455	456
+83	.	_	PUNCT	.	_	15	punct	_	_	456	457
 
 1	Seed	_	NOUN	NN	_	3	compound	_	_	458	462
 2	coat	_	NOUN	NN	_	3	compound	_	_	463	467
@@ -94,11 +94,11 @@
 10	Arabidopsis	_	PROPN	NNPS	_	8	nmod:in	_	_	523	534
 11	and	_	CONJ	CC	_	10	cc	_	_	535	538
 12	mum	_	PROPN	NNPS	_	10	conj:and	_	_	539	542
-13	-LRB-	_	PUNCT	-LRB-	_	14	punct	_	_	-1	4
-14	mucilage	_	NOUN	NN	_	10	appos	_	_	18	26
+13	(	_	PUNCT	(	_	14	punct	_	_	543	544
+14	mucilage	_	NOUN	NN	_	10	appos	_	_	544	552
 15	-	_	PUNCT	,	_	14	punct	_	_	552	553
 16	modified	_	PROPN	NNP	_	14	dep	_	_	553	561
-17	-RRB-	_	PUNCT	-RRB-	_	14	punct	_	_	-1	4
+17	)	_	PUNCT	)	_	14	punct	_	_	561	562
 18	mutants	_	NOUN	NNS	_	0	root	_	_	563	570
 19	affecting	_	VERB	VBG	_	18	acl	_	_	571	580
 20	mucilage	_	ADJ	JJ	_	21	amod	_	_	581	589
@@ -111,14 +111,14 @@
 27	simple	_	ADJ	JJ	_	29	amod	_	_	624	630
 28	screening	_	NOUN	NN	_	29	compound	_	_	631	640
 29	method	_	NOUN	NN	_	24	nmod:agent	_	_	641	647
-30	-LRB-	_	PUNCT	-LRB-	_	31	punct	_	_	-1	4
-31	Western	_	PROPN	NNP	_	18	appos	_	_	413	420
-32	et	_	CONJ	CC	_	31	cc	_	_	421	423
-33	al.	_	PROPN	NNP	_	31	conj:et	_	_	424	427
-34	,	_	PUNCT	,	_	31	punct	_	_	427	428
+30	(	_	PUNCT	(	_	31	punct	_	_	648	649
+31	Western	_	PROPN	NNP	_	18	appos	_	_	649	656
+32	et	_	CONJ	CC	_	31	cc	_	_	657	659
+33	al.	_	PROPN	NNP	_	31	conj:et	_	_	660	663
+34	,	_	PUNCT	,	_	31	punct	_	_	663	664
 35	2001	_	NUM	CD	_	31	dep	_	_	665	669
-36	-RRB-	_	PUNCT	-RRB-	_	31	punct	_	_	-1	4
-37	.	_	PUNCT	.	_	18	punct	_	_	404	405
+36	)	_	PUNCT	)	_	31	punct	_	_	669	670
+37	.	_	PUNCT	.	_	18	punct	_	_	670	671
 
 1	Mutations	_	NOUN	NNS	_	10	nsubj	_	_	672	681
 2	in	_	ADP	IN	_	3	case	_	_	682	684
@@ -177,11 +177,11 @@
 1	Mutants	_	NOUN	NNS	_	17	nsubj	_	_	993	1000
 2	in	_	ADP	IN	_	3	case	_	_	1001	1003
 3	AP2	_	PROPN	NNP	_	1	nmod:in	_	_	1004	1007
-4	-LRB-	_	PUNCT	-LRB-	_	5	punct	_	_	-1	4
+4	(	_	PUNCT	(	_	5	punct	_	_	1008	1009
 5	APETALA2	_	PROPN	NNP	_	3	appos	_	_	1009	1017
-6	-RRB-	_	PUNCT	-RRB-	_	5	punct	_	_	-1	4
-7	,	_	PUNCT	,	_	1	punct	_	_	154	155
-8	in	_	ADP	IN	_	9	case	_	_	228	230
+6	)	_	PUNCT	)	_	5	punct	_	_	1017	1018
+7	,	_	PUNCT	,	_	1	punct	_	_	1018	1019
+8	in	_	ADP	IN	_	9	case	_	_	1020	1022
 9	addition	_	NOUN	NN	_	1	nmod:in	_	_	1023	1031
 10	to	_	ADP	TO	_	12	case	_	_	1032	1034
 11	their	_	PRON	PRP$	_	12	nmod:poss	_	_	1035	1040
@@ -200,7 +200,7 @@
 24	mucilage	_	ADJ	JJ	_	26	amod	_	_	1120	1128
 25	secretory	_	NOUN	NN	_	26	compound	_	_	1129	1138
 26	cells	_	NOUN	NNS	_	22	nmod:of	_	_	1139	1144
-27	-LRB-	_	PUNCT	-LRB-	_	29	punct	_	_	-1	4
+27	(	_	PUNCT	(	_	29	punct	_	_	1145	1146
 28	Jofuku	_	PROPN	NNP	_	29	compound	_	_	1146	1152
 29	et	_	PROPN	NNP	_	26	dep	_	_	1153	1155
 30	al.	_	NUM	CD	_	29	nummod	_	_	1156	1159
@@ -212,24 +212,24 @@
 36	al.	_	NUM	CD	_	35	nummod	_	_	1178	1181
 37	,	_	PUNCT	,	_	35	punct	_	_	1181	1182
 38	2001	_	NUM	CD	_	35	nummod	_	_	1183	1187
-39	-RRB-	_	PUNCT	-RRB-	_	29	punct	_	_	-1	4
-40	.	_	PUNCT	.	_	17	punct	_	_	404	405
+39	)	_	PUNCT	)	_	29	punct	_	_	1187	1188
+40	.	_	PUNCT	.	_	17	punct	_	_	1188	1189
 
 1	TTG1	_	PROPN	NNP	_	27	nsubj	_	_	1190	1194
-2	-LRB-	_	PUNCT	-LRB-	_	5	punct	_	_	-1	4
+2	(	_	PUNCT	(	_	5	punct	_	_	1195	1196
 3	TRANSPARENT	_	PROPN	NNP	_	5	compound	_	_	1196	1207
 4	TESTA	_	PROPN	NNP	_	5	compound	_	_	1208	1213
 5	GLABRA1	_	PROPN	NNP	_	1	appos	_	_	1214	1221
-6	-RRB-	_	PUNCT	-RRB-	_	5	punct	_	_	-1	4
-7	,	_	PUNCT	,	_	1	punct	_	_	154	155
+6	)	_	PUNCT	)	_	5	punct	_	_	1221	1222
+7	,	_	PUNCT	,	_	1	punct	_	_	1222	1223
 8	TTG2	_	PROPN	NNP	_	1	appos	_	_	1224	1228
 9	,	_	PUNCT	,	_	1	punct	_	_	1228	1229
 10	and	_	CONJ	CC	_	1	cc	_	_	1230	1233
 11	GL2	_	PROPN	NNP	_	27	nsubj	_	_	1234	1237
-12	-LRB-	_	PUNCT	-LRB-	_	13	punct	_	_	-1	4
+12	(	_	PUNCT	(	_	13	punct	_	_	1238	1239
 13	GLABRA2	_	PROPN	NNP	_	11	appos	_	_	1239	1246
-14	-RRB-	_	PUNCT	-RRB-	_	13	punct	_	_	-1	4
-15	,	_	PUNCT	,	_	11	punct	_	_	154	155
+14	)	_	PUNCT	)	_	13	punct	_	_	1246	1247
+15	,	_	PUNCT	,	_	11	punct	_	_	1247	1248
 16	which	_	DET	WDT	_	11	ref	_	_	1249	1254
 17	were	_	AUX	VBD	_	19	auxpass	_	_	1255	1259
 18	originally	_	ADV	RB	_	19	advmod	_	_	1260	1270
@@ -253,7 +253,7 @@
 36	the	_	DET	DT	_	38	det	_	_	1386	1389
 37	seed	_	NOUN	NN	_	38	compound	_	_	1390	1394
 38	coat	_	NOUN	NN	_	34	nmod:in	_	_	1395	1399
-39	-LRB-	_	PUNCT	-LRB-	_	40	punct	_	_	-1	4
+39	(	_	PUNCT	(	_	40	punct	_	_	1400	1401
 40	Koornneef	_	PROPN	NNP	_	27	dep	_	_	1401	1410
 41	,	_	PUNCT	,	_	40	punct	_	_	1410	1411
 42	1981	_	NUM	CD	_	40	amod	_	_	1412	1416
@@ -275,8 +275,8 @@
 58	al.	_	NOUN	NN	_	56	conj:et	_	_	1474	1477
 59	,	_	PUNCT	,	_	40	punct	_	_	1477	1478
 60	2002	_	ADV	RB	_	40	advmod	_	_	1479	1483
-61	-RRB-	_	PUNCT	-RRB-	_	40	punct	_	_	-1	4
-62	.	_	PUNCT	.	_	27	punct	_	_	404	405
+61	)	_	PUNCT	)	_	40	punct	_	_	1483	1484
+62	.	_	PUNCT	.	_	27	punct	_	_	1484	1485
 
 1	It	_	PRON	PRP	_	4	nsubjpass	_	_	1486	1488
 2	has	_	AUX	VBZ	_	4	aux	_	_	1489	1492
@@ -304,9 +304,9 @@
 24	loop	_	NOUN	NN	_	22	conj:and	_	_	1607	1611
 25	-	_	PUNCT	:	_	22	punct	_	_	1611	1612
 26	helix	_	ADJ	JJ	_	30	amod	_	_	1612	1617
-27	-LRB-	_	PUNCT	-LRB-	_	28	punct	_	_	-1	4
+27	(	_	PUNCT	(	_	28	punct	_	_	1618	1619
 28	bHLH	_	NOUN	NN	_	30	appos	_	_	1619	1623
-29	-RRB-	_	PUNCT	-RRB-	_	28	punct	_	_	-1	4
+29	)	_	PUNCT	)	_	28	punct	_	_	1623	1624
 30	protein	_	NOUN	NN	_	22	conj:and	_	_	1625	1632
 31	and	_	CONJ	CC	_	30	cc	_	_	1633	1636
 32	a	_	DET	DT	_	33	det	_	_	1637	1638
@@ -321,7 +321,7 @@
 41	GL2	_	PROPN	NNP	_	39	conj	_	_	1684	1687
 42	and	_	CONJ	CC	_	22	cc	_	_	1688	1691
 43	TTG2	_	PROPN	NNP	_	22	conj:and	_	_	1692	1696
-44	-LRB-	_	PUNCT	-LRB-	_	46	punct	_	_	-1	4
+44	(	_	PUNCT	(	_	46	punct	_	_	1697	1698
 45	Payne	_	PROPN	NNP	_	46	compound	_	_	1698	1703
 46	et	_	PROPN	NNP	_	43	dep	_	_	1704	1706
 47	al.	_	NUM	CD	_	46	nummod	_	_	1707	1710
@@ -337,8 +337,8 @@
 57	Schiefelbein	_	NUM	CD	_	52	nummod	_	_	1740	1752
 58	,	_	PUNCT	,	_	52	punct	_	_	1752	1753
 59	2003	_	NUM	CD	_	52	nummod	_	_	1754	1758
-60	-RRB-	_	PUNCT	-RRB-	_	46	punct	_	_	-1	4
-61	.	_	PUNCT	.	_	4	punct	_	_	404	405
+60	)	_	PUNCT	)	_	46	punct	_	_	1758	1759
+61	.	_	PUNCT	.	_	4	punct	_	_	1759	1760
 
 1	Recently	_	ADV	RB	_	8	advmod	_	_	1761	1769
 2	,	_	PUNCT	,	_	8	punct	_	_	1769	1770
@@ -361,14 +361,14 @@
 19	Arabidopsis	_	PROPN	NNP	_	21	compound	_	_	1875	1886
 20	seed	_	NOUN	NN	_	21	compound	_	_	1887	1891
 21	coat	_	NOUN	NN	_	16	nmod:in	_	_	1892	1896
-22	-LRB-	_	PUNCT	-LRB-	_	23	punct	_	_	-1	4
-23	Penfield	_	PROPN	NNP	_	21	appos	_	_	1418	1426
-24	et	_	CONJ	CC	_	23	cc	_	_	1427	1429
-25	al.	_	PROPN	NNP	_	23	conj:et	_	_	1430	1433
-26	,	_	PUNCT	,	_	23	punct	_	_	1433	1434
-27	2001	_	NUM	CD	_	23	dep	_	_	1435	1439
-28	-RRB-	_	PUNCT	-RRB-	_	23	punct	_	_	-1	4
-29	.	_	PUNCT	.	_	8	punct	_	_	404	405
+22	(	_	PUNCT	(	_	23	punct	_	_	1897	1898
+23	Penfield	_	PROPN	NNP	_	21	appos	_	_	1898	1906
+24	et	_	CONJ	CC	_	23	cc	_	_	1907	1909
+25	al.	_	PROPN	NNP	_	23	conj:et	_	_	1910	1913
+26	,	_	PUNCT	,	_	23	punct	_	_	1913	1914
+27	2001	_	NUM	CD	_	23	dep	_	_	1915	1919
+28	)	_	PUNCT	)	_	23	punct	_	_	1919	1920
+29	.	_	PUNCT	.	_	8	punct	_	_	1920	1921
 
 1	The	_	DET	DT	_	2	det	_	_	1922	1925
 2	objective	_	NOUN	NN	_	8	nsubj	_	_	1926	1935

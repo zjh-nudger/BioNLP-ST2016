@@ -101,14 +101,14 @@
 26	-	_	PUNCT	:	_	25	punct	_	_	617	618
 27	recognition	_	NOUN	NN	_	28	compound	_	_	618	629
 28	sequence	_	NOUN	NN	_	25	dep	_	_	630	638
-29	-LRB-	_	PUNCT	-LRB-	_	30	punct	_	_	-1	4
+29	(	_	PUNCT	(	_	30	punct	_	_	639	640
 30	Allen	_	PROPN	NNP	_	25	appos	_	_	640	645
 31	et	_	CONJ	CC	_	30	cc	_	_	646	648
 32	al.	_	PROPN	NNP	_	30	conj:et	_	_	649	652
 33	,	_	PUNCT	,	_	30	punct	_	_	652	653
 34	1989	_	NUM	CD	_	30	dep	_	_	654	658
-35	-RRB-	_	PUNCT	-RRB-	_	30	punct	_	_	-1	4
-36	.	_	PUNCT	.	_	19	punct	_	_	242	243
+35	)	_	PUNCT	)	_	30	punct	_	_	658	659
+36	.	_	PUNCT	.	_	19	punct	_	_	659	660
 
 1	This	_	DET	DT	_	4	det	_	_	661	665
 2	DNA	_	NOUN	NN	_	4	compound	_	_	666	669
@@ -164,14 +164,14 @@
 16	tobacco	_	NOUN	NN	_	8	nmod:such_as	_	_	939	946
 17	and	_	CONJ	CC	_	16	cc	_	_	947	950
 18	sunflower	_	NOUN	NN	_	16	conj:and	_	_	951	960
-19	-LRB-	_	PUNCT	-LRB-	_	20	punct	_	_	-1	4
+19	(	_	PUNCT	(	_	20	punct	_	_	961	962
 20	Lessard	_	PROPN	NNP	_	16	appos	_	_	962	969
 21	et	_	CONJ	CC	_	20	cc	_	_	970	972
 22	al.	_	PROPN	NNP	_	20	conj:et	_	_	973	976
 23	,	_	PUNCT	,	_	20	punct	_	_	976	977
 24	1991	_	NUM	CD	_	20	dep	_	_	978	982
-25	-RRB-	_	PUNCT	-RRB-	_	20	punct	_	_	-1	4
-26	.	_	PUNCT	.	_	1	punct	_	_	242	243
+25	)	_	PUNCT	)	_	20	punct	_	_	982	983
+26	.	_	PUNCT	.	_	1	punct	_	_	983	984
 
 1	In	_	ADP	IN	_	2	case	_	_	985	987
 2	soybean	_	NOUN	NN	_	6	nmod:in	_	_	988	995
@@ -194,14 +194,14 @@
 19	by	_	ADP	IN	_	21	case	_	_	1085	1087
 20	27	_	NUM	CD	_	21	nummod	_	_	1088	1090
 21	bp	_	NOUN	NN	_	18	nmod:by	_	_	1091	1093
-22	-LRB-	_	PUNCT	-LRB-	_	23	punct	_	_	-1	4
-23	Allen	_	PROPN	NNP	_	21	appos	_	_	640	645
-24	et	_	CONJ	CC	_	23	cc	_	_	646	648
-25	al.	_	PROPN	NNP	_	23	conj:et	_	_	649	652
-26	,	_	PUNCT	,	_	23	punct	_	_	652	653
-27	1989	_	NUM	CD	_	23	dep	_	_	654	658
-28	-RRB-	_	PUNCT	-RRB-	_	23	punct	_	_	-1	4
-29	.	_	PUNCT	.	_	6	punct	_	_	242	243
+22	(	_	PUNCT	(	_	23	punct	_	_	1094	1095
+23	Allen	_	PROPN	NNP	_	21	appos	_	_	1095	1100
+24	et	_	CONJ	CC	_	23	cc	_	_	1101	1103
+25	al.	_	PROPN	NNP	_	23	conj:et	_	_	1104	1107
+26	,	_	PUNCT	,	_	23	punct	_	_	1107	1108
+27	1989	_	NUM	CD	_	23	dep	_	_	1109	1113
+28	)	_	PUNCT	)	_	23	punct	_	_	1113	1114
+29	.	_	PUNCT	.	_	6	punct	_	_	1114	1115
 
 1	Nevertheless	_	ADV	RB	_	6	advmod	_	_	1116	1128
 2	,	_	PUNCT	,	_	6	punct	_	_	1128	1129
@@ -233,14 +233,14 @@
 28	a	_	DET	DT	_	30	det	_	_	1292	1293
 29	significant	_	ADJ	JJ	_	30	amod	_	_	1294	1305
 30	manner	_	NOUN	NN	_	26	nmod:in	_	_	1306	1312
-31	-LRB-	_	PUNCT	-LRB-	_	32	punct	_	_	-1	4
+31	(	_	PUNCT	(	_	32	punct	_	_	1313	1314
 32	Fujiwara	_	PROPN	NNP	_	30	appos	_	_	1314	1322
 33	and	_	CONJ	CC	_	32	cc	_	_	1323	1326
 34	Beachy	_	PROPN	NNP	_	32	conj:and	_	_	1327	1333
 35	,	_	PUNCT	,	_	32	punct	_	_	1333	1334
 36	1994	_	NUM	CD	_	32	dep	_	_	1335	1339
-37	-RRB-	_	PUNCT	-RRB-	_	32	punct	_	_	-1	4
-38	.	_	PUNCT	.	_	6	punct	_	_	242	243
+37	)	_	PUNCT	)	_	32	punct	_	_	1339	1340
+38	.	_	PUNCT	.	_	6	punct	_	_	1340	1341
 
 1	Similarly	_	ADV	RB	_	8	advmod	_	_	1342	1351
 2	,	_	PUNCT	,	_	8	punct	_	_	1351	1352
@@ -260,23 +260,23 @@
 16	the	_	DET	DT	_	18	det	_	_	1416	1419
 17	BCCP2	_	PROPN	NNP	_	18	compound	_	_	1420	1425
 18	promoter	_	NOUN	NN	_	14	nmod:of	_	_	1426	1434
-19	-LRB-	_	PUNCT	-LRB-	_	20	punct	_	_	-1	4
+19	(	_	PUNCT	(	_	20	punct	_	_	1435	1436
 20	m2	_	NOUN	NNS	_	10	dep	_	_	1436	1438
 21	;	_	PUNCT	:	_	20	punct	_	_	1438	1439
 22	Figure	_	NOUN	NN	_	23	compound	_	_	1440	1446
 23	5b	_	NOUN	NNS	_	20	dep	_	_	1447	1449
-24	-RRB-	_	PUNCT	-RRB-	_	20	punct	_	_	-1	4
+24	)	_	PUNCT	)	_	20	punct	_	_	1449	1450
 25	do	_	AUX	VBP	_	27	aux	_	_	1451	1453
 26	not	_	PART	RB	_	27	neg	_	_	1454	1457
 27	impact	_	VERB	VB	_	8	ccomp	_	_	1458	1464
 28	on	_	ADP	IN	_	30	case	_	_	1465	1467
 29	promoter	_	NOUN	NN	_	30	compound	_	_	1468	1476
 30	activity	_	NOUN	NN	_	27	nmod:on	_	_	1477	1485
-31	-LRB-	_	PUNCT	-LRB-	_	32	punct	_	_	-1	4
-32	Figure	_	NOUN	NN	_	30	appos	_	_	1440	1446
+31	(	_	PUNCT	(	_	32	punct	_	_	1486	1487
+32	Figure	_	NOUN	NN	_	30	appos	_	_	1487	1493
 33	6	_	NUM	CD	_	32	nummod	_	_	1494	1495
-34	-RRB-	_	PUNCT	-RRB-	_	32	punct	_	_	-1	4
-35	.	_	PUNCT	.	_	8	punct	_	_	242	243
+34	)	_	PUNCT	)	_	32	punct	_	_	1495	1496
+35	.	_	PUNCT	.	_	8	punct	_	_	1496	1497
 
 1	These	_	DET	DT	_	2	det	_	_	1498	1503
 2	results	_	NOUN	NNS	_	4	nsubj	_	_	1504	1511
@@ -344,9 +344,9 @@
 42	for	_	ADP	IN	_	44	case	_	_	1892	1895
 43	their	_	PRON	PRP$	_	44	nmod:poss	_	_	1896	1901
 44	activity	_	NOUN	NN	_	41	nmod:for	_	_	1902	1910
-45	-LRB-	_	PUNCT	-LRB-	_	46	punct	_	_	-1	4
-46	Figure	_	NOUN	NN	_	38	appos	_	_	1440	1446
-47	5	_	NUM	CD	_	46	nummod	_	_	1447	1448
-48	-RRB-	_	PUNCT	-RRB-	_	46	punct	_	_	-1	4
-49	.	_	PUNCT	.	_	27	punct	_	_	242	243
+45	(	_	PUNCT	(	_	46	punct	_	_	1911	1912
+46	Figure	_	NOUN	NN	_	38	appos	_	_	1912	1918
+47	5	_	NUM	CD	_	46	nummod	_	_	1919	1920
+48	)	_	PUNCT	)	_	46	punct	_	_	1920	1921
+49	.	_	PUNCT	.	_	27	punct	_	_	1921	1922
 

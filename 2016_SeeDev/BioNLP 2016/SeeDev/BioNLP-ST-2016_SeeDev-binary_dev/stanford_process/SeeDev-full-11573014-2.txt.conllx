@@ -46,14 +46,14 @@
 17	critical	_	ADJ	JJ	_	19	amod	_	_	264	272
 18	embryonic	_	ADJ	JJ	_	19	amod	_	_	273	282
 19	processes	_	NOUN	NNS	_	16	dobj	_	_	283	292
-20	-LRB-	_	PUNCT	-LRB-	_	21	punct	_	_	-1	4
+20	(	_	PUNCT	(	_	21	punct	_	_	293	294
 21	12	_	NUM	CD	_	19	appos	_	_	294	296
 22	,	_	PUNCT	,	_	21	punct	_	_	296	297
 23	19	_	NUM	CD	_	21	dep	_	_	298	300
 24	,	_	PUNCT	,	_	21	punct	_	_	300	301
 25	20	_	NUM	CD	_	21	dep	_	_	302	304
-26	-RRB-	_	PUNCT	-RRB-	_	21	punct	_	_	-1	4
-27	.	_	PUNCT	.	_	4	punct	_	_	60	61
+26	)	_	PUNCT	)	_	21	punct	_	_	304	305
+27	.	_	PUNCT	.	_	4	punct	_	_	305	306
 
 1	Here	_	ADV	RB	_	3	advmod	_	_	307	311
 2	we	_	PRON	PRP	_	3	nsubj	_	_	312	314

@@ -47,10 +47,10 @@
 47	:	_	PUNCT	:	_	46	punct	_	_	186	187
 48	ENHANCED	_	PROPN	NNP	_	54	compound	_	_	188	196
 49	EM	_	PROPN	NNP	_	54	compound	_	_	197	199
-50	-LRB-	_	PUNCT	-LRB-	_	52	punct	_	_	-1	4
+50	(	_	PUNCT	(	_	52	punct	_	_	200	201
 51	EMBRYO	_	PROPN	NNP	_	52	compound	_	_	201	207
 52	MORPHOGENESIS	_	PROPN	NNP	_	54	appos	_	_	208	221
-53	-RRB-	_	PUNCT	-RRB-	_	52	punct	_	_	-1	4
+53	)	_	PUNCT	)	_	52	punct	_	_	221	222
 54	LEVEL	_	PROPN	NNP	_	46	dep	_	_	223	228
 55	;	_	PUNCT	:	_	6	punct	_	_	228	229
 56	FUS3	_	PROPN	NNP	_	6	dep	_	_	230	234
@@ -106,8 +106,8 @@
 23	the	_	DET	DT	_	25	det	_	_	512	515
 24	RSAT	_	ADJ	JJ	_	25	amod	_	_	516	520
 25	server	_	NOUN	NN	_	21	nmod:from	_	_	521	527
-26	-LSB-	_	VERB	VBG	_	25	acl	_	_	-1	4
+26	[	_	VERB	VBG	_	25	acl	_	_	528	529
 27	73	_	NUM	CD	_	28	nummod	_	_	529	531
-28	-RSB-	_	NOUN	NNS	_	26	dobj	_	_	-1	4
-29	.	_	PUNCT	.	_	21	punct	_	_	343	344
+28	]	_	NOUN	NNS	_	26	dobj	_	_	531	532
+29	.	_	PUNCT	.	_	21	punct	_	_	532	533
 

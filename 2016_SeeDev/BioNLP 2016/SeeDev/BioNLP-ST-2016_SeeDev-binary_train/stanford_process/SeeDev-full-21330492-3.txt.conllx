@@ -8,7 +8,7 @@
 8	of	_	ADP	IN	_	10	case	_	_	44	46
 9	seed	_	NOUN	NN	_	10	compound	_	_	47	51
 10	plants	_	NOUN	NNS	_	7	nmod:of	_	_	52	58
-11	-LRB-	_	PUNCT	-LRB-	_	12	punct	_	_	-1	4
+11	(	_	PUNCT	(	_	12	punct	_	_	59	60
 12	Vicente	_	PROPN	NNP	_	10	appos	_	_	60	67
 13	-	_	PUNCT	,	_	12	punct	_	_	67	68
 14	Carbajosa	_	PROPN	NNP	_	12	dep	_	_	68	77
@@ -16,7 +16,7 @@
 16	Carbonero	_	PROPN	NNP	_	14	conj:and	_	_	82	91
 17	,	_	PUNCT	,	_	12	punct	_	_	91	92
 18	2005	_	NUM	CD	_	12	dep	_	_	93	97
-19	-RRB-	_	PUNCT	-RRB-	_	12	punct	_	_	-1	4
+19	)	_	PUNCT	)	_	12	punct	_	_	97	98
 20	.	_	PUNCT	.	_	7	punct	_	_	98	99
 
 1	Like	_	ADP	IN	_	6	case	_	_	100	104
@@ -52,7 +52,7 @@
 17	been	_	AUX	VBN	_	18	auxpass	_	_	303	307
 18	worked	_	VERB	VBN	_	0	root	_	_	308	314
 19	out	_	ADV	RB	_	18	advmod	_	_	315	318
-20	-LRB-	_	PUNCT	-LRB-	_	21	punct	_	_	-1	4
+20	(	_	PUNCT	(	_	21	punct	_	_	319	320
 21	Baud	_	PROPN	NNP	_	18	dep	_	_	320	324
 22	et	_	CONJ	CC	_	21	cc	_	_	325	327
 23	al.	_	PROPN	NNP	_	21	conj:et	_	_	328	331
@@ -72,8 +72,8 @@
 37	Ogas	_	PROPN	NNP	_	35	conj:and	_	_	378	382
 38	,	_	PUNCT	,	_	21	punct	_	_	382	383
 39	2009	_	NUM	CD	_	21	amod	_	_	384	388
-40	-RRB-	_	PUNCT	-RRB-	_	21	punct	_	_	-1	4
-41	.	_	PUNCT	.	_	18	punct	_	_	98	99
+40	)	_	PUNCT	)	_	21	punct	_	_	388	389
+41	.	_	PUNCT	.	_	18	punct	_	_	389	390
 
 1	However	_	ADV	RB	_	9	advmod	_	_	391	398
 2	,	_	PUNCT	,	_	9	punct	_	_	398	399
@@ -169,9 +169,9 @@
 3	Nodine	_	PROPN	NNP	_	9	nsubj	_	_	912	918
 4	and	_	CONJ	CC	_	3	cc	_	_	919	922
 5	Bartel	_	PROPN	NNP	_	9	nsubj	_	_	923	929
-6	-LRB-	_	PUNCT	-LRB-	_	7	punct	_	_	-1	4
+6	(	_	PUNCT	(	_	7	punct	_	_	930	931
 7	2010	_	NUM	CD	_	3	appos	_	_	931	935
-8	-RRB-	_	PUNCT	-RRB-	_	7	punct	_	_	-1	4
+8	)	_	PUNCT	)	_	7	punct	_	_	935	936
 9	described	_	VERB	VBD	_	0	root	_	_	937	946
 10	the	_	DET	DT	_	12	det	_	_	947	950
 11	early	_	ADJ	JJ	_	12	amod	_	_	951	956
