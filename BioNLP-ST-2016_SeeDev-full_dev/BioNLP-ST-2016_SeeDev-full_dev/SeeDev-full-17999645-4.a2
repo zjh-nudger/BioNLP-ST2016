@@ -1,9 +1,0 @@
-E1	Interaction Agent:T1 Target:T2 Organism_Genotype:T5
-E2	Interaction Agent:T30 Target:T31 Environmental_Factor:T32
-E3	Binding Functional_Molecule:T30 Molecule:T33 Environmental_Factor:T32
-E4	Binding Functional_Molecule:T25 Molecule:T28 Environmental_Factor:T27
-E5	Sequence_Identity Element1:T7 Element2:T6
-E6	Family_Membership Element:T10 Family:T8
-E7	Family_Membership Element:T11 Family:T8
-M1	Negation Annotation:E3
-M2	Negation Annotation:E4

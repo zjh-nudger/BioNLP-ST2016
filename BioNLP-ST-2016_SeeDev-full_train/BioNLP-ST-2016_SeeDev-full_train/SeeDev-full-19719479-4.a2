@@ -1,9 +1,0 @@
-E1	Primary_Structure_Composition DNA_Part:T9 DNA:T10
-E2	Localization Functional_Molecule:T16 Target_Tissue:T17 Organism_Genotype:T19
-E3	Localization Functional_Molecule:T16 Target_Tissue:T17 Organism_Genotype:T18
-E4	Primary_Structure_Composition DNA_Part:T26 DNA:T27
-E5	Primary_Structure_Composition DNA_Part:T9 DNA:T4
-E6	Primary_Structure_Composition DNA_Part:T9 DNA:T2
-E7	Regulation_Of_Expression Agent:T5 DNA:T2
-E8	Regulation_Of_Expression Agent:T5 DNA:T4
-E9	Binding Functional_Molecule:T21 Molecule:T22 Organism_Genotype:T20
