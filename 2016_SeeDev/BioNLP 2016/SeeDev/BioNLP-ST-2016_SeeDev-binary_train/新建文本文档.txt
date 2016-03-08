@@ -1,0 +1,29 @@
+public class Solution {
+    public String replaceSpace(StringBuffer str) {
+    	
+        String s = str.toString();
+        //如果是空串或者不含空格，直接输出
+        if(s == "" && !s.contains(" ")) return s;
+        
+        String ss[] = s.split(" ");
+        str.setLength(0);
+        
+        //如果只含空格
+        if(ss.length == 0) {
+            for(int i = 0; i < s.length(); i++)
+                str.append("%20");
+            return str.toString();
+        }
+        
+        //如果包含空格，同时考虑末尾是空格的情况
+        for(int i = 0; i < ss.length; i++){
+            if (ss[i].equals(" ")) str.append("%20");
+            else {
+                str.append(ss[i]);
+                if(i < ss.length - 1) str.append("%20");
+            }
+        }
+        if(s.endsWith(" ")) str.append("%20");
+        return str.toString();
+    }
+}

@@ -1,0 +1,11 @@
+E1	Sequence_Identity Element1:T4 Element2:T2
+E2	Interaction Agent:T10 Target:T11 Environmental_Factor:T9
+E3	Interaction Agent:T11 Target:T10 Environmental_Factor:T9
+E4	Interaction Agent:T21 Target:T19
+E5	Protein_Domain_Composition Domain:T13 Product:T14
+E6	Protein_Domain_Composition Domain:T13 Product:T15
+E7	Family_Membership Element:T14 Family:T15
+E8	Regulation_Of_Process Agent:T4 Process:T5 Organism_Genotype:T1
+E9	Regulation_Of_Process Agent:T4 Process:T7 Organism_Genotype:T1
+E10	Binding Functional_Molecule:T27 Molecule:T25 Environmental_Factor:T22
+E11	Regulation_Of_Expression Agent:T24 DNA:T25

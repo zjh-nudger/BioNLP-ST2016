@@ -1,0 +1,24 @@
+E1	Regulation_Of_Process Agent:T26 Process:T27 Organism_Genotype:T22
+E2	Regulation_Of_Process Agent:T7 Process:T8
+E3	Regulation_Of_Process Agent:T38 Process:T37 Organism_Genotype:T33
+E4	Regulation_Of_Process Agent:T24 Process:T27 Organism_Genotype:T22
+E5	Regulation_Of_Process Agent:T47 Process:T52 Organism_Genotype:T53
+E6	Regulation_Of_Process Agent:T25 Process:T27 Organism_Genotype:T22
+E7	Regulation_Of_Process Agent:T26 Process:T27 Organism_Genotype:T23
+E8	Regulation_Of_Process Agent:T25 Process:T27 Organism_Genotype:T23
+E9	Regulation_Of_Process Agent:T34 Process:T37 Organism_Genotype:T33
+E10	Regulation_Of_Process Agent:T48 Process:T49 Organism_Genotype:T51
+E11	Regulation_Of_Process Agent:T14 Process:T15
+E12	Regulation_Of_Process Agent:T39 Process:T37 Organism_Genotype:T33
+E13	Regulation_Of_Process Agent:T47 Process:T49 Organism_Genotype:T51
+E14	Regulation_Of_Process Agent:T48 Process:T52 Organism_Genotype:T53
+E15	Regulation_Of_Process Agent:T24 Process:T27 Organism_Genotype:T23
+E16	Regulation_Of_Process Agent:T12 Process:T13 Organism_Genotype:T11
+E17	Localization Process:T52 Target_Tissue:T54 Organism_Genotype:T53
+E18	Involvement_In_Process Participant:T1 Process:T2
+E19	Functional_Equivalence Element1:T18 Element2:T19
+E20	Functional_Equivalence Element1:T43 Element2:T46
+E21	Functional_Equivalence Element1:T45 Element2:T44
+E22	Transcription_Or_Translation Source:T18 Product:T17
+E23	Family_Membership Element:T38 Family:T34
+E24	Family_Membership Element:T39 Family:T34

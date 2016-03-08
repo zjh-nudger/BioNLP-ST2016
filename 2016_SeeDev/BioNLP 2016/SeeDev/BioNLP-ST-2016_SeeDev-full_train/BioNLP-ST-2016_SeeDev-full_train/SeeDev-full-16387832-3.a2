@@ -1,0 +1,14 @@
+E1	Localization Process:T6 Target_Tissue:T8
+E2	Regulation_Of_Process Agent:T15 Process:T16
+E3	Regulation_Of_Process Agent:T31 Process:T29
+E4	Regulation_Of_Process Agent:T23 Process:T25
+E5	Regulation_Of_Process Agent:T13 Process:T12
+E6	Regulation_Of_Process Agent:T23 Process:T27
+E7	Regulation_Of_Development_Phase Agent:T14 Development:T18
+E8	Regulation_Of_Process Agent:T11 Process:T10 Tissue:T9
+E9	Regulation_Of_Process Agent:T31 Process:T30
+E10	Regulation_Of_Process Agent:T14 Process:T19
+E11	Regulation_Of_Development_Phase Agent:T23 Development:T24
+E12	Regulation_Of_Expression Agent:T38 DNA:T39
+E13	Regulation_Of_Expression Agent:T34 DNA:T33 Organism_Genotype:T32
+E14	Transcription_Or_Translation Source:T14 Product:T15
