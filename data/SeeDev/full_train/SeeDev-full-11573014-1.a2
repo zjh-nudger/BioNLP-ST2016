@@ -1,0 +1,58 @@
+E1	Family_Membership Element:T26 Family:T22
+E2	Family_Membership Element:T95 Family:T93
+E3	Family_Membership Element:T21 Family:T22
+E4	Family_Membership Element:T94 Family:T93
+E5	Family_Membership Element:T127 Family:T128
+E6	Family_Membership Element:T97 Family:T93
+E7	Family_Membership Element:T27 Family:T22
+E8	Family_Membership Element:T25 Family:T22
+E9	Regulation_Of_Development_Phase Agent:T121 Development:T122
+E10	Regulation_Of_Development_Phase Agent:T143 Development:T144
+E11	Regulation_Of_Process Agent:T28 Process:T35
+E12	Regulation_Of_Development_Phase Agent:T93 Development:T98
+E13	Regulation_Of_Process Agent:T74 Process:T77 Tissue:T79
+E14	Regulation_Of_Process Agent:T101 Process:T102 Developmental_Stage:T103
+E15	Regulation_Of_Process Agent:T118 Process:T120 Tissue:T119
+E16	Regulation_Of_Process Agent:T107 Process:T108 Developmental_Stage:T105
+E17	Regulation_Of_Process Agent:T134 Process:T141
+E18	Regulation_Of_Development_Phase Agent:T3 Development:T4 Organism_Genotype:T1
+E19	Regulation_Of_Development_Phase Agent:T121 Development:T123
+E20	Regulation_Of_Process Agent:T62 Process:T67 Organism_Genotype:T63
+E21	Regulation_Of_Process Agent:T83 Process:T82 Tissue:T81
+E22	Regulation_Of_Tissue_Development Agent:T26 Target_Tissue:T24
+E23	Regulation_Of_Process Agent:T171 Process:T173
+E24	Regulation_Of_Development_Phase Agent:T107 Development:T109
+E25	Regulation_Of_Process Agent:T112 Process:T114 Developmental_Stage:T113
+E26	Regulation_Of_Development_Phase Agent:T94 Development:T98
+E27	Regulation_Of_Process Agent:T6 Process:T14
+E28	Regulation_Of_Development_Phase Agent:T95 Development:T98
+E29	Regulation_Of_Process Agent:T74 Process:T78 Tissue:T79
+E30	Regulation_Of_Process Agent:T174 Process:T175
+E31	Regulation_Of_Development_Phase Agent:T3 Development:T5 Organism_Genotype:T1
+E32	Regulation_Of_Process Agent:T133 Process:T137
+E33	Regulation_Of_Process Agent:T133 Process:T135
+E34	Regulation_Of_Process Agent:T101 Process:T102 Developmental_Stage:T104
+E35	Regulation_Of_Tissue_Development Agent:T27 Target_Tissue:T24
+E36	Regulation_Of_Process Agent:T62 Process:T70 Organism_Genotype:T63
+E37	Regulation_Of_Process Agent:T6 Process:T9
+E38	Regulation_Of_Process Agent:T28 Process:T32
+E39	Regulation_Of_Process Agent:T28 Process:T31
+E40	Regulation_Of_Process Agent:T6 Process:T7
+E41	Regulation_Of_Development_Phase Agent:T125 Development:T126
+E42	Regulation_Of_Development_Phase Agent:T96 Development:T98
+E43	Regulation_Of_Process Agent:T62 Process:T69 Organism_Genotype:T63
+E44	Regulation_Of_Process Agent:T163 Process:T164
+E45	Regulation_Of_Development_Phase Agent:T37 Development:T38
+E46	Regulation_Of_Process Agent:T62 Process:T64 Organism_Genotype:T63
+E47	Regulation_Of_Process Agent:T6 Process:T12
+E48	Regulation_Of_Process Agent:T163 Process:T165
+E49	Regulation_Of_Development_Phase Agent:T121 Development:T124
+E50	Presence_At_Stage Functional_Molecule:T19 Development:T20
+E51	Presence_At_Stage Functional_Molecule:T149 Development:T151
+E52	Sequence_Identity Element1:T93 Element2:T92
+E53	Sequence_Identity Element1:T97 Element2:T96
+E54	Sequence_Identity Element1:T3 Element2:T2
+E55	Functional_Equivalence Element1:T26 Element2:T25
+E56	Regulation_Of_Expression Agent:T169 DNA:T168
+E57	Transcription_Or_Translation Source:T148 Product:T149
+E58	Transcription_Or_Translation Source:T16 Product:T17 Organism_Genotype:T18

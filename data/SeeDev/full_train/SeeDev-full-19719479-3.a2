@@ -1,0 +1,19 @@
+E1	Localization Functional_Molecule:T20 Target_Tissue:T22
+E2	Localization Functional_Molecule:T19 Target_Tissue:T23
+E3	Localization Functional_Molecule:T19 Target_Tissue:T22
+E4	Localization Functional_Molecule:T20 Target_Tissue:T23
+E5	Regulation_Of_Expression Agent:T36 DNA:T33 Organism_Genotype:T37
+E6	Regulation_Of_Expression Agent:T42 DNA:T41 Organism_Genotype:T43
+E7	Regulation_Of_Expression Agent:T36 DNA:T32 Organism_Genotype:T37
+E8	Regulation_Of_Process Agent:T58 Process:T59 Organism_Genotype:T60
+E9	Regulation_Of_Process Agent:T10 Process:T9
+E10	Regulation_Of_Process Agent:T53 Process:T56 Tissue:T55
+E11	Regulation_Of_Process Agent:T10 Process:T8
+E12	Regulation_Of_Process Agent:T24 Process:T25
+E13	Regulation_Of_Process Agent:T24 Process:T26
+E14	Regulation_Of_Process Agent:T57 Process:T59 Organism_Genotype:T60
+E15	Regulation_Of_Process Agent:T1 Process:T2
+E16	Regulation_Of_Process Agent:T1 Process:T3
+E17	Binding Functional_Molecule:T39 Molecule:T40 Environmental_Factor:T38
+M1	Negation Annotation:E8
+M2	Negation Annotation:E14

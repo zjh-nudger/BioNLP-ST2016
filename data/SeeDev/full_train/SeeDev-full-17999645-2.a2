@@ -1,0 +1,13 @@
+E1	Interaction Agent:T31 Target:T32
+E2	Interaction Agent:T36 Target:T37
+E3	Presence_In_Genotype Molecule:T19 Genotype:T18
+E4	Presence_In_Genotype Molecule:T20 Genotype:T18
+E5	Binding Functional_Molecule:T30 Molecule:T27
+E6	Binding Functional_Molecule:T34 Molecule:T33
+E7	Binding Functional_Molecule:T1 Molecule:T6
+E8	Functional_Equivalence Element1:T24 Element2:T23
+E9	Functional_Equivalence Element1:T25 Element2:T22 Organism_Genotype:T21
+E10	Functional_Equivalence Element1:T26 Element2:T25
+E11	Functional_Equivalence Element1:T23 Element2:T22 Organism_Genotype:T21
+E12	Family_Membership Element:T1 Family:T5
+M1	Negation Annotation:E4
