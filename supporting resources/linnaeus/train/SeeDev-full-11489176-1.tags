@@ -1,0 +1,4 @@
+#entity id	document	start	end	text	comment
+species:ncbi:3702	SeeDev-full-11489176-1	54	74	Arabidopsis thaliana	
+species:ncbi:4932	SeeDev-full-11489176-1	202	207	yeast	
+species:ncbi:4932	SeeDev-full-11489176-1	811	816	Yeast	

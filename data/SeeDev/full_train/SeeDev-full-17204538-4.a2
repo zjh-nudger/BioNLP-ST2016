@@ -1,0 +1,28 @@
+E1	Regulation_Of_Expression Agent:T24 DNA:T26
+E2	Regulation_Of_Expression Agent:T64 DNA:T62
+E3	Regulation_Of_Expression Agent:T10 DNA:T11
+E4	Regulation_Of_Expression Agent:T49 DNA:T46
+E5	Regulation_Of_Expression Agent:T47 DNA:T46
+E6	Regulation_Of_Expression Agent:T17 DNA:T19
+E7	Regulation_Of_Expression Agent:T10 DNA:T13
+E8	Regulation_Of_Expression Agent:T63 DNA:T62
+E9	Regulation_Of_Expression Agent:T14 DNA:T15
+E10	Regulation_Of_Expression Agent:T38 DNA:T37
+E11	Regulation_Of_Expression Agent:T24 DNA:T27
+E12	Regulation_Of_Expression Agent:T14 DNA:T16
+E13	Regulation_Of_Expression Agent:T10 DNA:T12
+E14	Functional_Equivalence Element1:T21 Element2:T22
+E15	Regulation_Of_Accumulation Agent:T6 Functional_Molecule:T7
+E16	Regulation_Of_Process Agent:T43 Process:T44
+E17	Regulation_Of_Process Agent:T1 Process:T3
+E18	Regulation_Of_Process Agent:T56 Process:T58
+E19	Regulation_Of_Development_Phase Agent:T1 Development:T2
+E20	Regulation_Of_Process Agent:T39 Process:T41
+E21	Interaction Agent:T31 Target:T32
+E22	Interaction Agent:T20 Target:T21
+E23	Interaction Agent:T20 Target:T22
+E24	Transcription_Or_Translation Source:T15 Product:T14
+E25	Family_Membership Element:T31 Family:T30 Organism_Genotype:T29
+M1	Negation Annotation:E2
+M2	Negation Annotation:E4
+M3	Negation Annotation:E5
