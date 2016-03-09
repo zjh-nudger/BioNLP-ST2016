@@ -145,7 +145,7 @@ def get_index(element1,element2,sentence):
     #assert len(sentencex) != 0
     return e1_start_index,e1_end_index,e2_start_index,e2_end_index
 
-def create_examples(gt_file,a1_file,a2_file,output_file):
+def create_examples(gt_file,a1_file,a2_file,output_file,window):
     document = get_sentences_from_gt(gt_file)
     entities = get_a1_annotations(a1_file)
     relations = get_a2_annotations(a2_file) 
@@ -173,27 +173,30 @@ def create_examples(gt_file,a1_file,a2_file,output_file):
                 typex_id = 0
                 element1 = entities[combination[0]]
                 element2 = entities[combination[1]]
+            entity_type_1 = element1.typex
+            entity_type_2 = element2.typex
             index = get_index(element1,element2,sentence)
-            contexts = get_context(index[0],index[1],index[2],index[3],sentence,2)
+            contexts = get_context(index[0],index[1],index[2],index[3],sentence,window)
             contexts = [str(word.word) for word in contexts]
-            output_file.write(str(typex_id) + '\t' + ' '.join(contexts)+'\n')
+            output_file.write(str(typex_id) +' '+entity_type_1+' '+entity_type_2+' ' + ' '.join(contexts)+'\n')
 
 if __name__ == '__main__':
     train = open('train','w')
     dev = open('dev','w')
+    window = 1
     for fn in glob.glob(path.GT_PROCESS_TRAIN+'/*.gt'):
         pmid = fn.split('\\')[-1][12:-3]
         gt_file = open(fn)
         a1_file = open(path.SOURCE_DATA_BINARY_TRAIN+'/SeeDev-binary-'+pmid+'.a1')
         a2_file = open(path.SOURCE_DATA_BINARY_TRAIN+'/SeeDev-binary-'+pmid+'.a2')
-        create_examples(gt_file,a1_file,a2_file,train)
+        create_examples(gt_file,a1_file,a2_file,train,window)
         #print fn
     for fn in glob.glob(path.GT_PROCESS_DEV+'/*.gt'):
         pmid = fn.split('\\')[-1][12:-3]
         gt_file = open(fn)
         a1_file = open(path.SOURCE_DATA_BINARY_DEV+'/SeeDev-binary-'+pmid+'.a1')
         a2_file = open(path.SOURCE_DATA_BINARY_DEV+'/SeeDev-binary-'+pmid+'.a2')
-        create_examples(gt_file,a1_file,a2_file,dev)
+        create_examples(gt_file,a1_file,a2_file,dev,window)
         #print fn
     dev.close()
     train.close()

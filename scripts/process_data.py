@@ -55,7 +55,7 @@ if __name__=='__main__':
                               vocabfile=options.vocab_file)
     
     word_size=np.shape(embedding._vecs)[1]#ÏòÁ¿Î¬¶È
-    rand_vec=np.random.uniform(-0.25,0.25,word_size)
+    
     #zero_vec=np.zeros(word_size)
     
     train_file=open(options.train_file)
@@ -92,6 +92,7 @@ if __name__=='__main__':
         else:
             #if there is not the words in vector file
             #random sample the vector
+            rand_vec=np.random.uniform(-0.25,0.25,word_size)
             words[item[1]]=rand_vec
             
     train_file=open(options.train_file)
