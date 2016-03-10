@@ -65,4 +65,8 @@ public class Location {
 //		}
 		
 	}
+	
+	public static void a1() {
+		
+	}
 }

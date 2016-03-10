@@ -15,6 +15,10 @@ import util.WFileReader;
 
 public class Test {
 
+	/**
+	 * @param args
+	 * @throws IOException
+	 */
 	public static void main(String[] args) throws IOException {
 
 //		//test1
@@ -35,16 +39,20 @@ public class Test {
 //		System.out.println(s);
 		
 		//test3  输出每个单词的偏移量
-//		File txtFile = new File(AllRoot.trainPath+ "txt");
-//		File gtFile = new File(AllRoot.trainPath+ "gt");
-//		File stanfordFile = new File(AllRoot.trainPath+ "stanford");
+////		File txtFile = new File(AllRoot.trainPath+ "txt");
+////		File gtFile = new File(AllRoot.trainPath+ "gt");
+////		File stanfordFile = new File(AllRoot.trainPath+ "stanford");
+//		
+//		File txtFile = new File(AllRoot.devPath+ "txt");
+//		File gtFile = new File(AllRoot.devPath+ "gt");
+//		File stanfordFile = new File(AllRoot.devPath+ "stanford");
+//		
+//		process.Location.setPosition(txtFile, gtFile, 0, true);
+//		process.Location.setPosition(txtFile, stanfordFile, 1, false);
 		
-		File txtFile = new File(AllRoot.devPath+ "txt");
-		File gtFile = new File(AllRoot.devPath+ "gt");
-		File stanfordFile = new File(AllRoot.devPath+ "stanford");
-		
-		process.Location.setPosition(txtFile, gtFile, 0, true);
-		process.Location.setPosition(txtFile, stanfordFile, 1, false);
+		//test4
+		File a1File = new File("K:/SeeDev-binary-9657152-1.a1");
+		File stanfordFile = new File("K:/SeeDev-full-9657152-1.txt.conllx");
 
 	}
 
