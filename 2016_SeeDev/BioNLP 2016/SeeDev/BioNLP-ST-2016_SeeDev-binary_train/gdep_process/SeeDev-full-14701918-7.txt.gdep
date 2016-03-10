@@ -1,0 +1,27 @@
+1	The	The	B-NP	DT	O	3	NMOD	0	3
+2	mum4	mum4	I-NP	NN	O	3	NMOD	4	8
+3	phenotype	phenotype	I-NP	NN	O	4	SUB	9	18
+4	is	be	B-VP	VBZ	O	0	ROOT	19	21
+5	characterized	characterize	I-VP	VBN	O	4	VC	22	35
+6	by	by	B-PP	IN	O	5	VMOD	36	38
+7	both	both	O	CC	O	9	NMOD	39	43
+8	a	a	B-NP	DT	O	9	NMOD	44	45
+9	reduction	reduction	I-NP	NN	O	6	PMOD	46	55
+10	in	in	B-PP	IN	O	9	NMOD	56	58
+11	the	the	B-NP	DT	O	12	NMOD	59	62
+12	amount	amount	I-NP	NN	O	10	PMOD	63	69
+13	of	of	B-PP	IN	O	12	NMOD	70	72
+14	mucilage	mucilage	B-NP	NN	O	13	PMOD	73	81
+15	produced	produce	B-VP	VBN	O	14	NMOD	82	90
+16	and	and	O	CC	O	6	PMOD	91	94
+17	by	by	B-PP	IN	O	6	PMOD	95	97
+18	a	a	B-NP	DT	O	20	NMOD	98	99
+19	flattened	flattened	I-NP	JJ	O	20	NMOD	100	109
+20	columella	columella	I-NP	NN	O	17	PMOD	110	119
+21	in	in	B-PP	IN	O	20	NMOD	120	122
+22	the	the	B-NP	DT	O	25	NMOD	123	126
+23	seed	seed	I-NP	NN	O	25	NMOD	127	131
+24	coat	coat	I-NP	NN	O	25	NMOD	132	136
+25	epidermis	epidermis	I-NP	NN	O	21	PMOD	137	146
+26	.	.	O	.	O	4	P	146	147
+

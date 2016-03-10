@@ -55,7 +55,10 @@ public class Location {
 				newList.add(newLine);
 			}
 			File outFile;
-			if(flag) outFile = new File(oneSupport.getAbsolutePath().replace("\\gt\\", "\\gt_process\\"));
+			if(flag) {
+				//outFile = new File(oneSupport.getAbsolutePath().replace("\\gt\\", "\\gt_process\\"));
+				outFile = new File(oneSupport.getAbsolutePath().replace("\\gdep\\", "\\gdep_process\\"));
+			}
 			else outFile = new File(oneSupport.getAbsolutePath().replace("\\stanford\\", "\\stanford_process\\"));
 			WFileWriter.writeArrayListToFile(newList, outFile);
 		}
