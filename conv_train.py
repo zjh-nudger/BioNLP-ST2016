@@ -11,7 +11,6 @@ import theano.tensor as T
 from collections import OrderedDict
 from module.mlp_zjh import MLPDropout
 from module.convnet import LeNetConvPoolLayer
-from utils import evaluate
 
 def ReLU(x):
     y = T.maximum(0.0, x)
@@ -26,14 +25,23 @@ def Iden(x):
     y = x
     return(y)
 
+def write_matrix_to_file(matrix=None,output='none.txt'):
+    output_file=open(output,'w')
+    for instance in matrix.tolist():
+        i=str(instance)
+        output_file.write(i) 
+        output_file.write('\n')
+        #print '\n'
+    output_file.close()
+
 def train_conv(datasets,
                wordvec,
-               word_size=400,
-               window_sizes=[11,13,15],
-               hidden_units=[1000,1000,20],
+               word_size=200,
+               window_sizes=[3],
+               hidden_units=[1000,1000,23],
                dropout_rate=[0],
                shuffle_batch=True,
-               n_epochs=200,
+               n_epochs=10,
                batch_size=128,
                lr_decay=0.95,
                sqr_norm_lim=9,
@@ -125,7 +133,7 @@ def train_conv(datasets,
             x: train_set_x[index*batch_size:(index+1)*batch_size],
             y: train_set_y[index*batch_size:(index+1)*batch_size]})   
     #theano.printing.debugprint(train_model)
-    
+    '''
     test_pred_layers = []
     test_size = test_set_x.shape[0].eval()
     test_layer0_input = Words[T.cast(x.flatten(),dtype="int32")].\
@@ -137,9 +145,15 @@ def train_conv(datasets,
     test_y_pred = classifier.predict(test_layer1_input)
     test_error = T.mean(T.neq(test_y_pred, y))
     test_model_all = theano.function(inputs=[x,y], outputs=[test_error,test_y_pred])   
-
-    macro=[]
-    micro=[]
+    '''
+    
+    f_scores =[classifier.f_score(y,i+1)[1] for i in xrange(22)]
+    f_scores = tuple(f_scores)
+    test_model=theano.function([],f_scores,
+                               givens={
+                               x:test_set_x,
+                               y:test_set_y})
+       
     epoch=0
     while (epoch < n_epochs):
         epoch+=1        
@@ -149,37 +163,25 @@ def train_conv(datasets,
                 cost_epoch = train_model(minibatch_index)
                 cost.append(cost_epoch)
                 set_zero(zero_vec)
-            error,prediction=test_model_all(x=test_set_x.get_value(borrow=True),y=test_set_y.eval())
-            micro_f_score,macro_f_score=evaluate.simple_evaluate(prediction=prediction,
-                                                                 answer=test_set_y.eval())
-            print 'epoch:%d,error:%f,micro_f_score:%f,macro_f_score:%f'\
-                    %(epoch,error,micro_f_score,macro_f_score)
-            macro.append(macro_f_score)
-            micro.append(micro_f_score)
-            
+#            error,prediction=test_model_all(x=test_set_x.get_value(borrow=True),y=test_set_y.eval())
+#            print error
+#            micro_f_score,macro_f_score=evaluate.simple_evaluate(prediction=prediction,
+#                                                                 answer=test_set_y.eval())
+            f_scores=test_model()
+            f_scores = tuple(f_scores)
+            #print 'epoch:%d,error,|:%f'%(epoch,error)
+            print '%.2f|'*22%(f_scores)
         else:
             for minibatch_index in xrange(n_train_batches):
                 cost_epoch = train_model(minibatch_index)
                 set_zero(zero_vec)
-            error,prediction=test_model_all(x=test_set_x.get_value(borrow=True),y=test_set_y.eval())
-            micro_f_score,macro_f_score=evaluate.simple_evaluate(prediction=prediction,
-                                                                 answer=test_set_y.eval())
-            print 'epoch:%d,error:%f,micro_f_score:%f,macro_f_score:%f'\
-                    %(epoch,error,micro_f_score,macro_f_score)
-            macro.append(macro_f_score)
-            micro.append(micro_f_score)
+#            error,prediction=test_model_all(x=test_set_x.get_value(borrow=True),y=test_set_y.eval())
+#            micro_f_score,macro_f_score=evaluate.simple_evaluate(prediction=prediction,
+#                                                                 answer=test_set_y.eval())
+            print 'epoch:%d,error:%f'%(epoch,error)
+#    write_matrix_to_file(prediction,'pred.txt')
+#    write_matrix_to_file(test_set_y.eval(),'real.txt')
         
-    print 'max value:%f,epoch:%d'%(numpy.max(macro),epoch)
-    evaluate.complete_evaluate(prediction,test_set_y.eval(),
-                       csv_output='/home/liuxiaoming/dl_zjh/data/result.csv')
-    macro=[str(i) for i in macro]
-    micro=[str(i) for i in micro]
-    record_macro_file=open('/home/liuxiaoming/dl_zjh/data/result_macro.txt','a')
-    record_macro_file.write(' '.join(macro)+'\n')
-    record_macro_file.close()
-    record_macro_file=open('/home/liuxiaoming/dl_zjh/data/result_micro.txt','a')
-    record_macro_file.write(' '.join(micro)+'\n')
-    record_macro_file.close()
         
 
 def shared_dataset(data_xy, borrow=True):
@@ -240,6 +242,6 @@ def sgd_updates_adadelta(params,cost,rho=0.95,epsilon=1e-6,norm_lim=9,word_vec_n
 if __name__=='__main__':
     import cPickle as cp
     theano.config.floatX='float32'
-    train,test,words=cp.load(open('../data/vecs_dep_all_50_size=400/data_around8.p'))
+    train,test,words,vocab=cp.load(open('data/data.p'))
     words=numpy.asarray(words,dtype=theano.config.floatX)
     train_conv(datasets=[train,test],wordvec=words)

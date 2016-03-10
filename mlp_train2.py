@@ -27,10 +27,10 @@ def Iden(x):
 def train_nn(datasets,
              wordvec,
              word_size=200,
-             hidden_units=[1600,200,20],
+             hidden_units=[1000,1000,23],
              dropout_rate=[0.3],
              shuffle_batch=True,
-             n_epochs=2000,
+             n_epochs=30,
              batch_size=256,
              init_learning_rate=0.4,
              adadelta=True,
@@ -115,7 +115,8 @@ def train_nn(datasets,
     #theano.printing.debugprint(train_model)
             
     #f_scores=[classifier.f_score(y,i+1) for i in xrange(hidden_units[-1]-1)]
-    f_scores = [classifier.f_score(y,6),classifier.f_score(y,10)]
+    f_scores =(classifier.f_score(y,i+1)[0] for i in xrange(22))
+    f_scores = tuple(f_scores)
     '''    
     fenzi=0
     fenmu=0    
@@ -157,14 +158,15 @@ def train_nn(datasets,
                 print cost_epoch
                 set_zero(zero_vec)
         #print test_model()
-        print 'f_scores for class 6(regulate_of_process) and 10(Is_Localized_In)\
-                in test dataset:%f'%test_model()
+        f_scores = test_model()
+        f_scores = tuple(f_scores)
+        print '%.2f,'*22%(f_scores)
         
-    #layer0_input= Words[T.cast(test_set_x.flatten(),dtype="int32")].\
-    #              reshape((test_set_x.shape[0],test_set_x.shape[1]*Words.shape[1]))
-    #t_pred=classifier.predict(layer0_input)
-    #write_matrix_to_file(t_pred.eval(),'pred.txt')
-    #write_matrix_to_file(test_set_y,'real.txt')
+    layer0_input= Words[T.cast(test_set_x.flatten(),dtype="int32")].\
+                  reshape((test_set_x.shape[0],test_set_x.shape[1]*Words.shape[1]))
+    t_pred=classifier.predict(layer0_input)
+    write_matrix_to_file(t_pred.eval(),'pred.txt')
+    write_matrix_to_file(test_set_y,'real.txt')
     #print Words.get_value()
 
 def shared_dataset(data_xy, borrow=True):

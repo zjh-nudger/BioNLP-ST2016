@@ -12,3 +12,7 @@ SUPPORTING_RESOURCES_TOKENIZATION = '../supporting resources/tokenization'
 
 GT_PROCESS_TRAIN = '../2016_SeeDev/BioNLP 2016/SeeDev/BioNLP-ST-2016_SeeDev-binary_train/gt_process'
 GT_PROCESS_DEV = '../2016_SeeDev/BioNLP 2016/SeeDev/BioNLP-ST-2016_SeeDev-binary_dev/gt_process'
+
+# stanford dependency parse
+CONLLX_PROCESS_TRAIN = '../2016_SeeDev/BioNLP 2016/SeeDev/BioNLP-ST-2016_SeeDev-binary_train/stanford_process'
+CONLLX_PROCESS_DEV = '../2016_SeeDev/BioNLP 2016/SeeDev/BioNLP-ST-2016_SeeDev-binary_dev/stanford_process'
