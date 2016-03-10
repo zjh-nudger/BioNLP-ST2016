@@ -11,7 +11,7 @@ sys.path.append('..')
 
 import glob,path,re,project,itertools
 from collections import OrderedDict
-
+import networkx as nx
 
 class Word:
     def __init__(self,word,lemma,pos,start,end):
@@ -20,12 +20,15 @@ class Word:
         self.pos = pos
         self.start = start
         self.end = end
+        self.parent = None
     def __repr__(self):
-        return self.word+'\t'+self.lemma+'\t'+self.pos+'\t'+\
-                str(self.start)+'\t'+str(self.end)
-#        return self.word
+#        return self.word+'\t'+self.lemma+'\t'+self.pos+'\t'+\
+#                str(self.start)+'\t'+str(self.end)
+        return self.word
     def __eq__(self,other):
         return self.start == other.start and self.end == other.end and self.word == other.word
+    def __hash__(self):
+        return hash(self.word)+hash(self.start)+hash(self.end)
         
 class Span:
     def __init__(self,start,end):
@@ -145,6 +148,40 @@ def get_index(element1,element2,sentence):
     #assert len(sentencex) != 0
     return e1_start_index,e1_end_index,e2_start_index,e2_end_index
 
+def get_dependency_graph(connlx_file):
+    graphs = []
+    word_list = []
+    for line in connlx_file:
+        toks = line.strip().split('\t')
+        #print word_list
+        if len(toks) < 3:
+            #print word_list
+            graph = nx.Graph()
+            graph.add_nodes_from(word_list)
+            edge_list = []
+            for word in word_list:
+                if word.parent - 1 == -1:
+                    continue
+                edge_list.append((word_list[word.parent-1],word))
+            graph.add_edges_from(edge_list)
+            print len(graph.edges())
+            graphs.append(graph)
+            word_list = []
+        else:
+            #word,lemma,pos,start,end
+            #1	The	_	DET	DT	_	8	det	_	_	0	3
+            assert len(toks) == 12
+            word = Word(toks[1],'','',int(toks[10]),int(toks[11]))
+            word.parent = int(toks[6])
+            word_list.append(word)
+
+def create_shortest_path_examples(gt_file,a1_file,a2_file,connlx_file,output_file):
+    document = get_sentences_from_gt(gt_file)
+    entities = get_a1_annotations(a1_file)
+    relations = get_a2_annotations(a2_file)
+    dependency_graphs = get_dependency_graph(conllx_file)
+    
+
 def create_examples(gt_file,a1_file,a2_file,output_file,window):
     document = get_sentences_from_gt(gt_file)
     entities = get_a1_annotations(a1_file)
@@ -173,30 +210,44 @@ def create_examples(gt_file,a1_file,a2_file,output_file,window):
                 typex_id = 0
                 element1 = entities[combination[0]]
                 element2 = entities[combination[1]]
-            entity_type_1 = element1.typex
-            entity_type_2 = element2.typex
+            #entity_type_1 = element1.typex
+            #entity_type_2 = element2.typex
             index = get_index(element1,element2,sentence)
             contexts = get_context(index[0],index[1],index[2],index[3],sentence,window)
             contexts = [str(word.word) for word in contexts]
-            output_file.write(str(typex_id) +' '+entity_type_1+' '+entity_type_2+' ' + ' '.join(contexts)+'\n')
+            output_file.write(str(typex_id)+' ' + ' '.join(contexts)+'\n')
 
+def close_file(*f):
+    for fl in f:
+        fl.close()
+        
 if __name__ == '__main__':
     train = open('train','w')
     dev = open('dev','w')
-    window = 1
+    window = 2
     for fn in glob.glob(path.GT_PROCESS_TRAIN+'/*.gt'):
+        print fn
         pmid = fn.split('\\')[-1][12:-3]
         gt_file = open(fn)
         a1_file = open(path.SOURCE_DATA_BINARY_TRAIN+'/SeeDev-binary-'+pmid+'.a1')
         a2_file = open(path.SOURCE_DATA_BINARY_TRAIN+'/SeeDev-binary-'+pmid+'.a2')
-        create_examples(gt_file,a1_file,a2_file,train,window)
+        conllx_file = open(path.CONLLX_PROCESS_TRAIN+'/SeeDev-full-'+pmid+'.txt.conllx')
+        # for linear context        
+        #create_examples(gt_file,a1_file,a2_file,train,window)
+        create_shortest_path_examples(gt_file,a1_file,a2_file,conllx_file,train)
+        close_file(a1_file,a2_file,gt_file,conllx_file)
+        break
         #print fn
+    '''
     for fn in glob.glob(path.GT_PROCESS_DEV+'/*.gt'):
         pmid = fn.split('\\')[-1][12:-3]
         gt_file = open(fn)
         a1_file = open(path.SOURCE_DATA_BINARY_DEV+'/SeeDev-binary-'+pmid+'.a1')
         a2_file = open(path.SOURCE_DATA_BINARY_DEV+'/SeeDev-binary-'+pmid+'.a2')
-        create_examples(gt_file,a1_file,a2_file,dev,window)
+        conllx_file = open(path.CONLLX_PROCESS_DEV+'/SeeDev-binary-'+pmid+'.txt.conllx')
+        #create_examples(gt_file,a1_file,a2_file,dev,window)
+        close_file(a1_file,a2_file,gt_file,conllx_file)
         #print fn
+    '''
     dev.close()
     train.close()

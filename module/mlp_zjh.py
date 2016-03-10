@@ -203,6 +203,7 @@ class LogisticRegression(object):
         
         f_score=(2 * precision * recall) / (precision + recall)
         
+        #return f_score,precision,recall
         return f_score,precision,recall
         
         
