@@ -1,0 +1,415 @@
+18. These findings , plus an awareness that expression patterns have provided important insights into the developmental roles of MADS domain factors in past investigations , motivated us to look more closely at AGL15 expression in postembryonic phases .
+  1. E23	Regulates_Expression	Agent:postembryonic phases	DNA:AGL15
+12. The only members of the MADS domain family in Arabidopsis that are known to be expressed in embryos are AGL15 and AGL2 ( Flanagan and Ma 1994 ) .
+  2. E22	Regulates_Expression	Agent:embryos	DNA:AGL2
+  3. E24	Regulates_Expression	Agent:embryos	DNA:AGL15
+13. AGL15 shows strong preferential expression in embryos , whereas AGL2 is predominantly expressed in floral tissues ( Heck et al. 1995 ) .
+  4. E26	Regulates_Expression	Agent:embryos	DNA:AGL15
+  5. E25	Regulates_Expression	Agent:floral tissues	DNA:AGL2
+1. With the onset of the reproductive phase , AGL15 promoter activity ceases in the meristematic cells at the apex of the inflorescence .
+  1. E27	Regulates_Expression	Agent:reproductive phase	DNA:AGL15 promoter
+  2. E13	Regulates_Expression	Agent:meristematic cells at the apex of the inflorescence	DNA:AGL15 promoter
+2. This pattern of gene regulation further distinguishes AGL15 from the large group of floral MADS box genes , including AP1 ( Mandel et al. 1992b ) and FRUITFULL / AGL8 ( Mandel and Yanofsky 1995a ; Gu et al. 1998 ) , which are preferentially expressed during the reproductive phase and are induced or upregulated during the transition to flowering ( Hempel et al. 1997 ) .
+  3. E12	Regulates_Expression	Agent:reproductive phase	DNA:AGL8
+  4. E8	Regulates_Expression	Agent:reproductive phase	DNA:AP1
+  5. E16	Regulates_Expression	Agent:transition to flowering	DNA:AGL8
+  6. E7	Regulates_Expression	Agent:transition to flowering	DNA:AP1
+3. In terms of regulation , AGL15 is most similar to the MADS box gene FLOWERING LOCUS C , which encodes a repressor of flowering and is also downregulated in the transition to flowering ( Michaels and Amasino 1999 ) .
+  7. E14	Regulates_Expression	Agent:transition to flowering	DNA:AGL15
+  8. E11	Regulates_Expression	Agent:transition to flowering	DNA:FLOWERING LOCUS C
+4. During the reproductive phase , AGL15 promoter activity is also associated with young immature cells .
+  9. E28	Regulates_Expression	Agent:reproductive phase	DNA:AGL15 promoter
+  10. E15	Regulates_Expression	Agent:young immature cells	DNA:AGL15 promoter
+6. In both leaves and floral organs , which are considered homologous organs ( reviewed in Poethig 1997 ) , the AGL15 promoter is initially active throughout the young organ primordia but is gradually restricted to the base of the maturing organs .
+  11. E10	Regulates_Expression	Agent:base of the maturing organs	DNA:AGL15 promoter
+  12. E9	Regulates_Expression	Agent:young organ primordia	DNA:AGL15 promoter
+6. Yeast one-hybrid assays with a lacZ reporter gene under control of the late embryogenesis - abundant AtEm6 promoter show that only ABI5 binds directly to this promoter fragment .
+  1. E11	Regulates_Expression	Agent:late embryogenesis	DNA:AtEm6 promoter
+17. Unlike most other embryonic regulators that function during specific stages of embryogenesis ( 8–11 ) , LEC genes are unique in that they are required for normal development during both the morphogenesis and maturation phases .
+  1. E61	Regulates_Expression	Agent:morphogenesis	DNA:LEC
+  2. E64	Regulates_Expression	Agent:maturation phases	DNA:LEC
+18. Early in embryogenesis , LEC genes are required to specify suspensor cell fate and cotyledon identity ( 12–16 ) .
+  3. E62	Regulates_Expression	Agent:Early in embryogenesis	DNA:LEC
+19. Late in embryogenesis , LEC genes are needed during the maturation phase for the acquisition of desiccation tolerance and the expression of many maturation - specific genes ( 13–17 ) .
+  4. E63	Regulates_Expression	Agent:maturation phase	DNA:LEC
+31. We cloned the LEC2 gene and showed that it is expressed preferentially during embryogenesis and encodes a protein with similarity to other seed - specific transcription factors .
+  5. E55	Regulates_Expression	Agent:embryogenesis	DNA:LEC2
+1. Our findings that the LEC2 gene encodes a B3 domain protein ( Fig . 3 ) and is expressed primarily during embryogenesis ( Fig . 4 ) suggest that it , like LEC1 and FUS3 , is a transcriptional regulator of seed development .
+  1. E27	Regulates_Expression	Agent:embryogenesis	DNA:LEC2
+11. However , LEC1 is expressed in the roots of pkl mutant but not wild - type seedlings ( 41 ) .
+  1. E36	Regulates_Expression	Agent:wild-type seedlings	DNA:LEC1
+  2. E33	Regulates_Expression	Agent:pkl seedlings	DNA:LEC1
+  3. E25	Regulates_Expression	Agent:roots	DNA:LEC1
+12. This result suggests that the chromodomain protein PKL acts normally to repress LEC1 in postgerminative roots , and therefore that LEC1 , at least in part , mediates somatic embryo formation in pkl mutants .
+  4. E34	Regulates_Expression	Agent:roots	DNA:LEC1
+  5. E35	Regulates_Expression	Agent:postgerminative	DNA:LEC1
+  6. E24	Regulates_Expression	Agent:PKL	DNA:LEC1
+13. Given our results , we hypothesize that LEC2 may also be derepressed in pkl mutants .
+  7. E23	Regulates_Expression	Agent:pkl	DNA:LEC2
+6. Expression studies suggest that MUM4 is developmentally regulated in the seed coat by AP2 , TTG1 , and GL2 , whereas TTG2 and MYB61 appear to be regulating mucilage production through alternate pathway(s) .
+  1. E24	Regulates_Expression	Agent:seed coat	DNA:GL2
+  2. E2	Regulates_Expression	Agent:GL2	DNA:MUM4
+  3. E25	Regulates_Expression	Agent:seed coat	DNA:TTG1
+  4. E3	Regulates_Expression	Agent:TTG1	DNA:MUM4
+  5. E23	Regulates_Expression	Agent:seed coat	DNA:AP2
+  6. E26	Regulates_Expression	Agent:seed coat	DNA:MUM4
+  7. E1	Regulates_Expression	Agent:AP2	DNA:MUM4
+11. Expression studies show that MUM4 is developmentally regulated during seed coat differentiation such that its transcript levels are increased at the time of mucilage production .
+  1. E4	Regulates_Expression	Agent:seed coat differentiation	DNA:MUM4
+12. Furthermore , MUM4 appears to be a downstream target of a cascade of transcription factors that includes AP2 , TTG1 , and GL2 .
+  2. E2	Regulates_Expression	Agent:GL2	DNA:MUM4
+  3. E1	Regulates_Expression	Agent:TTG1	DNA:MUM4
+  4. E3	Regulates_Expression	Agent:AP2	DNA:MUM4
+5. TTG1 ( TRANSPARENT TESTA GLABRA1 ) , TTG2 , and GL2 ( GLABRA2 ) , which were originally identified through their role in trichome specification , have defects in both mucilage and columella production in the seed coat ( Koornneef , 1981 ; Penfield et al. , 2001 ; Western et al. , 2001 ; Johnson et al. , 2002 ) .
+  5. E36	Regulates_Expression	Agent:seed coat	DNA:GL2
+  6. E37	Regulates_Expression	Agent:seed coat	DNA:TTG2
+  7. E35	Regulates_Expression	Agent:seed coat	DNA:TTG1
+6. It has been shown at the genetic and molecular levels in trichomes and root hairs that TTG1 interacts with a basic helix - loop - helix ( bHLH ) protein and a tissue - specific MYB protein to activate both GL2 and TTG2 ( Payne et al. , 2000 ; Johnson et al. , 2002 ; Schiefelbein , 2003 ) .
+  8. E41	Regulates_Expression	Agent:trichomes	DNA:GL2
+  9. E44	Regulates_Expression	Agent:root hairs	DNA:GL2
+  10. E42	Regulates_Expression	Agent:trichomes	DNA:TTG2
+  11. E43	Regulates_Expression	Agent:root hairs	DNA:TTG2
+16. Alternatively , because the maternal plant contributes two genome equivalents to the triploid endosperm , seed mass may be affected by AP2 gene dosage in the endosperm .
+  1. E108	Regulates_Expression	Agent:endosperm	DNA:AP2
+20. Conversely , a recent study used genetic experiments to conclude that AP2 acts through both the endosperm and maternal tissues to affect seed size ( 40 ) .
+  2. E107	Regulates_Expression	Agent:maternal tissues	DNA:AP2
+  3. E109	Regulates_Expression	Agent:endosperm	DNA:AP2
+15. One interpretation of our result is that AP2 activity in maternal tissues , potentially including the seed coat , is more important than its activity in the embryo and endosperm in controlling seed mass .
+  4. E95	Regulates_Expression	Agent:maternal tissues	DNA:AP2
+  5. E96	Regulates_Expression	Agent:endosperm	DNA:AP2
+  6. E93	Regulates_Expression	Agent:embryo	DNA:AP2
+  7. E94	Regulates_Expression	Agent:seed coat	DNA:AP2
+7. WUS is expressed in a domain underneath the stem cells termed the organizing center ( OC ) and is required and sufficient to maintain the overlying stem cells undifferentiated ( Mayer et al. , 1998 ; Schoof et al. , 2000 ) .
+  1. E23	Regulates_Expression	Agent:organizing center	DNA:WUS
+9. CLV3 presumably acts as an extracellular ligand of the CLV1 receptor kinase complex , which eventually leads to downregulation of WUS transcription in the recipient cells ( Clark et al. , 1997 ; Stone et al. , 1998 ; Trotochaud et al. , 1999 ; Rojo et al. , 2002 ; Lenhard and Laux , 2003 ) .
+  2. E22	Regulates_Expression	Agent:CLV1 receptor kinase complex	DNA:WUS
+10. In floral meristems that are homologous to indeterminate shoot meristems , the AGAMOUS ( AG ) gene represses WUS expression late in flower development to terminate the stem cell niche after a limited number of organs have been formed ( Lenhard et al. , 2001 ; Lohmann et al. , 2001 ) .
+  3. E19	Regulates_Expression	Agent:AG	DNA:WUS
+  4. E31	Regulates_Expression	Agent:late in flower development	DNA:AG
+  5. E27	Regulates_Expression	Agent:floral meristems	DNA:AG
+  6. E39	Regulates_Expression	Agent:late in flower development	DNA:WUS
+  7. E38	Regulates_Expression	Agent:floral meristems	DNA:WUS
+12. In Arabidopsis , the onset of WUS expression in precursor cells of the OC in the 16-cell embryo suggests that shoot meristem formation has been initiated already at this stage ( Mayer et al. , 1998 ) .
+  8. E37	Regulates_Expression	Agent:Arabidopsis	DNA:WUS
+  9. E18	Regulates_Expression	Agent:precursor cells of the OC in the 16-cell embryo	DNA:WUS
+13. CLV3 expression is detected from late heart stage on between the outgrowing cotyledons ( Fletcher et al. , 1999 ) .
+  10. E21	Regulates_Expression	Agent:late heart stage	DNA:CLV3
+  11. E40	Regulates_Expression	Agent:between cotyledons	DNA:CLV3
+18. We show that the premature termination of the shoot meristem in l28 mutants is caused by a mutation in the APETALA2 ( AP2 ) gene that was previously identified as one of the components of the ABC model in floral patterning , where it represses AG ( Bowman et al. , 1991 ; Drews et al. , 1991 ) , in floral transition ( Jofuku et al. , 1994 ; Okamuro et al. , 1997b ) , and in the control of seed size ( Jofuku et al. , 2005 ; Ohto et al. , 2005 ) .
+  12. E20	Regulates_Expression	Agent:AP2	DNA:AG
+19. In this article , we show that maintenance of the stem cell niche in the primary shoot meristem requires the activity of AP2 and redundant factor(s) via an AG independent mechanism that involves interaction with the WUS - CLV3 feedback loop .
+  13. E26	Regulates_Expression	Agent:primary shoot meristem	DNA:AP2
+8. A plausible interpretation of these data is that l28 acts as a dominant - negative allele of AP2 and thus identifies a novel pathway in shoot meristem development .
+  1. E12	Regulates_Expression	Agent:l28	DNA:AP2
+1. Here , we identify a novel regulatory pathway in shoot meristem stem cell maintenance defined by AP2 function .
+  2. E15	Regulates_Expression	Agent:shoot meristem	DNA:AP2
+6. Wild - type AP2 is expressed in the shoot meristem at all stages , consistent with an as yet unknown function there .
+  3. E13	Regulates_Expression	Agent:shoot meristem	DNA:AP2
+  4. E17	Regulates_Expression	Agent:Wild-type	DNA:AP2
+54. Those authors described how after chromatin immunoprecipitation , they obtained DNA fragments containing cis-regulatory elements targeted by AGL15 , which may contribute to the regulation of the SERK gene by directly binding to its promoter .
+  1. E95	Regulates_Expression	Agent:AGL15	DNA:SERK
+6. Consistent with the embryonic seedling phenotype , LEC1 , L1L , ABI3 , and FUS3 are up-regulated in val1 val2 seedlings in association with a global shift in gene expression to a profile resembling late - torpedo - stage embryogenesis .
+  1. E75	Regulates_Expression	Agent:val1 val2	DNA:LEC1
+  2. E114	Regulates_Expression	Agent:seedlings	DNA:LEC1
+  3. E78	Regulates_Expression	Agent:val1 val2	DNA:L1L
+  4. E116	Regulates_Expression	Agent:seedlings	DNA:L1L
+  5. E77	Regulates_Expression	Agent:val1 val2	DNA:ABI3
+  6. E115	Regulates_Expression	Agent:seedlings	DNA:ABI3
+  7. E72	Regulates_Expression	Agent:val1 val2	DNA:FUS3
+  8. E113	Regulates_Expression	Agent:seedlings	DNA:FUS3
+7. Hence , VAL factors function as global repressors of the LEC1 / B3 gene system .
+  9. E71	Regulates_Expression	Agent:VAL	DNA:LEC1/B3 gene system
+9. We suggest that VAL targets Sph / RY - containing genes in the network for chromatin - mediated repression in conjunction with the PKL - related CHD3 chromatin - remodeling factors .
+  10. E76	Regulates_Expression	Agent:VAL	DNA:Sph/RY
+12. LEC1 and L1L act early in embryogenesis and initiate a complex progression of B3 transcription factor expression associated with the transition from embryo morphogenesis to embryo maturation and acquisition of desiccation tolerance .
+  11. E73	Regulates_Expression	Agent:early in embryogenesis	DNA:LEC1
+  12. E74	Regulates_Expression	Agent:early in embryogenesis	DNA:L1L
+18. Finally , ABI3 is required for maturation - related and ABA - regulated gene expression and establishment of embryo dormancy during mid-to - late embryo development ( Koornneef et al. , 1984 ) .
+  13. E102	Regulates_Expression	Agent:mid-to-late embryo development	DNA:ABI3
+21. A major function of the LEC2 , FUS3 , and ABI3 B3 transcription factors is activation of genes involved in accumulation of storage protein and lipid reserves in the embryo during seed maturation .
+  14. E99	Regulates_Expression	Agent:seed maturation	DNA:ABI3
+  15. E94	Regulates_Expression	Agent:embryo	DNA:ABI3
+  16. E101	Regulates_Expression	Agent:seed maturation	DNA:FUS3
+  17. E95	Regulates_Expression	Agent:embryo	DNA:FUS3
+  18. E103	Regulates_Expression	Agent:seed maturation	DNA:LEC2
+  19. E96	Regulates_Expression	Agent:embryo	DNA:LEC2
+24. FUS3 and LEC2 are implicated in repression of GA biosynthesis during seed development ( Curaba et al. , 2004 ; Gazzarrini et al. , 2004 ) .
+  20. E98	Regulates_Expression	Agent:seed development	DNA:LEC2
+  21. E100	Regulates_Expression	Agent:seed development	DNA:FUS3
+9. It is known that AP2 suppresses expression of AGAMOUS , the C gene of a floral homeotic gene ( Drews et al. , 1991 ; Bomblies et al. , 1999 ) .
+  1. E7	Regulates_Expression	Agent:AP2	DNA:AGAMOUS
+10. In addition , AP2 regulates the expression of ethylene - responsive factor ( ERF ) genes containing one AP2 / EREBP domain ( Okamuro et al. , 1997 ) .
+  2. E10	Regulates_Expression	Agent:AP2	DNA:ERF
+13. AtEBP is regulated by an ethylene signal ( Büttner and Singh , 1997 ; Ogawa et al. , 2005 ) .
+  3. E9	Regulates_Expression	Agent:ethylene signal	DNA:AtEBP
+14. It was clarified that AtEBP is regulated by EIN2 , but not EIN3 , suggesting that AtEBP expression is independently regulated under EIN3 in ethylene signalling .
+  4. E5	Regulates_Expression	Agent:EIN2	DNA:AtEBP
+  5. E1	Regulates_Expression	Agent:EIN3	DNA:AtEBP
+  6. E47	Regulates_Expression	Agent:ethylene	DNA:AtEBP
+  7. E6	Regulates_Expression	Agent:EIN3	DNA:AtEBP
+15. Interestingly , it was reported that AtEBP expression was regulated by AP2 ( Okamuro et al. , 1997 ) .
+  8. E3	Regulates_Expression	Agent:AP2	DNA:AtEBP
+17. Here , we show that AP2 regulates ERF genes such as AtEBP and AtERF1 , and the over - expression of AtEBP causes the accumulation of AP2 transcripts .
+  9. E4	Regulates_Expression	Agent:AP2	DNA:AtERF1
+  10. E2	Regulates_Expression	Agent:AP2	DNA:AtEBP
+  11. E8	Regulates_Expression	Agent:AP2	DNA:ERF
+4. The current study showed that AP2 activity repressed AtEBP , AtERF1 and AP2 expression .
+  1. E3	Regulates_Expression	Agent:AP2	DNA:AtEBP
+  2. E13	Regulates_Expression	Agent:AP2	DNA:AtERF1
+  3. E7	Regulates_Expression	Agent:AP2	DNA:AP2
+5. This is consistent with previous results showing that AP2 regulates its own AP2 expression ( Okamuro et al. , 1997 ; Chen , 2004 ) as well as other genes , such as the ERF genes .
+  4. E9	Regulates_Expression	Agent:AP2	DNA:AP2
+  5. E12	Regulates_Expression	Agent:AP2	DNA:ERF
+6. In addition , over - expression of AtEBP increased the expression level of AP2 .
+  6. E6	Regulates_Expression	Agent:over-expression of AtEBP	DNA:AP2
+8. Although the over - expression of AtEBP up-regulated AP2 and AtERF1 expression , these promoters ( ∼2·0 kb upstream from ATG ) did not contain the GCC-box .
+  7. E11	Regulates_Expression	Agent:over-expression of AtEBP	DNA:AtERF1
+  8. E1	Regulates_Expression	Agent:over-expression of AtEBP	DNA:AP2
+11. Down - regulation of AP2 was observed in ein 2-1 .
+  9. E10	Regulates_Expression	Agent:ein2-1	DNA:AP2
+13. However , AP2 expression was not induced by ethylene treatment or in ctr 1-1 , indicating that EIN2 is a receiver for various signals .
+  10. E4	Regulates_Expression	Agent:ctr1-1	DNA:AP2
+  11. E5	Regulates_Expression	Agent:ethylene treatment	DNA:AP2
+17. Our observations suggested that the AP2 expression was induced via EIN2 but not by the ethylene signal ( Fig .  7 ) .
+  12. E2	Regulates_Expression	Agent:ethylene signal	DNA:AP2
+  13. E8	Regulates_Expression	Agent:EIN2	DNA:AP2
+0. The translation of AP2 mRNA is suppressed by micro RNAs ( Chen , 2004 ) and AP2 protein down - regulates AP2 and AtEBP expression ( Okamuro et al. , 1997 ; this study ) , as indicated in grey .
+  1. E9	Regulates_Expression	Agent:AP2	DNA:AtEBP
+  2. E3	Regulates_Expression	Agent:AP2	DNA:AP2
+1. In the current study , it was demonstrated that AP2 expression was regulated through AtEBP and EIN2 , and that AtEBP may contribute to floral development , as indicated by in black .
+  3. E5	Regulates_Expression	Agent:AtEBP	DNA:AP2
+  4. E1	Regulates_Expression	Agent:EIN2	DNA:AP2
+6. Furthermore , AtEBP expression is independently regulated under EIN3 in ethylene signalling ( Ogawa et al. , 2005 ; this study ) .
+  5. E6	Regulates_Expression	Agent:EIN3	DNA:AtEBP
+  6. E33	Regulates_Expression	Agent:ethylene	DNA:AtEBP
+7. In this study , AP2 was not induced by ethylene despite increasing expression of AtEBP .
+  7. E7	Regulates_Expression	Agent:ethylene	DNA:AP2
+  8. E2	Regulates_Expression	Agent:ethylene	DNA:AtEBP
+14. Over - expression of AtEBP caused up-regulation of AP2 in leaves .
+  9. E8	Regulates_Expression	Agent:leaves	DNA:AP2
+  10. E34	Regulates_Expression	Agent:Over-expression of AtEBP	DNA:AP2
+16. Chen ( 2004 ) reported that micro RNAs control transcriptional regulation of AP2 expression .
+  11. E11	Regulates_Expression	Agent:micro RNAs	DNA:AP2
+22. AtEBP and functional EIN2 affected the transcriptional regulation of AP2 .
+  12. E10	Regulates_Expression	Agent:AtEBP	DNA:AP2
+  13. E4	Regulates_Expression	Agent:EIN2	DNA:AP2
+1. We previously reported that AGL15 represses AGL15 transcription ( Zhu and Perry , 2005 ) .
+  1. E21	Regulates_Expression	Agent:AGL15	DNA:AGL15
+3. No noticeable increase in AGL18 transcription has been observed in plants homozygous for null alleles of AGL15 ( Figure 5b ) or vice versa ( unpublished data ) , but given that AGL15 is able to repress its own transcription ( Zhu and Perry , 2005 ) , and the close similarity and redundancy between AGL15 and AGL18 ( Adamczyk et al. , 2007 ) , it is possible that any increase in expression is masked by a subsequent autorepression or higher levels of redundancy involving other MADS - domain proteins .
+  2. E9	Regulates_Expression	Agent:plants homozygous for null alleles of AGL15	DNA:AGL18
+4. AGL15 binds the promoter of LEA76 and represses its transcription .
+  3. E13	Regulates_Expression	Agent:AGL15	DNA:LEA76
+8. However , CBF2 is repressed , although not as drastically as in seeds , in seedlings constitutively expressing AGL15 relative to wild - type plants , and is induced in seedlings accumulating the AGL15 - VP16 fusion protein ( Figure 5a ) .
+  4. E8	Regulates_Expression	Agent:seedlings accumulating the AGL15-VP16	DNA:CBF2
+  5. E16	Regulates_Expression	Agent:seeds	DNA:CBF2
+  6. E51	Regulates_Expression	Agent:wild-type	DNA:CBF2
+  7. E15	Regulates_Expression	Agent:seedlings constitutively expressing AGL15	DNA:CBF2
+12. LEA76 , CBF2 ( Figure 5a ) and other putative AGL15 downstream target genes ( K. Hill , H. Wang and S.E. Perry , unpublished data ) , are not as highly induced by ectopic expression of AGL15 - VP16 as expected , especially when compared with levels of AGL18 transcript accumulation brought about by AGL15 - VP16 ( Figure 5a ) .
+  8. E11	Regulates_Expression	Agent:ectopic expression of AGL15-VP16	DNA:LEA76
+  9. E20	Regulates_Expression	Agent:ectopic expression of AGL15-VP16	DNA:CBF2
+13. It has been demonstrated that AGL15 and AGL18 perform at least partially redundant functions ( Adamczyk et al. , 2007 , S. Perry , unpublished data ) , and given that AGL15 - VP16 induces accumulation of AGL18 transcript ( Figure 5a ) , AGL18 might be subsequently repressing CBF2 and LEA76 , and thus masking to some degree AGL15 - VP16 - mediated transcription , although an increase in response to AGL15 - VP16 is still apparent .
+  10. E24	Regulates_Expression	Agent:AGL18	DNA:CBF2
+  11. E10	Regulates_Expression	Agent:AGL18	DNA:LEA76
+14. Ectopic expression of SAP18 alone repressed LEA and CBF2 ( Figure 5a ) , possibly through interaction with AGL15 that is expressed in non-transgenic seedlings or through interaction with other DNA - binding proteins .
+  12. E23	Regulates_Expression	Agent:Ectopic expression of SAP18	DNA:LEA
+  13. E14	Regulates_Expression	Agent:Ectopic expression of SAP18	DNA:CBF2
+15. However , AGL15 and AGL18 levels were unaffected by ectopic expression of SAP18 alone , possibly indicating a more specific interaction at these loci .
+  14. E22	Regulates_Expression	Agent:ectopic expression of SAP18	DNA:AGL15
+  15. E18	Regulates_Expression	Agent:ectopic expression of SAP18	DNA:AGL18
+16. We have demonstrated that AGL15 binds to LEA76 ( At1g52690 ) ( Figure 6a ) , and that LEA76 is repressed by AGL15 and / or SAP18 in a variety of tissues , including seedlings ( Figure 5 ) .
+  16. E19	Regulates_Expression	Agent:SAP18	DNA:LEA76
+  17. E12	Regulates_Expression	Agent:AGL15	DNA:LEA76
+  18. E52	Regulates_Expression	Agent:seedlings	DNA:LEA76
+17. Published results support a role for SIN3 / HDAC1 - mediated repression in regulation of LEA76 : trichostatin A , a specific inhibitor of HDAC , causes an increase in LEA76 transcript during seed germination ( Tai et al. , 2005 ) .
+  19. E17	Regulates_Expression	Agent:SIN3/HDAC1	DNA:LEA76
+1. In this work , we identify Arabidopsis bZIP53 as a novel transcriptional regulator of MAT genes . bZIP53 expression in developing seeds precedes and overlaps that of its target genes .
+  1. E6	Regulates_Expression	Agent:developing seeds	DNA:bZIP53
+8. In this study , the use of the uidA reporter gene , the expression of which is driven by full - length promoter sequences of either BCCP2 or PKp - β1 , further establishes that WRI1 is able to strongly modulate the activity of these two promoters in planta ( Figure 4a , b ) .
+  1. E7	Regulates_Expression	Agent:WRI1	DNA:promoter sequences PKp-β1
+  2. E5	Regulates_Expression	Agent:WRI1	DNA:promoter sequences BCCP2
+  3. E26	Regulates_Expression	Agent:in planta	DNA:promoter sequences PKp-β1
+  4. E24	Regulates_Expression	Agent:in planta	DNA:promoter sequences BCCP2
+9. Finally , EMSA ( Figure 8 ) and yeast one-hybrid experiments ( Figure 7a ) demonstrate that WRI1 is able to interact with the BCCP2 promoter , strongly suggesting that this gene is a direct target of WRI1 in planta .
+  5. E25	Regulates_Expression	Agent:in planta	DNA:BCCP2
+  6. E6	Regulates_Expression	Agent:WRI1	DNA:BCCP2
+0. Functional dissections of the BCCP2 and PKp - β1 promoters have led to the identification of enhancing regions of 54 and 79 bp , respectively , that are essential to direct the activity of these promoters in oil-accumulating tissues of the embryo .
+  1. E7	Regulates_Expression	Agent:oil-accumulating tissues of the embryo	DNA:PKp-β1 promoters
+  2. E6	Regulates_Expression	Agent:oil-accumulating tissues of the embryo	DNA:BCCP2 promoters
+5. SPL10 and SPL11 are derepressed >150 - fold in dcl1 embryos and are redundantly required for the dcl1 early patterning defects .
+  1. E25	Regulates_Expression	Agent:dcl1	DNA:SPL10
+  2. E24	Regulates_Expression	Agent:dcl1	DNA:SPL11
+  3. E9	Regulates_Expression	Agent:embryos	DNA:SPL10
+  4. E8	Regulates_Expression	Agent:embryos	DNA:SPL11
+2. After the two / four - cell stage , WOX2 transcripts were not detected in about a quarter of eight - cell and dermatogen stage embryos ( seven of 35 and 14 of 52 , respectively ) from self - pollinated dcl 1-5 / + plants ( Fig . 1B ) , which implied that dcl 1-5 embryos had undetectable WOX2 expression .
+  1. E16	Regulates_Expression	Agent:embryos	DNA:WOX2
+  2. E91	Regulates_Expression	Agent:dcl1-5	DNA:WOX2
+19. Although presumptive dcl 1-5 hypophysis cells often expressed DR5rev∷GFP , cells located above the presumptive hypophysis ectopically expressed DR5rev∷GFP ( Fig . 1B ) .
+  3. E87	Regulates_Expression	Agent:dcl1-5	DNA:DR5rev∷GFP
+  4. E14	Regulates_Expression	Agent:presumptive hypophysis cells	DNA:DR5rev∷GFP
+18. Because the auxin signaling - responsive DR5rev promoter fused to GFP ( DR5rev∷GFP ) is specifically active in the hypophysis cells of wild - type globular embryos ( Friml et al. 2003 ) , and hypophysis specification is perturbed in dcl1 embryos , we examined the activity of DR5rev∷GFP in dcl 1-5 embryos to test whether DCL1 was required for appropriate auxin signaling .
+  5. E88	Regulates_Expression	Agent:wild-type	DNA:DR5rev promoter
+  6. E90	Regulates_Expression	Agent:globular	DNA:DR5rev promoter
+  7. E89	Regulates_Expression	Agent:hypophysis cells of wild-type globular embryos	DNA:DR5rev promoter
+  8. E15	Regulates_Expression	Agent:auxin	DNA:DR5rev promoter
+9. In particular , we still see accumulation of chlorophyll preceding the expression of the seed storage protein At2S3 , as in wild - type embryos .
+  1. E1	Regulates_Expression	Agent:embryos	DNA:At2S3
+  2. E14	Regulates_Expression	Agent:wild-type	DNA:At2S3
+2. We found that several of these genes were up-regulated in the dcl 1-15 mutant : FUS3 , LEC2 , L1L , and several MYBs and bZIPs ( Table I ) .
+  1. E7	Regulates_Expression	Agent:dcl1-15	DNA:LEC2
+  2. E6	Regulates_Expression	Agent:dcl1-15	DNA:L1L
+  3. E2	Regulates_Expression	Agent:dcl1-15	DNA:FUS3
+4. We observed that in the wild type , the FUS3 and LEC2 transcriptional reporter genes are excluded from the embryo proper until the early heart stage , just before the beginning of maturation .
+  4. E23	Regulates_Expression	Agent:wild type	DNA:LEC2
+  5. E25	Regulates_Expression	Agent:wild type	DNA:FUS3
+  6. E24	Regulates_Expression	Agent:until the early heart stage	DNA:LEC2
+  7. E5	Regulates_Expression	Agent:embryo proper	DNA:LEC2
+  8. E21	Regulates_Expression	Agent:before the beginning of maturation	DNA:LEC2
+  9. E26	Regulates_Expression	Agent:until the early heart stage	DNA:FUS3
+  10. E8	Regulates_Expression	Agent:embryo proper	DNA:FUS3
+  11. E19	Regulates_Expression	Agent:before the beginning of maturation	DNA:FUS3
+1. Our microarray analysis indicated that ASIL1 , HDA6 / SIL1 , and CLF were down - regulated in dcl 1-15 .
+  1. E3	Regulates_Expression	Agent:dcl1-15	DNA:ASIL1
+  2. E2	Regulates_Expression	Agent:dcl1-15	DNA:CLF
+  3. E1	Regulates_Expression	Agent:dcl1-15	DNA:HDA6
+1. We isolated the LEC1 gene and showed that it functions at an early developmental stage to maintain embryonic cell fate .
+  1. E14	Regulates_Expression	Agent:early developmental stage	DNA:LEC1
+17. Furthermore , ectopic expression of either ABI3 or ABI4 results in ABA hypersensitivity of vegetative tissues which is partly dependent on increased ABI5 expression ( Parcy et al. , 1994 ; Söderman et al. , 2000 ) .
+  1. E109	Regulates_Expression	Agent:vegetative tissues	DNA:ABI5
+0. Developmental Regulation of MUM4 during Seed Coat Secretory Cell Differentiation by AP2 , TTG1 , and GL2 MUM4 transcript increases in differentiating siliques at the time of mucilage production .
+  1. E9	Regulates_Expression	Agent:GL2	DNA:MUM4
+  2. E3	Regulates_Expression	Agent:AP2	DNA:MUM4
+  3. E1	Regulates_Expression	Agent:TTG1	DNA:MUM4
+  4. E44	Regulates_Expression	Agent:Seed Coat Secretory Cell Differentiation	DNA:MUM4
+8. In one of these pathways , it appears that TTG1 and GL2 control the transcription of MUM4 ( Fig . 8 ) .
+  5. E10	Regulates_Expression	Agent:TTG1	DNA:MUM4
+  6. E13	Regulates_Expression	Agent:GL2	DNA:MUM4
+10. Therefore , we favor a model in which a seed coat - specific complex of TTG1 - bHLH - MYB causes activation of GL2 and the subsequent up-regulation of MUM4 during mucilage production ( Fig . 8 ) .
+  7. E6	Regulates_Expression	Agent:TTG1-bHLH-MYB	DNA:GL2
+  8. E12	Regulates_Expression	Agent:GL2	DNA:MUM4
+  9. E43	Regulates_Expression	Agent:mucilage production	DNA:GL2
+  10. E45	Regulates_Expression	Agent:mucilage production	DNA:MUM4
+3. Second , MUM4 expression is severely attenuated in siliques of ap2 mutants that fail to differentiate the outer two layers of the seed coat .
+  11. E2	Regulates_Expression	Agent:siliques	DNA:MUM4
+  12. E42	Regulates_Expression	Agent:ap2	DNA:MUM4
+6. Our data indicate that MUM4 transcription is decreased in ttg1 and gl2 mutants but is essentially wild type in ttg2 and myb61 mutants ( Fig . 7A ) .
+  13. E7	Regulates_Expression	Agent:gl2	DNA:MUM4
+  14. E11	Regulates_Expression	Agent:ttg1	DNA:MUM4
+  15. E4	Regulates_Expression	Agent:myb61	DNA:MUM4
+  16. E8	Regulates_Expression	Agent:wild type	DNA:MUM4
+  17. E5	Regulates_Expression	Agent:ttg2	DNA:MUM4
+0. It has been reported that expression of the ERF genes including AtEBP is regulated by AP2 activity ( Okamuro et al. , 1997 ) .
+  1. E6	Regulates_Expression	Agent:AP2	DNA:AtEBP
+  2. E1	Regulates_Expression	Agent:AP2	DNA:ERF
+9. The AP2 mRNA level of ap 2-5 was also increased , especially in flowers and leaves , suggesting that AP2 activity also suppresses its own AP2 gene expression .
+  3. E4	Regulates_Expression	Agent:AP2	DNA:AP2
+11. These results may suggest that AP2 represses the expression of ERF genes such as AtEBP , AtERF1 and the AP2 gene itself .
+  4. E5	Regulates_Expression	Agent:AP2	DNA:AtEBP
+  5. E3	Regulates_Expression	Agent:AP2	DNA:ERF
+  6. E2	Regulates_Expression	Agent:AP2	DNA:AP2
+  7. E7	Regulates_Expression	Agent:AP2	DNA:AtERF1
+12. For instance , ectopic expression of SEPALLATA3 ( SEP3 ) has been reported to induce AG expression outside of the floral context ( Castillejo et al. , 2005 ) .
+  1. E25	Regulates_Expression	Agent:ectopic expression of SEPALLATA3	DNA:AG
+  2. E61	Regulates_Expression	Agent:outside of the floral context	DNA:AG
+11. The class of maturation genes ( MAT ) expressed during seed maturation typically includes seed storage protein ( SSP ) genes , such as albumin and cruciferin genes , which are induced in early or mid-maturation phase .
+  1. E8	Regulates_Expression	Agent:seed	DNA:SSP
+  2. E44	Regulates_Expression	Agent:seed maturation	DNA:SSP
+  3. E11	Regulates_Expression	Agent:early or mid-maturation phase	DNA:SSP
+  4. E7	Regulates_Expression	Agent:early or mid-maturation phase	DNA:albumin genes
+  5. E10	Regulates_Expression	Agent:early or mid-maturation phase	DNA:cruciferin genes
+12. The late embryogenesis abundant ( LEA ) genes are induced at later stages of maturation and include genes proposed to be involved in acquisition of desiccation tolerance ( for review , see Tunnacliffe and Wise , 2007 ) .
+  6. E9	Regulates_Expression	Agent:later stages of maturation	DNA:LEA
+32. These results strongly suggest that WRI1 , which is a limiting factor of lipogenic gene expression in seeds , directly induces the transcriptional activation of these genes at the onset of the maturation phase .
+  1. E20	Regulates_Expression	Agent:WRI1	DNA:lipogenic gene
+  2. E70	Regulates_Expression	Agent:seeds	DNA:lipogenic gene
+  3. E71	Regulates_Expression	Agent:onset of the maturation phase	DNA:lipogenic gene
+29. In this paper , it is shown that WRI1 can be used in a seed - specific manner to enhance the transcription level of glycolytic and fatty acid biosynthetic genes in tissues where these genes are already expressed .
+  4. E18	Regulates_Expression	Agent:WRI1	DNA:glycolytic biosynthetic genes
+  5. E22	Regulates_Expression	Agent:WRI1	DNA:fatty acid biosynthetic genes
+30. Consistent with this , it is demonstrated that WRI1 is able to regulate in planta the activity of the BCCP2 and PKp - β1 promoters .
+  6. E69	Regulates_Expression	Agent:in planta	DNA:PKp-β1 promoters
+  7. E72	Regulates_Expression	Agent:in planta	DNA:BCCP2 promoters
+  8. E19	Regulates_Expression	Agent:WRI1	DNA:PKp-β1 promoters
+  9. E21	Regulates_Expression	Agent:WRI1	DNA:BCCP2 promoters
+0. Early dcl1 mutant embryos lack miR156 and exhibit premature expression of miR156 targets SPL10 and SPL11 , which in turn induces precocious expression of genes normally induced during the maturation phase of embryogenesis .
+  1. E109	Regulates_Expression	Agent:embryos	DNA:SPL10
+  2. E110	Regulates_Expression	Agent:embryos	DNA:SPL11
+7. The two transcription factor genes that were most derepressed in eight - cell dcl1 embryos were miR156 targets SPL10 and SPL11 , for which transcripts were up-regulated ≥150 - fold ( ≥600 - fold if only the homozygous mutant embryos contributed to the increase ) .
+  3. E46	Regulates_Expression	Agent:miR156	DNA:SPL10
+  4. E150	Regulates_Expression	Agent:eight-cell	DNA:SPL10
+  5. E149	Regulates_Expression	Agent:embryos	DNA:SPL10
+  6. E148	Regulates_Expression	Agent:dcl1	DNA:SPL10
+  7. E38	Regulates_Expression	Agent:miR156	DNA:SPL11
+  8. E143	Regulates_Expression	Agent:eight-cell	DNA:SPL11
+  9. E142	Regulates_Expression	Agent:embryos	DNA:SPL11
+  10. E141	Regulates_Expression	Agent:dcl1	DNA:SPL11
+11. Consistent with this idea , at least seven miRNA target transcripts in addition to SPL10 and SPL11 have increased levels as early as the eight - cell stage , and all of these encode transcription factors .
+  11. E47	Regulates_Expression	Agent:eight-cell stage	DNA:SPL10
+  12. E42	Regulates_Expression	Agent:eight-cell stage	DNA:SPL11
+12. Of these seven misregulated targets , five ( ARF17 , CNA , PHB , PHV , and TCP4 ) have reported embryonic functions after the preglobular stage ( Palatnik et al. 2003 ; Mallory et al. 2005 ; Prigge et al. 2005 ) . miR166 - mediated regulation of PHB and PHV has also been reported to be important during early embryonic patterning ( Grigg et al. 2009 ) .
+  13. E147	Regulates_Expression	Agent:early embryonic patterning	DNA:PHB
+  14. E45	Regulates_Expression	Agent:miR166	DNA:PHB
+  15. E116	Regulates_Expression	Agent:after the preglobular stage	DNA:PHV
+  16. E117	Regulates_Expression	Agent:after the preglobular stage	DNA:TCP4
+  17. E114	Regulates_Expression	Agent:after the preglobular stage	DNA:ARF17
+  18. E115	Regulates_Expression	Agent:after the preglobular stage	DNA:CNA
+  19. E118	Regulates_Expression	Agent:after the preglobular stage	DNA:PHB
+  20. E153	Regulates_Expression	Agent:early embryonic patterning	DNA:PHV
+  21. E50	Regulates_Expression	Agent:miR166	DNA:PHV
+14. Perhaps the loss of both miR156 - mediated regulation of SPL transcripts and miR166 - mediated regulation of HD - ZIPIII transcripts in dcl1 embryos is responsible for the embryonic patterning phenotypes observed .
+  22. E146	Regulates_Expression	Agent:embryos	DNA:SPL
+  23. E152	Regulates_Expression	Agent:embryos	DNA:HD-ZIPIII
+  24. E145	Regulates_Expression	Agent:dcl1	DNA:SPL
+  25. E151	Regulates_Expression	Agent:dcl1	DNA:HD-ZIPIII
+  26. E44	Regulates_Expression	Agent:miR156	DNA:SPL
+  27. E49	Regulates_Expression	Agent:miR166	DNA:HD-ZIPIII
+16. We also report previously uncharacterized roles of miR156 - mediated SPL gene repression during embryogenesis .
+  28. E144	Regulates_Expression	Agent:embryogenesis	DNA:SPL
+  29. E41	Regulates_Expression	Agent:miR156	DNA:SPL
+18. We found that miR156 - mediated regulation of SPL10 and SPL11 prevents the transcription factor products of these genes from prematurely inducing seed maturation genes before the embryo has formed .
+  30. E51	Regulates_Expression	Agent:miR156	DNA:SPL11
+  31. E40	Regulates_Expression	Agent:miR156	DNA:SPL10
+19. To the extent that this regulation forestalls the morphogenesis-to - maturation - phase transition , this newly identified role for miR156 - mediated repression of SPL genes resembles that observed for vegetative - , reproductive - , and meristem identity - phase transitions during post - embryonic development ( Wu and Poethig 2006 ; Gandikota et al. 2007 ; Schwarz et al. 2008 ; Wang et al. 2009 ; Wu et al. 2009 ; Yamaguchi et al. 2009 ) .
+  32. E39	Regulates_Expression	Agent:miR156	DNA:SPL
+22. Later in development , the miR156 - mediated repression of SPL10 and SPL11 must presumably be overcome in order for the embryo to undergo the morphogenesis-to - maturation transition .
+  33. E43	Regulates_Expression	Agent:miR156	DNA:SPL11
+  34. E48	Regulates_Expression	Agent:miR156	DNA:SPL10
+23. Although miR156 levels do not appear to decrease at later stages of morphogenesis ( Fig . 3A ) , SPL10 and SPL11 promoter activities do increase at the same stages that the morphogenesis-to - maturation - phase transition occurs ( Fig . 5 ) .
+  35. E9	Regulates_Expression	Agent:morphogenesis-to-maturation-phase transition	DNA:SPL11 promoter
+  36. E20	Regulates_Expression	Agent:morphogenesis-to-maturation-phase transition	DNA:SPL10 promoter
+0. Interestingly , after the heart stage , fus 3-3 dcl 1-15 and lec 2-1 dcl 1-15 embryos have high levels of chlorophyll and pAt2S3 : GFP , something not seen in either fus 3-3 or lec 2-1 embryos ( Meinke et al. , 1994 ; Kroj et al. , 2003 ; To et al. , 2006 ) , suggesting that after that stage , other miRNA - regulated factors can compensate for the absence of LEC2 or FUS3 .
+  1. E4	Regulates_Expression	Agent:lec2-1	DNA:pAt2S3:GFP
+  2. E1	Regulates_Expression	Agent:embryos	DNA:pAt2S3:GFP
+  3. E5	Regulates_Expression	Agent:fus3-3	DNA:pAt2S3:GFP
+  4. E3	Regulates_Expression	Agent:lec2-1 dcl1-15	DNA:pAt2S3:GFP
+  5. E2	Regulates_Expression	Agent:embryos	DNA:pAt2S3:GFP
+  6. E6	Regulates_Expression	Agent:fus3-3 dcl1-15	DNA:pAt2S3:GFP
+  7. E7	Regulates_Expression	Agent:after the heart stage	DNA:pAt2S3:GFP
+2. Two repressors of seed maturation genes , ASIL1 ( ARABIDOPSIS 6B - INTERACTING PROTEIN 1-LIKE 1 ) [ 69 ] and PICKLE ( PKL ) [ 70 ] , were modestly expressed and exhibited a stable expression pattern throughout seed maturation ( Figure 6C ) .
+  1. E18	Regulates_Expression	Agent:seed maturation	DNA:PKL
+  2. E20	Regulates_Expression	Agent:seed maturation	DNA:ASIL1
+3. Surprisingly , LEC2 , a TF gene known to regulate oil accumulation in leaves and somatic embryogenesis [ 10 , 14 , 16 ] , was barely detectable in these developing seeds .
+  3. E21	Regulates_Expression	Agent:leaves	DNA:LEC2
+  4. E17	Regulates_Expression	Agent:developing seeds	DNA:LEC2
+4. Although this result requires verification with other molecular methods , it was previously reported that LEC2 might be only expressed during early embryo morphogenesis [ 15 ] .
+  5. E16	Regulates_Expression	Agent:early embryo morphogenesis	DNA:LEC2
+6. Therefore , the role of LEC2 as a regulator in the synthesis of seed storage reserves during late stages of zygotic embryo development might not be as important as currently thought .
+  6. E22	Regulates_Expression	Agent:late stages of zygotic embryo development	DNA:LEC2
+7. Likewise , ABI4 was also essentially unexpressed in these seed samples .
+  7. E19	Regulates_Expression	Agent:seed	DNA:ABI4
+10. LEC1 and WRI1 are known to regulate many FA biosynthetic genes [ 25-27 ] , and ABI5 regulates a subset of LEAs [ 72 ] .
+  8. E15	Regulates_Expression	Agent:ABI5	DNA:subset of LEAs
+33. The promoter of a 7S storage protein gene that is normally active during wild - type embryogenesis is not active in the lec1 mutant .
+  1. E73	Regulates_Expression	Agent:lec1	DNA:promoter of a 7S storage protein gene
+  2. E75	Regulates_Expression	Agent:wild-type	DNA:promoter of a 7S storage protein gene
+  3. E36	Regulates_Expression	Agent:embryogenesis	DNA:promoter of a 7S storage protein gene
+11. Another class , including SHOOTMERISTEMLESS and SCARECROW , is active in the developing shoot or root apical meristems ( [9] and [22] ) .
+  4. E52	Regulates_Expression	Agent:root apical meristems	DNA:SCARECROW
+  5. E51	Regulates_Expression	Agent:root apical meristems	DNA:SHOOTMERISTEMLESS
+  6. E49	Regulates_Expression	Agent:developing shoot	DNA:SCARECROW
+  7. E53	Regulates_Expression	Agent:developing shoot	DNA:SHOOTMERISTEMLESS
+13. ABSCISIC ACID INSENSITIVE3 ( ABI3 ) , a fourth gene class , encodes an embryo - specific transcription factor that regulates genes expressed during seed maturation ( [20] and [38] ) .
+  8. E65	Regulates_Expression	Agent:embryo	DNA:ABI3
+37. Expression studies showed that the LEC1 gene is active only within seeds during both early and late seed development .
+  9. E50	Regulates_Expression	Agent:seeds	DNA:LEC1
+  10. E77	Regulates_Expression	Agent:early seed development	DNA:LEC1
+  11. E78	Regulates_Expression	Agent:late seed development	DNA:LEC1

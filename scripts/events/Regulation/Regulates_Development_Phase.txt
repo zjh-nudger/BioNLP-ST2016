@@ -1,0 +1,237 @@
+9. Our previous findings have led us to suggest that AGL15 is likely to play an important regulatory role at the beginning of the plant life cycle .
+  1. E9	Regulates_Development_Phase	Agent:AGL15	Development:beginning of the plant life cycle
+3. MADS domain–containing regulatory factors are found in all eukaryotic organisms and play pivotal roles in regulating many different kinds of developmental events , including mating - type specification in yeast , muscle development in Drosophila and mammals , and responses to the environment in humans .
+  2. E15	Regulates_Development_Phase	Agent:MADS domain–containing regulatory factors	Development:muscle development
+  3. E86	Regulates_Development_Phase	Agent:Drosophila	Development:muscle development
+  4. E81	Regulates_Development_Phase	Agent:mammals	Development:muscle development
+21. Because we found that AGL15 accumulates transiently in nuclei in a selected set of tissues during the vegetative and reproductive phases , this raises the possibility that it plays multiple roles during the plant life cycle .
+  5. E3	Regulates_Development_Phase	Agent:AGL15	Development:plant life cycle
+6. The MADS domain family consists of at least 36 members in Arabidopsis ( Liljegren et al. 1998 ) , including the well - known floral organ identity regulators AGAMOUS ( AG ) , APETALA3 ( AP3 ) , and PISTILLATA ; meristem identity regulators APETALA1 ( AP1 ) and CAULIFLOWER ; silique tissue identity regulators FRUITFULL / AGL8 , AGL1 , and AGL5 ; and a set of other AGL factors of unknown function expressed in flowers .
+  6. E6	Regulates_Development_Phase	Agent:AGL8	Development:silique tissue identity
+  7. E87	Regulates_Development_Phase	Agent:Arabidopsis	Development:silique tissue identity
+  8. E12	Regulates_Development_Phase	Agent:AGL5	Development:silique tissue identity
+  9. E16	Regulates_Development_Phase	Agent:AGL1	Development:silique tissue identity
+  10. E10	Regulates_Development_Phase	Agent:AP1	Development:meristem identity
+  11. E2	Regulates_Development_Phase	Agent:CAULIFLOWER	Development:meristem identity
+  12. E8	Regulates_Development_Phase	Agent:PISTILLATA	Development:floral organ identity
+  13. E83	Regulates_Development_Phase	Agent:Arabidopsis	Development:meristem identity
+  14. E7	Regulates_Development_Phase	Agent:AP3	Development:floral organ identity
+  15. E85	Regulates_Development_Phase	Agent:Arabidopsis	Development:floral organ identity
+  16. E14	Regulates_Development_Phase	Agent:AG	Development:floral organ identity
+7. Family members that are preferentially expressed in developmental contexts other than the flower have also been identified ( Rounsley et al. 1995 ) and include such factors as ANR1 , which plays a role in control of root architecture in response to nutrient availability ( Zhang and Forde 1998 ) , and FLOWERING LOCUS C , a recently identified repressor of flowering ( Michaels and Amasino 1999 ) .
+  17. E4	Regulates_Development_Phase	Agent:FLOWERING LOCUS C	Development:flowering
+3. In terms of regulation , AGL15 is most similar to the MADS box gene FLOWERING LOCUS C , which encodes a repressor of flowering and is also downregulated in the transition to flowering ( Michaels and Amasino 1999 ) .
+  1. E2	Regulates_Development_Phase	Agent:AGL15	Development:flowering
+  2. E1	Regulates_Development_Phase	Agent:FLOWERING LOCUS C	Development:flowering
+0. The ABA insensitive ( ABI ) loci of Arabidopsis have been shown to interact genetically in regulating processes such as germination and ABA - inducible gene expression .
+  1. E30	Regulates_Development_Phase	Agent:Arabidopsis	Development:germination
+  2. E25	Regulates_Development_Phase	Agent:ABI	Development:germination
+0. The Arabidopsis LEAFY COTYLEDON2 ( LEC2 ) gene is a central embryonic regulator that serves critical roles both early and late during embryo development .
+  1. E17	Regulates_Development_Phase	Agent:LEC2	Development:early embryo development
+  2. E69	Regulates_Development_Phase	Agent:Arabidopsis	Development:early embryo development
+  3. E30	Regulates_Development_Phase	Agent:LEC2	Development:late embryo development
+  4. E74	Regulates_Development_Phase	Agent:Arabidopsis	Development:late embryo development
+5. Together , these results suggest that LEC2 is a transcriptional regulator that establishes a cellular environment sufficient to initiate embryo development .
+  5. E44	Regulates_Development_Phase	Agent:LEC2	Development:embryo development
+16. The Arabidopsis LEAFY COTYLEDON ( LEC ) genes , LEC1 , LEC2 , and FUSCA3 ( FUS3 ) , play key roles in controlling embryo development ( 7 ) .
+  6. E25	Regulates_Development_Phase	Agent:LEC1	Development:embryo development
+  7. E27	Regulates_Development_Phase	Agent:LEC2	Development:embryo development
+  8. E41	Regulates_Development_Phase	Agent:FUSCA3	Development:embryo development
+  9. E12	Regulates_Development_Phase	Agent:LEC	Development:embryo development
+18. Early in embryogenesis , LEC genes are required to specify suspensor cell fate and cotyledon identity ( 12–16 ) .
+  10. E23	Regulates_Development_Phase	Agent:LEC	Development:cotyledon identity
+21. Thus , LEC genes play a central role in controlling many aspects of embryogenesis , and they are candidates as regulators that coordinate the morphogenesis and maturation phases .
+  11. E18	Regulates_Development_Phase	Agent:LEC	Development:morphogenesis
+  12. E9	Regulates_Development_Phase	Agent:LEC	Development:embryogenesis
+  13. E48	Regulates_Development_Phase	Agent:LEC	Development:maturation phases
+22. Identification and analysis of two LEC genes confirmed their regulatory role in embryogenesis and provided insight into their functions .
+  14. E40	Regulates_Development_Phase	Agent:LEC	Development:embryogenesis
+25. Thus , we hypothesized that LEC1 establishes a cellular environment that promotes embryo development and that this environment coordinates the morphogenesis and maturation phases .
+  15. E10	Regulates_Development_Phase	Agent:LEC1	Development:embryo development
+10. ABI3 is a transcription factor that operates primarily during the maturation phase , whereas LEC2 and FUS3 are LEAFY COTYLEDON proteins required for processes during both the morphogenesis and maturation phases .
+  1. E12	Regulates_Development_Phase	Agent:FUS3	Development:morphogenesis
+  2. E11	Regulates_Development_Phase	Agent:FUS3	Development:maturation phases
+  3. E5	Regulates_Development_Phase	Agent:LEC2	Development:morphogenesis
+  4. E6	Regulates_Development_Phase	Agent:LEC2	Development:maturation phases
+  5. E4	Regulates_Development_Phase	Agent:ABI3	Development:maturation phase
+1. Two consequences of expressing the LEC2 gene postembryonically provide insight into its role in embryo development and strongly support the conclusion that LEC2 is a key regulator of embryogenesis .
+  1. E2	Regulates_Development_Phase	Agent:LEC2	Development:embryogenesis
+9. Moreover , postembryonic expression of LEC1 is sufficient to induce somatic embryogenesis in transgenic plants as occurs with 35S∷LEC2 seedlings , although somatic embryo formation is more robust with LEC2 .
+  2. E5	Regulates_Development_Phase	Agent:postembryonic expression of LEC1	Development:somatic embryogenesis
+58. Arabidopsis AINTEGUMENTA gene is thought to play a role in controlling cell proliferation ( 55 , 56 ) .
+  1. E17	Regulates_Development_Phase	Agent:AINTEGUMENTA	Development:cell proliferation
+  2. E117	Regulates_Development_Phase	Agent:Arabidopsis	Development:cell proliferation
+26. Two other genes , IKU1 and IKU2 , have been proposed to mediate the effects of maternal and paternal dosage on seed size , because mutations in either gene affect many aspects of endosperm development ( 45 ) .
+  3. E61	Regulates_Development_Phase	Agent:IKU2	Development:endosperm development
+  4. E43	Regulates_Development_Phase	Agent:IKU1	Development:endosperm development
+42. For example , immature fava bean embryos cultured with high concentrations of hexose continue to undergo cell divisions whereas those cultured with high sucrose concentration enter the maturation phase ( 15 ) .
+  5. E142	Regulates_Development_Phase	Agent:immature fava bean embryos	Development:maturation phase
+  6. E138	Regulates_Development_Phase	Agent:immature fava bean embryos	Development:undergo cell divisions
+  7. E68	Regulates_Development_Phase	Agent:high sucrose concentration	Development:maturation phase
+  8. E64	Regulates_Development_Phase	Agent:high concentrations of hexose	Development:undergo cell divisions
+36. For example , sporophytic mutations in cereals that affect development of a specialized seed coat tissue responsible for nutrient transfer to the endosperm cause defects in seed development and size ( 46–48 ) . ap2 mutants have defective seed coats in that they lack epidermal plateaus and mucilage , their outer integument cells are larger than those of wild type and are irregular in shape , and mutant seeds are hypersensitive to bleach ( 24 , 49 ) .
+  9. E73	Regulates_Development_Phase	Agent:nutrient transfer to the endosperm	Development:seed development
+  10. E144	Regulates_Development_Phase	Agent:sporophytic mutations in cereals	Development:seed development
+  11. E37	Regulates_Development_Phase	Agent:sporophytic mutations in cereals	Development:development of a specialized seed coat tissue
+5. Thus , the extent of AP2 gene activity , based on its well defined role in flower development , plays a role in determining seed mass . ap2 mutations negatively affect plant fertility , primarily through disruption of flower structure that limits the efficiency of self - pollination in mutant plants .
+  12. E52	Regulates_Development_Phase	Agent:AP2	Development:flower development
+0. Postembryonic organ formation in plants requires the maintenance of small stem cell pools in the shoot , floral , and root meristems ( Weigel and Jürgens , 2002 ; Laux , 2003 ) .
+  1. E32	Regulates_Development_Phase	Agent:floral meristems	Development:Postembryonic organ formation
+  2. E33	Regulates_Development_Phase	Agent:root meristems	Development:Postembryonic organ formation
+  3. E35	Regulates_Development_Phase	Agent:shoot meristems	Development:Postembryonic organ formation
+  4. E34	Regulates_Development_Phase	Agent:plants	Development:Postembryonic organ formation
+  5. E8	Regulates_Development_Phase	Agent:maintenance of small stem cell	Development:Postembryonic organ formation
+18. We show that the premature termination of the shoot meristem in l28 mutants is caused by a mutation in the APETALA2 ( AP2 ) gene that was previously identified as one of the components of the ABC model in floral patterning , where it represses AG ( Bowman et al. , 1991 ; Drews et al. , 1991 ) , in floral transition ( Jofuku et al. , 1994 ; Okamuro et al. , 1997b ) , and in the control of seed size ( Jofuku et al. , 2005 ; Ohto et al. , 2005 ) .
+  6. E12	Regulates_Development_Phase	Agent:AP2	Development:floral transition
+  7. E3	Regulates_Development_Phase	Agent:AP2	Development:floral patterning
+4. Here , we show that l28 and l28 / + plants have a number of phenotypes in common with ap2 loss - of-function alleles , such as early flowering , mispecified floral organs , and a reduction in shoot meristem size .
+  1. E11	Regulates_Development_Phase	Agent:ap2 loss-of-function alleles	Development:early flowering
+5. We previously identified Arabidopsis SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 ( SERK1 ) , an LRR - RLK that marks the formation of embryogenic cells in culture and is expressed in ovule primordia and in both male and female gametophytes .
+  1. E81	Regulates_Development_Phase	Agent:SERK1	Development:formation of embryogenic cells
+42. Recently , it was proposed that CDC48A interacts with PUX1 as a monomer and may function in regulating plant growth ( Rancour et al. , 2004 ) and also in the plant endoplasmic reticulum–associated protein degradation system ( Muller et al. , 2005 ) .
+  1. E79	Regulates_Development_Phase	Agent:CDC48A	Development:plant growth
+0. Plant embryo development is regulated by a network of transcription factors that include LEAFY COTYLEDON 1 ( LEC1 ) , LEC1 - LIKE ( L1L ) , and B3 domain factors , LEAFY COTYLEDON 2 ( LEC2 ) , FUSCA3 ( FUS3 ) , and ABSCISIC ACID INSENSITIVE 3 ( ABI3 ) of Arabidopsis ( Arabidopsis thaliana ) .
+  1. E34	Regulates_Development_Phase	Agent:L1L	Development:embryo development
+  2. E39	Regulates_Development_Phase	Agent:LEC1	Development:embryo development
+  3. E15	Regulates_Development_Phase	Agent:ABI3	Development:embryo development
+  4. E112	Regulates_Development_Phase	Agent:Arabidopsis	Development:embryo development
+  5. E48	Regulates_Development_Phase	Agent:LEC2	Development:embryo development
+  6. E24	Regulates_Development_Phase	Agent:FUS3	Development:embryo development
+10. Embryo development in plants is regulated by a network of transcription factors that include the LEAFY COTYLEDON 1 ( LEC1 ) and LEC1 - LIKE ( L1L ) genes belonging to the HAP3 family CCAAT - binding factors and a subgroup of the plant - specific B3 domain protein family composed of the LEC2 , FUSCA3 ( FUS3 ) , and ABSCISIC ACID ( ABA ) - INSENSITIVE 3 ( ABI3 ) genes ( Giraudat et al. , 1992 ; Lotan et al. , 1998 ; Luerssen et al. , 1998 ; Stone et al. , 2001 ; Kwong et al. , 2003 ) .
+  7. E22	Regulates_Development_Phase	Agent:FUS3	Development:Embryo development
+  8. E32	Regulates_Development_Phase	Agent:ABI3	Development:Embryo development
+  9. E106	Regulates_Development_Phase	Agent:plants	Development:Embryo development
+  10. E18	Regulates_Development_Phase	Agent:LEC2	Development:Embryo development
+  11. E20	Regulates_Development_Phase	Agent:LEC1	Development:Embryo development
+  12. E16	Regulates_Development_Phase	Agent:L1L	Development:Embryo development
+4. In a val1 background , val2 and val3 condition a dominant variegated leaf phenotype revealing a VAL function in vegetative development .
+  13. E26	Regulates_Development_Phase	Agent:VAL	Development:vegetative development
+2. According to the ‘ABC’ model for the determination of floral organ identity , A activity specifies sepals , A and B activities lead to petals , B and C activities lead to stamens , and C activity specifies carpels ( Weigel and Meyerowitz , 1994 ) .
+  1. E24	Regulates_Development_Phase	Agent:ABC	Development:floral organ identity
+7. Thus , AP2 may play an important role in both floral and whole - plant development .
+  2. E23	Regulates_Development_Phase	Agent:AP2	Development:whole-plant development
+  3. E22	Regulates_Development_Phase	Agent:AP2	Development:floral development
+0. Recent studies have shown that AP2 plays a global role not only in floral development but also in the control of seed mass ( Jofuku et al. , 1994 , 2005 ; Okamuro et al. , 1997 ; Ohto et al. , 2005 ) .
+  1. E19	Regulates_Development_Phase	Agent:AP2	Development:floral development
+1. In the current study , it was demonstrated that AP2 expression was regulated through AtEBP and EIN2 , and that AtEBP may contribute to floral development , as indicated by in black .
+  1. E18	Regulates_Development_Phase	Agent:AtEBP	Development:floral development
+11. The ctr1 mutants showed an earlier - maturing phenotype in the gyneocium compared with the flower , and ein mutants affect the maturation of the gyneocium ( Kieber et al. , 1993 ) .
+  2. E23	Regulates_Development_Phase	Agent:ein	Development:maturation of the gyneocium
+20. Thus , we consider that accumulation of AP2 mRNA in Arabidopsis over - expressing AtEBP is not sufficient to change flower development .
+  3. E36	Regulates_Development_Phase	Agent:Arabidopsis over-expressing AtEBP	Development:flower development
+  4. E20	Regulates_Development_Phase	Agent:AP2 mRNA	Development:flower development
+23. AtEBP contributed slightly to flower development , especially stamen development .
+  5. E19	Regulates_Development_Phase	Agent:AtEBP	Development:flower development
+  6. E21	Regulates_Development_Phase	Agent:AtEBP	Development:stamen development
+9. ANT regulates ovule development and floral organ growth ( Elliott et al. , 1996 ; Mizukami and Fischer , 2000 ) , and PLETHORA1 ( PLT1 ) and PLT2 are required for stem cell specification and maintenance in the root meristem ( Aida et al. , 2004 ) .
+  1. E4	Regulates_Development_Phase	Agent:ANT	Development:ovule development
+  2. E1	Regulates_Development_Phase	Agent:ANT	Development:floral organ growth
+7. The AP2 - type transcription factors characterized previously act as important key regulators in meristem function and organ development .
+  3. E8	Regulates_Development_Phase	Agent:AP2-type transcription factors	Development:organ development
+2. We found that DCL1 is required for cell differentiation events as early as the eight - cell stage and soon thereafter for proper division of the hypophysis and subprotoderm cells .
+  1. E4	Regulates_Development_Phase	Agent:DCL1	Development:cell differentiation
+12. Consistent with the reduction / loss of subprotodermal cell divisions in dcl1 late globular / early heart stage embryos , we detected reduced levels of RPS5A transcripts in these cell types ( Supplemental Fig . 2 ) .
+  1. E4	Regulates_Development_Phase	Agent:embryos	Development:subprotodermal cell divisions
+  2. E73	Regulates_Development_Phase	Agent:dcl1	Development:subprotodermal cell divisions
+10. It is tempting to speculate that miRNAs regulate the initiation , but not the progression , of maturation .
+  1. E9	Regulates_Development_Phase	Agent:miRNAs	Development:progression of maturation
+  2. E10	Regulates_Development_Phase	Agent:miRNAs	Development:initiation of maturation
+0. The Arabidopsis LEAFY COTYLEDON1 ( LEC1 ) gene is required for the specification of cotyledon identity and the completion of embryo maturation .
+  1. E3	Regulates_Development_Phase	Agent:LEC1	Development:completion of embryo maturation
+  2. E16	Regulates_Development_Phase	Agent:Arabidopsis	Development:completion of embryo maturation
+8. The finding of co-expression at differing levels , however , is consistent with the fact that FUS3 and ABI3 , in a combinatorial and synergistic fashion , control overlapping yet not identical aspects of Arabidopsis seed maturation ( Parcy et al. 1997 ) .
+  1. E23	Regulates_Development_Phase	Agent:Arabidopsis	Development:seed maturation
+  2. E14	Regulates_Development_Phase	Agent:ABI3	Development:seed maturation
+  3. E12	Regulates_Development_Phase	Agent:FUS3	Development:seed maturation
+8. In the xtc2 mutant of Arabidopsis , secondary cotyledons appear as a result of changes in the relative timing of embryo and shoot apex development ( Conway and Poethig , 1997 ) . xtc2 embryo development is delayed , but shoot apex development initiates precociously .
+  1. E21	Regulates_Development_Phase	Agent:xtc2	Development:embryo development
+1. If AGL15 is important for development in an embryonic mode , as this pattern of accumulation might suggest , we would also expect to find relatively high levels of AGL15 or AGL15 - related proteins in developmental contexts where embryos or organs with embryonic tissue arise outside of the seed or by means other than fertilization of the egg .
+  2. E19	Regulates_Development_Phase	Agent:AGL15	Development:development in an embryonic mode
+0. The phytohormone abscisic acid ( ABA ) can regulate many agronomically important aspects of plant growth , including seed maturation , onset of seed dormancy , and adaptation to assorted environmental stresses such as drought and salinity ( Leung and Giraudat , 1998 ) .
+  1. E70	Regulates_Development_Phase	Agent:ABA	Development:seed dormancy
+  2. E71	Regulates_Development_Phase	Agent:ABA	Development:seed maturation
+  3. E64	Regulates_Development_Phase	Agent:ABA	Development:plant growth
+14. Physiological studies have shown that the ABI3 , ABI4 and ABI5 loci have similar qualitative effects on seed development and ABA sensitivity , consistent with action in a common pathway , but that null mutations in ABI3 are more severe than those in ABI4 or ABI5 ( Finkelstein and Lynch , 2000 ; Finkelstein et al. , 1998 ; Parcy et al. , 1994 ) .
+  4. E75	Regulates_Development_Phase	Agent:ABI3	Development:seed development
+  5. E67	Regulates_Development_Phase	Agent:ABI5	Development:seed development
+  6. E74	Regulates_Development_Phase	Agent:ABI4	Development:seed development
+0. The pleiotropic effects of lec mutations , represented in Fig . 1 , suggest that the LEC genes serve as central regulators of embryo and seed development .
+  1. E1	Regulates_Development_Phase	Agent:LEC	Development:seed development
+  2. E3	Regulates_Development_Phase	Agent:LEC	Development:embryo development
+2. Here we present evidence suggesting that LEC2 likely encodes a transcriptional regulator with a significant role in embryogenesis .
+  3. E2	Regulates_Development_Phase	Agent:LEC2	Development:embryogenesis
+0. The mature seed coat , in addition to forming a protective layer around the embryo , can play roles in such processes as seed dispersal and germination .
+  1. E3	Regulates_Development_Phase	Agent:mature seed coat	Development:germination
+  2. E2	Regulates_Development_Phase	Agent:mature seed coat	Development:seed dispersal
+10. Therefore , we favor a model in which a seed coat - specific complex of TTG1 - bHLH - MYB causes activation of GL2 and the subsequent up-regulation of MUM4 during mucilage production ( Fig . 8 ) .
+  1. E23	Regulates_Development_Phase	Agent:seed coat-specific	Development:mucilage production
+1. At least two hypotheses can explain the dependence of cell morphogenesis on mucilage synthesis .
+  1. E8	Regulates_Development_Phase	Agent:mucilage synthesis	Development:cell morphogenesis
+4. An alternate but not mutually exclusive explanation is that the synthesis of mucilage may represent or lead to the production of an oligosaccharide signal that stimulates the cell to undergo morphogenesis ( Dumville and Fry , 2000 ; Ridley et al. , 2001 ) .
+  2. E2	Regulates_Development_Phase	Agent:production of an oligosaccharide signal	Development:cell to undergo morphogenesis
+24. Although the most conspicuous function of AP2 is in flower development , its transcripts are not restricted to flowers but are detected in leaves , stems , and seedlings also ( 24 , 34 ) , opening the possibility of a more global function for AP2 .
+  1. E18	Regulates_Development_Phase	Agent:AP2	Development:flower development
+23. AP2 is also required for ovule and seed coat development ( 24 , 32 , 33 ) .
+  2. E20	Regulates_Development_Phase	Agent:AP2	Development:ovule development
+  3. E3	Regulates_Development_Phase	Agent:AP2	Development:seed coat development
+15. AGL15 preferentially accumulates in a wide variety of tissues that develop in an embryonic mode ( Heck et al. , 1995 ; Perry et al. , 1996 , 1999 ; Rounsley et al. , 1995 ) , and constitutive expression promotes somatic embryogenesis ( Harding et al. , 2003 ) .
+  1. E22	Regulates_Development_Phase	Agent:AGL15	Development:somatic embryogenesis
+3. Second , the maturation phase is dominated by storage compound accumulation , growth arrest , and acquisition of desiccation tolerance .
+  1. E27	Regulates_Development_Phase	Agent:desiccation tolerance	Development:maturation
+7. WRI1 is a direct target of LEAFY COTYLEDON2 ( LEC2 ) that specifies the regulatory action of this master regulator of seed maturation towards fatty acid metabolism ( Baud et al. , 2007a ) .
+  1. E28	Regulates_Development_Phase	Agent:LEC2	Development:seed maturation
+0. Therefore , some of the earliest roles of miRNAs are to prevent the precocious expression of differentiation - promoting transcription factors during early embryogenesis and to enable proper pattern formation .
+  1. E2	Regulates_Development_Phase	Agent:miRNAs	Development:pattern formation
+2. A link between delayed reduction of maternal transcripts and the morphogenesis phenotypes observed in MZdicer embryos awaits experimental confirmation .
+  1. E132	Regulates_Development_Phase	Agent:MZdicer	Development:morphogenesis
+  2. E26	Regulates_Development_Phase	Agent:embryos	Development:morphogenesis
+12. Of these seven misregulated targets , five ( ARF17 , CNA , PHB , PHV , and TCP4 ) have reported embryonic functions after the preglobular stage ( Palatnik et al. 2003 ; Mallory et al. 2005 ; Prigge et al. 2005 ) . miR166 - mediated regulation of PHB and PHV has also been reported to be important during early embryonic patterning ( Grigg et al. 2009 ) .
+  3. E12	Regulates_Development_Phase	Agent:miR166-mediated regulation of PHV	Development:early embryonic patterning
+14. Perhaps the loss of both miR156 - mediated regulation of SPL transcripts and miR166 - mediated regulation of HD - ZIPIII transcripts in dcl1 embryos is responsible for the embryonic patterning phenotypes observed .
+  4. E126	Regulates_Development_Phase	Agent:embryos	Development:embryonic patterning
+  5. E125	Regulates_Development_Phase	Agent:dcl1	Development:embryonic patterning
+  6. E3	Regulates_Development_Phase	Agent:loss of miR156-mediated regulation of SPL transcripts	Development:embryonic patterning
+  7. E10	Regulates_Development_Phase	Agent:loss of miR166-mediated regulation of HD-ZIPIII transcripts	Development:embryonic patterning
+15. Future characterization of how multiple miRNA / target interactions facilitate embryonic cell differentiation will contribute to a better understanding of how the basic plant body plan is established during embryo morphogenesis .
+  8. E23	Regulates_Development_Phase	Agent:miRNA	Development:embryonic cell differentiation
+  9. E130	Regulates_Development_Phase	Agent:embryo	Development:embryonic cell differentiation
+  10. E129	Regulates_Development_Phase	Agent:plant	Development:embryonic cell differentiation
+3. Surprisingly , LEC2 , a TF gene known to regulate oil accumulation in leaves and somatic embryogenesis [ 10 , 14 , 16 ] , was barely detectable in these developing seeds .
+  1. E6	Regulates_Development_Phase	Agent:LEC2	Development:somatic embryogenesis
+4. Because lower plants do not make seeds and do not undergo embryo maturation , this bipartite mode of embryogenesis is thought to have resulted from the insertion of maturation events into the higher plant life cycle ( reviewed by [ 51 ] , [47] and [16] ) .
+  1. E15	Regulates_Development_Phase	Agent:lower plants	Development:embryo maturation
+  2. E32	Regulates_Development_Phase	Agent:higher plant	Development:maturation events
+38. Ectopic expression of the LEC1 gene induces embryonic programs and embryo development in vegetative cells .
+  3. E7	Regulates_Development_Phase	Agent:Ectopic expression of the LEC1 gene	Development:embryo development
+  4. E66	Regulates_Development_Phase	Agent:vegetative cells	Development:embryo development
+39. We suggest that LEC1 is an important transcriptional regulator required for both early and late embryogenesis that controls and coordinates higher plant embryo development .
+  5. E12	Regulates_Development_Phase	Agent:late embryogenesis	Development:embryo development
+  6. E19	Regulates_Development_Phase	Agent:early embryogenesis	Development:embryo development
+  7. E34	Regulates_Development_Phase	Agent:LEC1	Development:late embryogenesis
+  8. E13	Regulates_Development_Phase	Agent:LEC1	Development:early embryogenesis
+10. The expression patterns of two such genes , EMB30 ( GNOM ) and KNOLLE , suggest that they do not function specifically during embryogenesis ( [42] and [23] ) .
+  9. E8	Regulates_Development_Phase	Agent:GNOM	Development:embryogenesis
+  10. E18	Regulates_Development_Phase	Agent:KNOLLE	Development:embryogenesis
+13. ABSCISIC ACID INSENSITIVE3 ( ABI3 ) , a fourth gene class , encodes an embryo - specific transcription factor that regulates genes expressed during seed maturation ( [20] and [38] ) .
+  11. E68	Regulates_Development_Phase	Agent:embryo	Development:seed maturation
+  12. E17	Regulates_Development_Phase	Agent:ABI3	Development:seed maturation
+16. The LEAFY COTYLEDON1 ( LEC1 ) gene , by contrast , controls many distinct aspects of embryogenesis ( Meinke 1992Meinke , 1992 , 1994 ; [53] and [39] ) .
+  13. E31	Regulates_Development_Phase	Agent:LEC1	Development:embryogenesis
+17. As summarized in Figure 1 , the lec1 mutation is pleiotropic , indicating several roles in late embryo development .
+  14. E43	Regulates_Development_Phase	Agent:lec1	Development:late embryo development
+18. LEC1 is required for specific aspects of seed maturation . lec1 mutant embryos are intolerant of desiccation and show defects in the expression of some , but not all , maturation - specific genes ( [28] , [53] and [39] ) .
+  15. E37	Regulates_Development_Phase	Agent:LEC1	Development:seed maturation
+19. LEC1 is also involved in inhibiting premature germination . lec1 mutant embryos exhibit morphological and molecular characteristics of both embryogenesis and postgerminative seedling development , showing that aspects of both programs can occur simultaneously ( Meinke 1992Meinke , 1992 , 1994 ; West et al. 1994 ) .
+  16. E74	Regulates_Development_Phase	Agent:embryos	Development:postgerminative seedling development
+  17. E35	Regulates_Development_Phase	Agent:lec1	Development:postgerminative seedling development
+  18. E69	Regulates_Development_Phase	Agent:embryos	Development:embryogenesis
+  19. E20	Regulates_Development_Phase	Agent:lec1	Development:embryogenesis
+  20. E33	Regulates_Development_Phase	Agent:LEC1	Development:premature germination
+23. Finally , LEC1 appears to act only during embryo development .
+  21. E28	Regulates_Development_Phase	Agent:LEC1	Development:embryo development
+26. Although nothing has been reported about how LEC class genes act at the molecular level , their involvement in many diverse aspects of embryogenesis suggests that these genes serve as regulators of higher plant embryonic processes .
+  22. E26	Regulates_Development_Phase	Agent:LEC	Development:embryogenesis
+0. The late stages of embryogenesis in higher plants are dominated by seed formation during which vegetative growth of the embryo is halted and storage reserves are accumulated .
+  1. E8	Regulates_Development_Phase	Agent:late stages of embryogenesis	Development:vegetative growth of the embryo
+4. In Arabidopsis thaliana , recessive mutations in the FUSCA3 gene ( FUS3 ) lead to a complex phenotype specifically affecting seed formation ( Bäumlein et al. 1994 ; Keith et al. 1994 ) .
+  2. E7	Regulates_Development_Phase	Agent:recessive mutations in the FUSCA3	Development:seed formation

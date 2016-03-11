@@ -1,0 +1,54 @@
+12. The ubiquitous expression of RHM1 and RHM3 can be postulated to provide a mechanism for the formation of the normal primary cell wall in mum4 mutants and the residual mucilage present in mum4 seed coats .
+  1. E22	Occurs_In_Genotype	Process:residual mucilage	Genotype:mum4
+60. The increase in seed size in transgenic plants appears to result from an increase in cell number during seed development .
+  1. E103	Occurs_In_Genotype	Process:increase in cell number	Genotype:transgenic plants
+31. Others have shown that changes in cell number and size underlie ecotype variations in Arabidopsis seed size ( 13 ) .
+  2. E105	Occurs_In_Genotype	Process:cell size	Genotype:ecotype variations in Arabidopsis
+36. For example , sporophytic mutations in cereals that affect development of a specialized seed coat tissue responsible for nutrient transfer to the endosperm cause defects in seed development and size ( 46–48 ) . ap2 mutants have defective seed coats in that they lack epidermal plateaus and mucilage , their outer integument cells are larger than those of wild type and are irregular in shape , and mutant seeds are hypersensitive to bleach ( 24 , 49 ) .
+  3. E106	Occurs_In_Genotype	Process:nutrient transfer to the endosperm	Genotype:sporophytic mutations in cereals
+46. We speculate that the altered hexose / sucrose ratios during ap2 mutant seed development may promote an extended period of cell division that could account for the increase in embryo cell number observed in ap2 mutants .
+  4. E100	Occurs_In_Genotype	Process:hexose/sucrose ratios	Genotype:ap2
+  5. E101	Occurs_In_Genotype	Process:extended period of cell division	Genotype:ap2
+7. We confirmed that reduced fertility did affect seed mass and could account for ≈33% of the increase in average seed weight observed in a strong ap2 mutant ( Table 3 ) .
+  6. E102	Occurs_In_Genotype	Process:reduced fertility	Genotype:strong ap2
+0. Postembryonic organ formation in plants requires the maintenance of small stem cell pools in the shoot , floral , and root meristems ( Weigel and Jürgens , 2002 ; Laux , 2003 ) .
+  1. E25	Occurs_In_Genotype	Process:maintenance of small stem cell	Genotype:plants
+11. Recently , we showed that in living plant cells BRI1 and SERK3 interaction occurred in restricted areas of the membrane and recycled upon internalization by endocytosis ( Russinova et al. , 2004 ) .
+  1. E105	Occurs_In_Genotype	Process:endocytosis	Genotype:plant
+0. AGL15 binds directly to and represses LEA76 , CBF2 and AGL18 in planta It is becoming increasingly apparent that autoregulatory loops are a common phenomenon in the regulation of MADS-box genes in plants ( Gómez - Mena et al. , 2005 ; Honma and Goto , 2000 ; Zhu and Perry , 2005 ) .
+  1. E4	Occurs_In_Genotype	Process:regulation of MADS-box genes	Genotype:plants
+12. DCL1 transcripts were detected by quantitative RT–PCT ( qRT–PCR ) in both early globular embryos from wild - type plants and early globular embryos from selfed dcl 1-5 / + plants that developed normally , but were not detected in abnormal early globular embryos from selfed dcl 1-5 / + plants ( Supplemental Fig . 1 ) .
+  1. E16	Occurs_In_Genotype	Process:abnormal early globular embryos	Genotype:selfed dcl1-5/+ plants
+11. This observation was consistent with the previously reported ectopic localization of embryo proper - specific starch grains and protein bodies in the suspensors of late stage sus1 / dcl1 embryos ( Schwartz et al. 1994 ) .
+  1. E60	Occurs_In_Genotype	Process:protein bodies	Genotype:sus1
+  2. E59	Occurs_In_Genotype	Process:starch grains	Genotype:sus1
+22. Therefore , the auxin response defects observed in dcl1 embryos were probably secondary consequences of subprotoderm cell differentiation defects , which in turn were probably due to the apical cell lineage defects observed at the preglobular stages .
+  3. E64	Occurs_In_Genotype	Process:apical cell lineage defects	Genotype:dcl1
+  4. E63	Occurs_In_Genotype	Process:subprotoderm cell differentiation defects	Genotype:dcl1
+0. The maturation program was a key innovation of seed plants ( Vicente - Carbajosa and Carbonero , 2005 ) .
+  1. E13	Occurs_In_Genotype	Process:maturation program	Genotype:seed plants
+11. The results of our study of organs produced during precocious germination in oilseed rape indicate that AGL15 also accumulates in cotyledons that are initiated outside of the seed environment .
+  1. E42	Occurs_In_Genotype	Process:precocious germination	Genotype:oilseed rape
+1. Genetic studies have identified many loci required for wild - type ABA response ; the best characterized are the ABA insensitive ( ABI ) and enhanced response to ABA ( ERA ) genes of Arabidopsis and the VP1 genes of maize and other cereals ( Holdsworth et al. , 1999 ) .
+  1. E100	Occurs_In_Genotype	Process:ABA response	Genotype:wild-type
+  2. E101	Occurs_In_Genotype	Process:ABA response	Genotype:Arabidopsis
+14. A series of studies with fava bean suggest that the relative accumulation of hexose and sucrose during seed development plays roles in determining seed mass through changes in seed cell number and cell size ( 14–16 ) .
+  1. E30	Occurs_In_Genotype	Process:seed cell size	Genotype:fava bean
+  2. E31	Occurs_In_Genotype	Process:seed cell number	Genotype:fava bean
+  3. E32	Occurs_In_Genotype	Process:accumulation of hexose	Genotype:fava bean
+  4. E33	Occurs_In_Genotype	Process:accumulation of sucrose	Genotype:fava bean
+0. Early dcl1 mutant embryos lack miR156 and exhibit premature expression of miR156 targets SPL10 and SPL11 , which in turn induces precocious expression of genes normally induced during the maturation phase of embryogenesis .
+  1. E90	Occurs_In_Genotype	Process:premature expression of miR156 targets	Genotype:dcl1
+1. We propose that additional plant miRNAs—including miR160 , miR166 , and miR319—also forestall expression of differentiation - promoting transcription factors such as ARF17 , CNA , PHB , PHV , and TCP4 .
+  2. E91	Occurs_In_Genotype	Process:differentiation-promoting transcription factors	Genotype:plant
+14. Perhaps the loss of both miR156 - mediated regulation of SPL transcripts and miR166 - mediated regulation of HD - ZIPIII transcripts in dcl1 embryos is responsible for the embryonic patterning phenotypes observed .
+  3. E104	Occurs_In_Genotype	Process:loss of miR156-mediated regulation of SPL transcripts	Genotype:dcl1
+  4. E105	Occurs_In_Genotype	Process:loss of miR166-mediated regulation of HD-ZIPIII transcripts	Genotype:dcl1
+6. Since the reduction of WOX2 transcripts in dcl1 eight - cell embryos was the first detectable differentiation defect , and homeobox genes related to WOX2 have been implicated in maintaining stem cells during post - embryonic development ( Laux et al. 1996 ; Mayer et al. 1998 ; Wu et al. 2005 ) , we speculate that premature expression of miRNA targets leads to the reduction of WOX2 transcripts in dcl1 embryos and ultimately contributes to precocious differentiation and subsequent loss of developmental potential in preglobular cell types .
+  5. E106	Occurs_In_Genotype	Process:premature expression of miRNA targets	Genotype:dcl1
+17. After morphogenesis , seed plant embryos transition to a maturation phase , when they accumulate storage proteins , undergo desiccation tolerance , and prepare to enter into a state of dormancy prior to germination .
+  6. E81	Occurs_In_Genotype	Process:desiccation tolerance	Genotype:plant
+  7. E80	Occurs_In_Genotype	Process:storage proteins	Genotype:plant
+0. Higher plant embryogenesis is divided conceptually into two distinct phases : early morphogenetic processes that give rise to embryonic cell types , tissues , and organ systems , and late maturation events that allow the fully developed embryo to enter a desiccated and metabolically quiescent state ( [52] and [13] ) .
+  1. E63	Occurs_In_Genotype	Process:late maturation events	Genotype:Higher plant
+  2. E62	Occurs_In_Genotype	Process:early morphogenetic processes	Genotype:Higher plant

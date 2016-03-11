@@ -1,0 +1,24 @@
+5. Finally , the MADS box transcription factor AGAMOUS - LIKE15 and an uncharacterized zinc finger protein , a member of the CONSTANS family , were identified as part of the SERK1 complex .
+  1. E3	Composes_Protein_Complex	Amino_Acid_Sequence:AGAMOUS-LIKE15	Protein_Complex:SERK1 complex
+6. Using blue native gel electrophoresis , we show that SERK1 and SERK3 are part of BRI1 - containing multiple protein complexes with relative masses between 300 and 500 kD .
+  2. E1	Composes_Protein_Complex	Amino_Acid_Sequence:BRI1	Protein_Complex:BRI1-containing multiple protein complexes
+  3. E2	Composes_Protein_Complex	Amino_Acid_Sequence:SERK1	Protein_Complex:BRI1-containing multiple protein complexes
+  4. E4	Composes_Protein_Complex	Amino_Acid_Sequence:SERK3	Protein_Complex:BRI1-containing multiple protein complexes
+10. SERK3 or BRI1 - ASSOCIATED RECEPTOR KINASE1 ( BAK1 ) is part of the BR receptor complex and is proposed to function as a coreceptor of the BRI1 protein ( Li et al. , 2002 ; Nam and Li , 2002 ) .
+  1. E18	Composes_Protein_Complex	Amino_Acid_Sequence:SERK3	Protein_Complex:BR receptor complex
+8. SERK1 and BR Signaling A highly interesting finding was the identification of two members of the BR signaling pathway , the main BR receptor BRI1 ( Li and Chory , 1997 ) and its coreceptor BAK1 ( SERK3 ) ( Li et al. , 2002 ; Nam and Li , 2002 ) , as components of the SERK1 complex .
+  1. E41	Composes_Protein_Complex	Amino_Acid_Sequence:BRI1	Protein_Complex:SERK1 complex
+  2. E18	Composes_Protein_Complex	Amino_Acid_Sequence:BAK1	Protein_Complex:SERK1 complex
+16. Notably , none of the proposed downstream components of BRI1 , such as BES1 , BZR1 , or BIN2 ( Li and Nam , 2002 ; Wang et al. , 2002b ; Yin et al. , 2002 ) , was detected in the SERK1 complex .
+  3. E35	Composes_Protein_Complex	Amino_Acid_Sequence:BIN2	Protein_Complex:SERK1 complex
+  4. E24	Composes_Protein_Complex	Amino_Acid_Sequence:BZR1	Protein_Complex:SERK1 complex
+  5. E42	Composes_Protein_Complex	Amino_Acid_Sequence:BES1	Protein_Complex:SERK1 complex
+56. The other putative transcription factor found in the SERK1 complex belongs to a large family of CO - like zinc finger transcription factors , in which the zinc finger region regulates protein–protein interactions , as found for several animal transcription factors ( reviewed in Griffiths et al. , 2003 ) .
+  6. E19	Composes_Protein_Complex	Amino_Acid_Sequence:CO-like zinc finger transcription factors	Protein_Complex:SERK1 complex
+45. Two transcription factors were found to be associated with the SERK1 complex : AGL15 and a putative CO - like B-box zinc finger protein .
+  7. E22	Composes_Protein_Complex	Amino_Acid_Sequence:AGL15	Protein_Complex:SERK1 complex
+  8. E20	Composes_Protein_Complex	Amino_Acid_Sequence:CO-like	Protein_Complex:SERK1 complex
+31. Other SERK1 Complex Components The presence of the PP2C phosphatase KAPP , 14-3 -3 ν , and CDC48A in the SERK1 complex confirms previously obtained results using yeast two-hybrid screening and in vitro interaction studies ( Rienties et al. , 2005 ) .
+  9. E36	Composes_Protein_Complex	Amino_Acid_Sequence:CDC48A	Protein_Complex:SERK1 complex
+  10. E44	Composes_Protein_Complex	Amino_Acid_Sequence:14-3-3ν	Protein_Complex:SERK1 complex
+  11. E45	Composes_Protein_Complex	Amino_Acid_Sequence:KAPP	Protein_Complex:SERK1 complex

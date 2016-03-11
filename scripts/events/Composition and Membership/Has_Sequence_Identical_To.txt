@@ -1,0 +1,133 @@
+0. Genetic and physiological studies have shown that the Arabidopsis thaliana abscisic acid - insensitive ( ABI ) loci interact to regulate seed - specific and / or ABA - inducible gene expression .
+  1. E1	Has_Sequence_Identical_To	Element1:ABI	Element2:abscisic acid-insensitive
+0. The ABA insensitive ( ABI ) loci of Arabidopsis have been shown to interact genetically in regulating processes such as germination and ABA - inducible gene expression .
+  1. E1	Has_Sequence_Identical_To	Element1:ABI	Element2:ABA insensitive
+10. Tests for pairwise interactions among ABI proteins . β - galactosidase activity of yeast carrying plasmids encoding the GAL4 - AD ( pGAD ) or GAL4 - AD fusions to the ABIs indicated and GAL4 - BD ( pGBD ) ; or ( a ) a GAL4 - BD - ABI4 fusion ( BD - ABI4 ) ; or ( b ) a GAL4 - BD - ABI5 ( BD - ABI5 ) fusion .
+  2. E3	Has_Sequence_Identical_To	Element1:BD-ABI5	Element2:GAL4-BD-ABI5
+  3. E2	Has_Sequence_Identical_To	Element1:GAL4-BD-ABI4	Element2:BD-ABI4
+0. The Arabidopsis LEAFY COTYLEDON2 ( LEC2 ) gene is a central embryonic regulator that serves critical roles both early and late during embryo development .
+  1. E53	Has_Sequence_Identical_To	Element1:LEC2	Element2:LEAFY COTYLEDON2
+16. The Arabidopsis LEAFY COTYLEDON ( LEC ) genes , LEC1 , LEC2 , and FUSCA3 ( FUS3 ) , play key roles in controlling embryo development ( 7 ) .
+  2. E52	Has_Sequence_Identical_To	Element1:FUS3	Element2:FUSCA3
+  3. E51	Has_Sequence_Identical_To	Element1:LEC	Element2:LEAFY COTYLEDON
+10. Recessive mutations in the Arabidopsis PICKLE ( PKL ) gene also induce somatic embryogenesis in postgerminative roots cultured on hormone - free medium ( 40 ) .
+  1. E22	Has_Sequence_Identical_To	Element1:PKL	Element2:PICKLE
+10. In floral meristems that are homologous to indeterminate shoot meristems , the AGAMOUS ( AG ) gene represses WUS expression late in flower development to terminate the stem cell niche after a limited number of organs have been formed ( Lenhard et al. , 2001 ; Lohmann et al. , 2001 ) .
+  1. E14	Has_Sequence_Identical_To	Element1:AG	Element2:AGAMOUS
+4. Expression of CLAVATA3 ( CLV3 ) mRNA ( Fletcher et al. , 1999 ) that coincides with the presumed position of the apical stem cells provides an operational marker for stem cell identity in the shoot meristem .
+  2. E15	Has_Sequence_Identical_To	Element1:CLV3	Element2:CLAVATA3
+18. We show that the premature termination of the shoot meristem in l28 mutants is caused by a mutation in the APETALA2 ( AP2 ) gene that was previously identified as one of the components of the ABC model in floral patterning , where it represses AG ( Bowman et al. , 1991 ; Drews et al. , 1991 ) , in floral transition ( Jofuku et al. , 1994 ; Okamuro et al. , 1997b ) , and in the control of seed size ( Jofuku et al. , 2005 ; Ohto et al. , 2005 ) .
+  3. E16	Has_Sequence_Identical_To	Element1:AP2	Element2:APETALA2
+6. One of the genes identified from mutant studies encodes the homeodomain protein WUSCHEL ( WUS ) .
+  4. E17	Has_Sequence_Identical_To	Element1:WUS	Element2:WUSCHEL
+0. Arabidopsis thaliana SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 ( SERK1 ) is a leucine - rich repeat receptor - like kinase ( LRR - RLK ) involved in the acquisition of embryogenic competence and in male sporogenesis .
+  1. E10	Has_Sequence_Identical_To	Element1:LRR	Element2:leucine-rich repeat
+  2. E5	Has_Sequence_Identical_To	Element1:RLK	Element2:receptor-like kinase
+  3. E8	Has_Sequence_Identical_To	Element1:LRR-RLK	Element2:leucine-rich repeat receptor-like kinase
+  4. E9	Has_Sequence_Identical_To	Element1:SERK1	Element2:SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASE1
+3. This approach identified two other LRR - RLKs , the BRASSINOSTEROID - INSENSITIVE1 ( BRI1 ) receptor and its coreceptor , the SERK3 or BRI1 - ASSOCIATED KINASE1 protein .
+  5. E7	Has_Sequence_Identical_To	Element1:BRI1	Element2:BRASSINOSTEROID-INSENSITIVE1
+  6. E6	Has_Sequence_Identical_To	Element1:SERK3	Element2:BRI1-ASSOCIATED KINASE1
+0. Membrane - located leucine - rich repeat receptor - like kinases ( LRR - RLKs ) play important roles in plant signaling pathways .
+  1. E40	Has_Sequence_Identical_To	Element1:RLKs	Element2:receptor-like kinases
+  2. E44	Has_Sequence_Identical_To	Element1:LRR-RLKs	Element2:leucine-rich repeat receptor-like kinases
+  3. E50	Has_Sequence_Identical_To	Element1:LRR	Element2:leucine-rich repeat
+1. For example , the Arabidopsis thaliana CLAVATA1 ( CLV1 ) , BRASSINOSTEROID - INSENSITIVE1 ( BRI1 ) , ERECTA , rice ( Oryza sativa ) Xa21 , HAESA - RLK5 , and FLS2 genes were shown to function in shoot meristem maintenance , hormone perception , organ elongation , disease resistance , abscission , and flagellin signaling , respectively ( reviewed in Torii , 2004 ) .
+  4. E46	Has_Sequence_Identical_To	Element1:CLV1	Element2:CLAVATA1
+  5. E52	Has_Sequence_Identical_To	Element1:RLK5	Element2:HAESA
+  6. E51	Has_Sequence_Identical_To	Element1:BRI1	Element2:BRASSINOSTEROID-INSENSITIVE1
+3. For example , negative and positive regulators of brassinosteroid ( BR ) signaling were identified as the GSK -3 / Shaggy - like kinase called BRASSINOSTEROID - INSENSITIVE2 ( BIN2 ) ( Li and Nam , 2002 ) and the nucleus - localized Ser / Thr phosphatase bri1 Suppressor1 family ( Mora - Garcia et al. , 2004 ) , respectively .
+  7. E42	Has_Sequence_Identical_To	Element1:BIN2	Element2:BRASSINOSTEROID-INSENSITIVE2
+4. Their potential substrates are the nuclear proteins BRASSINAZOLE - RESISTANT1 ( BZR1 ) ( Wang et al. , 2002b ) and bri1 - EMS - SUPPRESSOR1 ( BES1 ) ( Yin et al. , 2002 ) .
+  8. E47	Has_Sequence_Identical_To	Element1:BZR1	Element2:BRASSINAZOLE-RESISTANT1
+  9. E43	Has_Sequence_Identical_To	Element1:BES1	Element2:bri1-EMS-SUPPRESSOR1
+5. We previously identified Arabidopsis SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 ( SERK1 ) , an LRR - RLK that marks the formation of embryogenic cells in culture and is expressed in ovule primordia and in both male and female gametophytes .
+  10. E41	Has_Sequence_Identical_To	Element1:SERK1	Element2:SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASE1
+10. SERK3 or BRI1 - ASSOCIATED RECEPTOR KINASE1 ( BAK1 ) is part of the BR receptor complex and is proposed to function as a coreceptor of the BRI1 protein ( Li et al. , 2002 ; Nam and Li , 2002 ) .
+  11. E39	Has_Sequence_Identical_To	Element1:BAK1	Element2:SERK3
+  12. E45	Has_Sequence_Identical_To	Element1:BAK1	Element2:BRI1-ASSOCIATED RECEPTOR KINASE1
+12. SERK1 was shown to interact with the KINASE - ASSOCIATED PROTEIN PHOSPHATASE ( KAPP ) that is postulated to play a role in receptor internalization ( Shah et al. , 2002 ) .
+  13. E48	Has_Sequence_Identical_To	Element1:KAPP	Element2:KINASE-ASSOCIATED PROTEIN PHOSPHATASE
+24. We combined immunoprecipitation of cyan fluorescent protein (CFP)–tagged SERK1 with rapid liquid chromatography ( LC ) / MALDI - TOF / MS–based protein identification .
+  14. E49	Has_Sequence_Identical_To	Element1:CFP	Element2:cyan fluorescent protein
+26. Additional proteins were also found , such as another member of the 14-3 -3 family , 14-3 -3 ν , SERK3 ( BAK1 ) and BRI1 , the MADS box transcription factor AGAMOUS - LIKE15 ( AGL15 ) , and an uncharacterized zinc finger protein .
+  15. E54	Has_Sequence_Identical_To	Element1:BAK1	Element2:SERK3
+  16. E38	Has_Sequence_Identical_To	Element1:AGL15	Element2:AGAMOUS-LIKE15
+25. Although our results do not allow us to precisely predict the composition , it is likely that SERK1 , SERK3 , and BRI1 receptors can form tetrameric complexes analogous to the functional complex of transforming growth factor - ß ( TGF - ß ) receptors .
+  1. E63	Has_Sequence_Identical_To	Element1:TGF-ß	Element2:transforming growth factor-ß receptors
+30. This so-called tetrameric model was also recently proposed for BRI1 and BAK1 ( SERK3 ) ( Wang et al. , 2005b ) .
+  2. E64	Has_Sequence_Identical_To	Element1:SERK3	Element2:BAK1
+22. In that work , it was clearly shown that the interaction between the BAK1 ( SERK3 ) proteins and BRI1 is brassinolide - dependent .
+  3. E67	Has_Sequence_Identical_To	Element1:SERK3	Element2:BAK1
+0. Plant embryo development is regulated by a network of transcription factors that include LEAFY COTYLEDON 1 ( LEC1 ) , LEC1 - LIKE ( L1L ) , and B3 domain factors , LEAFY COTYLEDON 2 ( LEC2 ) , FUSCA3 ( FUS3 ) , and ABSCISIC ACID INSENSITIVE 3 ( ABI3 ) of Arabidopsis ( Arabidopsis thaliana ) .
+  1. E14	Has_Sequence_Identical_To	Element1:LEAFY COTYLEDON 2	Element2:LEC2
+  2. E2	Has_Sequence_Identical_To	Element1:LEC1-LIKE	Element2:L1L
+  3. E4	Has_Sequence_Identical_To	Element1:LEAFY COTYLEDON 1	Element2:LEC1
+  4. E7	Has_Sequence_Identical_To	Element1:ABSCISIC ACID INSENSITIVE 3	Element2:ABI3
+  5. E8	Has_Sequence_Identical_To	Element1:FUSCA3	Element2:FUS3
+2. Three VP1 / ABI3 - LIKE ( VAL ) genes encode B3 proteins that include plant homeodomain - like and CW domains associated with chromatin factors .
+  6. E11	Has_Sequence_Identical_To	Element1:VP1/ABI3-LIKE	Element2:VAL
+10. Embryo development in plants is regulated by a network of transcription factors that include the LEAFY COTYLEDON 1 ( LEC1 ) and LEC1 - LIKE ( L1L ) genes belonging to the HAP3 family CCAAT - binding factors and a subgroup of the plant - specific B3 domain protein family composed of the LEC2 , FUSCA3 ( FUS3 ) , and ABSCISIC ACID ( ABA ) - INSENSITIVE 3 ( ABI3 ) genes ( Giraudat et al. , 1992 ; Lotan et al. , 1998 ; Luerssen et al. , 1998 ; Stone et al. , 2001 ; Kwong et al. , 2003 ) .
+  7. E12	Has_Sequence_Identical_To	Element1:FUSCA3	Element2:FUS3
+  8. E13	Has_Sequence_Identical_To	Element1:ABSCISIC ACID	Element2:ABA
+  9. E3	Has_Sequence_Identical_To	Element1:ABSCISIC ACID INSENSITIVE 3	Element2:ABI3
+  10. E6	Has_Sequence_Identical_To	Element1:LEAFY COTYLEDON 1	Element2:LEC1
+  11. E9	Has_Sequence_Identical_To	Element1:LEC1-LIKE	Element2:L1L
+  12. E10	Has_Sequence_Identical_To	Element1:CCAAT-binding factors	Element2:HAP3 family
+5. Reminiscent of the pickle ( pkl ) mutant , inhibition of gibberellin biosynthesis during germination induces embryonic phenotypes in val1 seedlings .
+  13. E5	Has_Sequence_Identical_To	Element1:pickle	Element2:pkl
+12. Previously , we characterized Arabidopsis thaliana ethylene - responsive element binding protein ( AtEBP ) , one of the ERF genes , as a transcriptional activator ( Ogawa et al. , 2005 ) .
+  1. E16	Has_Sequence_Identical_To	Element1:AtEBP	Element2:Arabidopsis thaliana ethylene-responsive element binding protein
+10. In addition , AP2 regulates the expression of ethylene - responsive factor ( ERF ) genes containing one AP2 / EREBP domain ( Okamuro et al. , 1997 ) .
+  2. E14	Has_Sequence_Identical_To	Element1:ERF	Element2:ethylene-responsive factor
+3. The APETALA2 ( AP2 ) gene , which belongs to the A class of genes , exhibits several characteristics distinct from other ABC genes .
+  3. E13	Has_Sequence_Identical_To	Element1:AP2	Element2:APETALA2
+4. Although most ABC genes contain a MADS domain , AP2 contains two APETALA2 / ethylene - responsive element binding protein ( AP2 / EREBP ) domains ( Jofuku et al. , 1994 ) .
+  4. E12	Has_Sequence_Identical_To	Element1:EREBP	Element2:ethylene-responsive element binding protein
+  5. E15	Has_Sequence_Identical_To	Element1:AP2/EREBP	Element2:APETALA2/ethylene-responsive element binding protein
+  6. E11	Has_Sequence_Identical_To	Element1:AP2	Element2:APETALA2
+0. Transcription of Arabidopsis thaliana seed maturation ( MAT ) genes is controlled by members of several transcription factor families , such as basic leucine zippers ( bZIPs ) , B3s , MYBs , and DOFs .
+  1. E9	Has_Sequence_Identical_To	Element1:bZIPs	Element2:basic leucine zippers
+0. Arabidopsis embryos lacking DICER - LIKE1 ( DCL1 ) , which is required for microRNA ( miRNA ) biogenesis , arrest early in development .
+  1. E11	Has_Sequence_Identical_To	Element1:DCL1	Element2:DICER-LIKE1
+9. A. thaliana MERISTEM LAYER1 ( ATML1 ) and PROTODERMAL FACTOR1 ( PDF1 ) transcripts are detectable in the protoderm , but not the subprotoderm , of globular stage embryos ( Lu et al. 1996 ; Abe et al. 1999 ) .
+  1. E17	Has_Sequence_Identical_To	Element1:A. thaliana MERISTEM LAYER1	Element2:ATML1
+  2. E18	Has_Sequence_Identical_To	Element1:PROTODERMAL FACTOR1	Element2:PDF1
+1. Our microarray analysis indicated that ASIL1 , HDA6 / SIL1 , and CLF were down - regulated in dcl 1-15 .
+  1. E8	Has_Sequence_Identical_To	Element1:SIL1	Element2:HDA6
+1. Genetic studies have identified many loci required for wild - type ABA response ; the best characterized are the ABA insensitive ( ABI ) and enhanced response to ABA ( ERA ) genes of Arabidopsis and the VP1 genes of maize and other cereals ( Holdsworth et al. , 1999 ) .
+  1. E6	Has_Sequence_Identical_To	Element1:ABI	Element2:ABA insensitive
+  2. E7	Has_Sequence_Identical_To	Element1:ERA	Element2:enhanced response to ABA
+20. In this study , we focus on the role of Arabidopsis APETALA2 ( AP2 ) in controlling seed mass .
+  1. E1	Has_Sequence_Identical_To	Element1:APETALA2	Element2:AP2
+21. AP2 encodes the founding member of a family of plant - specific transcription factors that contains an AP2 / EREBP ( ethylene responsive element binding protein ) domain , a conserved region of ≈60 aa involved in DNA binding ( 24–26 ) .
+  2. E2	Has_Sequence_Identical_To	Element1:ethylene responsive element binding protein	Element2:EREBP
+1. Plants uniquely possess a subclass of MADS factors referred to as MIKC , members of which contain a second weakly conserved coiled - coil motif ( the K domain ) .
+  1. E38	Has_Sequence_Identical_To	Element1:MIKC	Element2:subclass of MADS factors
+0. The interaction of AGL15 with members of the SIN3 / HDAC1 complex suggests a mechanism that could explain its function as a transcriptional repressor in planta Histone deacetylase ( HDAC ) enzymes remove acetyl groups from histones , and hypoacetylation results in a decrease in the space between the nucleosome and the DNA that is wrapped around it .
+  1. E5	Has_Sequence_Identical_To	Element1:HDAC	Element2:Histone deacetylase
+8. An understanding of gene expression control in the seed was tackled from early studies in plant molecular biology , with maize ( Zea mays ) Opaque2 ( O2 ) representing a hallmark as one of the first plant transcription factor ( TF ) genes cloned and characterized ( Hartings et al. , 1989 ; Schmidt et al. , 1990 ) .
+  1. E24	Has_Sequence_Identical_To	Element1:Opaque2	Element2:O2
+11. The class of maturation genes ( MAT ) expressed during seed maturation typically includes seed storage protein ( SSP ) genes , such as albumin and cruciferin genes , which are induced in early or mid-maturation phase .
+  2. E22	Has_Sequence_Identical_To	Element1:seed storage protein genes	Element2:SSP
+12. The late embryogenesis abundant ( LEA ) genes are induced at later stages of maturation and include genes proposed to be involved in acquisition of desiccation tolerance ( for review , see Tunnacliffe and Wise , 2007 ) .
+  3. E25	Has_Sequence_Identical_To	Element1:LEA	Element2:late embryogenesis abundant genes
+15. The corresponding associated TFs belong to the basic leucine zipper ( bZIP ) , B3 , MYB , and DOF TF families , respectively .
+  4. E21	Has_Sequence_Identical_To	Element1:bZIP	Element2:basic leucine zipper
+6. This hypothesis has been strengthened by the isolation and characterization of the WRINKLED1 ( WRI1 ) transcription factor ( Focks and Benning , 1998 ; Cernac and Benning , 2004 ; Masaki et al. , 2005 ) .
+  1. E48	Has_Sequence_Identical_To	Element1:WRINKLED1	Element2:WRI1
+7. WRI1 is a direct target of LEAFY COTYLEDON2 ( LEC2 ) that specifies the regulatory action of this master regulator of seed maturation towards fatty acid metabolism ( Baud et al. , 2007a ) .
+  2. E53	Has_Sequence_Identical_To	Element1:LEAFY COTYLEDON2	Element2:LEC2
+9. WRI1 is a member of the APETALA2 / ethylene - responsive element binding ( AP2 / EREBP ) proteins , one of the largest transcription factor families in A .  thaliana ( Riechmann et al. , 2000 ) .
+  3. E54	Has_Sequence_Identical_To	Element1:EREBP	Element2:ethylene-responsive element binding proteins
+  4. E51	Has_Sequence_Identical_To	Element1:AP2	Element2:APETALA2
+  5. E45	Has_Sequence_Identical_To	Element1:APETALA2/ethylene-responsive element binding proteins	Element2:AP2/EREBP
+16. The AP2 family ( 19 members ) , which has two AP2 domains , is further divided into two monophyletic groups , the APETALA2 - like and AINTEGUMENTA ( ANT ) - like groups .
+  6. E46	Has_Sequence_Identical_To	Element1:ANT -like	Element2:AINTEGUMENTA -like
+19. Proteins of the ERF subfamily bind to ethylene response elements ( ERE ) or GCC boxes .
+  7. E49	Has_Sequence_Identical_To	Element1:ERE	Element2:ethylene response elements
+  8. E47	Has_Sequence_Identical_To	Element1:ethylene response elements	Element2:GCC boxes
+22. Proteins of the DREB subfamily bind to dehydration response elements ( DREs ) / C-repeats containing the core sequence CCGAC ( Baker et al. , 1994 ) .
+  9. E50	Has_Sequence_Identical_To	Element1:DREs	Element2:dehydration response elements
+25. A consensus binding sequence of the AINTEGUMENTA ( ANT ) protein determined in vitro is 5′ - gCAC(A / G)N(A / T)TcCC(a / g)ANG(c / t ) -3 ′ ( Nole - Wilson and Krizek , 2000 ) .
+  10. E52	Has_Sequence_Identical_To	Element1:ANT	Element2:AINTEGUMENTA
