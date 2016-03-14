@@ -1,0 +1,4 @@
+E1	Regulates_Process Agent:T9 Process:T10
+E2	Regulates_Development_Phase Agent:T18 Development:T22
+E3	Has_Sequence_Identical_To Element1:T20 Element2:T21
+E4	Regulates_Process Agent:T24 Process:T29

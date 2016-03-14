@@ -111,4 +111,20 @@ public class WFileReader {
 		return result;
 	}	
 	
+	public static HashSet<String> getFileLine_HashSet2(File file) {
+		HashSet<String> result = new HashSet<String>();
+		
+		try {
+			br = new BufferedReader(new FileReader(file));		
+			
+			String singLine = "";
+			while((singLine = br.readLine()) != null){			
+				result.add(singLine.split("\t")[1]);
+			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}	
+		return result;
+	}	
 }

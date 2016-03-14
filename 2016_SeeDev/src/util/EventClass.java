@@ -13,6 +13,7 @@ public class EventClass {
 	public EventClass() {
 		File file = new File(AllRoot.trainPath + "EventClass.txt");
 		ArrayList<String> lines = WFileReader.getFileLine(file);
+		EClass.add("Not");
 		for(String line : lines) {
 			EClass.add(line);
 		}
