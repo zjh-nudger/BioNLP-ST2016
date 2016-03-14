@@ -1,0 +1,93 @@
+11. Expression studies show that MUM4 is developmentally regulated during seed coat differentiation such that its transcript levels are increased at the time of mucilage production .
+  1. E33	Regulates_Accumulation	Agent:time of mucilage production	Functional_Molecule:MUM4 transcript
+11. Recently , we showed that in living plant cells BRI1 and SERK3 interaction occurred in restricted areas of the membrane and recycled upon internalization by endocytosis ( Russinova et al. , 2004 ) .
+  1. E110	Regulates_Accumulation	Agent:cells	Functional_Molecule:BRI1
+  2. E112	Regulates_Accumulation	Agent:cells	Functional_Molecule:SERK3
+  3. E32	Regulates_Accumulation	Agent:endocytosis	Functional_Molecule:BRI1
+  4. E111	Regulates_Accumulation	Agent:plant	Functional_Molecule:SERK3
+  5. E36	Regulates_Accumulation	Agent:endocytosis	Functional_Molecule:SERK3
+5. We previously identified Arabidopsis SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 ( SERK1 ) , an LRR - RLK that marks the formation of embryogenic cells in culture and is expressed in ovule primordia and in both male and female gametophytes .
+  6. E35	Regulates_Accumulation	Agent:male gametophytes	Functional_Molecule:SERK1
+  7. E33	Regulates_Accumulation	Agent:ovule primordia	Functional_Molecule:SERK1
+  8. E37	Regulates_Accumulation	Agent:female gametophytes	Functional_Molecule:SERK1
+  9. E113	Regulates_Accumulation	Agent:Arabidopsis	Functional_Molecule:SERK1
+6. In sporophytic tissues , SERK1 has a complex expression pattern , with expression being highest in the vascular tissue of all organs ( Hecht et al. , 2001 ; Albrecht et al. , 2005 ; Kwaaitaal et al. , 2005 ) .
+  10. E34	Regulates_Accumulation	Agent:vascular tissue	Functional_Molecule:SERK1
+49. AGL15 was shown to accumulate in nuclei but also to be present in the cytoplasm ( Perry et al. , 1996 ) .
+  1. E59	Regulates_Accumulation	Agent:nuclei	Functional_Molecule:AGL15
+50. SERK1 and AGL15 are highly expressed during embryogenic cell formation in culture and during early embryogenesis .
+  2. E61	Regulates_Accumulation	Agent:embryogenic cell formation	Functional_Molecule:SERK1
+  3. E57	Regulates_Accumulation	Agent:embryogenic cell formation	Functional_Molecule:AGL15
+  4. E58	Regulates_Accumulation	Agent:early embryogenesis	Functional_Molecule:SERK1
+  5. E62	Regulates_Accumulation	Agent:early embryogenesis	Functional_Molecule:AGL15
+52. Interestingly , AGL15 - overexpressing tissues also had increased expression of SERK1 ( Harding et al. , 2003 ) .
+  6. E60	Regulates_Accumulation	Agent:AGL15-overexpressing tissues	Functional_Molecule:SERK1
+17. Here , we show that AP2 regulates ERF genes such as AtEBP and AtERF1 , and the over - expression of AtEBP causes the accumulation of AP2 transcripts .
+  1. E17	Regulates_Accumulation	Agent:over-expression of AtEBP	Functional_Molecule:AP2 transcripts
+6. Recent reports showed that AP2 controlled seed mass ( Jofuku et al. , 1994 , 2005 ; Ohto et al. , 2005 ) and that expression of the AP2 protein was translationally regulated by the microRNA mi172 ( Aukerman and Sakai , 2003 ; Chen , 2004 ) .
+  2. E18	Regulates_Accumulation	Agent:microRNA mi172	Functional_Molecule:AP2
+2. In particular , micro RNAs are thought to target mRNAs of AP2 and its homologs , thereby inhibiting the translation process ( Aukerman and Sakai , 2003 ; Chen , 2004 ) .
+  1. E15	Regulates_Accumulation	Agent:micro RNAs	Functional_Molecule:mRNAs of AP2
+0. The translation of AP2 mRNA is suppressed by micro RNAs ( Chen , 2004 ) and AP2 protein down - regulates AP2 and AtEBP expression ( Okamuro et al. , 1997 ; this study ) , as indicated in grey .
+  1. E13	Regulates_Accumulation	Agent:micro RNAs	Functional_Molecule:AP2 mRNA
+2. The AP2 mRNA level did not change in the ein 3-1 mutant .
+  2. E12	Regulates_Accumulation	Agent:ein3-1	Functional_Molecule:AP2 mRNA
+20. Thus , we consider that accumulation of AP2 mRNA in Arabidopsis over - expressing AtEBP is not sufficient to change flower development .
+  3. E15	Regulates_Accumulation	Agent:Arabidopsis over-expressing AtEBP	Functional_Molecule:AP2 mRNA
+17. Published results support a role for SIN3 / HDAC1 - mediated repression in regulation of LEA76 : trichostatin A , a specific inhibitor of HDAC , causes an increase in LEA76 transcript during seed germination ( Tai et al. , 2005 ) .
+  1. E54	Regulates_Accumulation	Agent:seed germination	Functional_Molecule:LEA76 transcript
+  2. E35	Regulates_Accumulation	Agent:trichostatin A	Functional_Molecule:LEA76 transcript
+2. AGL15 can also directly associate with regulatory regions of AGL18 and repress accumulation of AGL18 transcript ( Figure 5a , b ) .
+  3. E34	Regulates_Accumulation	Agent:AGL15	Functional_Molecule:AGL18 transcript
+12. LEA76 , CBF2 ( Figure 5a ) and other putative AGL15 downstream target genes ( K. Hill , H. Wang and S.E. Perry , unpublished data ) , are not as highly induced by ectopic expression of AGL15 - VP16 as expected , especially when compared with levels of AGL18 transcript accumulation brought about by AGL15 - VP16 ( Figure 5a ) .
+  4. E53	Regulates_Accumulation	Agent:ectopic expression of AGL15-VP16	Functional_Molecule:AGL18 transcript
+  5. E33	Regulates_Accumulation	Agent:AGL15-VP16	Functional_Molecule:AGL18 transcript
+5. There is an increase in LEA76 transcript accumulation in agl15 plants , and , conversely , a decrease in response to increased AGL15 levels in all tissues tested .
+  6. E32	Regulates_Accumulation	Agent:agl15	Functional_Molecule:LEA76 transcript
+  7. E37	Regulates_Accumulation	Agent:AGL15	Functional_Molecule:LEA76 transcript
+13. It has been demonstrated that AGL15 and AGL18 perform at least partially redundant functions ( Adamczyk et al. , 2007 , S. Perry , unpublished data ) , and given that AGL15 - VP16 induces accumulation of AGL18 transcript ( Figure 5a ) , AGL18 might be subsequently repressing CBF2 and LEA76 , and thus masking to some degree AGL15 - VP16 - mediated transcription , although an increase in response to AGL15 - VP16 is still apparent .
+  8. E36	Regulates_Accumulation	Agent:AGL15-VP16	Functional_Molecule:AGL18 transcript
+6. Moreover , as early as the eight - cell stage , miR156 - mediated repression of zygotic SPL transcripts prevents premature accumulation of transcripts from genes normally induced during the embryonic maturation phase .
+  1. E26	Regulates_Accumulation	Agent:zygotic	Functional_Molecule:SPL transcripts
+  2. E27	Regulates_Accumulation	Agent:eight-cell stage	Functional_Molecule:SPL transcripts
+  3. E12	Regulates_Accumulation	Agent:miR156	Functional_Molecule:SPL transcripts
+14. Finally , the results of our studies of somatic embryogenesis indicate that AGL15 accumulates even when embryos arise de novo from cells in other phases of the life cycle .
+  1. E28	Regulates_Accumulation	Agent:somatic embryogenesis	Functional_Molecule:AGL15
+  2. E48	Regulates_Accumulation	Agent:embryos	Functional_Molecule:AGL15
+8. In ap 2-5 , the AtEBP mRNA level was increased in flowers , leaves and stems .
+  1. E37	Regulates_Accumulation	Agent:ap2-5	Functional_Molecule:AtEBP mRNA
+  2. E11	Regulates_Accumulation	Agent:stems	Functional_Molecule:AtEBP mRNA
+  3. E14	Regulates_Accumulation	Agent:leaves	Functional_Molecule:AtEBP mRNA
+  4. E10	Regulates_Accumulation	Agent:flowers	Functional_Molecule:AtEBP mRNA
+9. The AP2 mRNA level of ap 2-5 was also increased , especially in flowers and leaves , suggesting that AP2 activity also suppresses its own AP2 gene expression .
+  5. E36	Regulates_Accumulation	Agent:ap2-5	Functional_Molecule:AP2 mRNA
+  6. E13	Regulates_Accumulation	Agent:flowers	Functional_Molecule:AP2 mRNA
+  7. E8	Regulates_Accumulation	Agent:leaves	Functional_Molecule:AP2 mRNA
+10. The expression pattern of AtERF1 was similar to that of AtEBP : the AtERF1 mRNA level of ap 2-5 increased in flowers , leaves and stems compared with the WT . mRNA accumulation of these genes was examined in ap 2-7 , and similar results were obtained ( data not shown ) .
+  8. E38	Regulates_Accumulation	Agent:ap2-5	Functional_Molecule:AtERF1 mRNA
+  9. E16	Regulates_Accumulation	Agent:leaves	Functional_Molecule:AtERF1 mRNA
+  10. E15	Regulates_Accumulation	Agent:flowers	Functional_Molecule:AtERF1 mRNA
+  11. E9	Regulates_Accumulation	Agent:stems	Functional_Molecule:AtERF1 mRNA
+5. There is a point - mutation in the AP2 / EREBP domain of AP2 ( residue Gly -159 to Glu ) in the ap 2-5 mutant , which leads to reduced transcriptional activity of AP2 ( Jofuku et al. , 1994 ) .
+  12. E12	Regulates_Accumulation	Agent:ap2-5	Functional_Molecule:AP2
+7. WRI1 is a direct target of LEAFY COTYLEDON2 ( LEC2 ) that specifies the regulatory action of this master regulator of seed maturation towards fatty acid metabolism ( Baud et al. , 2007a ) .
+  1. E55	Regulates_Accumulation	Agent:LEC2	Functional_Molecule:WRI1
+24. Therefore , at later stages of morphogenesis , miR156 may establish a threshold that SPL10 and SPL11 transcript levels must surpass in order to accumulate and promote maturation - phase gene expression programs .
+  1. E57	Regulates_Accumulation	Agent:miR156	Functional_Molecule:SPL10 transcript
+  2. E158	Regulates_Accumulation	Agent:morphogenesis	Functional_Molecule:SPL10 transcript
+  3. E55	Regulates_Accumulation	Agent:miR156	Functional_Molecule:SPL11 transcript
+  4. E155	Regulates_Accumulation	Agent:morphogenesis	Functional_Molecule:SPL11 transcript
+9. The ability to suppress such a pleiotropic phenotype by knocking out / down only two miRNA targets was surprising when considering that dozens of miRNA targets were derepressed in dcl1 embryos .
+  5. E53	Regulates_Accumulation	Agent:embryos	Functional_Molecule:miRNA
+  6. E154	Regulates_Accumulation	Agent:dcl1	Functional_Molecule:miRNA
+11. Consistent with this idea , at least seven miRNA target transcripts in addition to SPL10 and SPL11 have increased levels as early as the eight - cell stage , and all of these encode transcription factors .
+  7. E54	Regulates_Accumulation	Agent:eight-cell stage	Functional_Molecule:miRNA target transcripts
+6. Since the reduction of WOX2 transcripts in dcl1 eight - cell embryos was the first detectable differentiation defect , and homeobox genes related to WOX2 have been implicated in maintaining stem cells during post - embryonic development ( Laux et al. 1996 ; Mayer et al. 1998 ; Wu et al. 2005 ) , we speculate that premature expression of miRNA targets leads to the reduction of WOX2 transcripts in dcl1 embryos and ultimately contributes to precocious differentiation and subsequent loss of developmental potential in preglobular cell types .
+  8. E56	Regulates_Accumulation	Agent:premature expression of miRNA targets	Functional_Molecule:WOX2 transcripts
+  9. E156	Regulates_Accumulation	Agent:dcl1	Functional_Molecule:WOX2 transcripts
+  10. E157	Regulates_Accumulation	Agent:embryos	Functional_Molecule:WOX2 transcripts
+  11. E160	Regulates_Accumulation	Agent:eight-cell	Functional_Molecule:WOX2 transcripts
+  12. E159	Regulates_Accumulation	Agent:dcl1	Functional_Molecule:WOX2 transcripts
+  13. E58	Regulates_Accumulation	Agent:embryos	Functional_Molecule:WOX2 transcripts
+23. Although miR156 levels do not appear to decrease at later stages of morphogenesis ( Fig . 3A ) , SPL10 and SPL11 promoter activities do increase at the same stages that the morphogenesis-to - maturation - phase transition occurs ( Fig . 5 ) .
+  14. E52	Regulates_Accumulation	Agent:later stages of morphogenesis	Functional_Molecule:miR156

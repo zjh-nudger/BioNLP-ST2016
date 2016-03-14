@@ -1,0 +1,20 @@
+49. Given the dramatic changes in hexose levels in ap2 mutants , potential targets of AP2 activity are enzymes involved in sugar metabolism , such as cell - wall - bound invertases .
+  1. E8	Regulates_Molecule_Activity	Agent:AP2	Molecule:cell-wall-bound invertases
+53. Cell - wall - bound invertase activity decreases during the late phase of seed development , and sucrose is transported directly into embryo cells where it is hydrolyzed by sucrose synthase .
+  2. E11	Regulates_Molecule_Activity	Agent:late phase of seed development	Molecule:Cell-wall-bound invertase
+54. Cell - wall - bound invertase activity has been correlated with seed cell number both in fava bean cultivars that exhibit variations in seed size and in the maize miniature1 mutant that is defective in the enzyme ( 15 , 53 ) .
+  3. E48	Regulates_Molecule_Activity	Agent:fava bean cultivars that exhibit variations in seed size	Molecule:Cell-wall-bound invertase
+  4. E23	Regulates_Molecule_Activity	Agent:maize miniature1	Molecule:Cell-wall-bound invertase
+55. Thus , AP2 may affect seed mass by controlling cell - wall - bound invertase activity .
+  5. E30	Regulates_Molecule_Activity	Agent:AP2	Molecule:cell-wall-bound invertase
+14. These interactions suggested analogy with the mammalian CDC48 homologue p97 / VCP complex , in which p97 / VCP can be phosphorylated by the JAK -2 kinase and dephosphorylated by the phosphatase PTPH1 that associates with a 14-3 -3 protein ( Zhang et al. , 1997 , 1999 ) .
+  1. E82	Regulates_Molecule_Activity	Agent:PTPH1	Molecule:p97/VCP
+  2. E71	Regulates_Molecule_Activity	Agent:JAK-2	Molecule:p97/VCP
+27. TGF - ß binding to the TßRII homodimers promotes the formation of (TßRI)2 / (TßRII)2 heterodimers , in which TßRI is phosphorylated by the constitutively active TßRII and becomes activated to propagate the TGF - ß signal .
+  1. E84	Regulates_Molecule_Activity	Agent:TßRII	Molecule:TßRI
+39. For two other LRR - RLKs , CLV1 ( Williams et al. , 1997 ) and FLS2 ( Gomez - Gomez et al. , 2001 ) , it has been shown that KAPP functions as a negative regulator , and it may have the same role in controlling signaling through the SERK1 receptor .
+  2. E87	Regulates_Molecule_Activity	Agent:KAPP	Molecule:CLV1
+  3. E80	Regulates_Molecule_Activity	Agent:KAPP	Molecule:FLS2
+0. AGL15 binds directly to and represses LEA76 , CBF2 and AGL18 in planta It is becoming increasingly apparent that autoregulatory loops are a common phenomenon in the regulation of MADS-box genes in plants ( Gómez - Mena et al. , 2005 ; Honma and Goto , 2000 ; Zhu and Perry , 2005 ) .
+  1. E50	Regulates_Molecule_Activity	Agent:in planta	Molecule:LEA76
+  2. E49	Regulates_Molecule_Activity	Agent:in planta	Molecule:CBF2

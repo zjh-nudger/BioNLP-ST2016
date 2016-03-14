@@ -1,0 +1,50 @@
+8. The consensus binding site of the ABI3 / FUS3 / LEC2 B3 DNA - binding domain ( Sph / RY ) is strongly enriched in the promoters and first introns of VAL - repressed genes , including the early acting LEC1 and L1L genes .
+  1. E61	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:L1L
+  2. E66	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:LEC1
+  3. E68	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:promoters of VAL-repressed genes
+  4. E65	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:first introns of VAL-repressed genes
+3. Specific in vivo and in vitro binding of bZIP53 protein to a G-box element in the albumin 2S2 promoter is demonstrated .
+  1. E8	Composes_Primary_Structure	DNA_Part:G-box	DNA:albumin 2S2 promoter
+0. WRI1 binds to the AW-box with two core motifs The WRI1 binding sites in the upstream regions of Pl-PKβ1 , KAS1 , BCCP2 , and SUS2 contained the conserved AW-box sequence 5′ - [CnTnG](n)7[CG] -3 ′ ( Figure 4f ) , and mutational analysis of the site 1 AW-box of Pl-PKβ1 indicated that each of the five conserved nucleotides is critical for WRI1 binding ( Figure 5c ) .
+  1. E15	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of SUS2
+  2. E10	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of KAS1
+  3. E16	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of BCCP2
+  4. E11	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of Pl-PKβ1
+  5. E13	Composes_Primary_Structure	DNA_Part:5′-[CnTnG](n)7[CG]-3′	DNA:AW-box
+6. The opposite strand sequence of the ANT - binding consensus sequence , 5′ - ( g / a)CnT(t / c)GggA(A / T)n - ( T / C)GTGc -3 ′ , shows the [ CnTnG ] core of the AW-box in the 5′ - half , while the sequence of the 3′ - half is TG rather than CG in the AW-box .
+  6. E14	Composes_Primary_Structure	DNA_Part:[CnTnG]	DNA:AW-box
+2. The hexanucleotide AACCCA that can be observed on the minus strand of each enhancer element has previously been described as the core of the SEF3 - recognition sequence ( Allen et al. , 1989 ) .
+  1. E1	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:SEF3-recognition sequence
+7. Similarly , in this study , we show that mutations in the AACCCA element of the BCCP2 promoter ( m2 ; Figure 5b ) do not impact on promoter activity ( Figure 6 ) .
+  2. E3	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:BCCP2 promoter
+4. It has already been shown that ASIL1 binds to a GT-box , which is present in both the promoters of the LEC genes and of the genes encoding storage products , regulating the program at least at two levels ( Gao et al. , 2009 ) .
+  1. E11	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the LEC genes
+  2. E10	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the genes encoding storage products
+3. We also detected a large number of putative cis-acting regulatory elements in the promoter regions of these genes , and promoter motifs for LEC1 ( LEAFY COTYLEDON 1 ) , DOF ( DNA - binding - with - One-Finger ) , GATA , and MYB transcription factors ( TF ) , as well as SORLIP5 ( Sequences Over - Represented in Light - Induced Promoters 5 ) , are overrepresented in the promoter regions of fatty acid biosynthetic genes .
+  1. E6	Composes_Primary_Structure	DNA_Part:SORLIP5	DNA:promoter regions of fatty acid biosynthetic genes
+4. The conserved CCAAT motifs for B3 - domain TFs and binding sites for bZIP ( basic - leucine zipper ) TFs are enriched in the promoters of genes encoding oleosins and seed storage proteins .
+  2. E10	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding seed storage proteins
+  3. E8	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding oleosins
+8. These studies suggest that VP1 activates transcription through multiple cis-acting sequences , only some of which are ABREs .
+  1. E39	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting sequences
+2. Many additional presumed ABA - signaling components have been identified biochemically , based on binding to cis-acting regulatory elements such as ABREs ( ABA - response elements ; Busk and Pages , 1998 ) ; one - or two-hybrid screens in yeast ( Choi et al. , 2000 ; Hobo et al. , 1999 ; Kim et al. , 1997 ; Kurup et al. , 2000 ; Uno et al. , 2000 ) ; or correlations between kinase or phosphatase activity and ABA response ( Leung and Giraudat , 1998 ) .
+  2. E25	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting regulatory elements
+11. This subfamily has a broader consensus - binding site than the other bZIP proteins in that its members tolerate variability in the ACGT core element essential to the ABRE G-box ( Kim et al. , 1997 ) .
+  3. E27	Composes_Primary_Structure	DNA_Part:ACGT	DNA:ABRE G-box
+7. Mutational analyses of VP1 / ABI3 - responsive promoters have shown that G-box elements such as those present in the Em1a and Em1b elements , although required for ABA regulation and consequently designated ABREs , are sufficient but not necessary for VP1 transactivation ( Vasil et al. , 1995 ) .
+  4. E34	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1b elements
+  5. E41	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1a elements
+  6. E42	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:ABI3-responsive promoters
+  7. E30	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:VP1 -responsive promoters
+6. MADS - domain proteins bind as either homo - or heterodimers to an A / T-rich cis element named the CArG motif ( C-A / T-rich - G , with a canonical sequence of CC[A / T]6GG ; for a review , see Riechmann and Meyerowitz , 1997 ) , and AGL15 has been shown to preferentially bind a CArG sequence with a longer A / T-rich core ( C[A / T]8G ) in vitro ( Tang and Perry , 2003 ) .
+  1. E17	Composes_Primary_Structure	DNA_Part:C[A/T]8G	DNA:CArG sequence
+18. Expression during seed development , specific binding to G-box - like ACGT elements of the albumin and cruciferin promoters , and in vivo regulation of these target genes have been demonstrated ( Lara et al. , 2003 ) .
+  1. E16	Composes_Primary_Structure	DNA_Part:ACGT	DNA:albumin promoters
+  2. E13	Composes_Primary_Structure	DNA_Part:ACGT	DNA:cruciferin promoters
+14. Among them , G-box - related ACGT elements , RY ( CATGCA ) , AACA , and CTTT motifs are the best described examples ( for review , see Vicente - Carbajosa and Carbonero , 2005 ) .
+  3. E19	Composes_Primary_Structure	DNA_Part:CATGCA	DNA:RY
+  4. E17	Composes_Primary_Structure	DNA_Part:ACGT	DNA:G-box-related ACGT elements
+20. These boxes consist of 11-bp sequences ( TAAGAGGCCGCC ) exhibiting a GCCGCC core required for protein binding ( Ohme - Takagi and Shinshi , 1995 ; Fujimoto et al. , 2000 ; Song et al. , 2005 ) .
+  1. E15	Composes_Primary_Structure	DNA_Part:GCCGCC	DNA:TAAGAGGCCGCC
+22. Proteins of the DREB subfamily bind to dehydration response elements ( DREs ) / C-repeats containing the core sequence CCGAC ( Baker et al. , 1994 ) .
+  2. E13	Composes_Primary_Structure	DNA_Part:CCGAC	DNA:dehydration response elements

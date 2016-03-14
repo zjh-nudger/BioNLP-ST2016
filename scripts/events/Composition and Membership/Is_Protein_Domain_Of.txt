@@ -1,0 +1,108 @@
+3. The B1 domain of ABI3 is essential for this interaction ; this is the first specific function ascribed to this domain of the ABI3 / VP1 family .
+  1. E5	Is_Protein_Domain_Of	Domain:B1 domain	Product:ABI3
+  2. E6	Is_Protein_Domain_Of	Domain:B1 domain	Product:ABI3/VP1 family
+10. Tests for pairwise interactions among ABI proteins . β - galactosidase activity of yeast carrying plasmids encoding the GAL4 - AD ( pGAD ) or GAL4 - AD fusions to the ABIs indicated and GAL4 - BD ( pGBD ) ; or ( a ) a GAL4 - BD - ABI4 fusion ( BD - ABI4 ) ; or ( b ) a GAL4 - BD - ABI5 ( BD - ABI5 ) fusion .
+  1. E21	Is_Protein_Domain_Of	Domain:GAL4-BD	Product:GAL4
+  2. E14	Is_Protein_Domain_Of	Domain:GAL4-AD	Product:GAL4
+  3. E19	Is_Protein_Domain_Of	Domain:GAL4-AD	Product:GAL4
+  4. E15	Is_Protein_Domain_Of	Domain:GAL4-BD	Product:GAL4
+  5. E16	Is_Protein_Domain_Of	Domain:GAL4-BD	Product:GAL4-BD-ABI5
+  6. E10	Is_Protein_Domain_Of	Domain:GAL4-BD	Product:GAL4-BD-ABI4
+  7. E13	Is_Protein_Domain_Of	Domain:GAL4-BD	Product:GAL4
+4. The GAL4 - binding domain ( BD ) - ABI4 construct encoded a slightly truncated form of ABI4 ( amino acids 3–287 ) because a full - length ABI4 fusion provides very strong transcription - activation function in the absence of any activation domain ( AD ) fusion ( Söderman et al. , 2000 ) .
+  8. E18	Is_Protein_Domain_Of	Domain:GAL4-binding domain	Product:GAL4-binding domain ABI4
+  9. E11	Is_Protein_Domain_Of	Domain:GAL4-binding domain	Product:GAL4
+5. Although the truncation reduces target gene expression roughly threefold , the remaining basal level of expression is still approximately tenfold higher than that produced by the GAL4 - BD alone ( Figure 1a ) .
+  10. E12	Is_Protein_Domain_Of	Domain:GAL4-BD	Product:GAL4
+7. Combination of these GAL4 - BD fusions with GAL4 - AD fusions to full - length ABIs produced a broad range of results ( Figure 1 ) .
+  11. E20	Is_Protein_Domain_Of	Domain:GAL4-BD	Product:GAL4
+  12. E17	Is_Protein_Domain_Of	Domain:GAL4-AD	Product:GAL4
+0. LEC2 Possesses a B3 Domain Characteristic of Transcription Factors .
+  1. E22	Is_Protein_Domain_Of	Domain:B3 Domain	Product:LEC2
+2. The B3 domain is an ≈120 - amino acid residue region defined originally as the third basic region of maize VP1 , which shares the largest contiguous block of sequence identity with its ortholog , Arabidopsis ABI3 ( 10 ) .
+  2. E18	Is_Protein_Domain_Of	Domain:B3 domain	Product:VP1
+  3. E20	Is_Protein_Domain_Of	Domain:B3 domain	Product:ABI3
+4. Many proteins containing B3 domains , including ABI3 / VP1 , FUS3 , and AUXIN RESPONSE FACTOR1 , function as transcription factors ( 20 , 33 , 34 ) .
+  4. E19	Is_Protein_Domain_Of	Domain:B3 domains	Product:ABI3
+  5. E15	Is_Protein_Domain_Of	Domain:B3 domains	Product:FUS3
+  6. E14	Is_Protein_Domain_Of	Domain:B3 domains	Product:VP1
+  7. E16	Is_Protein_Domain_Of	Domain:B3 domains	Product:AUXIN RESPONSE FACTOR1
+8. SERK1 is a member of a small family of five related RLKs , all of which have five LRRs and a typical Ser-Pro–rich juxtamembrane region ( Hecht et al. , 2001 ) .
+  1. E6	Is_Protein_Domain_Of	Domain:Ser-Pro–rich juxtamembrane region	Product:RLKs
+  2. E19	Is_Protein_Domain_Of	Domain:LRRs	Product:RLKs
+48. One of the other MADS box transcription factors , AGL24 , was shown to interact directly with the kinase domain of the Arabidopsis meristematic receptor - like kinase and to be phosphorylated by the kinase domain of the receptor in vitro ( Fujita et al. , 2003 ) .
+  1. E26	Is_Protein_Domain_Of	Domain:kinase domain	Product:receptor-like kinase
+36. The kinase domain of SERK1 is able to transphosphorylate and bind in vitro to CDC48A , 14-3 -3 λ , and KAPP ( Rienties et al. , 2005 ) .
+  2. E43	Is_Protein_Domain_Of	Domain:kinase domain of SERK1	Product:SERK1
+8. The consensus binding site of the ABI3 / FUS3 / LEC2 B3 DNA - binding domain ( Sph / RY ) is strongly enriched in the promoters and first introns of VAL - repressed genes , including the early acting LEC1 and L1L genes .
+  1. E70	Is_Protein_Domain_Of	Domain:B3 DNA-binding domain	Product:FUS3
+  2. E60	Is_Protein_Domain_Of	Domain:B3 DNA-binding domain	Product:ABI3
+  3. E69	Is_Protein_Domain_Of	Domain:B3 DNA-binding domain	Product:LEC2
+2. Three VP1 / ABI3 - LIKE ( VAL ) genes encode B3 proteins that include plant homeodomain - like and CW domains associated with chromatin factors .
+  4. E63	Is_Protein_Domain_Of	Domain:plant homeodomain-like	Product:B3 proteins
+  5. E64	Is_Protein_Domain_Of	Domain:CW domains	Product:B3 proteins
+13. ANT is a member of the AP2 / ERF family containing the AP2 / EREBP domains .
+  1. E27	Is_Protein_Domain_Of	Domain:AP2/EREBP domains	Product:AP2/ERF family
+1. In the transient expression assay , when the effector lacked any portion of the C-terminal domain , the GUS / LUC reporter ratio was no different than the no-effector control , but forms of AGL15 that included part of the C-terminal domain often , but not always , showed activation of the GUS reporter gene .
+  1. E3	Is_Protein_Domain_Of	Domain:C-terminal domain	Product:AGL15
+6. It is interesting to note that the conserved LENETLNRRQxxE motif resides within a region of AGL15 that is necessary and sufficient to allow interaction with SEP3 in yeast ( data not shown ) .
+  2. E5	Is_Protein_Domain_Of	Domain:LENETLNRRQxxE	Product:AGL15
+5. The 3′ - half of the 16-bp ANT - binding sequence is similar to the DRE sequences ( CCGAC ) , to which EREBP - like single AP2 domain factors binds , suggesting that two AP2 domains of ANT uniquely participate in DNA binding ( Nole - Wilson and Krizek , 2000 ; Krizek , 2003 ) .
+  1. E12	Is_Protein_Domain_Of	Domain:AP2 domain	Product:EREBP-like
+0. The two apparently critical residues are located within a stretch of more than 100 amino acids , about one-third of the FUS3 sequence , which exhibits significant sequence similarity to a distinct domain , B3 or basic region 3 ( Giraudat et al. 1992 ) , characteristic of VP1 / ABI3 - like proteins .
+  1. E5	Is_Protein_Domain_Of	Domain:B3	Product:VP1/ABI3-like proteins
+11. VP1 and ABI3 , as well as their presumed orthologs in bean ( Bobb et al. 1995 ) or rice ( Hattori et al. 1994 ) , have two additional basic domains , B1 and B2 ( Giraudat et al. 1992 ; Hill et al. 1996 ) , preceding B3 .
+  2. E8	Is_Protein_Domain_Of	Domain:B1	Product:VP1
+  3. E2	Is_Protein_Domain_Of	Domain:B2	Product:VP1
+  4. E10	Is_Protein_Domain_Of	Domain:B3	Product:VP1
+  5. E6	Is_Protein_Domain_Of	Domain:B1	Product:ABI3
+  6. E9	Is_Protein_Domain_Of	Domain:B2	Product:ABI3
+  7. E11	Is_Protein_Domain_Of	Domain:B3	Product:ABI3
+12. In FUS3 , B1 is absent but , to a small extent , there is sequence similarity to B2 ( Fig .  5b ) .
+  8. E1	Is_Protein_Domain_Of	Domain:B1	Product:FUS3
+5. It is likely , therefore , that the B3 domain of FUS3 similarly mediates binding to specific promoter sequences ( Bäumlein et al. 1994 ) .
+  9. E7	Is_Protein_Domain_Of	Domain:B3 domain of FUS3	Product:FUS3
+12. Furthermore , the homology between ABI5 and EmBP1 is limited to the bZIP domain .
+  1. E21	Is_Protein_Domain_Of	Domain:bZIP domain	Product:ABI5
+  2. E35	Is_Protein_Domain_Of	Domain:bZIP domain	Product:EmBP1
+4. Three of the ABA insensitive loci , ABI3 , ABI4 and ABI5 , encode transcription factors of the B3 - , AP2- and bZIP - domain families , respectively , and regulate overlapping subsets of seed - specific and / or ABA - inducible genes ( Finkelstein and Lynch , 2000 ; Finkelstein et al. , 1998 ; Giraudat et al. , 1992 ) .
+  3. E37	Is_Protein_Domain_Of	Domain:AP2- domain	Product:transcription factors of the AP2- domain families
+  4. E44	Is_Protein_Domain_Of	Domain:B3- domain	Product:transcription factors of the B3- domain families
+  5. E24	Is_Protein_Domain_Of	Domain:bZIP-domain	Product:transcription factors of the bZIP-domain families
+5. Two of these , ABI4 and ABI5 , contain presumed DNA - binding and dimerization domains : the AP2 and bZIP domains , respectively .
+  6. E43	Is_Protein_Domain_Of	Domain:AP2 domains	Product:ABI4
+  7. E38	Is_Protein_Domain_Of	Domain:bZIP domains	Product:ABI4
+  8. E46	Is_Protein_Domain_Of	Domain:AP2 domains	Product:ABI5
+  9. E26	Is_Protein_Domain_Of	Domain:bZIP domains	Product:ABI5
+23. Both the ABI4 and ABI5 gene products contain ser / thr-rich domains that could be sites of phosphorylation ( Finkelstein and Lynch , 2000 ; Finkelstein et al. , 1998 ) , consistent with the possibility that either might be a substrate for the ABI PP2Cs .
+  10. E31	Is_Protein_Domain_Of	Domain:ser/thr-rich domains	Product:ABI4
+  11. E28	Is_Protein_Domain_Of	Domain:ser/thr-rich domains	Product:ABI5
+21. AP2 encodes the founding member of a family of plant - specific transcription factors that contains an AP2 / EREBP ( ethylene responsive element binding protein ) domain , a conserved region of ≈60 aa involved in DNA binding ( 24–26 ) .
+  1. E26	Is_Protein_Domain_Of	Domain:AP2/EREBP domain	Product:AP2/EREBP
+5. There is a point - mutation in the AP2 / EREBP domain of AP2 ( residue Gly -159 to Glu ) in the ap 2-5 mutant , which leads to reduced transcriptional activity of AP2 ( Jofuku et al. , 1994 ) .
+  1. E21	Is_Protein_Domain_Of	Domain:AP2/EREBP domain	Product:AP2
+1. Plants uniquely possess a subclass of MADS factors referred to as MIKC , members of which contain a second weakly conserved coiled - coil motif ( the K domain ) .
+  1. E15	Is_Protein_Domain_Of	Domain:K domain	Product:MIKC
+3. AGAMOUS - like 15 ( AGL15 ; At5g13790 ) is a member of the MIKC subfamily , which consist of four domains : the MADS ( M ) , I , K , and C domains ( for a review , see Kaufmann et al. , 2005 ) .
+  2. E21	Is_Protein_Domain_Of	Domain:C domains	Product:MIKC subfamily
+  3. E13	Is_Protein_Domain_Of	Domain:MADS domains	Product:MIKC subfamily
+  4. E9	Is_Protein_Domain_Of	Domain:K domains	Product:MIKC subfamily
+  5. E10	Is_Protein_Domain_Of	Domain:I domains	Product:MIKC subfamily
+22. Here we report that AGL15 interacts with members of the SIN3 histone deacetylase ( HDAC ) complex , and that a conserved LxLxL motif present in the C-terminal domain of AGL15 , which has been shown to be involved in transcriptional repression in other proteins ( Ohta et al. , 2001 ; Tiwari et al. , 2004 ) , is required for its association with one member of this complex , named SIN3 - associated polypeptide of 18 kDa ( SAP18 ) , in yeast two-hybrid studies .
+  6. E18	Is_Protein_Domain_Of	Domain:LxLxL motif	Product:C-terminal domain of AGL15
+12. Based on the presence of the conserved AP2 - like domains , 147 proteins were identified as belonging to the AP2 / EREBP family in A .  thaliana ( Feng et al. , 2005 ) .
+  1. E9	Is_Protein_Domain_Of	Domain:AP2-like domains	Product:AP2/EREBP
+14. The EREBP family ( 122 members ) , which has a single AP2 domain , is composed of two subgroups , namely the ERF ( 65 members ) and DREB subfamilies ( 57 members ) .
+  2. E2	Is_Protein_Domain_Of	Domain:AP2 domain	Product:EREBP
+15. Proteins of the RAV family ( six members ) contain one AP2 domain and a second DNA binding domain ( the B3 - like domain ) .
+  3. E7	Is_Protein_Domain_Of	Domain:AP2 domain	Product:RAV
+  4. E3	Is_Protein_Domain_Of	Domain:B3-like domain	Product:RAV
+16. The AP2 family ( 19 members ) , which has two AP2 domains , is further divided into two monophyletic groups , the APETALA2 - like and AINTEGUMENTA ( ANT ) - like groups .
+  5. E8	Is_Protein_Domain_Of	Domain:AP2 domains	Product:AP2 family
+21. The solution structure of the AP2 domain of AtERF1 bound to the GCC box has been determined ( Allen et al. , 1998 ) .
+  6. E16	Is_Protein_Domain_Of	Domain:AP2 domain	Product:AtERF1
+23. The single AP2 repeat of the RAV1 transcription factor has been shown to bind to a CAACA motif , whereas the B3 domain binds to a CACCTG sequence ( Kagaya et al. , 1999 ) .
+  7. E5	Is_Protein_Domain_Of	Domain:AP2 repeat	Product:RAV1
+  8. E12	Is_Protein_Domain_Of	Domain:B3 domain	Product:RAV1
+27. Each AP2 repeat of ANT contacts juxtaposed subsites within the consensus sequence , demonstrating that ANT utilizes a mode of DNA recognition distinct from that used by proteins containing a single AP2 domain ( Krizek , 2003 ) .
+  9. E11	Is_Protein_Domain_Of	Domain:AP2 repeat	Product:ANT

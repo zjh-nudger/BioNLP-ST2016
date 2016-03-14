@@ -16,3 +16,6 @@ GT_PROCESS_DEV = '../2016_SeeDev/BioNLP 2016/SeeDev/BioNLP-ST-2016_SeeDev-binary
 # stanford dependency parse
 CONLLX_PROCESS_TRAIN = '../2016_SeeDev/BioNLP 2016/SeeDev/BioNLP-ST-2016_SeeDev-binary_train/stanford_process'
 CONLLX_PROCESS_DEV = '../2016_SeeDev/BioNLP 2016/SeeDev/BioNLP-ST-2016_SeeDev-binary_dev/stanford_process'
+
+GDEP_PROCESS_DEV = '../2016_SeeDev/BioNLP 2016/SeeDev/BioNLP-ST-2016_SeeDev-binary_dev/gdep_process'
+GDEP_PROCESS_TRAIN = '../2016_SeeDev/BioNLP 2016/SeeDev/BioNLP-ST-2016_SeeDev-binary_train/gdep_process'

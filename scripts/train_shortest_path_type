@@ -1,0 +1,4704 @@
+0 AGAMOUS - like 15 MADS domain family
+0 AGAMOUS MADS domain family
+1 AGL15 MADS domain family
+0 AGAMOUS - like 15
+20 AGL15 AGAMOUS - like 15
+0 AGL15 AGAMOUS
+0 eukaryotic organisms mating - type specification
+14 MADS domain–containing regulatory factors eukaryotic organisms
+0 eukaryotic organisms responses to the environment
+0 eukaryotic organisms humans
+0 eukaryotic organisms yeast
+0 eukaryotic organisms muscle development
+0 eukaryotic organisms Drosophila
+0 eukaryotic organisms mammals
+6 MADS domain–containing regulatory factors mating - type specification
+0 mating - type specification responses to the environment
+0 mating - type specification humans
+6 mating - type specification yeast
+0 mating - type specification muscle development
+0 mating - type specification Drosophila
+0 mating - type specification mammals
+6 MADS domain–containing regulatory factors responses to the environment
+14 MADS domain–containing regulatory factors humans
+14 MADS domain–containing regulatory factors yeast
+17 MADS domain–containing regulatory factors muscle development
+14 MADS domain–containing regulatory factors Drosophila
+14 MADS domain–containing regulatory factors mammals
+6 responses to the environment humans
+0 yeast responses to the environment
+0 muscle development responses to the environment
+0 Drosophila responses to the environment
+0 mammals responses to the environment
+0 yeast humans
+0 muscle development humans
+0 Drosophila humans
+0 mammals humans
+0 yeast muscle development
+0 yeast Drosophila
+0 yeast mammals
+17 muscle development Drosophila
+17 muscle development mammals
+0 Drosophila mammals
+14 MADS domain factors plants
+0 K domain protein–protein interaction domain
+0 MADS domain protein–protein interaction domain
+0 plant protein–protein interaction domain
+0 MADS domain K domain
+14 plant K domain
+14 MADS domain plant
+20 FRUITFULL AGL8
+0 silique tissue identity FRUITFULL
+0 silique tissue FRUITFULL
+0 AP1 FRUITFULL
+0 CAULIFLOWER FRUITFULL
+0 meristem FRUITFULL
+0 APETALA1 FRUITFULL
+0 PISTILLATA FRUITFULL
+0 meristem identity FRUITFULL
+0 AP3 FRUITFULL
+0 APETALA3 FRUITFULL
+0 Arabidopsis FRUITFULL
+0 MADS domain family FRUITFULL
+0 floral organ FRUITFULL
+0 floral organ identity FRUITFULL
+0 AG FRUITFULL
+0 AGAMOUS FRUITFULL
+0 FRUITFULL flowers
+0 FRUITFULL AGL factors
+0 FRUITFULL AGL5
+0 FRUITFULL AGL1
+17 silique tissue identity AGL8
+0 silique tissue AGL8
+0 AP1 AGL8
+0 CAULIFLOWER AGL8
+0 meristem AGL8
+0 APETALA1 AGL8
+0 PISTILLATA AGL8
+0 meristem identity AGL8
+0 AP3 AGL8
+0 APETALA3 AGL8
+14 Arabidopsis AGL8
+1 MADS domain family AGL8
+0 floral organ AGL8
+0 floral organ identity AGL8
+0 AG AGL8
+0 AGAMOUS AGL8
+0 AGL8 flowers
+0 AGL8 AGL factors
+0 AGL8 AGL5
+0 AGL8 AGL1
+0 silique tissue identity
+0 AP1 silique tissue identity
+0 CAULIFLOWER silique tissue identity
+0 meristem silique tissue identity
+0 APETALA1 silique tissue identity
+0 PISTILLATA silique tissue identity
+0 meristem identity silique tissue identity
+0 AP3 silique tissue identity
+0 APETALA3 silique tissue identity
+17 Arabidopsis silique tissue identity
+0 MADS domain family silique tissue identity
+0 floral organ silique tissue identity
+0 floral organ identity silique tissue identity
+0 AG silique tissue identity
+0 AGAMOUS silique tissue identity
+0 silique tissue identity flowers
+0 silique tissue identity AGL factors
+17 silique tissue identity AGL5
+17 silique tissue identity AGL1
+0 AP1 silique tissue
+0 CAULIFLOWER silique tissue
+0 meristem silique tissue
+0 APETALA1 silique tissue
+0 PISTILLATA silique tissue
+0 meristem identity silique tissue
+0 AP3 silique tissue
+0 APETALA3 silique tissue
+0 Arabidopsis silique tissue
+0 MADS domain family silique tissue
+0 floral organ silique tissue
+0 floral organ identity silique tissue
+0 AG silique tissue
+0 AGAMOUS silique tissue
+0 silique tissue flowers
+0 silique tissue AGL factors
+0 silique tissue AGL5
+0 silique tissue AGL1
+0 AP1 CAULIFLOWER
+0 meristem AP1
+20 APETALA1 AP1
+0 PISTILLATA AP1
+17 meristem identity AP1
+0 AP3 AP1
+0 APETALA3 AP1
+14 Arabidopsis AP1
+1 MADS domain family AP1
+0 floral organ AP1
+0 floral organ identity AP1
+0 AG AP1
+0 AGAMOUS AP1
+0 AP1 flowers
+0 AP1 AGL factors
+0 AP1 AGL5
+0 AP1 AGL1
+0 meristem CAULIFLOWER
+0 APETALA1 CAULIFLOWER
+0 PISTILLATA CAULIFLOWER
+17 meristem identity CAULIFLOWER
+0 AP3 CAULIFLOWER
+0 APETALA3 CAULIFLOWER
+14 Arabidopsis CAULIFLOWER
+1 MADS domain family CAULIFLOWER
+0 floral organ CAULIFLOWER
+0 floral organ identity CAULIFLOWER
+0 AG CAULIFLOWER
+0 AGAMOUS CAULIFLOWER
+0 CAULIFLOWER flowers
+0 CAULIFLOWER AGL factors
+0 CAULIFLOWER AGL5
+0 CAULIFLOWER AGL1
+0 meristem APETALA1
+0 PISTILLATA meristem
+0 meristem identity
+0 AP3 meristem
+0 APETALA3 meristem
+0 Arabidopsis meristem
+0 MADS domain family meristem
+0 floral organ meristem
+0 floral organ identity meristem
+0 AG meristem
+0 AGAMOUS meristem
+0 meristem flowers
+0 meristem AGL factors
+0 meristem AGL5
+0 meristem AGL1
+0 PISTILLATA APETALA1
+0 meristem identity APETALA1
+0 AP3 APETALA1
+0 APETALA3 APETALA1
+0 Arabidopsis APETALA1
+0 MADS domain family APETALA1
+0 floral organ APETALA1
+0 floral organ identity APETALA1
+0 AG APETALA1
+0 AGAMOUS APETALA1
+0 APETALA1 flowers
+0 APETALA1 AGL factors
+0 APETALA1 AGL5
+0 APETALA1 AGL1
+0 PISTILLATA meristem identity
+0 AP3 PISTILLATA
+0 APETALA3 PISTILLATA
+14 Arabidopsis PISTILLATA
+1 MADS domain family PISTILLATA
+0 floral organ PISTILLATA
+17 floral organ identity PISTILLATA
+0 AG PISTILLATA
+0 AGAMOUS PISTILLATA
+0 PISTILLATA flowers
+0 PISTILLATA AGL factors
+0 PISTILLATA AGL5
+0 PISTILLATA AGL1
+0 AP3 meristem identity
+0 APETALA3 meristem identity
+17 Arabidopsis meristem identity
+0 MADS domain family meristem identity
+0 floral organ meristem identity
+0 floral organ identity meristem identity
+0 AG meristem identity
+0 AGAMOUS meristem identity
+0 meristem identity flowers
+0 meristem identity AGL factors
+0 meristem identity AGL5
+0 meristem identity AGL1
+20 APETALA3 AP3
+14 Arabidopsis AP3
+1 MADS domain family AP3
+0 floral organ AP3
+17 floral organ identity AP3
+0 AG AP3
+0 AGAMOUS AP3
+0 AP3 flowers
+0 AP3 AGL factors
+0 AP3 AGL5
+0 AP3 AGL1
+0 Arabidopsis APETALA3
+0 MADS domain family APETALA3
+0 floral organ APETALA3
+0 floral organ identity APETALA3
+0 AG APETALA3
+0 AGAMOUS APETALA3
+0 APETALA3 flowers
+0 APETALA3 AGL factors
+0 APETALA3 AGL5
+0 APETALA3 AGL1
+14 MADS domain family Arabidopsis
+0 Arabidopsis floral organ
+17 Arabidopsis floral organ identity
+14 Arabidopsis AG
+0 Arabidopsis AGAMOUS
+0 Arabidopsis flowers
+14 Arabidopsis AGL factors
+14 Arabidopsis AGL5
+14 Arabidopsis AGL1
+0 MADS domain family floral organ
+0 MADS domain family floral organ identity
+1 MADS domain family AG
+0 MADS domain family AGAMOUS
+0 MADS domain family flowers
+0 MADS domain family AGL factors
+1 MADS domain family AGL5
+1 MADS domain family AGL1
+0 floral organ identity
+0 floral organ AG
+0 floral organ AGAMOUS
+0 floral organ flowers
+0 floral organ AGL factors
+0 floral organ AGL5
+0 floral organ AGL1
+17 floral organ identity AG
+0 floral organ identity AGAMOUS
+0 floral organ identity flowers
+0 floral organ identity AGL factors
+0 floral organ identity AGL5
+0 floral organ identity AGL1
+20 AGAMOUS AG
+0 AG flowers
+0 AG AGL factors
+0 AG AGL5
+0 AG AGL1
+0 AGAMOUS flowers
+0 AGAMOUS AGL factors
+0 AGAMOUS AGL5
+0 AGAMOUS AGL1
+10 AGL factors flowers
+0 AGL5 flowers
+0 AGL1 flowers
+0 AGL5 AGL factors
+0 AGL1 AGL factors
+0 AGL1 AGL5
+0 nutrient availability FLOWERING LOCUS C
+17 FLOWERING LOCUS C flowering
+0 root FLOWERING LOCUS C
+0 root architecture FLOWERING LOCUS C
+0 ANR1 FLOWERING LOCUS C
+0 flower FLOWERING LOCUS C
+0 nutrient availability flowering
+0 root nutrient availability
+0 root architecture nutrient availability
+2 ANR1 nutrient availability
+0 flower nutrient availability
+0 root flowering
+0 root architecture flowering
+0 ANR1 flowering
+0 flower flowering
+0 root architecture
+0 ANR1 root
+0 flower root
+6 ANR1 root architecture
+0 flower root architecture
+0 flower ANR1
+17 AGL15 beginning of the plant life cycle
+0 AGL15 plant
+0 beginning of the plant life cycle
+0 AGL15 as a low-abundance mRNA
+21 AGL15 as a low-abundance mRNA developing embryos
+0 AGL15 developing embryos
+14 AGL15 Arabidopsis
+0 AGL15 AGL15
+0 Arabidopsis AGL15
+0 AGL15 AGL2
+16 MADS domain family AGL2
+18 embryos AGL2
+14 Arabidopsis AGL2
+16 MADS domain family AGL15
+18 embryos AGL15
+14 Arabidopsis AGL15
+0 MADS domain family embryos
+14 MADS domain family Arabidopsis
+0 Arabidopsis embryos
+18 AGL15 embryos
+0 embryos floral tissues
+0 embryos AGL2
+0 AGL15 floral tissues
+0 AGL15 AGL2
+18 AGL2 floral tissues
+0 nuclei of young embryos , endosperm , and suspensor cells
+0 AGL15 nuclei of young embryos
+10 AGL15 nuclei of young embryos
+0 nuclei of young embryos
+0 nuclei of young embryos endosperm
+0 nuclei of young embryos , endosperm
+0 nuclei of young embryos
+0 nuclei of young embryos suspensor cells
+0 nuclei of young embryos cytoplasm of the egg cell
+0 nuclei of young embryos egg cell
+0 nuclei of young embryos cytoplasm
+0 AGL15 nuclei of young embryos , endosperm , and suspensor cells
+10 AGL15 nuclei of young embryos , endosperm , and suspensor cells
+0 nuclei of young embryos , endosperm , and suspensor cells
+0 nuclei of young embryos , endosperm , and suspensor cells
+0 nuclei of young embryos , endosperm , and suspensor cells
+0 nuclei of young embryos , endosperm , and suspensor cells
+0 nuclei of young embryos , endosperm , and suspensor cells
+0 nuclei of young embryos , endosperm , and suspensor cells cytoplasm of the egg cell
+0 nuclei of young embryos , endosperm , and suspensor cells egg cell
+0 nuclei of young embryos , endosperm , and suspensor cells cytoplasm
+0 AGL15 AGL15
+0 AGL15 young embryos
+0 AGL15 endosperm
+0 AGL15 nuclei of young embryos , endosperm
+0 AGL15 nuclei
+0 AGL15 suspensor cells
+0 AGL15 cytoplasm of the egg cell
+0 AGL15 egg cell
+0 AGL15 cytoplasm
+0 AGL15 young embryos
+0 AGL15 endosperm
+10 AGL15 nuclei of young embryos , endosperm
+0 AGL15 nuclei
+0 AGL15 suspensor cells
+10 AGL15 cytoplasm of the egg cell
+0 AGL15 egg cell
+0 AGL15 cytoplasm
+0 young embryos endosperm
+0 nuclei of young embryos , endosperm
+0 nuclei young embryos
+0 young embryos suspensor cells
+0 young embryos cytoplasm of the egg cell
+0 young embryos egg cell
+0 young embryos cytoplasm
+0 nuclei of young embryos , endosperm
+0 nuclei endosperm
+0 endosperm suspensor cells
+0 endosperm cytoplasm of the egg cell
+0 endosperm egg cell
+0 endosperm cytoplasm
+0 nuclei of young embryos , endosperm
+0 nuclei of young embryos , endosperm suspensor cells
+0 nuclei of young embryos , endosperm cytoplasm of the egg cell
+0 nuclei of young embryos , endosperm egg cell
+0 nuclei of young embryos , endosperm cytoplasm
+0 nuclei suspensor cells
+0 nuclei cytoplasm of the egg cell
+0 nuclei egg cell
+0 nuclei cytoplasm
+0 suspensor cells cytoplasm of the egg cell
+0 suspensor cells egg cell
+0 suspensor cells cytoplasm
+0 cytoplasm of the egg cell
+0 cytoplasm of the egg cell
+0 cytoplasm egg cell
+0 embryos embryonic phase
+0 AGL15 embryonic phase
+10 AGL15 embryos
+0 young Arabidopsis seedlings
+0 AGL15 Arabidopsis
+14 AGL15 transcripts Arabidopsis
+0 Arabidopsis flowers
+0 Arabidopsis Brassica
+0 AGL15 young Arabidopsis seedlings
+10 AGL15 transcripts young Arabidopsis seedlings
+0 young Arabidopsis seedlings flowers
+0 young Arabidopsis seedlings Brassica
+0 AGL15 transcripts
+0 AGL15 flowers
+0 AGL15 Brassica
+10 AGL15 transcripts flowers
+14 AGL15 transcripts Brassica
+0 flowers Brassica
+0 MADS domain factors postembryonic phases
+18 AGL15 postembryonic phases
+0 MADS domain factors AGL15
+0 AGL15 promoter
+0 AGL15 promoter AGL15
+0 AGL15 AGL15
+0 cytoplasm nuclei
+0 AGL15 nuclei
+0 embryos nuclei
+0 AGL15 cytoplasm
+0 embryos cytoplasm
+10 AGL15 embryos
+10 AGL15 nuclei
+0 nuclei reproductive phases
+0 nuclei vegetative and reproductive phases
+0 nuclei plant life cycle
+0 AGL15 reproductive phases
+0 AGL15 vegetative and reproductive phases
+17 AGL15 plant life cycle
+0 vegetative and reproductive phases
+0 reproductive phases plant life cycle
+0 vegetative and reproductive phases plant life cycle
+0 AGL15 postembryonic development
+0 transition to flowering MADS domain factor
+0 transition to flowering perianth longevity
+0 transition to flowering fruit maturation
+0 perianth longevity MADS domain factor
+0 fruit maturation MADS domain factor
+0 perianth longevity fruit maturation
+6 age-dependent developmental programs reproductive tissues
+6 AGL15 age-dependent developmental programs
+10 AGL15 reproductive tissues
+0 earliest stages of vegetative growth Arabidopsis
+0 shoot apex Arabidopsis
+14 AGL15 Arabidopsis
+0 young embryos Arabidopsis
+0 vegetative phase Arabidopsis
+0 nuclear Arabidopsis
+0 AGL15 Arabidopsis
+0 earliest stages of vegetative growth shoot apex
+0 AGL15 earliest stages of vegetative growth
+0 young embryos earliest stages of vegetative growth
+0 vegetative phase earliest stages of vegetative growth
+0 nuclear earliest stages of vegetative growth
+0 AGL15 earliest stages of vegetative growth
+10 AGL15 shoot apex
+0 young embryos shoot apex
+0 vegetative phase shoot apex
+0 nuclear shoot apex
+0 AGL15 shoot apex
+0 AGL15 young embryos
+0 vegetative phase AGL15
+10 nuclear AGL15
+0 AGL15 AGL15
+0 vegetative phase young embryos
+0 nuclear young embryos
+0 AGL15 young embryos
+0 vegetative phase nuclear
+21 AGL15 vegetative phase
+0 AGL15 nuclear
+0 reproductive phase meristematic cells
+0 reproductive phase apex of the inflorescence
+18 reproductive phase AGL15 promoter
+0 reproductive phase AGL15
+0 reproductive phase meristematic cells at the apex of the inflorescence
+0 reproductive phase meristematic cells at the apex of the inflorescence
+0 meristematic cells apex of the inflorescence
+0 AGL15 promoter meristematic cells
+0 AGL15 meristematic cells
+0 meristematic cells at the apex of the inflorescence
+0 meristematic cells at the apex of the inflorescence
+0 AGL15 promoter apex of the inflorescence
+0 AGL15 apex of the inflorescence
+0 meristematic cells at the apex of the inflorescence
+0 meristematic cells at the apex of the inflorescence
+0 AGL15 promoter
+18 AGL15 promoter meristematic cells at the apex of the inflorescence
+0 AGL15 promoter meristematic cells at the apex of the inflorescence
+0 AGL15 meristematic cells at the apex of the inflorescence
+0 AGL15 meristematic cells at the apex of the inflorescence
+0 meristematic cells at the apex of the inflorescence
+0 AGL15 floral MADS box genes
+0 AGL15 reproductive phase
+20 AGL15 AGL8
+0 AGL15 transition to flowering
+20 AGL15 AP1
+0 AGL15 FRUITFULL
+0 floral MADS box genes reproductive phase
+1 floral MADS box genes AGL8
+0 floral MADS box genes transition to flowering
+1 floral MADS box genes AP1
+0 floral MADS box genes FRUITFULL
+18 AGL8 reproductive phase
+0 reproductive phase transition to flowering
+18 AP1 reproductive phase
+0 FRUITFULL reproductive phase
+18 AGL8 transition to flowering
+0 AP1 AGL8
+20 FRUITFULL AGL8
+18 AP1 transition to flowering
+0 FRUITFULL transition to flowering
+0 AP1 FRUITFULL
+20 AGL15 FLOWERING LOCUS C
+0 AGL15 MADS box
+18 AGL15 transition to flowering
+17 AGL15 flowering
+1 MADS box FLOWERING LOCUS C
+18 FLOWERING LOCUS C transition to flowering
+17 FLOWERING LOCUS C flowering
+0 MADS box transition to flowering
+0 MADS box flowering
+0 flowering transition to flowering
+18 reproductive phase AGL15 promoter
+0 AGL15 promoter
+18 AGL15 promoter young immature cells
+0 reproductive phase AGL15
+0 reproductive phase young immature cells
+0 AGL15 young immature cells
+0 Cell maturation leaves
+0 floral organs leaves
+0 Cell maturation floral organs
+0 primordia base of the maturing organs
+0 AGL15 base of the maturing organs
+0 young organ primordia base of the maturing organs
+0 floral organs base of the maturing organs
+18 AGL15 promoter base of the maturing organs
+0 leaves base of the maturing organs
+0 AGL15 primordia
+0 young organ primordia
+0 floral organs primordia
+0 AGL15 promoter primordia
+0 leaves primordia
+0 AGL15 young organ primordia
+0 floral organs AGL15
+0 AGL15 promoter
+0 leaves AGL15
+0 floral organs young organ primordia
+18 AGL15 promoter young organ primordia
+0 leaves young organ primordia
+0 floral organs AGL15 promoter
+0 leaves floral organs
+0 leaves AGL15 promoter
+0 juvenile stage of the vegetative phase floral organs
+0 AGL15 promoter activity and mRNA floral organs
+0 AGL15 promoter floral organs
+0 young vegetative organs floral organs
+0 shoot apical meristems floral organs
+10 AGL15 floral organs
+0 AGL15 floral organs
+0 AGL15 promoter activity and mRNA juvenile stage of the vegetative phase
+0 AGL15 promoter juvenile stage of the vegetative phase
+0 young vegetative organs juvenile stage of the vegetative phase
+0 shoot apical meristems juvenile stage of the vegetative phase
+0 AGL15 juvenile stage of the vegetative phase
+0 AGL15 juvenile stage of the vegetative phase
+0 AGL15 promoter activity and mRNA
+0 AGL15 promoter activity and mRNA young vegetative organs
+0 AGL15 promoter activity and mRNA shoot apical meristems
+0 AGL15 promoter activity and mRNA AGL15
+0 AGL15 promoter activity and mRNA
+0 AGL15 promoter young vegetative organs
+0 AGL15 promoter shoot apical meristems
+0 AGL15 promoter AGL15
+0 AGL15 promoter
+0 shoot apical meristems young vegetative organs
+10 AGL15 young vegetative organs
+0 AGL15 young vegetative organs
+10 AGL15 shoot apical meristems
+0 AGL15 shoot apical meristems
+0 AGL15 AGL15
+0 transgenic plants that express AGL15 under the control of a heterologous promoter
+0 AGL15 Constitutive Expression AGL15
+0 AGL15 AGL15
+0 constitutive expression of AGL15 AGL15
+0 AGL15 AGL15
+0 transgenic Arabidopsis plants carrying CaMV 35S promoter and AGL15
+0 CaMV 35S promoter AGL15
+0 AGL15 Constitutive Expression
+0 AGL15 Constitutive Expression constitutive expression of AGL15
+0 AGL15 Constitutive Expression AGL15
+0 AGL15 Constitutive Expression transgenic Arabidopsis plants carrying CaMV 35S promoter and AGL15
+0 AGL15 Constitutive Expression CaMV 35S promoter
+0 AGL15 constitutive expression of AGL15
+0 AGL15 AGL15
+0 AGL15 transgenic Arabidopsis plants carrying CaMV 35S promoter and AGL15
+0 AGL15 CaMV 35S promoter
+0 constitutive expression of AGL15
+0 constitutive expression of AGL15 transgenic Arabidopsis plants carrying CaMV 35S promoter and AGL15
+0 constitutive expression of AGL15 CaMV 35S promoter
+0 AGL15 transgenic Arabidopsis plants carrying CaMV 35S promoter and AGL15
+0 AGL15 CaMV 35S promoter
+0 transgenic Arabidopsis plants carrying CaMV 35S promoter and AGL15
+0 seed ABA
+0 ABA - inducible gene expression
+0 ABI ABA
+0 seed - specific and / or ABA - inducible gene expression
+0 abscisic acid - insensitive ABA
+0 abscisic acid ABA
+0 Arabidopsis thaliana ABA
+0 seed ABA - inducible gene expression
+0 ABI seed
+0 seed - specific and / or ABA - inducible gene expression
+0 abscisic acid - insensitive seed
+0 abscisic acid seed
+0 Arabidopsis thaliana seed
+6 ABI ABA - inducible gene expression
+0 seed - specific and / or ABA - inducible gene expression
+0 abscisic acid - insensitive ABA - inducible gene expression
+0 abscisic acid ABA - inducible gene expression
+6 Arabidopsis thaliana ABA - inducible gene expression
+6 ABI seed - specific and / or ABA - inducible gene expression
+4 abscisic acid - insensitive ABI
+0 abscisic acid ABI
+14 Arabidopsis thaliana ABI
+0 abscisic acid - insensitive seed - specific and / or ABA - inducible gene expression
+0 abscisic acid seed - specific and / or ABA - inducible gene expression
+6 Arabidopsis thaliana seed - specific and / or ABA - inducible gene expression
+0 abscisic acid - insensitive
+0 Arabidopsis thaliana abscisic acid - insensitive
+0 Arabidopsis thaliana abscisic acid
+9 ABI3 ABI5
+0 ABI3 ABI5
+0 ABI5 ABI5
+1 ABI3 ABI3 / VP1 family
+0 ABI3 ABI3
+0 ABI3 ABI3
+5 B1 domain ABI3
+0 ABI3 VP1
+0 ABI3 / VP1 family
+0 ABI3 / VP1 family
+5 B1 domain ABI3 / VP1 family
+0 ABI3 / VP1 family
+0 ABI3
+0 B1 domain ABI3
+0 ABI3 VP1
+0 B1 domain ABI3
+0 ABI3 VP1
+0 B1 domain VP1
+0 ABI5 ABI3
+9 ABI5 domains ABI3
+0 ABI5 domains
+0 Yeast one-hybrid lacZ
+0 lacZ AtEm6 promoter
+0 lacZ late embryogenesis
+0 lacZ ABI5
+0 lacZ AtEm6
+9 Yeast one-hybrid AtEm6 promoter
+0 Yeast one-hybrid late embryogenesis
+9 Yeast one-hybrid ABI5
+0 Yeast one-hybrid AtEm6
+18 late embryogenesis AtEm6 promoter
+13 AtEm6 promoter ABI5
+0 AtEm6 promoter
+0 late embryogenesis ABI5
+0 late embryogenesis AtEm6
+0 AtEm6 ABI5
+0 ABA - inducible gene expression
+6 Arabidopsis ABA - inducible gene expression
+0 germination ABA - inducible gene expression
+0 ABA ABA - inducible gene expression
+6 ABI ABA - inducible gene expression
+0 ABA insensitive ABA - inducible gene expression
+0 Arabidopsis ABA
+0 germination ABA
+0 ABA ABA
+0 ABI ABA
+0 ABA insensitive ABA
+17 Arabidopsis germination
+0 ABA Arabidopsis
+14 ABI Arabidopsis
+0 ABA insensitive Arabidopsis
+0 ABA germination
+17 ABI germination
+0 ABA insensitive germination
+0 ABA ABI
+0 ABA insensitive
+4 ABA insensitive ABI
+0 ABIs yeast two-hybrid
+1 ABI4 ABIs
+1 ABI5 ABIs
+0 ABI4 yeast two-hybrid
+0 ABI5 yeast two-hybrid
+0 ABI4 ABI5
+0 transcription - activation domain of GAL4
+0 ABI transcription - activation domain of GAL4
+0 DNA - binding domain or the transcription - activation domain of GAL4
+0 ABI GAL4
+0 DNA - binding domain or the transcription - activation domain of GAL4
+0 ABI DNA - binding domain or the transcription - activation domain of GAL4
+0 ABI GAL4 domains
+0 ABI GAL4
+0 ABI GAL4 - responsive promoter
+0 ABI GAL4
+0 ABI β - galactosidase gene
+0 GAL4 domains GAL4
+0 GAL4 domains GAL4 - responsive promoter
+0 GAL4 domains
+0 GAL4 domains β - galactosidase gene
+0 GAL4 - responsive promoter
+0 GAL4 GAL4
+0 β - galactosidase gene GAL4
+0 GAL4 GAL4 - responsive promoter
+0 β - galactosidase gene GAL4 - responsive promoter
+0 GAL4 β - galactosidase gene
+0 ABI4 activation domain
+0 GAL4 - binding domain activation domain
+0 GAL4 - binding domain ( BD ) - ABI4 activation domain
+0 ABI4 activation domain
+0 GAL4 activation domain
+0 ABI4 activation domain
+0 slightly truncated form of ABI4 activation domain
+0 GAL4 - binding domain ABI4
+0 GAL4 - binding domain ( BD ) - ABI4 ABI4
+0 ABI4 ABI4
+0 GAL4 ABI4
+0 ABI4 ABI4
+0 slightly truncated form of ABI4 ABI4
+5 GAL4 - binding domain ( BD ) - ABI4
+0 GAL4 - binding domain ABI4
+5 GAL4 - binding domain
+0 GAL4 - binding domain ABI4
+0 GAL4 - binding domain slightly truncated form of ABI4
+0 GAL4 - binding domain ( BD ) - ABI4
+0 GAL4 - binding domain ( BD ) - ABI4
+0 GAL4 - binding domain ( BD ) - ABI4 ABI4
+0 GAL4 - binding domain ( BD ) - ABI4 slightly truncated form of ABI4
+0 GAL4 ABI4
+0 ABI4 ABI4
+0 ABI4 slightly truncated form of ABI4
+0 GAL4 ABI4
+0 GAL4 slightly truncated form of ABI4
+0 slightly truncated form of ABI4
+5 GAL4 - BD
+0 BD - ABI5 ABI5
+0 ABI5 ABI5
+0 BD - ABI5
+0 GAL4 GAL4 - AD
+5 GAL4 - BD
+0 GAL4 GAL4
+0 GAL4 ABIs
+0 GAL4 - BD GAL4 - AD
+5 GAL4 - AD
+0 GAL4 - AD ABIs
+0 GAL4 - BD GAL4
+0 GAL4 - BD ABIs
+0 GAL4 ABIs
+0 ABI4 ABI5
+9 ABI4 ABI5
+9 ABI1 ABI5
+0 ABI5 ABI5
+0 ABI5 ABI5
+0 ABI5 ABI3
+0 ABI5 ABI3
+9 ABI4 ABI4
+9 ABI1 ABI4
+0 ABI4 ABI5
+0 ABI4 ABI5
+0 ABI4 ABI3
+0 ABI4 ABI3
+0 ABI1 ABI4
+0 ABI4 ABI5
+0 ABI4 ABI5
+0 ABI4 ABI3
+0 ABI4 ABI3
+0 ABI1 ABI5
+0 ABI1 ABI5
+0 ABI1 ABI3
+0 ABI1 ABI3
+9 ABI5 ABI5
+9 ABI3 ABI5
+0 ABI3 ABI5
+0 ABI3 ABI5
+0 ABI3 ABI5
+0 ABI3
+0 BD - ABI5
+0 GAL4 BD - ABI5
+0 pGBD BD - ABI5
+0 yeast BD - ABI5
+0 GAL4 - AD BD - ABI5
+0 GAL4 BD - ABI5
+0 pGAD BD - ABI5
+0 GAL4 - AD BD - ABI5
+0 GAL4 BD - ABI5
+0 ABIs BD - ABI5
+0 GAL4 - BD BD - ABI5
+0 β - galactosidase BD - ABI5
+0 ABI proteins BD - ABI5
+0 ABI5 BD - ABI5
+0 GAL4 BD - ABI5
+0 ABI4 BD - ABI5
+0 BD - ABI4 BD - ABI5
+0 GAL4 - BD BD - ABI5
+4 GAL4 - BD - ABI5 BD - ABI5
+0 GAL4 - BD BD - ABI5
+0 GAL4 - BD - ABI4 BD - ABI5
+0 ABI4 BD - ABI5
+0 GAL4 BD - ABI5
+0 GAL4 ABI5
+0 pGBD ABI5
+0 yeast ABI5
+0 GAL4 - AD ABI5
+0 GAL4 ABI5
+0 pGAD ABI5
+0 GAL4 - AD ABI5
+0 GAL4 ABI5
+0 ABIs ABI5
+0 GAL4 - BD ABI5
+0 β - galactosidase ABI5
+0 ABI proteins ABI5
+0 ABI5 ABI5
+0 GAL4 ABI5
+0 ABI4 ABI5
+0 BD - ABI4 ABI5
+0 GAL4 - BD ABI5
+0 GAL4 - BD - ABI5 ABI5
+0 GAL4 - BD ABI5
+0 GAL4 - BD - ABI4 ABI5
+0 ABI4 ABI5
+0 GAL4 ABI5
+0 GAL4 pGBD
+0 yeast GAL4
+0 GAL4 - AD GAL4
+0 GAL4 GAL4
+0 pGAD GAL4
+0 GAL4 - AD GAL4
+0 GAL4 GAL4
+0 ABIs GAL4
+5 GAL4 - BD
+0 β - galactosidase GAL4
+0 ABI proteins GAL4
+0 GAL4 ABI5
+0 GAL4 GAL4
+0 GAL4 ABI4
+0 GAL4 BD - ABI4
+0 GAL4 GAL4 - BD
+0 GAL4 GAL4 - BD - ABI5
+0 GAL4 GAL4 - BD
+0 GAL4 GAL4 - BD - ABI4
+0 GAL4 ABI4
+0 GAL4 GAL4
+0 yeast pGBD
+0 GAL4 - AD pGBD
+0 GAL4 pGBD
+0 pGAD pGBD
+0 GAL4 - AD pGBD
+0 GAL4 pGBD
+0 ABIs pGBD
+16 GAL4 - BD pGBD
+0 β - galactosidase pGBD
+0 ABI proteins pGBD
+0 pGBD ABI5
+0 pGBD GAL4
+0 pGBD ABI4
+0 pGBD BD - ABI4
+0 pGBD GAL4 - BD
+0 pGBD GAL4 - BD - ABI5
+0 pGBD GAL4 - BD
+0 pGBD GAL4 - BD - ABI4
+0 pGBD ABI4
+0 pGBD GAL4
+0 yeast GAL4 - AD
+0 yeast GAL4
+0 yeast pGAD
+0 yeast GAL4 - AD
+0 yeast GAL4
+0 yeast ABIs
+0 yeast GAL4 - BD
+0 β - galactosidase yeast
+0 ABI proteins yeast
+0 yeast ABI5
+0 yeast GAL4
+0 yeast ABI4
+0 yeast BD - ABI4
+0 yeast GAL4 - BD
+0 yeast GAL4 - BD - ABI5
+0 yeast GAL4 - BD
+0 yeast GAL4 - BD - ABI4
+0 yeast ABI4
+0 yeast GAL4
+5 GAL4 - AD
+16 GAL4 - AD pGAD
+0 GAL4 - AD GAL4 - AD
+0 GAL4 - AD GAL4
+0 GAL4 - AD ABIs
+0 GAL4 - AD GAL4 - BD
+0 β - galactosidase GAL4 - AD
+0 ABI proteins GAL4 - AD
+0 GAL4 - AD ABI5
+0 GAL4 - AD GAL4
+0 GAL4 - AD ABI4
+0 GAL4 - AD BD - ABI4
+0 GAL4 - AD GAL4 - BD
+0 GAL4 - AD GAL4 - BD - ABI5
+0 GAL4 - AD GAL4 - BD
+0 GAL4 - AD GAL4 - BD - ABI4
+0 GAL4 - AD ABI4
+0 GAL4 - AD GAL4
+0 GAL4 pGAD
+0 GAL4 GAL4 - AD
+0 GAL4 GAL4
+0 GAL4 ABIs
+0 GAL4 GAL4 - BD
+0 β - galactosidase GAL4
+0 ABI proteins GAL4
+0 GAL4 ABI5
+0 GAL4 GAL4
+0 GAL4 ABI4
+0 GAL4 BD - ABI4
+0 GAL4 GAL4 - BD
+0 GAL4 GAL4 - BD - ABI5
+0 GAL4 GAL4 - BD
+0 GAL4 GAL4 - BD - ABI4
+0 GAL4 ABI4
+0 GAL4 GAL4
+0 pGAD GAL4 - AD
+0 pGAD GAL4
+0 pGAD ABIs
+0 pGAD GAL4 - BD
+0 β - galactosidase pGAD
+0 ABI proteins pGAD
+0 pGAD ABI5
+0 pGAD GAL4
+0 pGAD ABI4
+0 pGAD BD - ABI4
+0 pGAD GAL4 - BD
+0 pGAD GAL4 - BD - ABI5
+0 pGAD GAL4 - BD
+0 pGAD GAL4 - BD - ABI4
+0 pGAD ABI4
+0 pGAD GAL4
+5 GAL4 - AD
+0 GAL4 - AD ABIs
+0 GAL4 - AD GAL4 - BD
+0 β - galactosidase GAL4 - AD
+0 ABI proteins GAL4 - AD
+0 GAL4 - AD ABI5
+0 GAL4 - AD GAL4
+0 GAL4 - AD ABI4
+0 GAL4 - AD BD - ABI4
+0 GAL4 - AD GAL4 - BD
+0 GAL4 - AD GAL4 - BD - ABI5
+0 GAL4 - AD GAL4 - BD
+0 GAL4 - AD GAL4 - BD - ABI4
+0 GAL4 - AD ABI4
+0 GAL4 - AD GAL4
+0 GAL4 ABIs
+0 GAL4 GAL4 - BD
+0 β - galactosidase GAL4
+0 ABI proteins GAL4
+0 GAL4 ABI5
+0 GAL4 GAL4
+0 GAL4 ABI4
+0 GAL4 BD - ABI4
+0 GAL4 GAL4 - BD
+0 GAL4 GAL4 - BD - ABI5
+0 GAL4 GAL4 - BD
+0 GAL4 GAL4 - BD - ABI4
+0 GAL4 ABI4
+0 GAL4 GAL4
+0 ABIs GAL4 - BD
+0 β - galactosidase ABIs
+0 ABI proteins ABIs
+0 ABIs ABI5
+0 ABIs GAL4
+0 ABIs ABI4
+0 ABIs BD - ABI4
+0 ABIs GAL4 - BD
+0 ABIs GAL4 - BD - ABI5
+0 ABIs GAL4 - BD
+0 ABIs GAL4 - BD - ABI4
+0 ABIs ABI4
+0 ABIs GAL4
+0 β - galactosidase GAL4 - BD
+0 ABI proteins GAL4 - BD
+0 GAL4 - BD ABI5
+0 GAL4 - BD GAL4
+0 GAL4 - BD ABI4
+0 GAL4 - BD BD - ABI4
+0 GAL4 - BD GAL4 - BD
+0 GAL4 - BD GAL4 - BD - ABI5
+0 GAL4 - BD GAL4 - BD
+0 GAL4 - BD GAL4 - BD - ABI4
+0 GAL4 - BD ABI4
+0 GAL4 - BD GAL4
+0 ABI proteins β - galactosidase
+0 β - galactosidase ABI5
+0 β - galactosidase GAL4
+0 β - galactosidase ABI4
+0 β - galactosidase BD - ABI4
+0 β - galactosidase GAL4 - BD
+0 β - galactosidase GAL4 - BD - ABI5
+0 β - galactosidase GAL4 - BD
+0 β - galactosidase GAL4 - BD - ABI4
+0 β - galactosidase ABI4
+0 β - galactosidase GAL4
+0 ABI proteins ABI5
+0 ABI proteins GAL4
+0 ABI proteins ABI4
+0 ABI proteins BD - ABI4
+0 ABI proteins GAL4 - BD
+0 ABI proteins GAL4 - BD - ABI5
+0 ABI proteins GAL4 - BD
+0 ABI proteins GAL4 - BD - ABI4
+0 ABI proteins ABI4
+0 ABI proteins GAL4
+0 GAL4 ABI5
+0 ABI4 ABI5
+0 BD - ABI4 ABI5
+0 GAL4 - BD ABI5
+0 GAL4 - BD - ABI5
+0 GAL4 - BD ABI5
+0 GAL4 - BD - ABI4 ABI5
+0 ABI4 ABI5
+0 GAL4 ABI5
+0 ABI4 GAL4
+0 BD - ABI4 GAL4
+5 GAL4 - BD
+0 GAL4 - BD - ABI5
+0 GAL4 - BD GAL4
+0 GAL4 - BD - ABI4 GAL4
+0 ABI4 GAL4
+0 GAL4 GAL4
+0 BD - ABI4
+0 ABI4 GAL4 - BD
+0 ABI4 GAL4 - BD - ABI5
+0 GAL4 - BD ABI4
+0 GAL4 - BD - ABI4 ABI4
+0 ABI4 ABI4
+0 GAL4 ABI4
+0 BD - ABI4 GAL4 - BD
+0 BD - ABI4 GAL4 - BD - ABI5
+0 GAL4 - BD BD - ABI4
+4 GAL4 - BD - ABI4 BD - ABI4
+0 ABI4 BD - ABI4
+0 GAL4 BD - ABI4
+5 GAL4 - BD - ABI5
+0 GAL4 - BD GAL4 - BD
+0 GAL4 - BD - ABI4 GAL4 - BD
+0 ABI4 GAL4 - BD
+0 GAL4 GAL4 - BD
+0 GAL4 - BD GAL4 - BD - ABI5
+0 GAL4 - BD - ABI4 GAL4 - BD - ABI5
+0 ABI4 GAL4 - BD - ABI5
+0 GAL4 GAL4 - BD - ABI5
+5 GAL4 - BD - ABI4
+0 GAL4 - BD ABI4
+5 GAL4 - BD
+0 GAL4 - BD - ABI4
+0 GAL4 - BD - ABI4
+0 GAL4 ABI4
+13 ABI4 ABIs
+0 ABI4 AD - ABIs
+0 AP2 domain
+0 early and late during embryo development
+0 LEAFY COTYLEDON2 early and late during embryo development
+17 LEC2 early and late during embryo development
+17 Arabidopsis early and late during embryo development
+0 LEAFY COTYLEDON2 late during embryo development
+17 LEC2 late during embryo development
+17 Arabidopsis late during embryo development
+4 LEAFY COTYLEDON2 LEC2
+0 Arabidopsis LEAFY COTYLEDON2
+14 Arabidopsis LEC2
+0 suspensor specification of cotyledon identity
+0 LEC2 suspensor
+0 maintenance of suspensor morphology
+0 suspensor premature germination
+0 suspensor germination
+0 suspensor cotyledon identity
+0 suspensor cotyledon
+0 suspensor progression through the maturation phase
+0 suspensor maturation phase
+6 LEC2 specification of cotyledon identity
+0 maintenance of suspensor morphology specification of cotyledon identity
+0 specification of cotyledon identity premature germination
+0 specification of cotyledon identity germination
+0 specification of cotyledon identity
+0 specification of cotyledon identity
+0 specification of cotyledon identity progression through the maturation phase
+0 specification of cotyledon identity maturation phase
+6 LEC2 maintenance of suspensor morphology
+6 LEC2 premature germination
+0 LEC2 germination
+0 LEC2 cotyledon identity
+0 LEC2 cotyledon
+6 LEC2 progression through the maturation phase
+0 LEC2 maturation phase
+0 maintenance of suspensor morphology premature germination
+0 maintenance of suspensor morphology germination
+0 maintenance of suspensor morphology cotyledon identity
+0 maintenance of suspensor morphology cotyledon
+0 maintenance of suspensor morphology progression through the maturation phase
+0 maintenance of suspensor morphology maturation phase
+0 premature germination
+0 cotyledon identity premature germination
+0 cotyledon premature germination
+0 progression through the maturation phase premature germination
+0 maturation phase premature germination
+0 cotyledon identity germination
+0 cotyledon germination
+0 progression through the maturation phase germination
+0 maturation phase germination
+0 cotyledon identity
+0 cotyledon identity progression through the maturation phase
+0 cotyledon identity maturation phase
+0 cotyledon progression through the maturation phase
+0 cotyledon maturation phase
+0 progression through the maturation phase
+16 LEC2 B3 domain
+14 LEC2 plants
+14 B3 domain plants
+0 LEC2 developing seeds
+0 seed development developing seeds
+0 B3 domain developing seeds
+0 B3 domain transcription factors developing seeds
+0 developing seeds VIVIPAROUS1
+0 LEC2 RNA developing seeds
+3 developing seeds FUSCA3
+3 developing seeds ABA INSENSITIVE3
+0 seed development LEC2
+0 LEC2 B3 domain
+1 LEC2 B3 domain transcription factors
+0 LEC2 VIVIPAROUS1
+0 LEC2 RNA LEC2
+0 LEC2 FUSCA3
+0 LEC2 ABA INSENSITIVE3
+0 seed development B3 domain
+0 seed development B3 domain transcription factors
+0 seed development VIVIPAROUS1
+21 LEC2 RNA seed development
+0 seed development FUSCA3
+0 seed development ABA INSENSITIVE3
+0 B3 domain transcription factors
+0 B3 domain VIVIPAROUS1
+0 LEC2 RNA B3 domain
+0 B3 domain FUSCA3
+0 B3 domain ABA INSENSITIVE3
+1 B3 domain transcription factors VIVIPAROUS1
+0 LEC2 RNA B3 domain transcription factors
+1 B3 domain transcription factors FUSCA3
+1 B3 domain transcription factors ABA INSENSITIVE3
+0 LEC2 RNA VIVIPAROUS1
+0 VIVIPAROUS1 FUSCA3
+20 VIVIPAROUS1 ABA INSENSITIVE3
+0 LEC2 RNA FUSCA3
+0 LEC2 RNA ABA INSENSITIVE3
+0 ABA INSENSITIVE3 FUSCA3
+0 Ectopic , postembryonic expression of LEC2 in transgenic plants
+0 postembryonic seedlings
+0 postembryonic organ - like structures
+0 postembryonic confers embryonic characteristics to seedlings
+0 postembryonic formation of somatic embryos and other organ - like structures
+0 postembryonic somatic embryos
+0 postembryonic LEC2
+0 postembryonic formation of somatic embryos
+0 Ectopic , postembryonic expression of LEC2 in transgenic plants seedlings
+0 Ectopic , postembryonic expression of LEC2 in transgenic plants organ - like structures
+6 Ectopic , postembryonic expression of LEC2 in transgenic plants confers embryonic characteristics to seedlings
+6 Ectopic , postembryonic expression of LEC2 in transgenic plants formation of somatic embryos and other organ - like structures
+0 Ectopic , postembryonic expression of LEC2 in transgenic plants somatic embryos
+0 Ectopic , postembryonic expression of LEC2 in transgenic plants
+6 Ectopic , postembryonic expression of LEC2 in transgenic plants formation of somatic embryos
+0 organ - like structures seedlings
+0 confers embryonic characteristics to seedlings
+0 formation of somatic embryos and other organ - like structures seedlings
+0 somatic embryos seedlings
+0 LEC2 seedlings
+0 formation of somatic embryos seedlings
+0 organ - like structures confers embryonic characteristics to seedlings
+0 formation of somatic embryos and other organ - like structures
+0 somatic embryos organ - like structures
+0 LEC2 organ - like structures
+0 formation of somatic embryos organ - like structures
+0 formation of somatic embryos and other organ - like structures confers embryonic characteristics to seedlings
+0 somatic embryos confers embryonic characteristics to seedlings
+0 LEC2 confers embryonic characteristics to seedlings
+0 formation of somatic embryos confers embryonic characteristics to seedlings
+0 formation of somatic embryos and other organ - like structures
+0 LEC2 formation of somatic embryos and other organ - like structures
+0 formation of somatic embryos and other organ - like structures
+0 LEC2 somatic embryos
+0 formation of somatic embryos
+0 LEC2 formation of somatic embryos
+17 LEC2 embryo development
+0 central cell female gametophyte
+0 endosperm female gametophyte
+0 zygote female gametophyte
+0 double fertilization event female gametophyte
+0 flowering plants female gametophyte
+0 central cell of the female gametophyte
+0 egg cell female gametophyte
+0 egg cell and central cell of the female gametophyte
+0 sperm cells female gametophyte
+0 Embryogenesis female gametophyte
+0 endosperm central cell
+0 zygote central cell
+0 double fertilization event central cell
+0 flowering plants central cell
+0 central cell of the female gametophyte
+0 egg cell central cell
+0 egg cell and central cell of the female gametophyte
+0 sperm cells central cell
+0 Embryogenesis central cell
+0 zygote endosperm
+0 double fertilization event endosperm
+0 flowering plants endosperm
+0 endosperm central cell of the female gametophyte
+0 endosperm egg cell
+0 endosperm egg cell and central cell of the female gametophyte
+0 endosperm sperm cells
+0 Embryogenesis endosperm
+0 double fertilization event zygote
+0 flowering plants zygote
+0 zygote central cell of the female gametophyte
+0 zygote egg cell
+0 zygote egg cell and central cell of the female gametophyte
+0 zygote sperm cells
+0 Embryogenesis zygote
+0 flowering plants double fertilization event
+0 double fertilization event central cell of the female gametophyte
+0 double fertilization event egg cell
+0 double fertilization event egg cell and central cell of the female gametophyte
+0 double fertilization event sperm cells
+0 Embryogenesis double fertilization event
+0 flowering plants central cell of the female gametophyte
+0 flowering plants egg cell
+0 flowering plants egg cell and central cell of the female gametophyte
+0 flowering plants sperm cells
+0 Embryogenesis flowering plants
+0 egg cell central cell of the female gametophyte
+0 egg cell and central cell of the female gametophyte
+0 sperm cells central cell of the female gametophyte
+0 Embryogenesis central cell of the female gametophyte
+0 egg cell and central cell of the female gametophyte
+0 sperm cells egg cell
+0 Embryogenesis egg cell
+0 sperm cells egg cell and central cell of the female gametophyte
+0 Embryogenesis egg cell and central cell of the female gametophyte
+0 Embryogenesis sperm cells
+0 endosperm syncytial development
+0 endosperm nuclear - cytoplasmic domains
+0 syncytial development nuclear - cytoplasmic domains
+0 developing embryo mature seed
+0 endosperm mature seed
+0 plants mature seed
+0 peripheral layer of the endosperm mature seed
+0 endosperm mature seed
+0 developing embryo endosperm
+0 developing embryo plants
+0 developing embryo peripheral layer of the endosperm
+0 developing embryo endosperm
+0 endosperm plants
+0 endosperm peripheral layer of the endosperm
+0 endosperm endosperm
+0 plants peripheral layer of the endosperm
+0 plants endosperm
+0 peripheral layer of the endosperm
+0 Development of the zygote into the mature embryo
+0 Development of the zygote into the mature embryo
+0 zygote mature embryo
+0 embryo formation of embryonic tissue
+0 shoot–root formation of embryonic tissue
+0 expression of polarity as a shoot–root axis formation of embryonic tissue
+0 specification of morphological domains within the embryo formation of embryonic tissue
+0 shoot–root formation of embryonic tissue
+6 plant formation of embryonic tissue
+6 early morphogenesis phase formation of embryonic tissue
+0 formation of embryonic tissue organ systems
+0 formation of embryonic tissue and organ systems
+0 formation of embryonic tissue
+0 shoot–root embryo
+0 expression of polarity as a shoot–root axis embryo
+0 specification of morphological domains within the embryo
+0 shoot–root embryo
+0 plant embryo
+0 early morphogenesis phase embryo
+0 embryo organ systems
+0 embryo formation of embryonic tissue and organ systems
+0 embryo embryonic tissue
+0 expression of polarity as a shoot–root axis
+0 shoot–root specification of morphological domains within the embryo
+0 shoot–root
+0 plant shoot–root
+0 early morphogenesis phase shoot–root
+0 shoot–root organ systems
+0 shoot–root formation of embryonic tissue and organ systems
+0 shoot–root embryonic tissue
+0 expression of polarity as a shoot–root axis specification of morphological domains within the embryo
+0 expression of polarity as a shoot–root axis
+6 plant expression of polarity as a shoot–root axis
+6 early morphogenesis phase expression of polarity as a shoot–root axis
+0 expression of polarity as a shoot–root axis organ systems
+0 expression of polarity as a shoot–root axis formation of embryonic tissue and organ systems
+0 expression of polarity as a shoot–root axis embryonic tissue
+0 shoot–root specification of morphological domains within the embryo
+6 plant specification of morphological domains within the embryo
+6 early morphogenesis phase specification of morphological domains within the embryo
+0 specification of morphological domains within the embryo organ systems
+0 specification of morphological domains within the embryo formation of embryonic tissue and organ systems
+0 specification of morphological domains within the embryo embryonic tissue
+0 plant shoot–root
+0 early morphogenesis phase shoot–root
+0 shoot–root organ systems
+0 shoot–root formation of embryonic tissue and organ systems
+0 shoot–root embryonic tissue
+0 early morphogenesis phase plant
+0 plant organ systems
+6 plant formation of embryonic tissue and organ systems
+0 plant embryonic tissue
+0 early morphogenesis phase organ systems
+6 early morphogenesis phase formation of embryonic tissue and organ systems
+0 early morphogenesis phase embryonic tissue
+0 formation of embryonic tissue and organ systems
+0 embryonic tissue organ systems
+0 formation of embryonic tissue and organ systems
+0 morphogenesis phase seed
+0 morphogenesis phase period of maturation
+0 morphogenesis phase seed formation
+0 period of maturation seed
+0 seed formation
+0 period of maturation seed formation
+6 storage proteins and lipids seed
+0 storage proteins and lipids
+6 storage proteins seed
+6 ability to withstand desiccation final stage of seed development
+0 embryo final stage of seed development
+0 maturation phase final stage of seed development
+6 embryo ability to withstand desiccation
+0 maturation phase ability to withstand desiccation
+0 maturation phase embryo
+0 seed desiccated embryo
+0 embryogenesis desiccated embryo
+0 end of embryogenesis desiccated embryo
+0 embryogenesis seed
+0 end of embryogenesis seed
+0 end of embryogenesis
+0 embryo development
+0 embryogenesis embryo
+0 embryogenesis embryo development
+0 embryo development
+17 LEC1 embryo development
+17 LEC2 embryo development
+17 FUSCA3 embryo development
+0 FUS3 embryo development
+0 Arabidopsis embryo development
+0 LEAFY COTYLEDON embryo development
+17 LEC embryo development
+0 LEC1 embryo
+0 LEC2 embryo
+0 FUSCA3 embryo
+0 FUS3 embryo
+0 Arabidopsis embryo
+0 LEAFY COTYLEDON embryo
+0 LEC embryo
+0 LEC1 LEC2
+0 LEC1 FUSCA3
+0 LEC1 FUS3
+0 Arabidopsis LEC1
+0 LEAFY COTYLEDON LEC1
+1 LEC LEC1
+0 LEC2 FUSCA3
+0 LEC2 FUS3
+0 Arabidopsis LEC2
+0 LEAFY COTYLEDON LEC2
+1 LEC LEC2
+4 FUSCA3 FUS3
+0 Arabidopsis FUSCA3
+0 LEAFY COTYLEDON FUSCA3
+0 LEC FUSCA3
+0 Arabidopsis FUS3
+0 LEAFY COTYLEDON FUS3
+1 LEC FUS3
+0 Arabidopsis LEAFY COTYLEDON
+0 Arabidopsis LEC
+4 LEAFY COTYLEDON LEC
+0 embryogenesis LEC
+18 LEC morphogenesis
+6 LEC normal development
+18 LEC maturation phases
+0 embryogenesis morphogenesis
+0 embryogenesis normal development
+0 embryogenesis maturation phases
+6 normal development morphogenesis
+0 morphogenesis maturation phases
+6 normal development maturation phases
+0 suspensor cell fate cotyledon identity
+0 Early in embryogenesis cotyledon identity
+17 LEC cotyledon identity
+0 embryogenesis cotyledon identity
+6 Early in embryogenesis suspensor cell fate
+6 LEC suspensor cell fate
+0 embryogenesis suspensor cell fate
+18 Early in embryogenesis LEC
+0 Early in embryogenesis
+0 embryogenesis LEC
+0 acquisition of desiccation tolerance
+6 LEC acquisition of desiccation tolerance
+6 maturation phase acquisition of desiccation tolerance
+0 Late in embryogenesis acquisition of desiccation tolerance
+0 embryogenesis acquisition of desiccation tolerance
+0 LEC desiccation tolerance
+0 maturation phase desiccation tolerance
+0 Late in embryogenesis desiccation tolerance
+0 embryogenesis desiccation tolerance
+18 LEC maturation phase
+0 Late in embryogenesis LEC
+0 embryogenesis LEC
+0 Late in embryogenesis maturation phase
+0 embryogenesis maturation phase
+0 Late in embryogenesis
+0 maturation germination
+0 maturation prematurely activate the postgermination program
+0 maturation lec
+0 maturation embryos
+0 germination prematurely activate the postgermination program
+0 germination lec
+0 germination embryos
+6 lec prematurely activate the postgermination program
+6 embryos prematurely activate the postgermination program
+0 lec embryos
+0 embryogenesis morphogenesis
+17 LEC morphogenesis
+0 morphogenesis maturation phases
+17 LEC embryogenesis
+0 embryogenesis maturation phases
+17 LEC maturation phases
+17 LEC embryogenesis
+0 HAP3 subunit of CCAAT - binding transcription factor
+0 HAP3 subunit CCAAT - binding transcription factor
+0 HAP3 subunit CCAAT
+0 HAP3 subunit LEC1
+0 LEC1 HAP3 subunit
+0 HAP3 subunit of CCAAT - binding transcription factor
+0 HAP3 subunit of CCAAT - binding transcription factor
+0 HAP3 subunit of CCAAT - binding transcription factor LEC1
+1 LEC1 HAP3 subunit of CCAAT - binding transcription factor
+0 CCAAT - binding transcription factor
+0 CCAAT - binding transcription factor LEC1
+0 LEC1 CCAAT - binding transcription factor
+0 CCAAT LEC1
+0 LEC1 CCAAT
+0 LEC1 LEC1
+0 embryo - like structures on the surfaces of leaves
+0 embryo - like structures on the surfaces of leaves
+0 embryo - like structures on the surfaces of leaves embryogenic competence to cells
+0 Ectopic expression of LEC1 embryo - like structures on the surfaces of leaves
+0 LEC1 embryo - like structures on the surfaces of leaves
+0 embryonic characteristics to seedlings embryo - like structures on the surfaces of leaves
+0 seedlings embryo - like structures on the surfaces of leaves
+0 formation of embryo - like structures on the surfaces of leaves
+0 embryo - like structures on the surfaces of leaves cells
+0 embryo - like structures leaves
+0 embryo - like structures embryogenic competence to cells
+0 Ectopic expression of LEC1 embryo - like structures
+0 LEC1 embryo - like structures
+0 embryonic characteristics to seedlings embryo - like structures
+0 seedlings embryo - like structures
+0 formation of embryo - like structures on the surfaces of leaves
+0 embryo - like structures cells
+0 leaves embryogenic competence to cells
+0 Ectopic expression of LEC1 leaves
+0 LEC1 leaves
+0 embryonic characteristics to seedlings leaves
+0 seedlings leaves
+0 formation of embryo - like structures on the surfaces of leaves
+0 leaves cells
+0 Ectopic expression of LEC1 embryogenic competence to cells
+6 LEC1 embryogenic competence to cells
+0 embryonic characteristics to seedlings embryogenic competence to cells
+0 seedlings embryogenic competence to cells
+0 formation of embryo - like structures on the surfaces of leaves embryogenic competence to cells
+0 embryogenic competence to cells
+0 Ectopic expression of LEC1
+6 Ectopic expression of LEC1 embryonic characteristics to seedlings
+0 Ectopic expression of LEC1 seedlings
+6 Ectopic expression of LEC1 formation of embryo - like structures on the surfaces of leaves
+0 Ectopic expression of LEC1 cells
+0 LEC1 embryonic characteristics to seedlings
+0 LEC1 seedlings
+0 LEC1 formation of embryo - like structures on the surfaces of leaves
+0 LEC1 cells
+0 embryonic characteristics to seedlings
+0 embryonic characteristics to seedlings formation of embryo - like structures on the surfaces of leaves
+0 embryonic characteristics to seedlings cells
+0 seedlings formation of embryo - like structures on the surfaces of leaves
+0 seedlings cells
+0 formation of embryo - like structures on the surfaces of leaves cells
+0 embryo development
+0 embryo maturation phases
+0 embryo morphogenesis
+0 LEC1 embryo
+0 embryo development maturation phases
+0 embryo development morphogenesis
+17 LEC1 embryo development
+0 morphogenesis maturation phases
+0 LEC1 maturation phases
+0 LEC1 morphogenesis
+0 B3 domain seed
+0 seed development
+0 B3 domain transcription factor seed
+0 FUS3 seed
+0 B3 domain seed development
+0 B3 domain transcription factor
+0 FUS3 B3 domain
+21 B3 domain transcription factor seed development
+0 FUS3 seed development
+16 FUS3 B3 domain transcription factor
+0 FUS3 maturation
+0 embryo development
+0 LEC embryo development
+0 LEC embryo
+0 LEC2 embryo development
+0 LEC2 embryo
+0 embryo development
+0 embryo development
+0 coordination of embryo development
+0 initiation and coordination of embryo development
+0 LEC2 embryo
+0 LEC2 embryo
+0 LEC1 embryo
+0 coordination of embryo development
+0 initiation and coordination of embryo development
+0 LEC2 embryo development
+0 LEC2 embryo development
+0 LEC1 embryo development
+0 initiation and coordination of embryo development
+6 LEC2 coordination of embryo development
+0 LEC2 coordination of embryo development
+0 LEC1 coordination of embryo development
+6 LEC2 initiation and coordination of embryo development
+0 LEC2 initiation and coordination of embryo development
+0 LEC1 initiation and coordination of embryo development
+0 LEC2 LEC2
+0 LEC1 LEC2
+0 LEC1 LEC2
+0 embryogenesis seed
+0 LEC2 seed
+18 LEC2 embryogenesis
+0 transgenic plants expressing the LEC2 gene ectopically
+6 transgenic plants expressing the LEC2 gene ectopically somatic embryos
+0 LEC2 somatic embryos
+6 LEC2 embryogenic competence
+5 LEC2 B3 Domain
+0 FUS3 seed development
+0 embryogenesis FUS3
+0 LEC1 FUS3
+0 B3 domain protein FUS3
+0 B3 domain FUS3
+0 LEC2 FUS3
+0 FUS3 seed
+0 embryogenesis seed development
+0 LEC1 seed development
+0 B3 domain protein seed development
+0 B3 domain seed development
+0 LEC2 seed development
+0 seed development
+0 embryogenesis LEC1
+0 B3 domain protein embryogenesis
+0 B3 domain embryogenesis
+18 LEC2 embryogenesis
+0 embryogenesis seed
+0 B3 domain protein LEC1
+0 B3 domain LEC1
+0 LEC2 LEC1
+0 LEC1 seed
+0 B3 domain protein
+16 LEC2 B3 domain protein
+0 B3 domain protein seed
+0 LEC2 B3 domain
+0 B3 domain seed
+0 LEC2 seed
+0 VP1 Arabidopsis
+0 VP1 ABI3
+5 B3 domain VP1
+0 third basic region of maize VP1
+14 maize VP1
+14 Arabidopsis ABI3
+14 B3 domain Arabidopsis
+0 third basic region of maize VP1 Arabidopsis
+0 maize Arabidopsis
+5 B3 domain ABI3
+0 third basic region of maize VP1 ABI3
+0 maize ABI3
+0 B3 domain third basic region of maize VP1
+14 B3 domain maize
+0 third basic region of maize VP1
+0 ABI3 VP1
+0 plant VP1
+0 AUXIN RESPONSE FACTOR1 VP1
+0 RELATED TO ABI3 / VP1
+0 plant ABI3
+0 AUXIN RESPONSE FACTOR1 ABI3
+0 RELATED TO ABI3 / VP1
+0 plant AUXIN RESPONSE FACTOR1
+0 plant RELATED TO ABI3 / VP1
+0 AUXIN RESPONSE FACTOR1 RELATED TO ABI3 / VP1
+5 B3 domains ABI3
+0 ABI3 FUS3
+0 ABI3 VP1
+0 ABI3 AUXIN RESPONSE FACTOR1
+5 B3 domains FUS3
+5 B3 domains VP1
+5 B3 domains AUXIN RESPONSE FACTOR1
+0 VP1 FUS3
+0 FUS3 AUXIN RESPONSE FACTOR1
+0 VP1 AUXIN RESPONSE FACTOR1
+0 ABI3 VP1
+0 B3 domain VP1
+0 VP1 VP1
+0 VP1 RELATED TO ABI3 / VP1
+0 VP1 ABI3
+0 B3 domain ABI3
+0 ABI3 VP1
+0 ABI3 RELATED TO ABI3 / VP1
+0 ABI3 ABI3
+0 B3 domain VP1
+0 B3 domain RELATED TO ABI3 / VP1
+0 B3 domain ABI3
+0 RELATED TO ABI3 / VP1
+0 ABI3 VP1
+0 RELATED TO ABI3 / VP1
+14 B3 DNA - binding domain plants
+0 Arabidopsis LEC2
+0 B3 domains Arabidopsis
+0 Arabidopsis FUS3
+0 Arabidopsis ABI3
+0 B3 domains LEC2
+0 LEC2 FUS3
+0 LEC2 ABI3
+0 B3 domains FUS3
+0 B3 domains ABI3
+0 FUS3 ABI3
+0 seed development
+0 completion of normal seed development
+0 embryogenesis seed
+0 completion of normal seed development
+0 embryogenesis seed development
+0 embryogenesis completion of normal seed development
+0 seed development
+0 LEC2 FUS3
+1 FUS3 LEAFY COTYLEDON
+17 FUS3 morphogenesis
+17 FUS3 maturation phases
+0 maturation phase FUS3
+0 ABI3 FUS3
+1 LEC2 LEAFY COTYLEDON
+17 LEC2 morphogenesis
+17 LEC2 maturation phases
+0 maturation phase LEC2
+0 ABI3 LEC2
+0 LEAFY COTYLEDON morphogenesis
+0 LEAFY COTYLEDON maturation phases
+0 maturation phase LEAFY COTYLEDON
+0 ABI3 LEAFY COTYLEDON
+0 morphogenesis maturation phases
+0 maturation phase morphogenesis
+0 ABI3 morphogenesis
+0 maturation phase maturation phases
+0 ABI3 maturation phases
+17 ABI3 maturation phase
+0 Seed Development
+0 LEC2 Seed Development
+0 LEC2 Seed
+0 embryo LEC2
+0 LEC2 embryo
+0 embryo development
+0 embryo embryogenesis
+0 LEC2 LEC2
+0 embryo development LEC2
+17 LEC2 embryogenesis
+0 LEC2 embryo development
+0 LEC2 embryogenesis
+0 embryo development embryogenesis
+6 seedlings expressing the 35S∷LEC2 gene embryonic rather than postgerminative characteristics
+0 seedlings expressing the 35S∷LEC2 gene postgerminative characteristics
+0 seedlings expressing the 35S∷LEC2 gene
+0 seedlings expressing the 35S∷LEC2 gene
+0 seedlings expressing the 35S∷LEC2 gene
+0 seedlings expressing the 35S∷LEC2 gene
+0 embryonic rather than postgerminative characteristics
+0 seedlings embryonic rather than postgerminative characteristics
+0 35S∷LEC2 embryonic rather than postgerminative characteristics
+0 35S∷LEC2 embryonic rather than postgerminative characteristics
+0 35S∷LEC2 embryonic rather than postgerminative characteristics
+0 seedlings postgerminative characteristics
+0 35S∷LEC2 postgerminative characteristics
+0 35S∷LEC2 postgerminative characteristics
+0 35S∷LEC2 postgerminative characteristics
+0 seedlings 35S∷LEC2
+0 seedlings 35S∷LEC2
+0 seedlings 35S∷LEC2
+0 35S∷LEC2
+0 35S∷LEC2
+0 35S∷LEC2
+0 extend embryonic development seedlings
+0 LEC2 extend embryonic development
+0 extend embryonic development 35S∷LEC2
+0 extend embryonic development 35S∷LEC2
+0 Cotyledons of these seedlings remained fleshy extend embryonic development
+0 Cotyledons extend embryonic development
+0 extend embryonic development 35S∷LEC2
+0 extend embryonic development wild type
+0 hypocotyls did not extend extend embryonic development
+0 roots and hypocotyls did not extend extend embryonic development
+6 ectopic LEC2 expression extend embryonic development
+0 hypocotyls extend embryonic development
+0 seedlings extend embryonic development
+0 roots extend embryonic development
+0 extend embryonic development 35S∷LEC2 seedlings
+0 extend embryonic development
+0 LEC2 seedlings
+0 35S∷LEC2 seedlings
+0 35S∷LEC2 seedlings
+0 Cotyledons of these seedlings remained fleshy seedlings
+0 Cotyledons seedlings
+0 35S∷LEC2 seedlings
+0 seedlings wild type
+0 hypocotyls did not extend seedlings
+0 roots and hypocotyls did not extend seedlings
+0 ectopic LEC2 expression seedlings
+0 hypocotyls seedlings
+0 seedlings seedlings
+0 roots seedlings
+0 35S∷LEC2 seedlings
+0 embryonic development seedlings
+0 LEC2 35S∷LEC2
+0 LEC2 35S∷LEC2
+0 Cotyledons of these seedlings remained fleshy LEC2
+0 Cotyledons LEC2
+0 LEC2 35S∷LEC2
+0 LEC2 wild type
+0 hypocotyls did not extend LEC2
+0 roots and hypocotyls did not extend LEC2
+0 ectopic LEC2 expression
+0 hypocotyls LEC2
+0 seedlings LEC2
+0 roots LEC2
+0 LEC2 35S∷LEC2 seedlings
+0 LEC2 embryonic development
+0 35S∷LEC2
+0 Cotyledons of these seedlings remained fleshy 35S∷LEC2
+0 Cotyledons 35S∷LEC2
+0 35S∷LEC2
+0 35S∷LEC2 wild type
+0 hypocotyls did not extend 35S∷LEC2
+0 roots and hypocotyls did not extend 35S∷LEC2
+0 ectopic LEC2 expression 35S∷LEC2
+0 hypocotyls 35S∷LEC2
+0 seedlings 35S∷LEC2
+0 roots 35S∷LEC2
+0 35S∷LEC2 seedlings
+0 embryonic development 35S∷LEC2
+0 Cotyledons of these seedlings remained fleshy 35S∷LEC2
+0 Cotyledons 35S∷LEC2
+0 35S∷LEC2
+0 35S∷LEC2 wild type
+0 hypocotyls did not extend 35S∷LEC2
+0 roots and hypocotyls did not extend 35S∷LEC2
+0 ectopic LEC2 expression 35S∷LEC2
+0 hypocotyls 35S∷LEC2
+0 seedlings 35S∷LEC2
+0 roots 35S∷LEC2
+0 35S∷LEC2 seedlings
+0 embryonic development 35S∷LEC2
+0 Cotyledons of these seedlings remained fleshy
+0 Cotyledons of these seedlings remained fleshy 35S∷LEC2
+0 Cotyledons of these seedlings remained fleshy wild type
+0 Cotyledons of these seedlings remained fleshy hypocotyls did not extend
+0 Cotyledons of these seedlings remained fleshy roots and hypocotyls did not extend
+0 Cotyledons of these seedlings remained fleshy ectopic LEC2 expression
+0 Cotyledons of these seedlings remained fleshy hypocotyls
+0 Cotyledons of these seedlings remained fleshy
+0 Cotyledons of these seedlings remained fleshy roots
+0 Cotyledons of these seedlings remained fleshy 35S∷LEC2 seedlings
+0 Cotyledons of these seedlings remained fleshy embryonic development
+0 Cotyledons 35S∷LEC2
+0 Cotyledons wild type
+0 Cotyledons hypocotyls did not extend
+0 Cotyledons roots and hypocotyls did not extend
+0 Cotyledons ectopic LEC2 expression
+0 Cotyledons hypocotyls
+0 Cotyledons seedlings
+0 Cotyledons roots
+0 Cotyledons 35S∷LEC2 seedlings
+0 Cotyledons embryonic development
+0 35S∷LEC2 wild type
+0 hypocotyls did not extend 35S∷LEC2
+0 roots and hypocotyls did not extend 35S∷LEC2
+0 ectopic LEC2 expression 35S∷LEC2
+0 hypocotyls 35S∷LEC2
+0 seedlings 35S∷LEC2
+0 roots 35S∷LEC2
+0 35S∷LEC2 seedlings
+0 embryonic development 35S∷LEC2
+0 hypocotyls did not extend wild type
+0 roots and hypocotyls did not extend wild type
+0 ectopic LEC2 expression wild type
+0 hypocotyls wild type
+0 seedlings wild type
+0 roots wild type
+0 35S∷LEC2 seedlings wild type
+0 embryonic development wild type
+0 roots and hypocotyls did not extend
+0 hypocotyls did not extend ectopic LEC2 expression
+0 hypocotyls did not extend
+0 seedlings hypocotyls did not extend
+0 roots hypocotyls did not extend
+0 hypocotyls did not extend 35S∷LEC2 seedlings
+0 hypocotyls did not extend embryonic development
+0 roots and hypocotyls did not extend ectopic LEC2 expression
+0 roots and hypocotyls did not extend
+0 seedlings roots and hypocotyls did not extend
+0 roots and hypocotyls did not extend
+0 roots and hypocotyls did not extend 35S∷LEC2 seedlings
+0 roots and hypocotyls did not extend embryonic development
+0 hypocotyls ectopic LEC2 expression
+0 seedlings ectopic LEC2 expression
+0 roots ectopic LEC2 expression
+0 ectopic LEC2 expression 35S∷LEC2 seedlings
+0 ectopic LEC2 expression embryonic development
+0 seedlings hypocotyls
+0 roots hypocotyls
+0 hypocotyls 35S∷LEC2 seedlings
+0 hypocotyls embryonic development
+0 seedlings roots
+0 seedlings 35S∷LEC2 seedlings
+0 seedlings embryonic development
+0 roots 35S∷LEC2 seedlings
+0 roots embryonic development
+0 embryonic development 35S∷LEC2 seedlings
+0 establishment of functional apical meristems
+0 embryo apical meristems
+0 somatic embryos apical meristems
+0 zygotic embryos apical meristems
+0 35S∷LEC2 apical meristems
+0 seedlings apical meristems
+0 35S∷LEC2 apical meristems
+0 35S∷LEC2 apical meristems
+0 35S∷LEC2 seedlings apical meristems
+0 embryo establishment of functional apical meristems
+0 somatic embryos establishment of functional apical meristems
+0 zygotic embryos establishment of functional apical meristems
+0 35S∷LEC2 establishment of functional apical meristems
+0 seedlings establishment of functional apical meristems
+0 35S∷LEC2 establishment of functional apical meristems
+0 35S∷LEC2 establishment of functional apical meristems
+0 35S∷LEC2 seedlings establishment of functional apical meristems
+0 somatic embryos embryo
+0 zygotic embryos embryo
+0 35S∷LEC2 embryo
+0 seedlings embryo
+0 35S∷LEC2 embryo
+0 35S∷LEC2 embryo
+0 35S∷LEC2 seedlings embryo
+0 somatic embryos zygotic embryos
+0 35S∷LEC2 somatic embryos
+0 seedlings somatic embryos
+0 35S∷LEC2 somatic embryos
+0 35S∷LEC2 somatic embryos
+0 35S∷LEC2 seedlings somatic embryos
+0 35S∷LEC2 zygotic embryos
+0 seedlings zygotic embryos
+0 35S∷LEC2 zygotic embryos
+0 35S∷LEC2 zygotic embryos
+0 35S∷LEC2 seedlings zygotic embryos
+0 35S∷LEC2 seedlings
+0 35S∷LEC2
+0 35S∷LEC2
+0 35S∷LEC2 seedlings
+0 35S∷LEC2 seedlings
+0 35S∷LEC2 seedlings
+0 35S∷LEC2 seedlings
+0 35S∷LEC2
+0 35S∷LEC2 seedlings
+0 35S∷LEC2 seedlings
+0 ectopic LEC2 expression somatic embryo
+6 ectopic LEC2 expression somatic embryo formation
+0 ectopic LEC2 expression
+0 somatic embryo formation
+0 LEC2 somatic embryo
+0 LEC2 somatic embryo formation
+0 somatic embryos plantlets
+0 ability of somatic embryos to “germinate”
+0 LEC2 somatic embryos
+0 LEC2 RNA somatic embryos
+0 ability of somatic embryos to “germinate” plantlets
+0 LEC2 plantlets
+0 LEC2 RNA plantlets
+0 LEC2 ability of somatic embryos to “germinate”
+0 LEC2 RNA ability of somatic embryos to “germinate”
+0 LEC2 RNA
+0 35S∷LEC2
+0 35S∷LEC2 embryo - like seedlings
+0 Transgenic seedlings ectopically expressing a different LEC gene , LEC1 35S∷LEC2
+0 seedlings 35S∷LEC2
+0 LEC 35S∷LEC2
+0 LEC1 35S∷LEC2
+0 embryonic characteristics 35S∷LEC2
+0 35S∷LEC2 embryo - like seedlings
+0 35S∷LEC2
+0 35S∷LEC2 embryo - like seedlings
+0 Transgenic seedlings ectopically expressing a different LEC gene , LEC1 35S∷LEC2
+0 seedlings 35S∷LEC2
+0 LEC 35S∷LEC2
+0 LEC1 35S∷LEC2
+0 embryonic characteristics 35S∷LEC2
+0 35S∷LEC2 embryo - like seedlings
+0 35S∷LEC2
+0 Transgenic seedlings ectopically expressing a different LEC gene , LEC1 embryo - like seedlings
+0 seedlings embryo - like seedlings
+0 LEC embryo - like seedlings
+0 LEC1 embryo - like seedlings
+0 embryonic characteristics embryo - like seedlings
+0 35S∷LEC2 embryo - like seedlings
+0 35S∷LEC2 embryo - like seedlings
+0 Transgenic seedlings ectopically expressing a different LEC gene , LEC1
+0 Transgenic seedlings ectopically expressing a different LEC gene , LEC1
+0 Transgenic seedlings ectopically expressing a different LEC gene , LEC1
+6 Transgenic seedlings ectopically expressing a different LEC gene , LEC1 embryonic characteristics
+0 Transgenic seedlings ectopically expressing a different LEC gene , LEC1 35S∷LEC2 embryo - like seedlings
+0 Transgenic seedlings ectopically expressing a different LEC gene , LEC1 35S∷LEC2
+0 seedlings LEC
+0 seedlings LEC1
+0 seedlings embryonic characteristics
+0 seedlings 35S∷LEC2 embryo - like seedlings
+0 seedlings 35S∷LEC2
+0 LEC LEC1
+0 LEC embryonic characteristics
+0 LEC 35S∷LEC2 embryo - like seedlings
+0 LEC 35S∷LEC2
+0 LEC1 embryonic characteristics
+0 LEC1 35S∷LEC2 embryo - like seedlings
+0 LEC1 35S∷LEC2
+0 embryonic characteristics 35S∷LEC2 embryo - like seedlings
+0 embryonic characteristics 35S∷LEC2
+0 35S∷LEC2 embryo - like seedlings
+0 35S∷LEC2
+0 transgenic plants 35S∷LEC2
+0 somatic embryogenesis 35S∷LEC2
+0 35S∷LEC2
+0 35S∷LEC2 seedlings
+0 LEC1 35S∷LEC2
+0 postembryonic expression of LEC1 35S∷LEC2
+0 35S∷LEC2 LEC2
+0 35S∷LEC2 seedlings
+0 35S∷LEC2 somatic embryo
+0 transgenic plants 35S∷LEC2
+0 somatic embryogenesis 35S∷LEC2
+0 35S∷LEC2
+0 35S∷LEC2 seedlings
+0 LEC1 35S∷LEC2
+0 postembryonic expression of LEC1 35S∷LEC2
+0 35S∷LEC2 LEC2
+0 35S∷LEC2 seedlings
+0 35S∷LEC2 somatic embryo
+0 somatic embryogenesis transgenic plants
+0 transgenic plants 35S∷LEC2
+0 transgenic plants 35S∷LEC2 seedlings
+0 LEC1 transgenic plants
+0 postembryonic expression of LEC1 transgenic plants
+0 transgenic plants LEC2
+0 transgenic plants seedlings
+0 transgenic plants somatic embryo
+0 somatic embryogenesis 35S∷LEC2
+0 somatic embryogenesis 35S∷LEC2 seedlings
+0 LEC1 somatic embryogenesis
+17 postembryonic expression of LEC1 somatic embryogenesis
+0 somatic embryogenesis LEC2
+0 somatic embryogenesis seedlings
+0 somatic embryogenesis somatic embryo
+0 35S∷LEC2 seedlings
+0 LEC1 35S∷LEC2
+0 postembryonic expression of LEC1 35S∷LEC2
+0 35S∷LEC2 LEC2
+0 35S∷LEC2 seedlings
+0 35S∷LEC2 somatic embryo
+0 LEC1 35S∷LEC2 seedlings
+0 postembryonic expression of LEC1 35S∷LEC2 seedlings
+0 35S∷LEC2 seedlings LEC2
+0 35S∷LEC2 seedlings
+0 35S∷LEC2 seedlings somatic embryo
+0 postembryonic expression of LEC1
+0 LEC1 LEC2
+0 LEC1 seedlings
+0 LEC1 somatic embryo
+0 postembryonic expression of LEC1 LEC2
+0 postembryonic expression of LEC1 seedlings
+0 postembryonic expression of LEC1 somatic embryo
+0 seedlings LEC2
+3 somatic embryo LEC2
+0 seedlings somatic embryo
+0 Recessive mutations in the Arabidopsis PICKLE PKL
+6 Recessive mutations in the Arabidopsis PICKLE somatic embryogenesis in postgerminative roots
+0 Recessive mutations in the Arabidopsis PICKLE
+0 Recessive mutations in the Arabidopsis PICKLE
+0 Recessive mutations in the Arabidopsis PICKLE somatic embryogenesis
+0 Recessive mutations in the Arabidopsis PICKLE roots
+2 Recessive mutations in the Arabidopsis PICKLE hormone - free medium
+0 PKL somatic embryogenesis in postgerminative roots
+0 Arabidopsis PKL
+4 PICKLE PKL
+0 PKL somatic embryogenesis
+0 PKL roots
+0 PKL hormone - free medium
+0 Arabidopsis somatic embryogenesis in postgerminative roots
+0 PICKLE somatic embryogenesis in postgerminative roots
+0 somatic embryogenesis in postgerminative roots
+0 somatic embryogenesis in postgerminative roots
+0 somatic embryogenesis in postgerminative roots hormone - free medium
+0 Arabidopsis PICKLE
+0 Arabidopsis somatic embryogenesis
+0 Arabidopsis roots
+0 Arabidopsis hormone - free medium
+0 PICKLE somatic embryogenesis
+0 PICKLE roots
+0 PICKLE hormone - free medium
+0 somatic embryogenesis roots
+0 somatic embryogenesis hormone - free medium
+0 roots hormone - free medium
+0 wild - type seedlings
+0 pkl mutant but not wild - type seedlings
+0 roots seedlings
+0 LEC1 seedlings
+0 pkl mutant but not wild - type seedlings
+0 roots wild - type seedlings
+18 LEC1 wild - type seedlings
+0 roots pkl mutant but not wild - type seedlings
+18 LEC1 pkl mutant but not wild - type seedlings
+18 LEC1 roots
+0 postgerminative roots
+18 LEC1 roots
+10 PKL roots
+0 roots LEC1
+0 roots somatic embryo formation
+0 roots embryo
+0 roots pkl
+18 LEC1 postgerminative
+21 PKL postgerminative
+0 postgerminative LEC1
+0 postgerminative somatic embryo formation
+0 postgerminative embryo
+0 postgerminative pkl
+18 PKL LEC1
+0 LEC1 LEC1
+0 LEC1 somatic embryo formation
+0 LEC1 embryo
+0 LEC1 pkl
+0 PKL LEC1
+0 PKL somatic embryo formation
+0 PKL embryo
+0 PKL pkl
+6 LEC1 somatic embryo formation
+0 LEC1 embryo
+14 LEC1 pkl
+0 somatic embryo formation
+6 somatic embryo formation pkl
+0 embryo pkl
+18 LEC2 pkl
+6 LEC2 establishment of embryogenic competence
+6 LEC1 establishment of embryogenic competence
+0 induce somatic embryogenesis establishment of embryogenic competence
+0 embryogenesis establishment of embryogenic competence
+0 LEC2 LEC1
+6 LEC2 induce somatic embryogenesis
+0 LEC2 embryogenesis
+6 LEC1 induce somatic embryogenesis
+0 LEC1 embryogenesis
+0 induce somatic embryogenesis
+0 Somatic plant cells somatic embryogenesis
+0 Somatic plant cells
+0 Somatic plant cells embryogenesis
+0 plant cells somatic embryogenesis
+0 somatic embryogenesis
+0 plant cells embryogenesis
+0 auxin hormone(s)
+6 Embryogenic competence auxin
+0 auxin embryogenesis
+0 culturing cells auxin
+0 auxin completion of somatic embryogenesis
+0 auxin cytokinin
+0 Embryogenic competence hormone(s)
+0 embryogenesis hormone(s)
+0 culturing cells hormone(s)
+0 completion of somatic embryogenesis hormone(s)
+0 cytokinin hormone(s)
+0 Embryogenic competence embryogenesis
+6 Embryogenic competence culturing cells
+0 Embryogenic competence completion of somatic embryogenesis
+6 Embryogenic competence cytokinin
+0 culturing cells embryogenesis
+0 completion of somatic embryogenesis
+0 cytokinin embryogenesis
+0 culturing cells completion of somatic embryogenesis
+0 culturing cells cytokinin
+0 cytokinin completion of somatic embryogenesis
+0 genes that play roles in the initiation of somatic embryogenesis
+0 acquisition of embryogenic competence genes that play roles in the initiation of somatic embryogenesis
+6 LEC transcription factors genes that play roles in the initiation of somatic embryogenesis
+0 LEC2 genes that play roles in the initiation of somatic embryogenesis
+0 LEC1 genes that play roles in the initiation of somatic embryogenesis
+0 acquisition of embryogenic competence initiation of somatic embryogenesis
+0 LEC transcription factors initiation of somatic embryogenesis
+0 LEC2 initiation of somatic embryogenesis
+0 LEC1 initiation of somatic embryogenesis
+0 acquisition of embryogenic competence LEC transcription factors
+6 LEC2 acquisition of embryogenic competence
+6 LEC1 acquisition of embryogenic competence
+0 LEC2 LEC transcription factors
+0 LEC1 LEC transcription factors
+0 LEC2 LEC1
+0 earliest embryonic stages establishing embryogenic competence
+0 LEC1 establishing embryogenic competence
+0 LEC1 RNAs establishing embryogenic competence
+0 establishing embryogenic competence zygotic embryogenesis
+0 LEC2 establishing embryogenic competence
+0 LEC2 and LEC1 RNAs establishing embryogenic competence
+0 LEC1 earliest embryonic stages
+21 LEC1 RNAs earliest embryonic stages
+0 earliest embryonic stages zygotic embryogenesis
+0 LEC2 earliest embryonic stages
+21 LEC2 and LEC1 RNAs earliest embryonic stages
+0 LEC1 RNAs
+0 LEC1 zygotic embryogenesis
+0 LEC2 LEC1
+0 LEC2 and LEC1 RNAs
+0 LEC1 RNAs zygotic embryogenesis
+0 LEC2 LEC1 RNAs
+0 LEC2 and LEC1 RNAs
+0 LEC2 zygotic embryogenesis
+0 LEC2 and LEC1 RNAs zygotic embryogenesis
+0 LEC2 and LEC1 RNAs
+0 embryogenesis zygotic embryogenesis
+0 somatic embryogenesis zygotic embryogenesis
+0 LEC1 zygotic embryogenesis
+0 LEC2 zygotic embryogenesis
+0 somatic embryogenesis
+0 LEC1 embryogenesis
+0 LEC2 embryogenesis
+0 LEC1 somatic embryogenesis
+0 LEC2 somatic embryogenesis
+0 LEC2 LEC1
+0 overexpression phenotypes of LEC2 and LEC1
+0 overexpression phenotypes of LEC2
+0 overexpression phenotypes of LEC2 LEC1
+0 overexpression phenotypes of LEC2 early in zygotic embryogenesis
+0 overexpression phenotypes of LEC2 induce embryo formation
+0 overexpression phenotypes of LEC2 embryo formation
+0 overexpression phenotypes of LEC2 embryo
+0 overexpression phenotypes of LEC2 and LEC1
+0 overexpression phenotypes of LEC2 and LEC1
+0 overexpression phenotypes of LEC2 and LEC1 early in zygotic embryogenesis
+0 overexpression phenotypes of LEC2 and LEC1 induce embryo formation
+0 overexpression phenotypes of LEC2 and LEC1 embryo formation
+0 overexpression phenotypes of LEC2 and LEC1 embryo
+0 LEC2 LEC1
+0 LEC2 early in zygotic embryogenesis
+0 LEC2 induce embryo formation
+0 LEC2 embryo formation
+0 LEC2 embryo
+0 LEC1 early in zygotic embryogenesis
+0 LEC1 induce embryo formation
+0 LEC1 embryo formation
+0 LEC1 embryo
+0 early in zygotic embryogenesis induce embryo formation
+0 early in zygotic embryogenesis embryo formation
+0 early in zygotic embryogenesis embryo
+0 induce embryo formation
+0 induce embryo formation
+0 embryo formation
+0 lec1 lec2 arrest at an earlier embryonic stage
+0 lec1 lec2 earlier embryonic stage
+0 arrest at an earlier embryonic stage
+0 LEC1 somatic cells
+0 induce embryogenic competence in somatic cells
+0 LEC2 somatic cells
+6 LEC1 induce embryogenic competence in somatic cells
+0 LEC1 LEC2
+6 LEC2 induce embryogenic competence in somatic cells
+0 embryo cotyledon - like organs
+0 seedlings embryo
+0 embryo - like seedlings
+0 35S∷LEC1 embryo
+0 35S∷LEC1 embryo
+0 embryo cotyledon
+0 embryo leaves
+0 35S∷LEC1 embryo
+0 35S∷LEC1 seedlings embryo
+0 seedlings cotyledon - like organs
+0 embryo - like seedlings cotyledon - like organs
+0 35S∷LEC1 cotyledon - like organs
+0 35S∷LEC1 cotyledon - like organs
+0 cotyledon - like organs
+0 cotyledon - like organs leaves
+0 35S∷LEC1 cotyledon - like organs
+0 35S∷LEC1 seedlings cotyledon - like organs
+0 seedlings embryo - like seedlings
+0 35S∷LEC1 seedlings
+0 35S∷LEC1 seedlings
+0 seedlings cotyledon
+0 seedlings leaves
+0 35S∷LEC1 seedlings
+0 35S∷LEC1 seedlings
+0 35S∷LEC1 embryo - like seedlings
+0 35S∷LEC1 embryo - like seedlings
+0 embryo - like seedlings cotyledon
+0 embryo - like seedlings leaves
+0 35S∷LEC1 embryo - like seedlings
+0 35S∷LEC1 seedlings embryo - like seedlings
+0 35S∷LEC1
+0 35S∷LEC1 cotyledon
+0 35S∷LEC1 leaves
+0 35S∷LEC1
+0 35S∷LEC1 seedlings
+0 35S∷LEC1 cotyledon
+0 35S∷LEC1 leaves
+0 35S∷LEC1
+0 35S∷LEC1 seedlings
+0 cotyledon leaves
+0 35S∷LEC1 cotyledon
+0 35S∷LEC1 seedlings cotyledon
+0 35S∷LEC1 leaves
+0 35S∷LEC1 seedlings leaves
+0 35S∷LEC1 seedlings
+0 leaf somatic embryos
+0 leaf - like organs somatic embryos
+0 cotyledon somatic embryos
+0 35S∷LEC2 embryo - like seedlings somatic embryos
+0 35S∷LEC2 somatic embryos
+0 embryo somatic embryos
+0 embryo - like seedlings somatic embryos
+0 35S∷LEC2 somatic embryos
+0 35S∷LEC2 somatic embryos
+0 cotyledon - like and leaf - like organs somatic embryos
+0 callus somatic embryos
+0 leaf - like organs
+0 cotyledon leaf
+0 35S∷LEC2 embryo - like seedlings leaf
+0 35S∷LEC2 leaf
+0 embryo leaf
+0 embryo - like seedlings leaf
+0 35S∷LEC2 leaf
+0 35S∷LEC2 leaf
+0 cotyledon - like and leaf - like organs
+0 callus leaf
+0 cotyledon leaf - like organs
+0 35S∷LEC2 embryo - like seedlings leaf - like organs
+0 35S∷LEC2 leaf - like organs
+0 embryo leaf - like organs
+0 embryo - like seedlings leaf - like organs
+0 35S∷LEC2 leaf - like organs
+0 35S∷LEC2 leaf - like organs
+0 cotyledon - like and leaf - like organs
+0 callus leaf - like organs
+0 35S∷LEC2 embryo - like seedlings cotyledon
+0 35S∷LEC2 cotyledon
+0 embryo cotyledon
+0 embryo - like seedlings cotyledon
+0 35S∷LEC2 cotyledon
+0 35S∷LEC2 cotyledon
+0 cotyledon - like and leaf - like organs
+0 callus cotyledon
+0 35S∷LEC2 embryo - like seedlings
+0 35S∷LEC2 embryo - like seedlings
+0 35S∷LEC2 embryo - like seedlings
+0 35S∷LEC2 embryo - like seedlings
+0 35S∷LEC2 embryo - like seedlings
+0 35S∷LEC2 embryo - like seedlings cotyledon - like and leaf - like organs
+0 35S∷LEC2 embryo - like seedlings callus
+0 35S∷LEC2 embryo
+0 35S∷LEC2 embryo - like seedlings
+0 35S∷LEC2
+0 35S∷LEC2
+0 35S∷LEC2 cotyledon - like and leaf - like organs
+0 35S∷LEC2 callus
+0 embryo - like seedlings
+0 35S∷LEC2 embryo
+0 35S∷LEC2 embryo
+0 embryo cotyledon - like and leaf - like organs
+0 embryo callus
+0 35S∷LEC2 embryo - like seedlings
+0 35S∷LEC2 embryo - like seedlings
+0 embryo - like seedlings cotyledon - like and leaf - like organs
+0 embryo - like seedlings callus
+0 35S∷LEC2
+0 35S∷LEC2 cotyledon - like and leaf - like organs
+0 35S∷LEC2 callus
+0 35S∷LEC2 cotyledon - like and leaf - like organs
+0 35S∷LEC2 callus
+0 callus cotyledon - like and leaf - like organs
+0 embryo formation
+0 LEC2 embryo formation
+0 LEC1 embryo formation
+0 LEC2 embryo
+0 LEC1 embryo
+0 LEC1 LEC2
+0 embryo development
+0 LEC1 embryo development
+0 LEC2 embryo development
+0 LEC1 embryo
+0 LEC2 embryo
+0 LEC1 LEC2
+0 secretion of large quantities of pectinaceous mucilage secondary cell wall biosynthesis
+0 cytoplasmic rearrangement secondary cell wall biosynthesis
+0 differentiation secondary cell wall biosynthesis
+0 biosynthesis and secretion of large quantities of pectinaceous mucilage secondary cell wall biosynthesis
+6 seed coat epidermis secondary cell wall biosynthesis
+0 process of differentiation secondary cell wall biosynthesis
+6 Arabidopsis secondary cell wall biosynthesis
+0 secretion of large quantities of pectinaceous mucilage cytoplasmic rearrangement
+0 differentiation secretion of large quantities of pectinaceous mucilage
+0 biosynthesis and secretion of large quantities of pectinaceous mucilage
+6 seed coat epidermis secretion of large quantities of pectinaceous mucilage
+0 process of differentiation secretion of large quantities of pectinaceous mucilage
+6 Arabidopsis secretion of large quantities of pectinaceous mucilage
+0 differentiation cytoplasmic rearrangement
+0 biosynthesis and secretion of large quantities of pectinaceous mucilage cytoplasmic rearrangement
+6 seed coat epidermis cytoplasmic rearrangement
+0 process of differentiation cytoplasmic rearrangement
+6 Arabidopsis cytoplasmic rearrangement
+0 differentiation biosynthesis and secretion of large quantities of pectinaceous mucilage
+0 seed coat epidermis differentiation
+0 process of differentiation
+0 Arabidopsis differentiation
+6 seed coat epidermis biosynthesis and secretion of large quantities of pectinaceous mucilage
+0 process of differentiation biosynthesis and secretion of large quantities of pectinaceous mucilage
+6 Arabidopsis biosynthesis and secretion of large quantities of pectinaceous mucilage
+6 seed coat epidermis process of differentiation
+0 Arabidopsis seed coat epidermis
+6 Arabidopsis process of differentiation
+6 Mutations in MUM4 cytoplasmic rearrangement
+0 Mutations in MUM4
+0 Mutations in MUM4 MUCILAGE - MODIFIED4
+6 Mutations in MUM4 seed coat mucilage
+0 Mutations in MUM4 seed coat
+0 MUM4 cytoplasmic rearrangement
+0 MUCILAGE - MODIFIED4 cytoplasmic rearrangement
+0 seed coat mucilage cytoplasmic rearrangement
+0 seed coat cytoplasmic rearrangement
+20 MUM4 MUCILAGE - MODIFIED4
+0 MUM4 seed coat mucilage
+0 MUM4 seed coat
+0 MUCILAGE - MODIFIED4 seed coat mucilage
+0 MUCILAGE - MODIFIED4 seed coat
+0 seed coat mucilage
+16 MUM4 NDP - l-rhamnose synthase
+0 MUM4 synthesis of the pectin rhamnogalacturonan I
+0 MUM4 Arabidopsis
+0 MUM4 mucilage
+6 NDP - l-rhamnose synthase synthesis of the pectin rhamnogalacturonan I
+0 NDP - l-rhamnose synthase Arabidopsis
+0 NDP - l-rhamnose synthase mucilage
+0 synthesis of the pectin rhamnogalacturonan I Arabidopsis
+0 synthesis of the pectin rhamnogalacturonan I mucilage
+0 Arabidopsis mucilage
+6 synthesis of monosaccharide substrates biosynthesis of pectinaceous seed coat mucilage
+10 biosynthesis of pectinaceous seed coat mucilage
+0 synthesis of monosaccharide substrates seed coat
+6 cytoplasmic rearrangement mum4
+0 cytoplasmic rearrangement pectin biosynthesis
+0 cytoplasmic rearrangement cellular morphogenesis
+0 cytoplasmic rearrangement mucilage production
+6 pectin biosynthesis mum4
+0 mum4 cellular morphogenesis
+0 mum4 mucilage production
+0 pectin biosynthesis cellular morphogenesis
+0 pectin biosynthesis mucilage production
+0 mucilage production cellular morphogenesis
+0 mum4 AP2
+0 AP2 [GLABRA2]
+0 AP2 MYB61
+0 AP2 GL2
+0 AP2 TRANSPARENT TESTA GLABRA1
+0 AP2 TTG2
+20 AP2 APETALA2
+0 AP2 TTG1
+0 mum4 [GLABRA2]
+0 mum4 MYB61
+0 mum4 GL2
+0 mum4 TRANSPARENT TESTA GLABRA1
+0 mum4 TTG2
+0 mum4 APETALA2
+0 mum4 TTG1
+0 MYB61 [GLABRA2]
+20 GL2 [GLABRA2]
+0 TRANSPARENT TESTA GLABRA1 [GLABRA2]
+0 TTG2 [GLABRA2]
+0 APETALA2 [GLABRA2]
+0 TTG1 [GLABRA2]
+0 MYB61 GL2
+0 TRANSPARENT TESTA GLABRA1 MYB61
+0 TTG2 MYB61
+0 APETALA2 MYB61
+0 TTG1 MYB61
+0 TRANSPARENT TESTA GLABRA1 GL2
+0 TTG2 GL2
+0 APETALA2 GL2
+0 TTG1 GL2
+0 TRANSPARENT TESTA GLABRA1 TTG2
+0 APETALA2 TRANSPARENT TESTA GLABRA1
+20 TTG1 TRANSPARENT TESTA GLABRA1
+0 APETALA2 TTG2
+0 TTG1 TTG2
+0 APETALA2 TTG1
+0 TTG2 MYB61
+0 GL2 MYB61
+0 TTG1 MYB61
+6 MYB61 mucilage production
+0 seed coat MYB61
+0 AP2 MYB61
+0 MUM4 MYB61
+0 GL2 TTG2
+0 TTG1 TTG2
+6 TTG2 mucilage production
+0 seed coat TTG2
+0 AP2 TTG2
+0 MUM4 TTG2
+0 TTG1 GL2
+0 GL2 mucilage production
+18 seed coat GL2
+0 AP2 GL2
+18 MUM4 GL2
+0 TTG1 mucilage production
+18 seed coat TTG1
+0 AP2 TTG1
+18 MUM4 TTG1
+0 seed coat mucilage production
+0 AP2 mucilage production
+0 MUM4 mucilage production
+18 seed coat AP2
+18 MUM4 seed coat
+18 MUM4 AP2
+0 secretory cell differentiation
+0 mucilage production secretory cell
+0 mucilage production secretory cell differentiation
+0 biosynthesis and polar secretion of large quantities of pectin
+0 developmental process biosynthesis and polar secretion of large quantities of pectin
+0 cell growth biosynthesis and polar secretion of large quantities of pectin
+0 Arabidopsis biosynthesis and polar secretion of large quantities of pectin
+0 seed coat biosynthesis and polar secretion of large quantities of pectin
+0 epidermal cells of the Arabidopsis seed coat biosynthesis and polar secretion of large quantities of pectin
+0 epidermal cells biosynthesis and polar secretion of large quantities of pectin
+0 production of mucilage biosynthesis and polar secretion of large quantities of pectin
+0 biosynthesis and polar secretion of large quantities of pectin formation of a cytoplasmic column
+0 biosynthesis and polar secretion of large quantities of pectin cytoplasmic constriction
+0 biosynthesis and polar secretion of large quantities of pectin vacuolar contraction
+0 biosynthesis and polar secretion of large quantities of pectin synthesis of a secondary cell wall
+0 developmental process polar secretion of large quantities of pectin
+0 cell growth polar secretion of large quantities of pectin
+0 Arabidopsis polar secretion of large quantities of pectin
+0 seed coat polar secretion of large quantities of pectin
+0 epidermal cells of the Arabidopsis seed coat polar secretion of large quantities of pectin
+0 epidermal cells polar secretion of large quantities of pectin
+0 production of mucilage polar secretion of large quantities of pectin
+0 polar secretion of large quantities of pectin formation of a cytoplasmic column
+0 polar secretion of large quantities of pectin cytoplasmic constriction
+0 polar secretion of large quantities of pectin vacuolar contraction
+0 polar secretion of large quantities of pectin synthesis of a secondary cell wall
+0 developmental process cell growth
+0 Arabidopsis developmental process
+0 seed coat developmental process
+0 epidermal cells of the Arabidopsis seed coat developmental process
+0 epidermal cells developmental process
+0 production of mucilage developmental process
+0 developmental process formation of a cytoplasmic column
+0 developmental process cytoplasmic constriction
+0 developmental process vacuolar contraction
+0 developmental process synthesis of a secondary cell wall
+0 Arabidopsis cell growth
+0 seed coat cell growth
+0 epidermal cells of the Arabidopsis seed coat cell growth
+0 epidermal cells cell growth
+0 production of mucilage cell growth
+0 cell growth formation of a cytoplasmic column
+0 cell growth cytoplasmic constriction
+0 cell growth vacuolar contraction
+0 cell growth synthesis of a secondary cell wall
+0 Arabidopsis seed coat
+0 epidermal cells of the Arabidopsis seed coat
+0 epidermal cells Arabidopsis
+0 production of mucilage Arabidopsis
+0 Arabidopsis formation of a cytoplasmic column
+0 Arabidopsis cytoplasmic constriction
+0 Arabidopsis vacuolar contraction
+0 Arabidopsis synthesis of a secondary cell wall
+0 epidermal cells of the Arabidopsis seed coat
+0 epidermal cells seed coat
+0 production of mucilage seed coat
+0 seed coat formation of a cytoplasmic column
+0 seed coat cytoplasmic constriction
+0 seed coat vacuolar contraction
+0 seed coat synthesis of a secondary cell wall
+0 epidermal cells of the Arabidopsis seed coat
+10 production of mucilage epidermal cells of the Arabidopsis seed coat
+0 epidermal cells of the Arabidopsis seed coat formation of a cytoplasmic column
+0 epidermal cells of the Arabidopsis seed coat cytoplasmic constriction
+0 epidermal cells of the Arabidopsis seed coat vacuolar contraction
+0 epidermal cells of the Arabidopsis seed coat synthesis of a secondary cell wall
+0 production of mucilage epidermal cells
+0 epidermal cells formation of a cytoplasmic column
+0 epidermal cells cytoplasmic constriction
+0 epidermal cells vacuolar contraction
+0 epidermal cells synthesis of a secondary cell wall
+0 production of mucilage formation of a cytoplasmic column
+0 production of mucilage cytoplasmic constriction
+0 production of mucilage vacuolar contraction
+0 production of mucilage synthesis of a secondary cell wall
+6 formation of a cytoplasmic column cytoplasmic constriction
+6 formation of a cytoplasmic column vacuolar contraction
+0 formation of a cytoplasmic column synthesis of a secondary cell wall
+0 cytoplasmic constriction vacuolar contraction
+0 cytoplasmic constriction synthesis of a secondary cell wall
+0 vacuolar contraction synthesis of a secondary cell wall
+10 Seed coat mucilage
+0 Seed coat mucilage Arabidopsis
+0 Seed coat mucilage mum
+0 Seed coat mucilage mucilage - modified
+0 Seed coat mucilage mucilage production
+0 Seed coat Arabidopsis
+0 Seed coat mum
+0 Seed coat mucilage - modified
+0 Seed coat mucilage production
+0 Arabidopsis mum
+0 Arabidopsis mucilage - modified
+0 Arabidopsis mucilage production
+0 mum mucilage - modified
+6 mum mucilage production
+0 mucilage - modified mucilage production
+0 Mutations in one of these genes , MUM4
+0 MUM4 hydrated mature seeds
+0 MUM4 mucilage is not released
+0 Mutations in one of these genes , MUM4 hydrated mature seeds
+6 Mutations in one of these genes , MUM4 mucilage is not released
+6 mucilage is not released hydrated mature seeds
+6 seeds release mucilage
+6 release mucilage hydration
+0 seed coat epidermal release mucilage
+0 seed coat epidermal development release mucilage
+0 seed release mucilage
+0 seed coat release mucilage
+2 seeds hydration
+0 seed coat epidermal seeds
+0 seed coat epidermal development seeds
+0 seed seeds
+0 seed coat seeds
+0 seed coat epidermal hydration
+0 seed coat epidermal development hydration
+0 seed hydration
+0 seed coat hydration
+0 seed coat epidermal development
+0 seed coat epidermal
+0 seed coat epidermal
+0 seed coat epidermal development
+0 seed coat epidermal development
+0 seed coat
+0 mucilage secretory cells
+0 lack differentiation past the growth phase of mucilage secretory cells
+0 growth phase mucilage secretory cells
+0 defects in floral morphogenesis mucilage secretory cells
+0 floral morphogenesis mucilage secretory cells
+0 AP2 mucilage secretory cells
+0 APETALA2 mucilage secretory cells
+0 Mutants in AP2 mucilage secretory cells
+0 lack differentiation past the growth phase of mucilage secretory cells
+0 growth phase mucilage
+0 defects in floral morphogenesis mucilage
+0 floral morphogenesis mucilage
+0 AP2 mucilage
+0 APETALA2 mucilage
+0 Mutants in AP2 mucilage
+0 lack differentiation past the growth phase of mucilage secretory cells
+0 defects in floral morphogenesis lack differentiation past the growth phase of mucilage secretory cells
+0 floral morphogenesis lack differentiation past the growth phase of mucilage secretory cells
+0 AP2 lack differentiation past the growth phase of mucilage secretory cells
+0 APETALA2 lack differentiation past the growth phase of mucilage secretory cells
+6 Mutants in AP2 lack differentiation past the growth phase of mucilage secretory cells
+0 defects in floral morphogenesis growth phase
+0 floral morphogenesis growth phase
+0 AP2 growth phase
+0 APETALA2 growth phase
+0 Mutants in AP2 growth phase
+0 defects in floral morphogenesis
+0 AP2 defects in floral morphogenesis
+0 APETALA2 defects in floral morphogenesis
+6 Mutants in AP2 defects in floral morphogenesis
+0 AP2 floral morphogenesis
+0 APETALA2 floral morphogenesis
+0 Mutants in AP2 floral morphogenesis
+20 AP2 APETALA2
+0 Mutants in AP2
+0 Mutants in AP2 APETALA2
+0 defects in both mucilage and columella production
+0 GL2 mucilage and columella production
+0 TTG2 mucilage and columella production
+0 TRANSPARENT TESTA GLABRA1 mucilage and columella production
+0 TTG1 mucilage and columella production
+0 defects in both mucilage and columella production
+0 trichome mucilage and columella production
+0 trichome specification mucilage and columella production
+0 GLABRA2 mucilage and columella production
+0 mucilage and columella production
+0 mucilage and columella production seed coat
+6 GL2 defects in both mucilage and columella production
+6 TTG2 defects in both mucilage and columella production
+0 TRANSPARENT TESTA GLABRA1 defects in both mucilage and columella production
+6 TTG1 defects in both mucilage and columella production
+0 defects in both mucilage and columella production
+0 trichome defects in both mucilage and columella production
+0 trichome specification defects in both mucilage and columella production
+0 GLABRA2 defects in both mucilage and columella production
+0 defects in both mucilage and columella production
+6 defects in both mucilage and columella production seed coat
+0 TTG2 GL2
+0 TRANSPARENT TESTA GLABRA1 GL2
+0 TTG1 GL2
+6 GL2 defects in both mucilage and columella production
+0 GL2 trichome
+6 GL2 trichome specification
+20 GL2 GLABRA2
+0 GL2 columella production
+18 GL2 seed coat
+0 TRANSPARENT TESTA GLABRA1 TTG2
+0 TTG1 TTG2
+6 TTG2 defects in both mucilage and columella production
+0 TTG2 trichome
+6 TTG2 trichome specification
+0 TTG2 GLABRA2
+0 TTG2 columella production
+18 TTG2 seed coat
+20 TTG1 TRANSPARENT TESTA GLABRA1
+0 TRANSPARENT TESTA GLABRA1 defects in both mucilage and columella production
+0 TRANSPARENT TESTA GLABRA1 trichome
+0 TRANSPARENT TESTA GLABRA1 trichome specification
+0 TRANSPARENT TESTA GLABRA1 GLABRA2
+0 TRANSPARENT TESTA GLABRA1 columella production
+0 TRANSPARENT TESTA GLABRA1 seed coat
+6 TTG1 defects in both mucilage and columella production
+0 TTG1 trichome
+6 TTG1 trichome specification
+0 TTG1 GLABRA2
+0 TTG1 columella production
+18 TTG1 seed coat
+0 trichome defects in both mucilage and columella production
+0 trichome specification defects in both mucilage and columella production
+0 GLABRA2 defects in both mucilage and columella production
+0 defects in both mucilage and columella production
+6 defects in both mucilage and columella production seed coat
+0 trichome specification
+0 GLABRA2 trichome
+0 trichome columella production
+0 trichome seed coat
+0 GLABRA2 trichome specification
+0 trichome specification columella production
+0 trichome specification seed coat
+0 GLABRA2 columella production
+0 GLABRA2 seed coat
+0 columella production seed coat
+2 MYB GL2
+0 trichomes MYB
+0 root hairs MYB
+2 TTG1 MYB
+0 basic helix - loop - helix ( bHLH ) protein MYB
+0 basic helix - loop - helix MYB
+0 bHLH MYB
+2 MYB TTG2
+18 trichomes GL2
+18 root hairs GL2
+2 TTG1 GL2
+0 basic helix - loop - helix ( bHLH ) protein GL2
+0 basic helix - loop - helix GL2
+2 bHLH GL2
+0 GL2 TTG2
+0 trichomes root hairs
+10 trichomes TTG1
+0 trichomes basic helix - loop - helix ( bHLH ) protein
+0 trichomes basic helix - loop - helix
+0 trichomes bHLH
+18 trichomes TTG2
+10 root hairs TTG1
+0 root hairs basic helix - loop - helix ( bHLH ) protein
+0 root hairs basic helix - loop - helix
+0 root hairs bHLH
+18 root hairs TTG2
+0 TTG1 basic helix - loop - helix ( bHLH ) protein
+0 TTG1 basic helix - loop - helix
+9 TTG1 bHLH
+2 TTG1 TTG2
+0 basic helix - loop - helix ( bHLH ) protein
+0 basic helix - loop - helix ( bHLH ) protein
+0 basic helix - loop - helix ( bHLH ) protein TTG2
+20 basic helix - loop - helix bHLH
+0 basic helix - loop - helix TTG2
+2 bHLH TTG2
+0 columella production Arabidopsis
+0 Arabidopsis seed coat
+0 mutations in MYB61 Arabidopsis
+0 mucilage and columella production Arabidopsis
+0 MYB61 Arabidopsis
+6 columella production seed coat
+6 mutations in MYB61 columella production
+0 mucilage and columella production
+0 MYB61 columella production
+0 mutations in MYB61 seed coat
+6 mucilage and columella production seed coat
+0 MYB61 seed coat
+6 mutations in MYB61 mucilage and columella production
+0 mutations in MYB61
+0 MYB61 mucilage and columella production
+0 MUM4 Arabidopsis
+0 MUM4 development of the Arabidopsis seed coat
+0 MUM4 seed coat
+0 development of the Arabidopsis seed coat
+0 Arabidopsis seed coat
+0 development of the Arabidopsis seed coat
+16 MUM4 NDP - l-Rha synthase
+0 MUM4 MUM4
+0 MUM4 NDP - l-Rha synthase
+0 reduced mucilage in the seed coat altered columella
+0 seed coat altered columella
+0 reduced mucilage in the seed coat
+0 MUM4 is developmentally regulated during seed coat differentiation such that its transcript
+0 MUM4
+0 MUM4 mucilage production
+0 MUM4 time of mucilage production
+0 MUM4 seed coat
+18 MUM4 seed coat differentiation
+0 MUM4 is developmentally regulated during seed coat differentiation such that its transcript
+0 MUM4 is developmentally regulated during seed coat differentiation such that its transcript mucilage production
+15 MUM4 is developmentally regulated during seed coat differentiation such that its transcript time of mucilage production
+0 MUM4 is developmentally regulated during seed coat differentiation such that its transcript
+0 MUM4 is developmentally regulated during seed coat differentiation such that its transcript
+0 MUM4 mucilage production
+0 MUM4 time of mucilage production
+0 MUM4 seed coat
+0 MUM4 seed coat differentiation
+0 time of mucilage production
+0 seed coat mucilage production
+0 seed coat differentiation mucilage production
+0 seed coat time of mucilage production
+0 seed coat differentiation time of mucilage production
+0 seed coat differentiation
+0 TTG1 GL2
+0 AP2 GL2
+18 MUM4 GL2
+0 AP2 TTG1
+18 MUM4 TTG1
+18 MUM4 AP2
+0 mucilage production seed coat epidermal cells
+0 seed coat epidermal cells
+0 seed coat epidermal cells
+0 seed coat epidermal cells seed coat epidermal differentiation
+0 seed coat epidermal cells seed coat
+0 mucilage production seed coat
+0 mucilage production seed
+0 mucilage production seed coat epidermal differentiation
+0 mucilage production seed coat
+0 seed coat
+0 seed coat seed coat epidermal differentiation
+0 seed coat seed coat
+0 seed seed coat epidermal differentiation
+0 seed seed coat
+0 seed coat epidermal differentiation
+22 MUM4 RGI biosynthesis
+0 mucilage wild - type
+0 wild - type seeds
+0 mum4 wild - type
+0 mucilage wild - type seeds
+0 mum4 mucilage
+0 mum4 wild - type seeds
+6 MUM4 production of activated sugars
+0 MUM4 conversion of dTDP-d - Glc to dTDP-l - Rha
+6 bacterial conversion of dTDP-d - Glc to dTDP-l - Rha
+6 dTDP-d - Glc 4 , 6-dehydratases conversion of dTDP-d - Glc to dTDP-l - Rha
+0 N-terminal portion of MUM4 conversion of dTDP-d - Glc to dTDP-l - Rha
+0 MUM4 bacterial
+0 MUM4 dTDP-d - Glc 4 , 6-dehydratases
+0 N-terminal portion of MUM4
+14 bacterial dTDP-d - Glc 4 , 6-dehydratases
+0 N-terminal portion of MUM4 bacterial
+0 N-terminal portion of MUM4 dTDP-d - Glc 4 , 6-dehydratases
+6 MUM4 synthesis of NDP - l-Rha
+0 MUM4 production of RGI
+0 synthesis of NDP - l-Rha production of RGI
+16 MUM4 RHM2
+0 MUM4 RHAMNOSE BIOSYNTHESIS 2
+20 RHM2 RHAMNOSE BIOSYNTHESIS 2
+0 RGI biosynthesis conversion of NDP - d-Glc to NDP - l-Rha
+0 Gram - negative bacteria Escherichia coli
+14 Escherichia coli 3 , 5-epimerase
+14 Escherichia coli 4 , 6-dehydratase
+6 Escherichia coli convert dTDP-d - Glc to dTDP-l - Rha
+14 Escherichia coli 4-reductase
+14 Gram - negative bacteria 3 , 5-epimerase
+14 Gram - negative bacteria 4 , 6-dehydratase
+6 Gram - negative bacteria convert dTDP-d - Glc to dTDP-l - Rha
+14 Gram - negative bacteria 4-reductase
+0 4 , 6-dehydratase 3 , 5-epimerase
+6 3 , 5-epimerase convert dTDP-d - Glc to dTDP-l - Rha
+0 3 , 5-epimerase 4-reductase
+6 4 , 6-dehydratase convert dTDP-d - Glc to dTDP-l - Rha
+0 4 , 6-dehydratase 4-reductase
+6 4-reductase convert dTDP-d - Glc to dTDP-l - Rha
+0 MUM4 N-terminal domain
+0 N-terminal domain 4-reductases
+0 N-terminal domain dTDP-d - Glc 4 , 6-dehydratases
+0 N-terminal domain C-terminal domain
+0 MUM4 4-reductases
+0 MUM4 dTDP-d - Glc 4 , 6-dehydratases
+0 MUM4 C-terminal domain
+0 dTDP-d - Glc 4 , 6-dehydratases 4-reductases
+0 C-terminal domain 4-reductases
+0 dTDP-d - Glc 4 , 6-dehydratases C-terminal domain
+0 GER1 GER2
+0 4-reductase GER1
+6 synthesis of GDP - l-Fuc from GDP - d-Man GER1
+1 3 , 5 epimerase , 4-reductase GER1
+0 3 , 5 epimerase GER1
+14 Arabidopsis GER1
+0 4-reductase GER2
+6 synthesis of GDP - l-Fuc from GDP - d-Man GER2
+1 3 , 5 epimerase , 4-reductase GER2
+0 3 , 5 epimerase GER2
+14 Arabidopsis GER2
+0 4-reductase synthesis of GDP - l-Fuc from GDP - d-Man
+0 3 , 5 epimerase , 4-reductase
+0 3 , 5 epimerase 4-reductase
+0 Arabidopsis 4-reductase
+6 3 , 5 epimerase , 4-reductase synthesis of GDP - l-Fuc from GDP - d-Man
+0 3 , 5 epimerase synthesis of GDP - l-Fuc from GDP - d-Man
+6 Arabidopsis synthesis of GDP - l-Fuc from GDP - d-Man
+0 3 , 5 epimerase , 4-reductase
+14 Arabidopsis 3 , 5 epimerase , 4-reductase
+0 Arabidopsis 3 , 5 epimerase
+0 conversion of NDP - d-Glc to NDP - l-Rha Arabidopsis
+0 MUM4 RHM1
+20 RHM1 RHM3
+0 RHM1 RHM2
+0 RHM1 MUM4
+0 MUM4 RHM3
+0 MUM4 RHM2
+0 MUM4 MUM4
+0 RHM2 RHM3
+0 MUM4 RHM3
+20 MUM4 RHM2
+6 RHM3 normal primary cell wall
+0 normal primary cell wall
+6 normal primary cell wall mum4
+0 normal primary cell wall residual mucilage
+0 normal primary cell wall mum4
+6 RHM1 normal primary cell wall
+0 normal primary cell wall seed coats
+0 RHM3 primary cell wall
+14 RHM3 mum4
+6 RHM3 residual mucilage
+14 RHM3 mum4
+0 RHM1 RHM3
+0 RHM3 seed coats
+0 primary cell wall mum4
+0 primary cell wall residual mucilage
+0 primary cell wall mum4
+0 RHM1 primary cell wall
+0 primary cell wall seed coats
+0 mum4 residual mucilage
+0 mum4 mum4
+14 RHM1 mum4
+0 mum4 seed coats
+12 residual mucilage mum4
+6 RHM1 residual mucilage
+10 residual mucilage seed coats
+14 RHM1 mum4
+0 mum4 seed coats
+0 RHM1 seed coats
+0 NDP - l-Rha synthases primary cell walls
+0 nucleotide sugar interconversions plants
+0 seed coat epidermis
+0 flattened columella seed coat epidermis
+0 columella seed coat epidermis
+0 reduction in the amount of mucilage produced seed coat epidermis
+0 mucilage seed coat epidermis
+0 mum4 seed coat epidermis
+6 flattened columella seed coat epidermis
+0 columella seed coat epidermis
+6 reduction in the amount of mucilage produced seed coat epidermis
+0 mucilage seed coat epidermis
+0 mum4 seed coat epidermis
+0 flattened columella
+0 reduction in the amount of mucilage produced flattened columella
+0 mucilage flattened columella
+6 mum4 flattened columella
+0 reduction in the amount of mucilage produced columella
+0 mucilage columella
+0 mum4 columella
+0 reduction in the amount of mucilage produced
+6 mum4 reduction in the amount of mucilage produced
+0 mum4 mucilage
+0 Seed Mass
+6 AP2 Seed Mass
+0 AP2 Seed
+1 AP2 / EREBP
+16 AP2 AP2 / EREBP
+0 specification of floral organ identity AP2 / EREBP
+1 AP2 / EREBP
+0 AP2 AP2
+0 specification of floral organ identity AP2
+0 AP2 EREBP
+6 AP2 specification of floral organ identity
+0 AP2 EREBP
+0 specification of floral organ identity EREBP
+0 large seeds
+6 loss - of-function ap2 large seeds
+0 loss - of-function ap2 seeds
+0 seed mass
+0 allelic series of mutants seed mass
+6 AP2 seed mass
+0 allelic series of mutants seed
+0 AP2 seed
+0 allelic series of mutants AP2
+0 transgene suppression of AP2 activity in Arabidopsis
+0 transgene suppression of AP2 activity in Arabidopsis seeds
+6 transgene suppression of AP2 activity in Arabidopsis large seeds
+6 transgene suppression of AP2 activity in Arabidopsis defective flowers
+0 transgene suppression of AP2 activity in Arabidopsis flowers
+0 AP2 seeds
+0 AP2 large seeds
+0 AP2 defective flowers
+0 AP2 flowers
+0 large seeds
+0 defective flowers seeds
+0 flowers seeds
+0 defective flowers large seeds
+0 flowers large seeds
+0 defective flowers
+0 plant fertility efficiency of self - pollination
+6 ap2 efficiency of self - pollination
+6 disruption of flower structure efficiency of self - pollination
+0 AP2 efficiency of self - pollination
+0 extent of AP2 gene activity efficiency of self - pollination
+0 flower efficiency of self - pollination
+0 flower development efficiency of self - pollination
+0 seed efficiency of self - pollination
+0 seed mass efficiency of self - pollination
+6 ap2 plant fertility
+0 plant fertility disruption of flower structure
+0 AP2 plant fertility
+0 extent of AP2 gene activity plant fertility
+0 flower plant fertility
+0 flower development plant fertility
+0 seed plant fertility
+0 seed mass plant fertility
+6 ap2 disruption of flower structure
+0 AP2 ap2
+0 extent of AP2 gene activity ap2
+0 flower ap2
+0 flower development ap2
+0 seed ap2
+0 seed mass ap2
+0 AP2 disruption of flower structure
+0 extent of AP2 gene activity disruption of flower structure
+0 flower disruption of flower structure
+0 flower development disruption of flower structure
+0 seed disruption of flower structure
+0 seed mass disruption of flower structure
+0 extent of AP2 gene activity
+0 AP2 flower
+17 AP2 flower development
+0 AP2 seed
+0 AP2 seed mass
+0 extent of AP2 gene activity flower
+0 extent of AP2 gene activity flower development
+0 extent of AP2 gene activity seed
+6 extent of AP2 gene activity seed mass
+0 flower development
+0 flower seed
+0 flower seed mass
+0 flower development seed
+0 flower development seed mass
+0 seed mass
+0 seeds fertility
+0 wild - type plants fertility
+0 ap2 fertility
+0 seeds larger fertility
+0 seed mass fertility
+0 seed fertility
+0 seed number fertility
+0 seed fertility
+0 seeds wild - type plants
+0 ap2 seeds
+0 seeds larger
+0 seed mass seeds
+0 seed seeds
+0 seed number seeds
+0 seed seeds
+0 ap2 wild - type plants
+6 seeds larger wild - type plants
+0 seed mass wild - type plants
+0 seed wild - type plants
+0 seed number wild - type plants
+0 seed wild - type plants
+6 ap2 seeds larger
+0 seed mass ap2
+0 seed ap2
+0 seed number ap2
+0 seed ap2
+0 seed mass seeds larger
+0 seed seeds larger
+0 seed number seeds larger
+0 seed seeds larger
+0 seed mass
+0 seed number seed mass
+0 seed seed mass
+0 seed number seed
+0 seed seed
+0 seed number
+0 seed mass
+0 reduced fertility seed
+0 seed strong ap2
+0 seed seed
+0 seed seed weight
+6 reduced fertility seed mass
+0 seed mass strong ap2
+0 seed mass seed
+0 seed mass seed weight
+12 reduced fertility strong ap2
+0 reduced fertility seed
+6 reduced fertility seed weight
+0 seed strong ap2
+6 seed weight strong ap2
+0 seed weight
+0 seed fertility
+0 seed mass fertility
+0 AP2 fertility
+0 seed mass
+0 AP2 seed
+0 AP2 seed mass
+0 early flowering of plants
+6 early flowering of plants strong ap2
+0 early flowering of plants ap2
+0 early flowering of plants seed mass
+0 early flowering of plants seed
+0 early flowering of plants fertility
+0 flowering strong ap2
+0 flowering ap2
+0 flowering seed mass
+0 flowering seed
+0 flowering fertility
+0 strong ap2 ap2
+0 strong ap2 seed mass
+0 strong ap2 seed
+0 strong ap2 fertility
+0 ap2 seed mass
+0 ap2 seed
+0 ap2 fertility
+0 seed mass
+0 seed mass fertility
+0 seed fertility
+0 Leaf number
+0 Leaf number fewer leaves
+0 Leaf number ap2
+0 Leaf number wild type
+0 Leaf number leaves
+0 Leaf fewer leaves
+0 Leaf ap2
+0 Leaf wild type
+0 Leaf leaves
+6 ap2 fewer leaves
+6 fewer leaves wild type
+0 fewer leaves
+0 ap2 wild type
+0 ap2 leaves
+0 leaves wild type
+6 ap2 larger seeds
+0 larger seeds
+0 ap2 seeds
+0 AP2 Seed
+0 AP2 Seed Mass
+0 Seed Mass
+0 mechanisms controlling seed mass
+0 wildtype mechanisms controlling seed mass
+0 ap2 mechanisms controlling seed mass
+0 mechanisms controlling seed mass AP2
+0 wildtype seed
+0 ap2 seed
+0 seed AP2
+0 wildtype ap2
+0 wildtype AP2
+0 ap2 AP2
+0 seed mass
+0 crop species seed mass
+0 crop species seed
+18 AP2 maternal tissues
+0 maternal tissues seed
+0 maternal tissues seed mass
+0 maternal tissues endosperm
+0 maternal tissues embryo
+0 maternal tissues seed coat
+0 AP2 seed
+0 AP2 seed mass
+18 AP2 endosperm
+18 AP2 embryo
+18 AP2 seed coat
+0 seed mass
+0 endosperm seed
+0 embryo seed
+0 seed coat seed
+0 endosperm seed mass
+0 embryo seed mass
+0 seed coat seed mass
+0 embryo endosperm
+0 seed coat endosperm
+0 seed coat embryo
+0 seed mass
+0 endosperm seed
+0 seed endosperm
+0 seed AP2
+0 endosperm seed mass
+6 seed mass endosperm
+6 seed mass AP2
+0 endosperm endosperm
+0 endosperm AP2
+18 AP2 endosperm
+0 small - and large - seeded Arabidopsis ecotypes seed
+0 large - seeded Arabidopsis ecotypes seed
+0 maternal tissues seed
+0 seed mass
+0 small - and large - seeded Arabidopsis ecotypes
+0 small - and large - seeded Arabidopsis ecotypes maternal tissues
+6 small - and large - seeded Arabidopsis ecotypes seed mass
+0 large - seeded Arabidopsis ecotypes maternal tissues
+6 large - seeded Arabidopsis ecotypes seed mass
+6 maternal tissues seed mass
+0 plant resources maternal tissues
+0 seed maternal tissues
+0 fruit size maternal tissues
+0 seed mass maternal tissues
+0 seed maternal tissues
+0 seed number maternal tissues
+0 seed plant resources
+0 fruit size plant resources
+0 seed mass plant resources
+0 seed plant resources
+0 seed number plant resources
+0 seed fruit size
+0 seed mass seed
+0 seed seed
+0 seed number
+0 seed mass fruit size
+0 seed fruit size
+0 seed number fruit size
+0 seed mass
+0 seed mass seed number
+0 seed seed number
+0 AP2 seed mass
+0 seed mass
+0 AP2 seed
+0 seed size
+0 AP2 seed
+0 maternal tissues seed
+0 endosperm seed
+6 AP2 seed size
+6 maternal tissues seed size
+6 endosperm seed size
+18 AP2 maternal tissues
+18 AP2 endosperm
+0 endosperm maternal tissues
+0 seed and embryo mass
+0 suppressing endosperm size seed and embryo mass
+0 endosperm seed and embryo mass
+0 seed seed and embryo mass
+0 enhancing or suppressing endosperm size seed and embryo mass
+0 endosperm seed and embryo mass
+0 seed mass seed and embryo mass
+0 seed and embryo mass
+0 seed and embryo mass
+0 suppressing endosperm size seed
+0 endosperm seed
+0 seed seed
+0 enhancing or suppressing endosperm size seed
+0 endosperm seed
+0 seed mass seed
+0 seed embryo mass
+0 seed embryo
+0 suppressing endosperm size
+0 seed suppressing endosperm size
+0 enhancing or suppressing endosperm size
+0 endosperm suppressing endosperm size
+0 seed mass suppressing endosperm size
+0 suppressing endosperm size embryo mass
+0 suppressing endosperm size embryo
+0 seed endosperm
+0 enhancing or suppressing endosperm size
+0 endosperm endosperm
+0 seed mass endosperm
+0 endosperm embryo mass
+0 endosperm embryo
+0 seed enhancing or suppressing endosperm size
+0 endosperm seed
+0 seed mass
+0 seed embryo mass
+0 seed embryo
+0 endosperm enhancing or suppressing endosperm size
+0 seed mass enhancing or suppressing endosperm size
+0 enhancing or suppressing endosperm size embryo mass
+0 enhancing or suppressing endosperm size embryo
+6 endosperm seed mass
+0 endosperm embryo mass
+0 endosperm embryo
+0 seed mass embryo mass
+0 seed mass embryo
+0 embryo mass
+0 seed AP2
+0 seed mass AP2
+0 seed mass
+0 FIS2 endosperm phenotypes that mimic paternal genomic excess
+6 mutations in three genes , MEA endosperm phenotypes that mimic paternal genomic excess
+0 FIE endosperm phenotypes that mimic paternal genomic excess
+0 MEA endosperm phenotypes that mimic paternal genomic excess
+6 mutations in three genes , MEA , FIE , and FIS2 endosperm phenotypes that mimic paternal genomic excess
+6 mutations in three genes , MEA , FIE endosperm phenotypes that mimic paternal genomic excess
+0 endosperm phenotypes that mimic paternal genomic excess
+0 mutations in three genes , MEA FIS2
+0 FIE FIS2
+0 MEA FIS2
+0 mutations in three genes , MEA , FIE , and FIS2
+0 mutations in three genes , MEA , FIE FIS2
+0 FIS2 endosperm
+0 mutations in three genes , MEA FIE
+0 mutations in three genes , MEA
+0 mutations in three genes , MEA , FIE , and FIS2
+0 mutations in three genes , MEA , FIE
+0 mutations in three genes , MEA endosperm
+0 MEA FIE
+0 mutations in three genes , MEA , FIE , and FIS2
+0 mutations in three genes , MEA , FIE
+0 FIE endosperm
+0 mutations in three genes , MEA , FIE , and FIS2
+0 mutations in three genes , MEA , FIE
+0 MEA endosperm
+0 mutations in three genes , MEA , FIE , and FIS2
+0 mutations in three genes , MEA , FIE , and FIS2 endosperm
+0 mutations in three genes , MEA , FIE endosperm
+0 AP2 ap2
+0 AP2 mea
+0 AP2 fie
+0 AP2 fis2
+0 ap2 mea
+0 ap2 fie
+0 ap2 fis2
+0 mea fie
+0 mea fis2
+0 fie fis2
+6 IKU2 effects of maternal and paternal dosage on seed size
+17 IKU2 endosperm development
+0 IKU2 seed
+0 IKU2 endosperm
+0 IKU1 IKU2
+0 effects of maternal and paternal dosage on seed size endosperm development
+0 effects of maternal and paternal dosage on seed size
+0 effects of maternal and paternal dosage on seed size endosperm
+6 IKU1 effects of maternal and paternal dosage on seed size
+0 seed endosperm development
+0 endosperm development
+17 IKU1 endosperm development
+0 seed endosperm
+0 IKU1 seed
+0 IKU1 endosperm
+0 AP2 iku
+0 IKU AP2
+0 AP2 seed
+0 AP2 seed mass
+0 seed mass
+0 embryo cell number and size
+6 AP2 embryo cell number and size
+0 embryo cell number and size
+0 AP2 embryo
+0 embryo cell number
+6 AP2 embryo cell number
+0 ecotype variations in Arabidopsis seed
+0 seed size
+0 cell number seed
+0 cell number and size seed
+6 ecotype variations in Arabidopsis seed size
+0 cell number ecotype variations in Arabidopsis
+12 cell number and size ecotype variations in Arabidopsis
+0 cell number seed size
+6 cell number and size seed size
+0 cell number and size
+0 AP2 differences in cell size
+0 embryo cell size
+0 AP2 embryo
+6 AP2 embryo cell size
+0 seed mass
+0 seed seed
+0 seed coat seed
+0 seed seed mass
+6 seed coat seed mass
+0 seed coat
+0 seed development and size
+0 seed development and size ap2
+0 seed development and size defective seed coats
+0 seed coat seed development and size
+6 nutrient transfer to the endosperm seed development and size
+0 endosperm seed development and size
+0 seed development and size
+0 seed development and size epidermal plateaus
+0 seed development and size lack epidermal plateaus and mucilage
+0 seed development and size outer integument cells are larger
+0 seed development and size mucilage
+0 seed development and size seed coats
+0 seed development and size lack epidermal plateaus
+0 development of a specialized seed coat tissue seed development and size
+6 sporophytic mutations in cereals seed development and size
+0 seed development and size outer integument cells are larger than those of wild type and are irregular in shape
+0 seed development and size seeds
+0 seed development and size outer integument cells
+0 seed development and size wild type
+0 seed development and size hypersensitive to bleach
+0 seed ap2
+0 seed defective seed coats
+0 seed coat seed
+0 nutrient transfer to the endosperm seed
+0 endosperm seed
+0 seed development
+0 seed epidermal plateaus
+0 seed lack epidermal plateaus and mucilage
+0 seed outer integument cells are larger
+0 seed mucilage
+0 seed seed coats
+0 seed lack epidermal plateaus
+0 development of a specialized seed coat tissue seed
+0 sporophytic mutations in cereals seed
+0 seed outer integument cells are larger than those of wild type and are irregular in shape
+0 seed seeds
+0 seed outer integument cells
+0 seed wild type
+0 seed hypersensitive to bleach
+6 ap2 defective seed coats
+0 seed coat ap2
+0 nutrient transfer to the endosperm ap2
+0 endosperm ap2
+0 seed development ap2
+0 ap2 epidermal plateaus
+6 ap2 lack epidermal plateaus and mucilage
+6 ap2 outer integument cells are larger
+0 ap2 mucilage
+0 ap2 seed coats
+6 ap2 lack epidermal plateaus
+0 development of a specialized seed coat tissue ap2
+0 sporophytic mutations in cereals ap2
+6 ap2 outer integument cells are larger than those of wild type and are irregular in shape
+0 ap2 seeds
+0 ap2 outer integument cells
+0 ap2 wild type
+6 ap2 hypersensitive to bleach
+0 seed coat defective seed coats
+0 nutrient transfer to the endosperm defective seed coats
+0 endosperm defective seed coats
+0 seed development defective seed coats
+0 defective seed coats epidermal plateaus
+0 defective seed coats lack epidermal plateaus and mucilage
+0 defective seed coats outer integument cells are larger
+0 defective seed coats mucilage
+0 defective seed coats
+0 defective seed coats lack epidermal plateaus
+0 development of a specialized seed coat tissue defective seed coats
+0 sporophytic mutations in cereals defective seed coats
+0 defective seed coats outer integument cells are larger than those of wild type and are irregular in shape
+0 defective seed coats seeds
+0 defective seed coats outer integument cells
+0 defective seed coats wild type
+0 defective seed coats hypersensitive to bleach
+0 seed coat nutrient transfer to the endosperm
+0 seed coat endosperm
+0 seed coat seed development
+0 seed coat epidermal plateaus
+0 seed coat lack epidermal plateaus and mucilage
+0 seed coat outer integument cells are larger
+0 seed coat mucilage
+0 seed coat seed coats
+0 seed coat lack epidermal plateaus
+0 development of a specialized seed coat tissue
+0 sporophytic mutations in cereals seed coat
+0 seed coat outer integument cells are larger than those of wild type and are irregular in shape
+0 seed coat seeds
+0 seed coat outer integument cells
+0 seed coat wild type
+0 seed coat hypersensitive to bleach
+0 nutrient transfer to the endosperm
+17 nutrient transfer to the endosperm seed development
+0 nutrient transfer to the endosperm epidermal plateaus
+0 nutrient transfer to the endosperm lack epidermal plateaus and mucilage
+0 nutrient transfer to the endosperm outer integument cells are larger
+0 nutrient transfer to the endosperm mucilage
+0 nutrient transfer to the endosperm seed coats
+0 nutrient transfer to the endosperm lack epidermal plateaus
+0 development of a specialized seed coat tissue nutrient transfer to the endosperm
+12 sporophytic mutations in cereals nutrient transfer to the endosperm
+0 nutrient transfer to the endosperm outer integument cells are larger than those of wild type and are irregular in shape
+0 nutrient transfer to the endosperm seeds
+0 nutrient transfer to the endosperm outer integument cells
+0 nutrient transfer to the endosperm wild type
+0 nutrient transfer to the endosperm hypersensitive to bleach
+0 endosperm seed development
+0 endosperm epidermal plateaus
+0 endosperm lack epidermal plateaus and mucilage
+0 endosperm outer integument cells are larger
+0 endosperm mucilage
+0 endosperm seed coats
+0 endosperm lack epidermal plateaus
+0 development of a specialized seed coat tissue endosperm
+0 sporophytic mutations in cereals endosperm
+0 endosperm outer integument cells are larger than those of wild type and are irregular in shape
+0 endosperm seeds
+0 endosperm outer integument cells
+0 endosperm wild type
+0 endosperm hypersensitive to bleach
+0 seed development epidermal plateaus
+0 seed development lack epidermal plateaus and mucilage
+0 seed development outer integument cells are larger
+0 seed development mucilage
+0 seed development seed coats
+0 seed development lack epidermal plateaus
+0 development of a specialized seed coat tissue seed development
+17 sporophytic mutations in cereals seed development
+0 seed development outer integument cells are larger than those of wild type and are irregular in shape
+0 seed development seeds
+0 seed development outer integument cells
+0 seed development wild type
+0 seed development hypersensitive to bleach
+0 lack epidermal plateaus and mucilage
+0 epidermal plateaus outer integument cells are larger
+0 epidermal plateaus mucilage
+0 seed coats epidermal plateaus
+0 lack epidermal plateaus
+0 development of a specialized seed coat tissue epidermal plateaus
+0 sporophytic mutations in cereals epidermal plateaus
+0 epidermal plateaus outer integument cells are larger than those of wild type and are irregular in shape
+0 epidermal plateaus seeds
+0 epidermal plateaus outer integument cells
+0 epidermal plateaus wild type
+0 epidermal plateaus hypersensitive to bleach
+0 lack epidermal plateaus and mucilage outer integument cells are larger
+0 lack epidermal plateaus and mucilage
+10 seed coats lack epidermal plateaus and mucilage
+0 lack epidermal plateaus and mucilage
+0 development of a specialized seed coat tissue lack epidermal plateaus and mucilage
+0 sporophytic mutations in cereals lack epidermal plateaus and mucilage
+0 lack epidermal plateaus and mucilage outer integument cells are larger than those of wild type and are irregular in shape
+0 lack epidermal plateaus and mucilage seeds
+0 lack epidermal plateaus and mucilage outer integument cells
+0 lack epidermal plateaus and mucilage wild type
+0 lack epidermal plateaus and mucilage hypersensitive to bleach
+0 mucilage outer integument cells are larger
+0 seed coats outer integument cells are larger
+0 lack epidermal plateaus outer integument cells are larger
+0 development of a specialized seed coat tissue outer integument cells are larger
+0 sporophytic mutations in cereals outer integument cells are larger
+0 outer integument cells are larger than those of wild type and are irregular in shape
+0 outer integument cells are larger seeds
+0 outer integument cells are larger
+0 outer integument cells are larger wild type
+0 outer integument cells are larger hypersensitive to bleach
+0 seed coats mucilage
+0 lack epidermal plateaus mucilage
+0 development of a specialized seed coat tissue mucilage
+0 sporophytic mutations in cereals mucilage
+0 mucilage outer integument cells are larger than those of wild type and are irregular in shape
+0 mucilage seeds
+0 mucilage outer integument cells
+6 mucilage wild type
+0 mucilage hypersensitive to bleach
+0 seed coats lack epidermal plateaus
+0 development of a specialized seed coat tissue seed coats
+0 sporophytic mutations in cereals seed coats
+0 seed coats outer integument cells are larger than those of wild type and are irregular in shape
+0 seed coats seeds
+0 seed coats outer integument cells
+0 seed coats wild type
+0 seed coats hypersensitive to bleach
+0 development of a specialized seed coat tissue lack epidermal plateaus
+0 sporophytic mutations in cereals lack epidermal plateaus
+0 lack epidermal plateaus outer integument cells are larger than those of wild type and are irregular in shape
+0 lack epidermal plateaus seeds
+0 lack epidermal plateaus outer integument cells
+0 lack epidermal plateaus wild type
+0 lack epidermal plateaus hypersensitive to bleach
+17 sporophytic mutations in cereals development of a specialized seed coat tissue
+0 development of a specialized seed coat tissue outer integument cells are larger than those of wild type and are irregular in shape
+0 development of a specialized seed coat tissue seeds
+0 development of a specialized seed coat tissue outer integument cells
+0 development of a specialized seed coat tissue wild type
+0 development of a specialized seed coat tissue hypersensitive to bleach
+0 sporophytic mutations in cereals outer integument cells are larger than those of wild type and are irregular in shape
+0 sporophytic mutations in cereals seeds
+0 sporophytic mutations in cereals outer integument cells
+0 sporophytic mutations in cereals wild type
+0 sporophytic mutations in cereals hypersensitive to bleach
+0 outer integument cells are larger than those of wild type and are irregular in shape seeds
+0 outer integument cells are larger than those of wild type and are irregular in shape
+0 outer integument cells are larger than those of wild type and are irregular in shape
+0 outer integument cells are larger than those of wild type and are irregular in shape hypersensitive to bleach
+0 outer integument cells seeds
+0 wild type seeds
+6 seeds hypersensitive to bleach
+0 outer integument cells wild type
+0 outer integument cells hypersensitive to bleach
+0 wild type hypersensitive to bleach
+0 AP2 seed
+0 AP2 ap2
+0 AP2 seed mass
+0 AP2 seed
+0 seed ap2
+0 seed mass seed
+0 seed seed
+0 seed mass ap2
+0 seed ap2
+0 seed mass
+0 Seed Soluble Sugar Metabolism
+0 AP2 Seed
+0 Seed Mass
+0 AP2 Soluble Sugar Metabolism
+0 Seed Mass Soluble Sugar Metabolism
+0 AP2 Seed Mass
+0 ap2 seed coat
+0 ap2 seeds
+6 ap2 soluble sugar metabolism
+0 ap2 seed development
+6 ap2 seed mass
+0 ap2 seed
+0 ap2 embryo
+0 ap2 ap2
+0 ap2 seed
+0 ap2 embryo cell number
+0 seed coat seeds
+0 seed coat soluble sugar metabolism
+0 seed coat seed development
+6 seed coat seed mass
+0 seed coat seed
+0 seed coat embryo
+0 seed coat ap2
+0 seed coat seed
+0 seed coat embryo cell number
+0 soluble sugar metabolism seeds
+0 seed development seeds
+0 seed mass seeds
+0 seed seeds
+0 embryo seeds
+0 ap2 seeds
+0 seed seeds
+6 embryo cell number seeds
+6 soluble sugar metabolism seed development
+0 seed mass soluble sugar metabolism
+0 seed soluble sugar metabolism
+0 soluble sugar metabolism embryo
+0 soluble sugar metabolism ap2
+0 soluble sugar metabolism seed
+0 soluble sugar metabolism embryo cell number
+6 seed mass seed development
+0 seed seed development
+0 seed development embryo
+0 seed development ap2
+0 seed development
+0 seed development embryo cell number
+0 seed mass
+0 seed mass embryo
+0 seed mass ap2
+0 seed mass seed
+0 seed mass embryo cell number
+0 seed embryo
+0 seed ap2
+0 seed seed
+0 seed embryo cell number
+0 embryo ap2
+0 seed embryo
+0 embryo cell number
+0 seed ap2
+6 embryo cell number ap2
+0 seed embryo cell number
+0 seed development
+8 proportion of sucrose to hexose cell expansion
+0 cell expansion seed
+0 cell expansion seed filling
+0 ratio of hexose to sucrose cell expansion
+0 seed cell expansion
+0 early morphogenesis phase of seed development cell expansion
+0 cell expansion late maturation phase
+0 proportion of sucrose to hexose seed
+8 proportion of sucrose to hexose seed filling
+0 ratio of hexose to sucrose proportion of sucrose to hexose
+0 seed proportion of sucrose to hexose
+0 early morphogenesis phase of seed development proportion of sucrose to hexose
+0 proportion of sucrose to hexose late maturation phase
+0 seed filling
+0 ratio of hexose to sucrose seed
+0 seed seed
+0 early morphogenesis phase of seed development seed
+0 seed late maturation phase
+0 ratio of hexose to sucrose seed filling
+0 seed seed filling
+0 early morphogenesis phase of seed development seed filling
+0 seed filling late maturation phase
+0 ratio of hexose to sucrose seed
+8 ratio of hexose to sucrose early morphogenesis phase of seed development
+0 ratio of hexose to sucrose late maturation phase
+0 early morphogenesis phase of seed development
+0 seed late maturation phase
+0 early morphogenesis phase of seed development late maturation phase
+17 immature fava bean embryos maturation phase
+0 immature fava bean embryos
+2 immature fava bean embryos high concentrations of hexose
+17 immature fava bean embryos undergo cell divisions
+2 immature fava bean embryos high sucrose concentration
+0 fava bean maturation phase
+0 high concentrations of hexose maturation phase
+0 undergo cell divisions maturation phase
+17 high sucrose concentration maturation phase
+0 fava bean high concentrations of hexose
+0 fava bean undergo cell divisions
+0 fava bean high sucrose concentration
+17 high concentrations of hexose undergo cell divisions
+0 high concentrations of hexose high sucrose concentration
+0 undergo cell divisions high sucrose concentration
+0 maturation phase changes in hexose and sucrose levels
+0 cell division during the morphogenesis phase maturation phase
+0 seed filling maturation phase
+0 seed maturation phase
+0 maturation phase developing seeds
+0 maturation phase changes in the levels of hexose and sucrose
+0 maturation phase ap2
+8 cell division during the morphogenesis phase changes in hexose and sucrose levels
+8 seed filling changes in hexose and sucrose levels
+0 seed changes in hexose and sucrose levels
+0 changes in hexose and sucrose levels developing seeds
+0 changes in hexose and sucrose levels changes in the levels of hexose and sucrose
+0 changes in hexose and sucrose levels ap2
+0 cell division during the morphogenesis phase seed filling
+0 cell division during the morphogenesis phase seed
+0 cell division during the morphogenesis phase developing seeds
+0 cell division during the morphogenesis phase changes in the levels of hexose and sucrose
+0 cell division during the morphogenesis phase ap2
+0 seed filling
+0 seed filling developing seeds
+0 seed filling changes in the levels of hexose and sucrose
+0 seed filling ap2
+0 seed developing seeds
+0 seed changes in the levels of hexose and sucrose
+0 seed ap2
+6 changes in the levels of hexose and sucrose developing seeds
+0 ap2 developing seeds
+6 ap2 changes in the levels of hexose and sucrose
+0 ap2 wild type
+0 seed ap2
+0 seed development ap2
+0 seeds ap2
+0 wild - type ap2
+0 seeds ap2
+0 ap2 ap2
+0 hexose / sucrose ratios ap2
+0 seed wild type
+0 seed development wild type
+0 seeds wild type
+0 wild - type wild type
+0 seeds wild type
+0 ap2 wild type
+0 hexose / sucrose ratios wild type
+0 seed development
+0 seeds seed
+0 wild - type seed
+0 seeds seed
+0 ap2 seed
+0 hexose / sucrose ratios seed
+0 seeds seed development
+0 wild - type seed development
+0 seeds seed development
+0 ap2 seed development
+0 hexose / sucrose ratios seed development
+0 wild - type seeds
+0 seeds seeds
+0 ap2 seeds
+6 hexose / sucrose ratios seeds
+0 seeds wild - type
+0 ap2 wild - type
+6 hexose / sucrose ratios wild - type
+0 ap2 seeds
+6 hexose / sucrose ratios seeds
+6 hexose / sucrose ratios ap2
+0 wild - type seed
+0 seed development
+0 11 DAP seed
+0 ap2 seed
+6 hexose / sucrose ratios seed
+0 9 and 11 DAP seed
+0 wild - type seed development
+0 11 DAP wild - type
+0 ap2 wild - type
+0 hexose / sucrose ratios wild - type
+0 9 and 11 DAP wild - type
+0 11 DAP seed development
+0 ap2 seed development
+0 hexose / sucrose ratios seed development
+0 9 and 11 DAP seed development
+0 11 DAP ap2
+0 hexose / sucrose ratios 11 DAP
+0 9 and 11 DAP
+6 hexose / sucrose ratios ap2
+0 9 and 11 DAP ap2
+6 hexose / sucrose ratios 9 and 11 DAP
+8 hexose / sucrose ratios seed development
+12 hexose / sucrose ratios ap2
+6 hexose / sucrose ratios extended period of cell division
+0 hexose / sucrose ratios seed
+0 hexose / sucrose ratios embryo
+0 hexose / sucrose ratios embryo cell number
+0 hexose / sucrose ratios ap2
+0 ap2 seed development
+6 seed development extended period of cell division
+0 seed development
+0 seed development embryo
+0 seed development embryo cell number
+0 seed development ap2
+6 ap2 extended period of cell division
+0 ap2 seed
+0 ap2 embryo
+0 ap2 embryo cell number
+0 ap2 ap2
+0 seed extended period of cell division
+0 extended period of cell division embryo
+6 extended period of cell division embryo cell number
+12 extended period of cell division ap2
+0 seed embryo
+0 seed embryo cell number
+0 seed ap2
+0 embryo cell number
+0 embryo ap2
+6 embryo cell number ap2
+0 seed mass
+6 changes in hexose levels ap2
+0 changes in hexose levels AP2
+0 changes in hexose levels sugar metabolism
+0 changes in hexose levels cell - wall - bound invertases
+0 ap2 AP2
+0 ap2 sugar metabolism
+0 ap2 cell - wall - bound invertases
+6 AP2 sugar metabolism
+19 AP2 cell - wall - bound invertases
+6 sugar metabolism cell - wall - bound invertases
+0 photosynthetic organs late in embryogenesis
+0 seed coat late in embryogenesis
+0 early and late in embryogenesis
+0 photosynthetic organs seed coat
+0 photosynthetic organs early and late in embryogenesis
+0 seed coat early and late in embryogenesis
+10 cell - wall - bound invertases thin - walled parenchyma
+0 seed thin - walled parenchyma
+0 favabean thin - walled parenchyma
+0 thin - walled parenchyma hydrolyze sucrose
+0 thin - walled parenchyma seed
+0 thin - walled parenchyma innermost seed coat tissue
+0 early phase of favabean seed development thin - walled parenchyma
+0 seed cell - wall - bound invertases
+14 favabean cell - wall - bound invertases
+6 cell - wall - bound invertases hydrolyze sucrose
+0 cell - wall - bound invertases seed
+10 cell - wall - bound invertases innermost seed coat tissue
+21 early phase of favabean seed development cell - wall - bound invertases
+0 favabean seed
+0 seed hydrolyze sucrose
+0 seed seed
+0 seed innermost seed coat tissue
+0 early phase of favabean seed development
+6 favabean hydrolyze sucrose
+0 favabean seed
+0 favabean innermost seed coat tissue
+0 early phase of favabean seed development
+0 seed hydrolyze sucrose
+0 innermost seed coat tissue hydrolyze sucrose
+6 early phase of favabean seed development hydrolyze sucrose
+0 innermost seed coat tissue
+0 early phase of favabean seed development seed
+0 early phase of favabean seed development innermost seed coat tissue
+0 late phase of seed development sucrose synthase
+0 Cell - wall - bound invertase sucrose synthase
+0 seed sucrose synthase
+10 embryo cells sucrose synthase
+19 Cell - wall - bound invertase late phase of seed development
+0 late phase of seed development
+0 late phase of seed development embryo cells
+0 Cell - wall - bound invertase seed
+0 Cell - wall - bound invertase embryo cells
+0 seed embryo cells
+19 Cell - wall - bound invertase fava bean cultivars that exhibit variations in seed size
+0 Cell - wall - bound invertase seed
+0 Cell - wall - bound invertase seed cell number
+0 Cell - wall - bound invertase seed
+19 Cell - wall - bound invertase maize miniature1
+0 fava bean cultivars that exhibit variations in seed size
+6 seed cell number fava bean cultivars that exhibit variations in seed size
+0 seed fava bean cultivars that exhibit variations in seed size
+0 fava bean cultivars that exhibit variations in seed size maize miniature1
+0 seed cell number seed
+0 seed seed
+0 seed maize miniature1
+0 seed cell number
+6 seed cell number maize miniature1
+0 seed maize miniature1
+0 AP2 seed
+6 AP2 seed mass
+19 AP2 cell - wall - bound invertase
+0 seed mass
+0 seed cell - wall - bound invertase
+6 seed mass cell - wall - bound invertase
+0 AP2 EREBP
+0 EREBP AP2
+1 AP2 / EREBP
+0 AP2 AP2
+1 AP2 / EREBP
+0 AP2 / EREBP AP2
+0 reductions in seed mass and oil content
+0 reductions in seed mass
+0 carbohydrate metabolism seed
+0 defects in carbohydrate metabolism seed
+0 WRINKLED1 seed
+0 Mutations in the Arabidopsis WRINKLED1 seed
+0 reductions in seed mass and oil content
+0 carbohydrate metabolism reductions in seed mass and oil content
+0 defects in carbohydrate metabolism reductions in seed mass and oil content
+0 WRINKLED1 reductions in seed mass and oil content
+6 Mutations in the Arabidopsis WRINKLED1 reductions in seed mass and oil content
+0 carbohydrate metabolism reductions in seed mass
+0 defects in carbohydrate metabolism reductions in seed mass
+0 WRINKLED1 reductions in seed mass
+6 Mutations in the Arabidopsis WRINKLED1 reductions in seed mass
+0 defects in carbohydrate metabolism
+0 WRINKLED1 carbohydrate metabolism
+0 Mutations in the Arabidopsis WRINKLED1 carbohydrate metabolism
+0 WRINKLED1 defects in carbohydrate metabolism
+6 Mutations in the Arabidopsis WRINKLED1 defects in carbohydrate metabolism
+0 Mutations in the Arabidopsis WRINKLED1
+17 AINTEGUMENTA cell proliferation
+17 Arabidopsis cell proliferation
+14 Arabidopsis AINTEGUMENTA
+0 seeds transgenic Arabidopsis
+0 seeds transgenic Arabidopsis and tobacco
+0 Ectopic expression of AINTEGUMENTA seeds
+0 plant organs , including seeds , to increase in size
+0 AINTEGUMENTA seeds
+0 transgenic Arabidopsis and tobacco
+0 Ectopic expression of AINTEGUMENTA transgenic Arabidopsis
+0 plant organs , including seeds , to increase in size transgenic Arabidopsis
+0 AINTEGUMENTA transgenic Arabidopsis
+0 Ectopic expression of AINTEGUMENTA transgenic Arabidopsis and tobacco
+0 plant organs , including seeds , to increase in size transgenic Arabidopsis and tobacco
+0 AINTEGUMENTA transgenic Arabidopsis and tobacco
+6 Ectopic expression of AINTEGUMENTA plant organs , including seeds , to increase in size
+0 Ectopic expression of AINTEGUMENTA
+0 AINTEGUMENTA plant organs , including seeds , to increase in size
+0 seed size
+6 seed size transgenic plants
+6 seed size increase in cell number
+6 seed size seed development
+0 seed size seed
+0 seed transgenic plants
+0 seed increase in cell number
+0 seed seed development
+0 seed seed
+12 transgenic plants increase in cell number
+0 transgenic plants seed development
+0 transgenic plants seed
+8 increase in cell number seed development
+0 increase in cell number seed
+0 seed development
+1 AP2 / EREBP
+0 EREBP AP2
+0 AP2 EREBP
+0 AP2 / EREBP AP2
+1 AP2 / EREBP
+0 AP2 AP2
+0 floral , and root meristems
+0 stem cell floral , and root meristems
+0 shoot , floral , and root meristems
+0 plants floral , and root meristems
+10 maintenance of small stem cell floral , and root meristems
+17 Postembryonic organ formation floral , and root meristems
+0 stem cell root meristems
+0 shoot , floral , and root meristems
+0 plants root meristems
+10 maintenance of small stem cell root meristems
+17 Postembryonic organ formation root meristems
+0 stem cell shoot , floral , and root meristems
+0 plants stem cell
+0 maintenance of small stem cell
+0 Postembryonic organ formation stem cell
+0 plants shoot , floral , and root meristems
+10 maintenance of small stem cell shoot , floral , and root meristems
+17 Postembryonic organ formation shoot , floral , and root meristems
+12 plants maintenance of small stem cell
+17 Postembryonic organ formation plants
+17 Postembryonic organ formation maintenance of small stem cell
+0 meristems differentiation of the resident cells
+6 stem cell niche differentiation of the resident cells
+0 animal differentiation of the resident cells
+0 stem cell systems differentiation of the resident cells
+0 meristems stem cell niche
+0 animal meristems
+0 stem cell systems meristems
+0 animal stem cell niche
+0 stem cell systems stem cell niche
+0 animal stem cell systems
+0 shoot meristem stem cells
+0 shoot meristem central region of the shoot apex
+0 shoot meristem shoot apex
+0 Arabidopsis thaliana shoot meristem
+0 stem cells central region of the shoot apex
+0 stem cells shoot apex
+0 Arabidopsis thaliana stem cells
+0 central region of the shoot apex
+0 Arabidopsis thaliana central region of the shoot apex
+0 Arabidopsis thaliana shoot apex
+0 stem cells stem cell
+0 meristem cells stem cell
+0 stem cells meristem cells
+0 CLAVATA3
+4 CLAVATA3 CLV3
+0 CLAVATA3 stem cell
+0 CLAVATA3 apical stem cells
+0 CLAVATA3 shoot meristem
+0 CLV3
+0 stem cell
+0 apical stem cells
+10 shoot meristem
+0 CLV3 stem cell
+0 CLV3 apical stem cells
+0 CLV3 shoot meristem
+0 apical stem cells stem cell
+0 stem cell shoot meristem
+0 apical stem cells shoot meristem
+0 fail to protect shoot meristem stem cells from differentiation
+4 WUSCHEL WUS
+0 OC stem cells
+0 maintain the overlying stem cells undifferentiated
+0 stem cells stem cells
+0 organizing center stem cells
+0 WUS stem cells
+6 OC maintain the overlying stem cells undifferentiated
+0 stem cells OC
+0 organizing center OC
+0 WUS OC
+0 stem cells maintain the overlying stem cells undifferentiated
+0 organizing center maintain the overlying stem cells undifferentiated
+0 WUS maintain the overlying stem cells undifferentiated
+0 stem cells organizing center
+0 WUS stem cells
+18 WUS organizing center
+0 control the size of the stem cell population
+0 OC stem cell
+0 CLV3 stem cell
+0 size of the OC stem cell
+0 stem cells stem cell
+0 OC control the size of the stem cell population
+0 CLV3 control the size of the stem cell population
+6 size of the OC control the size of the stem cell population
+0 stem cells control the size of the stem cell population
+0 CLV3 OC
+0 size of the OC
+0 stem cells OC
+6 CLV3 size of the OC
+0 stem cells CLV3
+0 stem cells size of the OC
+0 CLV3 WUS
+0 CLV3 CLV1
+13 CLV3 CLV1 receptor kinase complex
+0 CLV1 WUS
+18 CLV1 receptor kinase complex WUS
+0 CLV1 receptor kinase complex
+0 indeterminate shoot meristems AGAMOUS
+4 AGAMOUS AG
+0 AGAMOUS WUS
+0 AGAMOUS late in flower development
+0 AGAMOUS flower
+0 floral meristems AGAMOUS
+0 AGAMOUS organs
+0 AGAMOUS stem cell niche
+0 indeterminate shoot meristems AG
+0 indeterminate shoot meristems WUS
+0 indeterminate shoot meristems late in flower development
+0 indeterminate shoot meristems flower
+0 floral meristems indeterminate shoot meristems
+0 indeterminate shoot meristems organs
+0 indeterminate shoot meristems stem cell niche
+18 AG WUS
+18 AG late in flower development
+0 AG flower
+18 floral meristems AG
+0 AG organs
+0 AG stem cell niche
+18 WUS late in flower development
+0 WUS flower
+18 floral meristems WUS
+0 WUS organs
+0 WUS stem cell niche
+0 late in flower development
+0 floral meristems late in flower development
+0 late in flower development organs
+0 late in flower development stem cell niche
+0 floral meristems flower
+0 flower organs
+0 flower stem cell niche
+0 floral meristems organs
+0 floral meristems stem cell niche
+0 stem cell niche organs
+0 primary shoot meristem embryo
+0 embryo development
+0 primary shoot meristem embryo development
+0 Arabidopsis shoot meristem
+0 Arabidopsis shoot meristem formation
+0 Arabidopsis precursor cells of the OC in the 16-cell embryo
+18 Arabidopsis WUS
+0 Arabidopsis 16-cell embryo
+0 Arabidopsis OC
+0 shoot meristem formation
+0 precursor cells of the OC in the 16-cell embryo shoot meristem
+0 WUS shoot meristem
+0 16-cell embryo shoot meristem
+0 OC shoot meristem
+0 precursor cells of the OC in the 16-cell embryo shoot meristem formation
+0 WUS shoot meristem formation
+0 16-cell embryo shoot meristem formation
+0 OC shoot meristem formation
+18 WUS precursor cells of the OC in the 16-cell embryo
+0 precursor cells of the OC in the 16-cell embryo
+0 precursor cells of the OC in the 16-cell embryo
+0 WUS 16-cell embryo
+0 WUS OC
+0 OC 16-cell embryo
+18 CLV3 late heart stage
+0 late heart stage between the outgrowing cotyledons
+18 CLV3 between the outgrowing cotyledons
+0 bent cotyledon embryos rosette of leaves
+0 bent cotyledon embryos inflorescence stem
+0 bent cotyledon embryos primary shoot meristem
+0 bent cotyledon embryos germination
+0 bent cotyledon embryos bractless floral meristems
+0 bent cotyledon embryos cauline leaves
+0 bent cotyledon embryos axillary shoot meristems
+0 rosette of leaves inflorescence stem
+0 primary shoot meristem rosette of leaves
+0 germination rosette of leaves
+0 rosette of leaves bractless floral meristems
+0 rosette of leaves cauline leaves
+0 rosette of leaves axillary shoot meristems
+0 primary shoot meristem inflorescence stem
+0 germination inflorescence stem
+0 inflorescence stem bractless floral meristems
+0 inflorescence stem cauline leaves
+0 inflorescence stem axillary shoot meristems
+0 primary shoot meristem germination
+0 primary shoot meristem bractless floral meristems
+0 primary shoot meristem cauline leaves
+0 primary shoot meristem axillary shoot meristems
+0 germination bractless floral meristems
+0 germination cauline leaves
+0 germination axillary shoot meristems
+0 cauline leaves bractless floral meristems
+0 axillary shoot meristems bractless floral meristems
+0 cauline leaves axillary shoot meristems
+0 maintain stem cells undifferentiated
+0 stem cell niches maintain stem cells undifferentiated
+0 stem cell niches stem cells
+6 keep stem cells undifferentiated wus
+0 l28 wus
+0 semidominant l28 wus
+6 l28 keep stem cells undifferentiated
+0 semidominant l28 keep stem cells undifferentiated
+0 semidominant l28
+0 floral transition control of seed size
+0 mutation in the APETALA2 control of seed size
+0 l28 control of seed size
+0 shoot meristem control of seed size
+0 termination of the shoot meristem control of seed size
+0 premature termination of the shoot meristem control of seed size
+0 APETALA2 control of seed size
+6 AP2 control of seed size
+0 floral patterning control of seed size
+0 AG control of seed size
+0 mutation in the APETALA2 floral transition
+0 l28 floral transition
+0 shoot meristem floral transition
+0 termination of the shoot meristem floral transition
+0 premature termination of the shoot meristem floral transition
+0 APETALA2 floral transition
+17 AP2 floral transition
+0 floral patterning floral transition
+0 AG floral transition
+0 l28 mutation in the APETALA2
+0 shoot meristem mutation in the APETALA2
+0 termination of the shoot meristem mutation in the APETALA2
+0 premature termination of the shoot meristem mutation in the APETALA2
+0 mutation in the APETALA2
+0 mutation in the APETALA2 AP2
+0 mutation in the APETALA2 floral patterning
+0 mutation in the APETALA2 AG
+0 shoot meristem l28
+0 termination of the shoot meristem l28
+6 premature termination of the shoot meristem l28
+0 l28 APETALA2
+0 l28 AP2
+0 l28 floral patterning
+0 l28 AG
+0 termination of the shoot meristem
+0 premature termination of the shoot meristem
+0 shoot meristem APETALA2
+0 shoot meristem AP2
+0 shoot meristem floral patterning
+0 shoot meristem AG
+0 premature termination of the shoot meristem
+0 termination of the shoot meristem APETALA2
+0 termination of the shoot meristem AP2
+0 termination of the shoot meristem floral patterning
+0 termination of the shoot meristem AG
+0 premature termination of the shoot meristem APETALA2
+0 premature termination of the shoot meristem AP2
+0 premature termination of the shoot meristem floral patterning
+0 premature termination of the shoot meristem AG
+4 APETALA2 AP2
+0 APETALA2 floral patterning
+0 APETALA2 AG
+17 AP2 floral patterning
+18 AP2 AG
+0 floral patterning AG
+0 WUS CLV3
+0 AP2 CLV3
+0 AG CLV3
+0 maintenance of the stem cell niche CLV3
+0 primary shoot meristem CLV3
+0 AP2 WUS
+0 AG WUS
+0 maintenance of the stem cell niche WUS
+0 primary shoot meristem WUS
+0 AP2 AG
+6 maintenance of the stem cell niche AP2
+18 primary shoot meristem AP2
+0 maintenance of the stem cell niche AG
+0 primary shoot meristem AG
+6 maintenance of the stem cell niche primary shoot meristem
+10 maintenance of undifferentiated stem cells stem cell niches
+0 stem cells stem cell niches
+0 postembryonic life stem cell niches
+0 higher plants stem cell niches
+0 organ stem cell niches
+0 shoot meristem stem cell niches
+0 organ formation stem cell niches
+0 maintenance of undifferentiated stem cells
+0 postembryonic life maintenance of undifferentiated stem cells
+0 higher plants maintenance of undifferentiated stem cells
+0 organ maintenance of undifferentiated stem cells
+0 shoot meristem maintenance of undifferentiated stem cells
+0 organ formation maintenance of undifferentiated stem cells
+0 postembryonic life stem cells
+0 higher plants stem cells
+0 organ stem cells
+0 shoot meristem stem cells
+0 organ formation stem cells
+0 postembryonic life higher plants
+0 organ postembryonic life
+0 shoot meristem postembryonic life
+0 organ formation postembryonic life
+0 organ higher plants
+0 shoot meristem higher plants
+0 organ formation higher plants
+0 organ shoot meristem
+0 organ formation
+0 organ formation shoot meristem
+6 stem cell maintenance AP2
+6 shoot meristem stem cell maintenance
+18 shoot meristem AP2
+16 AP2AP2 A-function of the ABC model
+0 AP2AP2 organ identity specification
+0 AP2AP2 organ
+0 Stem Cell Maintenance AP2AP2
+0 AP2AP2
+6 A-function of the ABC model organ identity specification
+0 A-function of the ABC model organ
+0 Stem Cell Maintenance A-function of the ABC model
+0 AP2AP2 A-function of the ABC model
+0 organ identity specification
+0 Stem Cell Maintenance organ identity specification
+0 AP2AP2 organ identity specification
+0 Stem Cell Maintenance organ
+0 AP2AP2 organ
+6 Stem Cell Maintenance AP2AP2
+0 floral transition seed
+0 control of seed size
+0 floral transition control of seed size
+0 l28 shoot
+0 ap2 loss - of-function alleles shoot
+0 l28 / + shoot
+0 mispecified floral organs shoot
+0 early flowering shoot
+0 reduction in shoot meristem size
+0 floral organs shoot
+0 l28 ap2 loss - of-function alleles
+0 l28 l28 / +
+0 l28 mispecified floral organs
+0 l28 early flowering
+0 l28 reduction in shoot meristem size
+0 l28 floral organs
+0 l28 / + ap2 loss - of-function alleles
+6 ap2 loss - of-function alleles mispecified floral organs
+17 ap2 loss - of-function alleles early flowering
+6 ap2 loss - of-function alleles reduction in shoot meristem size
+0 ap2 loss - of-function alleles floral organs
+0 l28 / + mispecified floral organs
+0 l28 / + early flowering
+0 l28 / + reduction in shoot meristem size
+0 l28 / + floral organs
+0 early flowering mispecified floral organs
+0 mispecified floral organs reduction in shoot meristem size
+0 mispecified floral organs
+0 early flowering reduction in shoot meristem size
+0 early flowering floral organs
+0 floral organs reduction in shoot meristem size
+0 premature termination of the shoot meristem differentiation of the stem cells
+6 premature termination of the shoot meristem l28
+6 differentiation of the stem cells l28
+0 Wild - type shoot meristem
+18 AP2 shoot meristem
+18 Wild - type AP2
+0 AP2 l28
+0 wild - type AP2
+0 wild - type l28
+0 shoot meristem development
+0 l28 shoot meristem
+0 AP2 shoot meristem
+0 l28 shoot meristem development
+0 AP2 shoot meristem development
+18 l28 AP2
+0 AP2 shoot meristem
+0 l28 AP2
+0 wild - type AP2
+0 meristem l28
+0 meristem termination
+0 meristem termination l28
+0 LRR RLK
+0 receptor - like kinase LRR
+0 LRR - RLK
+0 leucine - rich repeat receptor - like kinase LRR
+4 leucine - rich repeat LRR
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 LRR
+0 SERK1 LRR
+0 Arabidopsis thaliana LRR
+0 LRR acquisition of embryogenic competence
+0 LRR male sporogenesis
+4 receptor - like kinase RLK
+0 LRR - RLK
+0 leucine - rich repeat receptor - like kinase RLK
+0 leucine - rich repeat RLK
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 RLK
+0 SERK1 RLK
+0 Arabidopsis thaliana RLK
+0 RLK acquisition of embryogenic competence
+0 RLK male sporogenesis
+0 receptor - like kinase LRR - RLK
+1 leucine - rich repeat receptor - like kinase
+0 leucine - rich repeat receptor - like kinase
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 receptor - like kinase
+0 SERK1 receptor - like kinase
+14 Arabidopsis thaliana receptor - like kinase
+0 receptor - like kinase acquisition of embryogenic competence
+0 receptor - like kinase male sporogenesis
+4 leucine - rich repeat receptor - like kinase LRR - RLK
+0 leucine - rich repeat LRR - RLK
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 LRR - RLK
+0 SERK1 LRR - RLK
+0 Arabidopsis thaliana LRR - RLK
+0 LRR - RLK acquisition of embryogenic competence
+0 LRR - RLK male sporogenesis
+0 leucine - rich repeat receptor - like kinase
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 leucine - rich repeat receptor - like kinase
+1 SERK1 leucine - rich repeat receptor - like kinase
+14 Arabidopsis thaliana leucine - rich repeat receptor - like kinase
+0 leucine - rich repeat receptor - like kinase acquisition of embryogenic competence
+0 leucine - rich repeat receptor - like kinase male sporogenesis
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 leucine - rich repeat
+0 SERK1 leucine - rich repeat
+0 Arabidopsis thaliana leucine - rich repeat
+0 leucine - rich repeat acquisition of embryogenic competence
+0 leucine - rich repeat male sporogenesis
+4 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 SERK1
+0 Arabidopsis thaliana SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 acquisition of embryogenic competence
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 male sporogenesis
+14 Arabidopsis thaliana SERK1
+6 SERK1 acquisition of embryogenic competence
+6 SERK1 male sporogenesis
+6 Arabidopsis thaliana acquisition of embryogenic competence
+6 Arabidopsis thaliana male sporogenesis
+0 acquisition of embryogenic competence male sporogenesis
+0 in vivo plants
+0 in vivo SERK1
+0 in vivo cyan fluorescent protein
+0 SERK1 signaling complex in vivo
+0 SERK1 in vivo
+0 in vivo SERK1 promoter
+0 in vivo SERK1
+0 plants SERK1
+0 plants cyan fluorescent protein
+0 SERK1 signaling complex plants
+0 SERK1 plants
+0 plants SERK1 promoter
+0 plants SERK1
+0 SERK1 cyan fluorescent protein
+0 SERK1 signaling complex SERK1
+0 SERK1 SERK1
+0 SERK1 SERK1 promoter
+0 SERK1 SERK1
+0 SERK1 signaling complex cyan fluorescent protein
+0 SERK1 cyan fluorescent protein
+0 cyan fluorescent protein SERK1 promoter
+0 cyan fluorescent protein SERK1
+0 SERK1 signaling complex
+0 SERK1 signaling complex SERK1 promoter
+0 SERK1 signaling complex SERK1
+0 SERK1 SERK1 promoter
+0 SERK1 SERK1
+0 SERK1 promoter
+0 LRR - RLKs BRI1
+0 RLKs BRI1
+0 LRR BRI1
+0 BRI1 BRI1
+0 BRASSINOSTEROID - INSENSITIVE1 BRI1
+0 BRI1 - ASSOCIATED KINASE1
+0 SERK3 BRI1
+0 LRR - RLKs
+0 LRR - RLKs
+1 LRR - RLKs BRI1
+0 LRR - RLKs BRASSINOSTEROID - INSENSITIVE1
+0 LRR - RLKs BRI1 - ASSOCIATED KINASE1
+1 LRR - RLKs SERK3
+0 LRR RLKs
+0 RLKs BRI1
+0 RLKs BRASSINOSTEROID - INSENSITIVE1
+0 RLKs BRI1 - ASSOCIATED KINASE1
+0 RLKs SERK3
+0 LRR BRI1
+0 LRR BRASSINOSTEROID - INSENSITIVE1
+0 LRR BRI1 - ASSOCIATED KINASE1
+0 LRR SERK3
+4 BRASSINOSTEROID - INSENSITIVE1 BRI1
+0 BRI1 BRI1 - ASSOCIATED KINASE1
+0 BRI1 SERK3
+0 BRASSINOSTEROID - INSENSITIVE1 BRI1 - ASSOCIATED KINASE1
+0 BRASSINOSTEROID - INSENSITIVE1 SERK3
+4 SERK3 BRI1 - ASSOCIATED KINASE1
+0 KINASE - ASSOCIATED PROTEIN PHOSPHATASE CDC48A
+0 KINASE - ASSOCIATED PROTEIN PHOSPHATASE 14-3 -3 ν
+0 CDC48A 14-3 -3 ν
+0 SERK1 complex
+0 AGAMOUS SERK1 complex
+0 CONSTANS family SERK1 complex
+0 MADS box transcription factor SERK1 complex
+7 AGAMOUS - LIKE15 SERK1 complex
+0 AGAMOUS SERK1
+0 CONSTANS family SERK1
+0 MADS box transcription factor SERK1
+0 AGAMOUS - LIKE15 SERK1
+0 AGAMOUS CONSTANS family
+0 MADS box transcription factor AGAMOUS
+0 AGAMOUS - LIKE15
+0 MADS box transcription factor CONSTANS family
+0 AGAMOUS - LIKE15 CONSTANS family
+1 MADS box transcription factor AGAMOUS - LIKE15
+7 BRI1 - containing multiple protein complexes
+0 SERK1 BRI1
+0 SERK3 BRI1
+7 SERK1 BRI1 - containing multiple protein complexes
+7 SERK3 BRI1 - containing multiple protein complexes
+0 SERK1 SERK3
+0 SERK1 mutant
+0 SERK1 bri 1-119
+0 SERK1 BRI1
+0 SERK1 serk 1-1
+0 SERK1 mutant bri 1-119
+0 SERK1 mutant BRI1
+0 SERK1 mutant serk 1-1
+0 BRI1 bri 1-119
+0 serk 1-1 bri 1-119
+0 serk 1-1 BRI1
+6 SERK1 brassinolide signaling pathway
+6 SERK3 brassinolide signaling pathway
+0 SERK3 SERK1
+14 RLKs plant
+0 LRR - RLKs
+0 LRR RLKs
+0 leucine - rich repeat RLKs
+4 receptor - like kinases RLKs
+0 leucine - rich repeat receptor - like kinases RLKs
+14 LRR - RLKs plant
+14 LRR plant
+0 leucine - rich repeat plant
+0 receptor - like kinases plant
+0 leucine - rich repeat receptor - like kinases plant
+0 LRR - RLKs
+0 leucine - rich repeat LRR - RLKs
+0 receptor - like kinases LRR - RLKs
+4 leucine - rich repeat receptor - like kinases LRR - RLKs
+4 leucine - rich repeat LRR
+0 receptor - like kinases LRR
+0 leucine - rich repeat receptor - like kinases LRR
+0 leucine - rich repeat receptor - like kinases
+0 leucine - rich repeat receptor - like kinases
+0 leucine - rich repeat receptor - like kinases
+0 Arabidopsis thaliana CLAVATA1
+0 Arabidopsis thaliana abscission
+0 Arabidopsis thaliana disease resistance
+0 Arabidopsis thaliana rice
+0 Arabidopsis thaliana Oryza sativa
+0 Arabidopsis thaliana Xa21
+0 Arabidopsis thaliana HAESA
+14 Arabidopsis thaliana CLV1
+0 Arabidopsis thaliana BRASSINOSTEROID - INSENSITIVE1
+14 Arabidopsis thaliana BRI1
+14 Arabidopsis thaliana ERECTA
+0 Arabidopsis thaliana shoot meristem
+6 Arabidopsis thaliana shoot meristem maintenance
+6 Arabidopsis thaliana organ elongation
+6 Arabidopsis thaliana hormone perception
+0 Arabidopsis thaliana RLK5
+0 Arabidopsis thaliana FLS2
+0 Arabidopsis thaliana flagellin signaling
+0 CLAVATA1 abscission
+0 CLAVATA1 disease resistance
+0 CLAVATA1 rice
+0 CLAVATA1 Oryza sativa
+0 CLAVATA1 Xa21
+0 CLAVATA1 HAESA
+4 CLAVATA1 CLV1
+0 CLAVATA1 BRASSINOSTEROID - INSENSITIVE1
+0 CLAVATA1 BRI1
+0 CLAVATA1 ERECTA
+0 CLAVATA1 shoot meristem
+0 CLAVATA1 shoot meristem maintenance
+0 CLAVATA1 organ elongation
+0 CLAVATA1 hormone perception
+0 CLAVATA1 RLK5
+0 CLAVATA1 FLS2
+0 CLAVATA1 flagellin signaling
+0 disease resistance abscission
+6 rice abscission
+0 Oryza sativa abscission
+0 Xa21 abscission
+0 HAESA abscission
+0 CLV1 abscission
+0 BRASSINOSTEROID - INSENSITIVE1 abscission
+0 BRI1 abscission
+0 ERECTA abscission
+0 shoot meristem abscission
+0 shoot meristem maintenance abscission
+0 organ elongation abscission
+0 hormone perception abscission
+6 RLK5 abscission
+0 FLS2 abscission
+0 abscission flagellin signaling
+6 rice disease resistance
+0 Oryza sativa disease resistance
+6 Xa21 disease resistance
+0 HAESA disease resistance
+0 CLV1 disease resistance
+0 BRASSINOSTEROID - INSENSITIVE1 disease resistance
+0 BRI1 disease resistance
+0 ERECTA disease resistance
+0 shoot meristem disease resistance
+0 shoot meristem maintenance disease resistance
+0 organ elongation disease resistance
+0 hormone perception disease resistance
+0 RLK5 disease resistance
+0 FLS2 disease resistance
+0 disease resistance flagellin signaling
+0 rice Oryza sativa
+14 rice Xa21
+0 rice HAESA
+0 CLV1 rice
+0 BRASSINOSTEROID - INSENSITIVE1 rice
+0 BRI1 rice
+0 ERECTA rice
+0 rice shoot meristem
+0 rice shoot meristem maintenance
+0 rice organ elongation
+0 rice hormone perception
+14 rice RLK5
+14 rice FLS2
+6 rice flagellin signaling
+0 Oryza sativa Xa21
+0 Oryza sativa HAESA
+0 CLV1 Oryza sativa
+0 BRASSINOSTEROID - INSENSITIVE1 Oryza sativa
+0 BRI1 Oryza sativa
+0 ERECTA Oryza sativa
+0 Oryza sativa shoot meristem
+0 Oryza sativa shoot meristem maintenance
+0 Oryza sativa organ elongation
+0 Oryza sativa hormone perception
+0 Oryza sativa RLK5
+0 Oryza sativa FLS2
+0 Oryza sativa flagellin signaling
+0 Xa21 HAESA
+0 CLV1 Xa21
+0 BRASSINOSTEROID - INSENSITIVE1 Xa21
+0 BRI1 Xa21
+0 ERECTA Xa21
+0 Xa21 shoot meristem
+0 Xa21 shoot meristem maintenance
+0 Xa21 organ elongation
+0 Xa21 hormone perception
+0 Xa21 RLK5
+0 Xa21 FLS2
+0 Xa21 flagellin signaling
+0 CLV1 HAESA
+0 BRASSINOSTEROID - INSENSITIVE1 HAESA
+0 BRI1 HAESA
+0 ERECTA HAESA
+0 HAESA shoot meristem
+0 HAESA shoot meristem maintenance
+0 HAESA organ elongation
+0 HAESA hormone perception
+4 HAESA RLK5
+0 HAESA FLS2
+0 HAESA flagellin signaling
+0 CLV1 BRASSINOSTEROID - INSENSITIVE1
+0 CLV1 BRI1
+0 CLV1 ERECTA
+0 CLV1 shoot meristem
+6 CLV1 shoot meristem maintenance
+0 CLV1 organ elongation
+0 CLV1 hormone perception
+0 CLV1 RLK5
+0 CLV1 FLS2
+0 CLV1 flagellin signaling
+4 BRASSINOSTEROID - INSENSITIVE1 BRI1
+0 BRASSINOSTEROID - INSENSITIVE1 ERECTA
+0 BRASSINOSTEROID - INSENSITIVE1 shoot meristem
+0 BRASSINOSTEROID - INSENSITIVE1 shoot meristem maintenance
+0 BRASSINOSTEROID - INSENSITIVE1 organ elongation
+0 BRASSINOSTEROID - INSENSITIVE1 hormone perception
+0 BRASSINOSTEROID - INSENSITIVE1 RLK5
+0 BRASSINOSTEROID - INSENSITIVE1 FLS2
+0 BRASSINOSTEROID - INSENSITIVE1 flagellin signaling
+0 BRI1 ERECTA
+0 BRI1 shoot meristem
+0 BRI1 shoot meristem maintenance
+0 BRI1 organ elongation
+6 BRI1 hormone perception
+0 BRI1 RLK5
+0 BRI1 FLS2
+0 BRI1 flagellin signaling
+0 ERECTA shoot meristem
+0 ERECTA shoot meristem maintenance
+6 ERECTA organ elongation
+0 ERECTA hormone perception
+0 ERECTA RLK5
+0 ERECTA FLS2
+0 ERECTA flagellin signaling
+0 shoot meristem maintenance
+0 shoot meristem organ elongation
+0 shoot meristem hormone perception
+0 RLK5 shoot meristem
+0 FLS2 shoot meristem
+0 shoot meristem flagellin signaling
+0 shoot meristem maintenance organ elongation
+0 shoot meristem maintenance hormone perception
+0 RLK5 shoot meristem maintenance
+0 FLS2 shoot meristem maintenance
+0 shoot meristem maintenance flagellin signaling
+0 hormone perception organ elongation
+0 RLK5 organ elongation
+0 FLS2 organ elongation
+0 organ elongation flagellin signaling
+0 RLK5 hormone perception
+0 FLS2 hormone perception
+0 hormone perception flagellin signaling
+0 RLK5 FLS2
+0 RLK5 flagellin signaling
+6 FLS2 flagellin signaling
+0 GSK -3 / Shaggy - like kinase BRASSINOSTEROID - INSENSITIVE2
+0 brassinosteroid ( BR ) signaling BRASSINOSTEROID - INSENSITIVE2
+0 BRASSINOSTEROID - INSENSITIVE2 Ser / Thr phosphatase bri1 Suppressor1 family
+0 BRASSINOSTEROID - INSENSITIVE2 bri1 Suppressor1 family
+4 BRASSINOSTEROID - INSENSITIVE2 BIN2
+0 BRASSINOSTEROID - INSENSITIVE2 nucleus
+0 brassinosteroid ( BR ) signaling GSK -3 / Shaggy - like kinase
+0 GSK -3 / Shaggy - like kinase Ser / Thr phosphatase bri1 Suppressor1 family
+0 GSK -3 / Shaggy - like kinase bri1 Suppressor1 family
+1 GSK -3 / Shaggy - like kinase BIN2
+0 GSK -3 / Shaggy - like kinase nucleus
+6 brassinosteroid ( BR ) signaling Ser / Thr phosphatase bri1 Suppressor1 family
+0 brassinosteroid ( BR ) signaling bri1 Suppressor1 family
+6 brassinosteroid ( BR ) signaling BIN2
+0 brassinosteroid ( BR ) signaling nucleus
+0 Ser / Thr phosphatase bri1 Suppressor1 family
+0 BIN2 Ser / Thr phosphatase bri1 Suppressor1 family
+10 nucleus Ser / Thr phosphatase bri1 Suppressor1 family
+0 BIN2 bri1 Suppressor1 family
+0 nucleus bri1 Suppressor1 family
+0 BIN2 nucleus
+0 BZR1 bri1 - EMS - SUPPRESSOR1
+10 nuclear BZR1
+4 BRASSINAZOLE - RESISTANT1 BZR1
+0 BZR1 BES1
+0 nuclear bri1 - EMS - SUPPRESSOR1
+0 BRASSINAZOLE - RESISTANT1 bri1 - EMS - SUPPRESSOR1
+4 bri1 - EMS - SUPPRESSOR1 BES1
+0 nuclear BRASSINAZOLE - RESISTANT1
+10 nuclear BES1
+0 BRASSINAZOLE - RESISTANT1 BES1
+0 ovule primordia male and female gametophytes
+0 LRR male and female gametophytes
+0 LRR - RLK male and female gametophytes
+15 SERK1 male and female gametophytes
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 male and female gametophytes
+0 in culture male and female gametophytes
+0 embryogenic cells male and female gametophytes
+0 formation of embryogenic cells male and female gametophytes
+0 RLK male and female gametophytes
+0 male and female gametophytes
+0 Arabidopsis male and female gametophytes
+0 LRR ovule primordia
+0 LRR - RLK ovule primordia
+15 SERK1 ovule primordia
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 ovule primordia
+0 in culture ovule primordia
+0 embryogenic cells ovule primordia
+0 formation of embryogenic cells ovule primordia
+0 RLK ovule primordia
+0 ovule primordia female gametophytes
+0 Arabidopsis ovule primordia
+0 LRR - RLK
+0 SERK1 LRR
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 LRR
+0 LRR in culture
+0 LRR embryogenic cells
+0 LRR formation of embryogenic cells
+0 LRR RLK
+0 LRR female gametophytes
+0 Arabidopsis LRR
+1 SERK1 LRR - RLK
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 LRR - RLK
+0 LRR - RLK in culture
+0 LRR - RLK embryogenic cells
+0 LRR - RLK formation of embryogenic cells
+0 LRR - RLK
+0 LRR - RLK female gametophytes
+0 Arabidopsis LRR - RLK
+4 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 SERK1
+2 SERK1 in culture
+0 SERK1 embryogenic cells
+17 SERK1 formation of embryogenic cells
+0 SERK1 RLK
+15 SERK1 female gametophytes
+15 Arabidopsis SERK1
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 in culture
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 embryogenic cells
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 formation of embryogenic cells
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 RLK
+0 SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 female gametophytes
+0 Arabidopsis SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1
+0 embryogenic cells in culture
+0 formation of embryogenic cells in culture
+0 RLK in culture
+0 in culture female gametophytes
+0 Arabidopsis in culture
+0 formation of embryogenic cells
+0 RLK embryogenic cells
+0 embryogenic cells female gametophytes
+0 Arabidopsis embryogenic cells
+0 RLK formation of embryogenic cells
+0 formation of embryogenic cells female gametophytes
+0 Arabidopsis formation of embryogenic cells
+0 RLK female gametophytes
+0 Arabidopsis RLK
+0 Arabidopsis female gametophytes
+10 sporophytic tissues SERK1
+0 sporophytic tissues vascular tissue
+15 SERK1 vascular tissue
+0 somatic embryo in culture
+0 Ectopic expression of SERK1 somatic embryo
+0 SERK1 somatic embryo
+0 Arabidopsis plants somatic embryo
+0 somatic embryo formation
+2 Ectopic expression of SERK1 in culture
+0 SERK1 in culture
+0 Arabidopsis plants in culture
+0 somatic embryo formation in culture
+0 Ectopic expression of SERK1
+0 Ectopic expression of SERK1 Arabidopsis plants
+6 Ectopic expression of SERK1 somatic embryo formation
+0 SERK1 Arabidopsis plants
+0 SERK1 somatic embryo formation
