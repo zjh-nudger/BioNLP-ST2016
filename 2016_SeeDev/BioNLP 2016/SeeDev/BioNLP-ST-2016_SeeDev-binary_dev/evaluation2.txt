@@ -1,0 +1,52 @@
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-14701918-8.a2
+Transcribes_Or_Translates_To Source:T4 Product:T3
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-15708976-2.a2
+Regulates_Process Agent:T65 Process:T62
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-15708976-2.a2
+Regulates_Process Agent:T68 Process:T62
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-15708976-2.a2
+Regulates_Process Agent:T67 Process:T62
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-15708976-2.a2
+Regulates_Process Agent:T65 Process:T61
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-15708976-2.a2
+Regulates_Process Agent:T68 Process:T61
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-15708976-2.a2
+Regulates_Process Agent:T80 Process:T78
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-17204538-3.a2
+Regulates_Accumulation Agent:T50 Function_Molecule:T48
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-17204538-3.a2
+Regulates_Accumulation Agent:T59 Function_Molecule:T57
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-17999645-1.a2
+Interacts_With Agent:T57 Target:T55
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-17999645-1.a2
+Interacts_With Agent:T98 Target:T94
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-17999645-4.a2
+Interacts_With Agent:T31 Target:T30
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-21123653-7.a2
+Regulates_Accumulation Agent:T48 Function_Molecule:T46
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-21123653-7.a2
+Regulates_Process Agent:T62 Process:T56
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-21123653-7.a2
+Regulates_Accumulation Agent:T60 Function_Molecule:T58
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-21123653-7.a2
+Regulates_Accumulation Agent:T81 Function_Molecule:T80
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-21123653-7.a2
+Regulates_Accumulation Agent:T94 Function_Molecule:T91
+D:\Workspaces\New\2016_SeeDev\.\BioNLP 2016\SeeDev\BioNLP-ST-2016_SeeDev-binary_dev\a2\SeeDev-binary-21123653-7.a2
+Regulates_Accumulation Agent:T189 Function_Molecule:T187
+tp: 170.0
+fp: 217.0
+all: 819.0
+recall: 0.20757020757020758
+precision: 0.4392764857881137
+F: 0.28192371475953565
+元素分配错误: 70.0
+元素分配错误中，含有Element1和2元素的: 52.0
+
+模糊匹配：
+tp: 188.0
+fp: 199.0
+all: 819.0
+recall: 0.22954822954822954
+precision: 0.48578811369509045
+F: 0.31177446102819234
