@@ -31,29 +31,30 @@ public class test {
 //		if (string.contains("Protein")|string.contains("Gene")) {
 //			System.out.println(string);
 //		}
-		switch ("Tissue") {
-		case "Hormone": 
-		case "Regulatory_Network":
-		case "Pathway":
-		case "Genotype":
-		case "Tissue":
-		case "Development_Phase":
-		case "Environmental_Factor":
-			switch ("RNA33") {
-			case "Gene":
-			case "Gene_Family":
-			case "Box":
-			case "Promoter":
-			case "RNA":						
-			case "Protein":
-			case "Protein_Family":
-			case "Protein_Complex":
-			case "Protein_Domain":
-			case "Hormone": System.out.println("Agent");
-			default: break;
-			}		
-		default: System.out.println("Agent222");
-		}
+//		switch ("Tissue") {
+//		case "Hormone": 
+//		case "Regulatory_Network":
+//		case "Pathway":
+//		case "Genotype":
+//		case "Tissue":
+//		case "Development_Phase":
+//		case "Environmental_Factor":
+//			switch ("RNA33") {
+//			case "Gene":
+//			case "Gene_Family":
+//			case "Box":
+//			case "Promoter":
+//			case "RNA":						
+//			case "Protein":
+//			case "Protein_Family":
+//			case "Protein_Complex":
+//			case "Protein_Domain":
+//			case "Hormone": System.out.println("Agent");
+//			default: break;
+//			}		
+//		default: System.out.println("Agent222");
+//		}
+		System.out.println("23454".substring(0,"23454".length()-1));
 	}
 
 }

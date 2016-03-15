@@ -154,7 +154,9 @@ public class Sample {
 						else s = s.substring(index2, index);
 					}
 					newA2.add(type + " " + resetString2(s));
-					allSample.add(type + " " + resetString(s));					
+					allSample.add(type + " " + resetString(s) + " Distance_" + (s.split(" ").length-2));	
+					//System.out.println(type + " " + "Distance_" + (s.split(" ").length-2));
+					//allSample.add(0 + " " + resetString(s));	
 				}
 			}
 			if(flag == 0) {
@@ -178,7 +180,8 @@ public class Sample {
 					else s = s.substring(index2, index);
 				}
 				newA2.add(0 + " " + resetString2(s));
-				allSample.add(0 + " " + resetString(s));
+				allSample.add(0 + " " + resetString(s) + " Distance_" + (s.split(" ").length-2));
+				//System.out.println("Distance_" + (s.split(" ").length-2));
 			}
 		} //for
 		//System.out.println(newA2.size());
@@ -209,5 +212,11 @@ public class Sample {
 
 		s = type1 + " " + type2;
 		return s;
+	}
+	
+	public static int setDistance(String s) {
+		
+		String ss[] = s.split(" ");		
+		return 0;
 	}
 }
