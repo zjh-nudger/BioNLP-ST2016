@@ -1,0 +1,8 @@
+#entity id	document	start	end	text	comment
+species:ncbi:3702	SeeDev-full-19531597-2	1051	1071	Arabidopsis thaliana	
+species:ncbi:4577	SeeDev-full-19531597-2	1608	1613	maize	
+species:ncbi:4577	SeeDev-full-19531597-2	1615	1623	Zea mays	
+species:ncbi:4565	SeeDev-full-19531597-2	1826	1831	wheat	
+species:ncbi:4565	SeeDev-full-19531597-2	1833	1850	Triticum aestivum	
+species:ncbi:4513	SeeDev-full-19531597-2	1862	1868	barley	
+species:ncbi:4513	SeeDev-full-19531597-2	1870	1885	Hordeum vulgare	

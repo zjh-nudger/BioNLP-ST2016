@@ -1,0 +1,47 @@
+0. Our data support the hypothesis that MUM4 encodes an enzyme involved in RGI biosynthesis .
+  1. E15	Is_Involved_In_Process	Participant:MUM4	Process:RGI biosynthesis
+25. Using this method , we confirmed the presence in the SERK1 signaling complex of CDC48A ( Rienties et al. , 2005 ) and KAPP ( Shah et al. , 2002 ) .
+  1. E10	Is_Involved_In_Process	Participant:CDC48A	Process:SERK1 signaling
+  2. E12	Is_Involved_In_Process	Participant:KAPP	Process:SERK1 signaling
+8. SERK1 and BR Signaling A highly interesting finding was the identification of two members of the BR signaling pathway , the main BR receptor BRI1 ( Li and Chory , 1997 ) and its coreceptor BAK1 ( SERK3 ) ( Li et al. , 2002 ; Nam and Li , 2002 ) , as components of the SERK1 complex .
+  1. E39	Is_Involved_In_Process	Participant:BRI1	Process:BR signaling pathway
+  2. E33	Is_Involved_In_Process	Participant:SERK3	Process:BR signaling pathway
+13. Our results showed that both SERK1 and SERK3 heterodimerize with the BRI1 receptor , suggesting that both coreceptors can have comparable activity in terms of BRI1 signaling and / or internalization .
+  3. E31	Is_Involved_In_Process	Participant:SERK3	Process:BRI1 internalization
+  4. E28	Is_Involved_In_Process	Participant:SERK3	Process:BRI1 signaling
+  5. E37	Is_Involved_In_Process	Participant:SERK1	Process:BRI1 internalization
+  6. E29	Is_Involved_In_Process	Participant:SERK1	Process:BRI1 signaling
+9. It is known that AP2 suppresses expression of AGAMOUS , the C gene of a floral homeotic gene ( Drews et al. , 1991 ; Bomblies et al. , 1999 ) .
+  1. E39	Is_Involved_In_Process	Participant:AGAMOUS	Process:C
+3. The APETALA2 ( AP2 ) gene , which belongs to the A class of genes , exhibits several characteristics distinct from other ABC genes .
+  2. E33	Is_Involved_In_Process	Participant:AP2	Process:A class of genes
+13. AtEBP is regulated by an ethylene signal ( Büttner and Singh , 1997 ; Ogawa et al. , 2005 ) .
+  3. E35	Is_Involved_In_Process	Participant:ethylene	Process:ethylene signal
+12. DCL1 transcripts were detected by quantitative RT–PCT ( qRT–PCR ) in both early globular embryos from wild - type plants and early globular embryos from selfed dcl 1-5 / + plants that developed normally , but were not detected in abnormal early globular embryos from selfed dcl 1-5 / + plants ( Supplemental Fig . 1 ) .
+  1. E12	Is_Involved_In_Process	Participant:DCL1 transcripts	Process:abnormal early globular embryos
+9. In particular , we still see accumulation of chlorophyll preceding the expression of the seed storage protein At2S3 , as in wild - type embryos .
+  1. E12	Is_Involved_In_Process	Participant:At2S3	Process:seed storage protein
+2. In the triacylglycerol assembly pathway , only the genes encoding diacylglycerol acyltransferase 1 ( DGAT1 ) and a putative cytosolic " type 3 " DGAT exhibited a similar expression pattern with genes encoding oleosins .
+  1. E7	Is_Involved_In_Process	Participant:DGAT	Process:triacylglycerol assembly pathway
+  2. E9	Is_Involved_In_Process	Participant:DGAT1	Process:triacylglycerol assembly pathway
+1. Genetic studies have identified many loci required for wild - type ABA response ; the best characterized are the ABA insensitive ( ABI ) and enhanced response to ABA ( ERA ) genes of Arabidopsis and the VP1 genes of maize and other cereals ( Holdsworth et al. , 1999 ) .
+  1. E36	Is_Involved_In_Process	Participant:ABI	Process:ABA response
+  2. E22	Is_Involved_In_Process	Participant:VP1	Process:ABA response
+  3. E23	Is_Involved_In_Process	Participant:ERA	Process:ABA response
+0. Early dcl1 mutant embryos lack miR156 and exhibit premature expression of miR156 targets SPL10 and SPL11 , which in turn induces precocious expression of genes normally induced during the maturation phase of embryogenesis .
+  1. E68	Is_Involved_In_Process	Participant:SPL10	Process:premature expression of miR156 targets
+  2. E60	Is_Involved_In_Process	Participant:SPL11	Process:premature expression of miR156 targets
+1. We propose that additional plant miRNAs—including miR160 , miR166 , and miR319—also forestall expression of differentiation - promoting transcription factors such as ARF17 , CNA , PHB , PHV , and TCP4 .
+  3. E62	Is_Involved_In_Process	Participant:ARF17	Process:differentiation-promoting transcription factors
+  4. E76	Is_Involved_In_Process	Participant:CNA	Process:differentiation-promoting transcription factors
+  5. E69	Is_Involved_In_Process	Participant:TCP4	Process:differentiation-promoting transcription factors
+  6. E70	Is_Involved_In_Process	Participant:PHB	Process:differentiation-promoting transcription factors
+  7. E59	Is_Involved_In_Process	Participant:PHV	Process:differentiation-promoting transcription factors
+5. We propose that , by repressing differentiation - promoting transcription factors ( including SPL10 , SPL11 , ARF17 , CNA , PHB , PHV , and TCP4 ) , miRNAs maintain the potential of preglobular cells to generate diverse cell types at the subsequent globular stages .
+  8. E74	Is_Involved_In_Process	Participant:TCP4	Process:differentiation-promoting transcription factors
+  9. E64	Is_Involved_In_Process	Participant:PHV	Process:differentiation-promoting transcription factors
+  10. E75	Is_Involved_In_Process	Participant:CNA	Process:differentiation-promoting transcription factors
+  11. E63	Is_Involved_In_Process	Participant:PHB	Process:differentiation-promoting transcription factors
+  12. E72	Is_Involved_In_Process	Participant:SPL11	Process:differentiation-promoting transcription factors
+  13. E66	Is_Involved_In_Process	Participant:ARF17	Process:differentiation-promoting transcription factors
+  14. E71	Is_Involved_In_Process	Participant:SPL10	Process:differentiation-promoting transcription factors

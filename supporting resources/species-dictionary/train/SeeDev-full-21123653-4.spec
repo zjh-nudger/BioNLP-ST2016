@@ -1,0 +1,11 @@
+plants	318 324	3193	no rank
+plants	1225 1231	3193	no rank
+plants	1348 1354	3193	no rank
+plants	1861 1867	3193	no rank
+plants	1956 1962	3193	no rank
+plants	2073 2079	3193	no rank
+plants	2215 2221	3193	no rank
+plants	2359 2365	3193	no rank
+plants	2414 2420	3193	no rank
+plants	2524 2530	3193	no rank
+plants	2639 2645	3193	no rank

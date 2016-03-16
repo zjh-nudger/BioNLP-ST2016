@@ -1,0 +1,31 @@
+10. We initially isolated AGL15 as a low-abundance mRNA that preferentially accumulates in developing embryos ( Heck et al. 1995 ) ; Rounsley et al. 1995 independently isolated it from a floral cDNA library .
+  1. E34	Exists_At_Stage	Functional_Molecule:AGL15 mRNA	Development:developing embryos
+0. Although small amounts of AGL15 protein might accumulate in these tissues throughout the vegetative phase , we conclude that the amounts of nuclear - localized AGL15 protein approach those seen in young embryos only during the earliest stages of vegetative growth in the shoot apex of Arabidopsis .
+  1. E22	Exists_At_Stage	Functional_Molecule:AGL15	Development:vegetative phase
+26. FUS3 also encodes a regulatory protein : a B3 domain transcription factor that accumulates primarily during seed development ( 19 ) .
+  1. E50	Exists_At_Stage	Functional_Molecule:B3 domain transcription factor	Development:seed development
+3. We showed that LEC2 RNA accumulates primarily during seed development , consistent with our finding that LEC2 shares greatest similarity with the B3 domain transcription factors that act primarily in developing seeds , VIVIPAROUS1 / ABA INSENSITIVE3 and FUSCA3 .
+  2. E49	Exists_At_Stage	Functional_Molecule:LEC2 RNA	Development:seed development
+18. Our finding that both LEC2 and LEC1 RNAs are detected at the earliest embryonic stages tested ( Fig . 4 ; ref . 12 ) opens the possibility that both genes are involved in establishing embryogenic competence during zygotic embryogenesis .
+  1. E21	Exists_At_Stage	Functional_Molecule:LEC1 RNAs	Development:earliest embryonic stages
+  2. E20	Exists_At_Stage	Functional_Molecule:LEC2 RNAs	Development:earliest embryonic stages
+12. This result suggests that the chromodomain protein PKL acts normally to repress LEC1 in postgerminative roots , and therefore that LEC1 , at least in part , mediates somatic embryo formation in pkl mutants .
+  3. E28	Exists_At_Stage	Functional_Molecule:PKL	Development:postgerminative
+51. During the early phase of favabean seed development , cell - wall - bound invertases localized in thin - walled parenchyma , the innermost seed coat tissue , hydrolyze sucrose .
+  1. E112	Exists_At_Stage	Functional_Molecule:cell-wall-bound invertases	Development:early phase of favabean seed development
+18. Because the auxin signaling - responsive DR5rev promoter fused to GFP ( DR5rev∷GFP ) is specifically active in the hypophysis cells of wild - type globular embryos ( Friml et al. 2003 ) , and hypophysis specification is perturbed in dcl1 embryos , we examined the activity of DR5rev∷GFP in dcl 1-5 embryos to test whether DCL1 was required for appropriate auxin signaling .
+  1. E68	Exists_At_Stage	Functional_Molecule:auxin	Development:globular
+5. Our results suggest that LEC1 is an important regulator of embryo development that activates the transcription of genes required for both embryo morphogenesis and cellular differentiation . prs . rt("abs_end") ;
+  1. E15	Exists_At_Stage	Functional_Molecule:LEC1	Development:embryo development
+7. During embryogenesis the FUS3 transcript becomes detectable 2 d . a.p. paralleled by the appearance of the ABI3 mRNA .
+  1. E3	Exists_At_Stage	Functional_Molecule:FUS3 transcript	Development:2 d.a.p.
+  2. E4	Exists_At_Stage	Functional_Molecule:ABI3 mRNA	Development:2 d.a.p.
+0. Developmental Regulation of MUM4 during Seed Coat Secretory Cell Differentiation by AP2 , TTG1 , and GL2 MUM4 transcript increases in differentiating siliques at the time of mucilage production .
+  1. E27	Exists_At_Stage	Functional_Molecule:MUM4 transcript	Development:differentiating siliques
+  2. E41	Exists_At_Stage	Functional_Molecule:GL2	Development:Seed Coat Secretory Cell Differentiation
+  3. E39	Exists_At_Stage	Functional_Molecule:AP2	Development:Seed Coat Secretory Cell Differentiation
+  4. E38	Exists_At_Stage	Functional_Molecule:TTG1	Development:Seed Coat Secretory Cell Differentiation
+10. Therefore , we favor a model in which a seed coat - specific complex of TTG1 - bHLH - MYB causes activation of GL2 and the subsequent up-regulation of MUM4 during mucilage production ( Fig . 8 ) .
+  5. E40	Exists_At_Stage	Functional_Molecule:TTG1-bHLH-MYB	Development:mucilage production
+32. These results strongly suggest that WRI1 , which is a limiting factor of lipogenic gene expression in seeds , directly induces the transcriptional activation of these genes at the onset of the maturation phase .
+  1. E68	Exists_At_Stage	Functional_Molecule:WRI1	Development:onset of the maturation phase

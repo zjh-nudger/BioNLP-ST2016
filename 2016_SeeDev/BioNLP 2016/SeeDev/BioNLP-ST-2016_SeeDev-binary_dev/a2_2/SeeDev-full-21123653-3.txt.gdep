@@ -1,0 +1,5 @@
+6 T1_RNA T2_Regulatory_Network
+0 T1_RNA T3_Development_Phase
+17 T1_RNA T4_Development_Phase
+0 T2_Regulatory_Network T4_Development_Phase
+0 T3_Development_Phase T4_Development_Phase

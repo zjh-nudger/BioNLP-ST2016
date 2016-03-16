@@ -1,0 +1,28 @@
+E1	Localization Functional_Molecule:T23 Target_Tissue:T26
+E2	Regulation_Of_Process Agent:T88 Process:T85
+E3	Regulation_Of_Development_Phase Agent:T3 Development:T1 Tissue:T6
+E4	Regulation_Of_Development_Phase Agent:T91 Development:T92
+E5	Regulation_Of_Process Agent:T91 Process:T95
+E6	Regulation_Of_Development_Phase Agent:T3 Development:T1 Tissue:T7 Organism_Genotype:T2
+E7	Regulation_Of_Process Agent:T34 Process:T35
+E8	Regulation_Of_Process Agent:T82 Process:T83
+E9	Regulation_Of_Process Agent:T84 Process:T83
+E10	Regulation_Of_Development_Phase Agent:T3 Development:T1 Tissue:T5 Organism_Genotype:T2
+E11	Regulation_Of_Process Agent:T11 Process:T12
+E12	Regulation_Of_Process Agent:T39 Process:T41
+E13	Regulation_Of_Process Agent:T98 Process:T96 Tissue:T97
+E14	Regulation_Of_Development_Phase Agent:T91 Development:T94
+E15	Regulation_Of_Process Agent:T38 Process:T39
+E16	Sequence_Identity Element1:T50 Element2:T49
+E17	Sequence_Identity Element1:T22 Element2:T21
+E18	Sequence_Identity Element1:T91 Element2:T90
+E19	Sequence_Identity Element1:T30 Element2:T29
+E20	Regulation_Of_Expression Agent:T61 DNA:T60 Organism_Genotype:T59
+E21	Regulation_Of_Expression Agent:T50 DNA:T51 Tissue:T47 Developmental_Stage:T52
+E22	Regulation_Of_Expression Agent:T91 DNA:T93
+E23	Regulation_Of_Expression Agent:T67 DNA:T66 Tissue:T68
+E24	Regulation_Of_Expression Agent:T44 DNA:T46
+E25	Regulation_Of_Expression Agent:T33 DNA:T31
+E26	Binding Functional_Molecule:T43 Molecule:T44
+M1	Negation Annotation:E8
+M2	Negation Annotation:E9

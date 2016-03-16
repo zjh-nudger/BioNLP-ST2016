@@ -1,0 +1,27 @@
+41. Specifically , a high ratio of hexose to sucrose is correlated strongly with mitotic activity during the early morphogenesis phase of seed development , whereas a higher proportion of sucrose to hexose is associated with cell expansion and seed filling during the late maturation phase ( 14–16 ) .
+  1. E79	Occurs_During	Process:proportion of sucrose to hexose	Development:cell expansion
+  2. E77	Occurs_During	Process:proportion of sucrose to hexose	Development:seed filling
+  3. E85	Occurs_During	Process:ratio of hexose to sucrose	Development:early morphogenesis phase of seed development
+43. Thus , cell division during the morphogenesis phase and seed filling during the maturation phase appear to correlate with changes in hexose and sucrose levels . ap2 mutations induced changes in the levels of hexose and sucrose in developing seeds .
+  4. E84	Occurs_During	Process:changes in hexose and sucrose levels	Development:cell division during the morphogenesis phase
+  5. E78	Occurs_During	Process:changes in hexose and sucrose levels	Development:seed filling
+60. The increase in seed size in transgenic plants appears to result from an increase in cell number during seed development .
+  6. E114	Occurs_During	Process:increase in cell number	Development:seed development
+46. We speculate that the altered hexose / sucrose ratios during ap2 mutant seed development may promote an extended period of cell division that could account for the increase in embryo cell number observed in ap2 mutants .
+  7. E113	Occurs_During	Process:hexose/sucrose ratios	Development:seed development
+22. Therefore , the auxin response defects observed in dcl1 embryos were probably secondary consequences of subprotoderm cell differentiation defects , which in turn were probably due to the apical cell lineage defects observed at the preglobular stages .
+  1. E69	Occurs_During	Process:apical cell lineage defects	Development:preglobular stages
+14. A series of studies with fava bean suggest that the relative accumulation of hexose and sucrose during seed development plays roles in determining seed mass through changes in seed cell number and cell size ( 14–16 ) .
+  1. E34	Occurs_During	Process:seed cell size	Development:seed development
+  2. E35	Occurs_During	Process:seed cell number	Development:seed development
+  3. E36	Occurs_During	Process:accumulation of hexose	Development:seed development
+  4. E37	Occurs_During	Process:accumulation of sucrose	Development:seed development
+17. After morphogenesis , seed plant embryos transition to a maturation phase , when they accumulate storage proteins , undergo desiccation tolerance , and prepare to enter into a state of dormancy prior to germination .
+  1. E73	Occurs_During	Process:desiccation tolerance	Development:transition to a maturation phase
+  2. E65	Occurs_During	Process:storage proteins	Development:transition to a maturation phase
+0. Higher plant embryogenesis is divided conceptually into two distinct phases : early morphogenetic processes that give rise to embryonic cell types , tissues , and organ systems , and late maturation events that allow the fully developed embryo to enter a desiccated and metabolically quiescent state ( [52] and [13] ) .
+  1. E4	Occurs_During	Process:late maturation events	Development:embryogenesis
+  2. E1	Occurs_During	Process:early morphogenetic processes	Development:embryogenesis
+2. Thus , seed maturation and metabolic quiescence interrupt the morphogenetic processes that occur during embryogenesis and seedling development .
+  3. E2	Occurs_During	Process:morphogenetic processes	Development:embryogenesis
+  4. E6	Occurs_During	Process:morphogenetic processes	Development:seedling development

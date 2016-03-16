@@ -1,0 +1,81 @@
+7. Family members that are preferentially expressed in developmental contexts other than the flower have also been identified ( Rounsley et al. 1995 ) and include such factors as ANR1 , which plays a role in control of root architecture in response to nutrient availability ( Zhang and Forde 1998 ) , and FLOWERING LOCUS C , a recently identified repressor of flowering ( Michaels and Amasino 1999 ) .
+  1. E79	Is_Linked_To	Agent1:nutrient availability	Agent2:ANR1
+10. Recessive mutations in the Arabidopsis PICKLE ( PKL ) gene also induce somatic embryogenesis in postgerminative roots cultured on hormone - free medium ( 40 ) .
+  1. E29	Is_Linked_To	Agent1:hormone-free medium	Agent2:Recessive mutations in the Arabidopsis PICKLE
+3. Several genes encoding putative transcription factors have been implicated in seed coat epidermal development because mutations in these genes result in seeds that fail to release mucilage upon hydration .
+  1. E40	Is_Linked_To	Agent1:hydration	Agent2:seeds
+6. It has been shown at the genetic and molecular levels in trichomes and root hairs that TTG1 interacts with a basic helix - loop - helix ( bHLH ) protein and a tissue - specific MYB protein to activate both GL2 and TTG2 ( Payne et al. , 2000 ; Johnson et al. , 2002 ; Schiefelbein , 2003 ) .
+  2. E59	Is_Linked_To	Agent1:MYB	Agent2:GL2
+  3. E58	Is_Linked_To	Agent1:MYB	Agent2:TTG1
+  4. E52	Is_Linked_To	Agent1:MYB	Agent2:TTG2
+  5. E57	Is_Linked_To	Agent1:TTG1	Agent2:GL2
+  6. E51	Is_Linked_To	Agent1:bHLH	Agent2:GL2
+  7. E53	Is_Linked_To	Agent1:TTG1	Agent2:TTG2
+  8. E55	Is_Linked_To	Agent1:bHLH	Agent2:TTG2
+42. For example , immature fava bean embryos cultured with high concentrations of hexose continue to undergo cell divisions whereas those cultured with high sucrose concentration enter the maturation phase ( 15 ) .
+  1. E110	Is_Linked_To	Agent1:high concentrations of hexose	Agent2:immature fava bean embryos
+  2. E111	Is_Linked_To	Agent1:high sucrose concentration	Agent2:immature fava bean embryos
+27. In particular , the interaction between SERK1 and BRI1 was confirmed by a genetic experiment and fluorescence lifetime imaging microscopy ( FLIM ) to determine Förster resonance energy transfer ( FRET ) between fluorescently tagged receptors .
+  1. E96	Is_Linked_To	Agent1:FRET	Agent2:BRI1
+  2. E93	Is_Linked_To	Agent1:FRET	Agent2:SERK1
+  3. E95	Is_Linked_To	Agent1:FLIM	Agent2:BRI1
+  4. E92	Is_Linked_To	Agent1:FLIM	Agent2:SERK1
+13. Using a yeast two-hybrid screen , two additional SERK1 - interacting proteins , CDC48A and 14-3 -3 λ , were found ( Rienties et al . , 2005 ) .
+  5. E91	Is_Linked_To	Agent1:yeast two-hybrid	Agent2:CDC48A
+  6. E94	Is_Linked_To	Agent1:yeast two-hybrid	Agent2:SERK1
+  7. E90	Is_Linked_To	Agent1:yeast two-hybrid	Agent2:14-3-3λ
+5. We previously identified Arabidopsis SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 ( SERK1 ) , an LRR - RLK that marks the formation of embryogenic cells in culture and is expressed in ovule primordia and in both male and female gametophytes .
+  8. E108	Is_Linked_To	Agent1:in culture	Agent2:SERK1
+7. Ectopic expression of SERK1 does not result in an obvious phenotype in Arabidopsis plants but increases somatic embryo formation in culture ( Hecht et al. , 2001 ) .
+  9. E107	Is_Linked_To	Agent1:in culture	Agent2:Ectopic expression of SERK1
+50. SERK1 and AGL15 are highly expressed during embryogenic cell formation in culture and during early embryogenesis .
+  1. E130	Is_Linked_To	Agent1:in culture	Agent2:embryogenic cell formation
+  2. E131	Is_Linked_To	Agent1:in culture	Agent2:early embryogenesis
+51. As found for SERK1 ( Hecht et al. , 2001 ) , AGL15 promotes somatic embryo production from the shoot apical meristem in liquid culture when ectopically overexpressed ( Perry et al. , 1996 ; Harding et al. , 2003 ) .
+  3. E135	Is_Linked_To	Agent1:in liquid culture	Agent2:SERK1 ectopically overexpressed
+  4. E133	Is_Linked_To	Agent1:in liquid culture	Agent2:AGL15 ectopically overexpressed
+38. In vivo , it was shown that SERK1 interacts with KAPP only in intracellular vesicles , and it was proposed to play a role in receptor internalization as well as in dephosphorylation ( Shah et al. , 2002 ) .
+  5. E128	Is_Linked_To	Agent1:In vivo	Agent2:KAPP
+  6. E127	Is_Linked_To	Agent1:In vivo	Agent2:SERK1
+22. In that work , it was clearly shown that the interaction between the BAK1 ( SERK3 ) proteins and BRI1 is brassinolide - dependent .
+  7. E126	Is_Linked_To	Agent1:brassinolide	Agent2:BRI1
+  8. E125	Is_Linked_To	Agent1:brassinolide	Agent2:BAK1
+15. Genetic analysis of the serk 1-1 bri 1-119 double mutant suggests that SERK1–BRI1 interactions indeed affect BRI1 - mediated signaling in planta , but to a lesser extent than SERK3–BRI1 interactions .
+  9. E132	Is_Linked_To	Agent1:in planta	Agent2:SERK3–BRI1
+  10. E134	Is_Linked_To	Agent1:in planta	Agent2:SERK1–BRI1
+14. It was clarified that AtEBP is regulated by EIN2 , but not EIN3 , suggesting that AtEBP expression is independently regulated under EIN3 in ethylene signalling .
+  1. E46	Is_Linked_To	Agent1:ethylene	Agent2:EIN3
+6. Furthermore , AtEBP expression is independently regulated under EIN3 in ethylene signalling ( Ogawa et al. , 2005 ; this study ) .
+  1. E32	Is_Linked_To	Agent1:ethylene	Agent2:EIN3
+17. Published results support a role for SIN3 / HDAC1 - mediated repression in regulation of LEA76 : trichostatin A , a specific inhibitor of HDAC , causes an increase in LEA76 transcript during seed germination ( Tai et al. , 2005 ) .
+  1. E47	Is_Linked_To	Agent1:trichostatin A	Agent2:seed germination
+14. Ectopic expression of SAP18 alone repressed LEA and CBF2 ( Figure 5a ) , possibly through interaction with AGL15 that is expressed in non-transgenic seedlings or through interaction with other DNA - binding proteins .
+  2. E60	Is_Linked_To	Agent1:AGL15	Agent2:LEA
+  3. E58	Is_Linked_To	Agent1:SAP18	Agent2:LEA
+  4. E56	Is_Linked_To	Agent1:AGL15	Agent2:CBF2
+  5. E55	Is_Linked_To	Agent1:SAP18	Agent2:CBF2
+  6. E59	Is_Linked_To	Agent1:AGL15	Agent2:Ectopic expression of SAP18
+  7. E57	Is_Linked_To	Agent1:SAP18	Agent2:Ectopic expression of SAP18
+25. Although this activation was repressed either by protein kinase inhibitor treatment of wild - type cells or by the dominant negative abi 1-1 mutation , it is not known whether this reflects a direct or indirect effect on the phosphorylation status of these transcription factors .
+  1. E108	Is_Linked_To	Agent1:wild-type	Agent2:protein kinase inhibitor treatment
+19. Consistent with this , rice homologs of ABI3 and ABI5 ( OSVP1 and TRAB1 , respectively ) have been shown to interact in a yeast two-hybrid assay , as well as in transient assays in plant cells ( Hobo et al. , 1999 ) .
+  2. E104	Is_Linked_To	Agent1:transient assays in plant cells	Agent2:TRAB1
+  3. E102	Is_Linked_To	Agent1:transient assays in plant cells	Agent2:OSVP1
+  4. E105	Is_Linked_To	Agent1:yeast two-hybrid	Agent2:TRAB1
+  5. E103	Is_Linked_To	Agent1:yeast two-hybrid	Agent2:OSVP1
+9. In other epidermal systems , such as trichomes and root hairs , TTG1 has been shown to interact with a tissue - specific MYB protein through the bHLH protein GLABRA3 ( Payne et al. , 2000 ; Schiefelbein , 2003 ) to activate GL2 .
+  1. E47	Is_Linked_To	Agent1:TTG1	Agent2:GL2
+  2. E49	Is_Linked_To	Agent1:GLABRA3	Agent2:GL2
+13. However AP1 and SEP3 are also able to interact with the transcription co-repressors LEUNIG ( LUG ) and SEUSS ( SEU ) ( Sridhar et al. , 2006 ) , which prevent ectopic AG transcription ( Franks et al. , 2002 ; Liu and Meyerowitz , 1995 ) .
+  1. E63	Is_Linked_To	Agent1:SEU	Agent2:AP1
+  2. E62	Is_Linked_To	Agent1:SEU	Agent2:SEP3
+  3. E64	Is_Linked_To	Agent1:SEU	Agent2:ectopic AG transcription
+  4. E66	Is_Linked_To	Agent1:AP1	Agent2:ectopic AG transcription
+  5. E69	Is_Linked_To	Agent1:SEP3	Agent2:ectopic AG transcription
+  6. E71	Is_Linked_To	Agent1:LUG	Agent2:ectopic AG transcription
+14. Neither LUG nor SEU are predicted to encode a recognizable DNA - binding motif , but SEU has been shown to associate in vivo with an AG cis-regulatory region containing a putative CArG motif , perhaps through binding to DNA - bound SEP3 ( Sridhar et al. , 2006 ) .
+  7. E56	Is_Linked_To	Agent1:in vivo	Agent2:SEU
+  8. E57	Is_Linked_To	Agent1:in vivo	Agent2:AG cis-regulatory region containing a putative CArG motif
+6. Likewise , SAP18 also interacts with DNA - bound ERF3 in vitro , but not with the ERF3 binding site ( Song and Galbraith , 2006 ) .
+  1. E14	Is_Linked_To	Agent1:in vitro	Agent2:SAP18
+  2. E15	Is_Linked_To	Agent1:in vitro	Agent2:ERF3

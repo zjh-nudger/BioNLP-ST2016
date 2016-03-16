@@ -1,0 +1,14 @@
+#entity id	document	start	end	text	comment
+species:ncbi:50225	SeeDev-full-10318690-2	901	910	dandelion	
+species:ncbi:50225	SeeDev-full-10318690-2	1014	1023	dandelion	
+species:ncbi:3708	SeeDev-full-10318690-2	2175	2187	oilseed rape	
+species:ncbi:3708	SeeDev-full-10318690-2	2305	2317	oilseed rape	
+species:ncbi:3708	SeeDev-full-10318690-2	2984	2996	oilseed rape	
+species:ncbi:3879	SeeDev-full-10318690-2	3333	3340	alfalfa	
+species:ncbi:3879	SeeDev-full-10318690-2	3495	3502	alfalfa	
+species:ncbi:3708	SeeDev-full-10318690-2	3598	3610	oilseed rape	
+species:ncbi:4081	SeeDev-full-10318690-2	3702	3708	tomato	
+species:ncbi:381124|species:ncbi:4577	SeeDev-full-10318690-2	3748	3753	maize	
+species:ncbi:3888	SeeDev-full-10318690-2	3849	3852	pea	
+species:ncbi:3879	SeeDev-full-10318690-2	4012	4019	alfalfa	
+species:ncbi:3708	SeeDev-full-10318690-2	4384	4396	oilseed rape	

@@ -1,0 +1,54 @@
+12. The only members of the MADS domain family in Arabidopsis that are known to be expressed in embryos are AGL15 and AGL2 ( Flanagan and Ma 1994 ) .
+  1. E56	Transcribes_Or_Translates_To	Source:AGL2	Product:MADS domain family
+  2. E55	Transcribes_Or_Translates_To	Source:AGL15	Product:MADS domain family
+10. Tests for pairwise interactions among ABI proteins . β - galactosidase activity of yeast carrying plasmids encoding the GAL4 - AD ( pGAD ) or GAL4 - AD fusions to the ABIs indicated and GAL4 - BD ( pGBD ) ; or ( a ) a GAL4 - BD - ABI4 fusion ( BD - ABI4 ) ; or ( b ) a GAL4 - BD - ABI5 ( BD - ABI5 ) fusion .
+  1. E26	Transcribes_Or_Translates_To	Source:pGBD	Product:GAL4-BD
+  2. E27	Transcribes_Or_Translates_To	Source:pGAD	Product:GAL4-AD
+2. We cloned the LEC2 gene on the basis of its chromosomal position and showed that the predicted polypeptide contains a B3 domain , a DNA - binding motif unique to plants that is characteristic of several transcription factors .
+  1. E57	Transcribes_Or_Translates_To	Source:LEC2	Product:B3 domain
+26. FUS3 also encodes a regulatory protein : a B3 domain transcription factor that accumulates primarily during seed development ( 19 ) .
+  2. E56	Transcribes_Or_Translates_To	Source:FUS3	Product:B3 domain transcription factor
+1. Our findings that the LEC2 gene encodes a B3 domain protein ( Fig . 3 ) and is expressed primarily during embryogenesis ( Fig . 4 ) suggest that it , like LEC1 and FUS3 , is a transcriptional regulator of seed development .
+  1. E28	Transcribes_Or_Translates_To	Source:LEC2	Product:B3 domain protein
+2. We show that MUM4 encodes a putative NDP - l-rhamnose synthase , an enzyme required for the synthesis of the pectin rhamnogalacturonan I , the major component of Arabidopsis mucilage .
+  1. E22	Transcribes_Or_Translates_To	Source:MUM4	Product:NDP-l-rhamnose synthase
+9. Using positional cloning of MUM4 , we demonstrate that MUM4 encodes a putative NDP - l-Rha synthase .
+  1. E34	Transcribes_Or_Translates_To	Source:MUM4	Product:NDP-l-Rha synthase
+5. A reverse genetics approach taken by another group has come to a similar conclusion regarding the putative enzymatic function of MUM4 ( also designated RHM2 [ RHAMNOSE BIOSYNTHESIS 2 ] ; B. Usadel et al. , 2004 ) .
+  1. E19	Transcribes_Or_Translates_To	Source:RHM2	Product:MUM4
+1. AP2 was identified originally as a homeotic gene required for the specification of floral organ identity and was shown to encode an AP2 / EREBP transcription factor ( 24 , 25 ) .
+  1. E92	Transcribes_Or_Translates_To	Source:AP2	Product:AP2/EREBP
+2. Stem Cell Maintenance Is Regulated by AP2AP2 was originally identified as a floral homeotic gene encoding A-function of the ABC model of organ identity specification ( Bowman et al. , 1989 , 1991 ) .
+  1. E14	Transcribes_Or_Translates_To	Source:AP2	Product:A-function of the ABC model
+2. Three VP1 / ABI3 - LIKE ( VAL ) genes encode B3 proteins that include plant homeodomain - like and CW domains associated with chromatin factors .
+  1. E80	Transcribes_Or_Translates_To	Source:VAL	Product:B3 proteins
+10. In addition , AP2 regulates the expression of ethylene - responsive factor ( ERF ) genes containing one AP2 / EREBP domain ( Okamuro et al. , 1997 ) .
+  1. E40	Transcribes_Or_Translates_To	Source:ERF	Product:AP2/EREBP domain
+4. Although most ABC genes contain a MADS domain , AP2 contains two APETALA2 / ethylene - responsive element binding protein ( AP2 / EREBP ) domains ( Jofuku et al. , 1994 ) .
+  2. E41	Transcribes_Or_Translates_To	Source:AP2	Product:AP2/EREBP domains
+13. ANT is a member of the AP2 / ERF family containing the AP2 / EREBP domains .
+  1. E28	Transcribes_Or_Translates_To	Source:ANT	Product:AP2/ERF family
+10. The AP -2 type transcription factors from various plant species have been classified into three major lineages ( Kim et al. , 2006 ) , and WRI1 and two other related factors [ WRI1 / ASML1 - related Two -1 ( WAT1 ; At1g16060 ) and -2 ( WAT2 ; At1g79700) ] of Arabidopsis are in the lineage different from the ANT lineage .
+  1. E34	Transcribes_Or_Translates_To	Source:At1g16060	Product:WAT1
+  2. E33	Transcribes_Or_Translates_To	Source:At1g79700	Product:WAT2
+3. Interestingly , several other histone deacetylases were down - regulated ( HDA5 , -9 , -10 , and HDT1 ) as well as the closest homolog to ASIL1 ( ASIL2 ) .
+  1. E13	Transcribes_Or_Translates_To	Source:HDA5	Product:histone deacetylases
+  2. E12	Transcribes_Or_Translates_To	Source:HDA 10	Product:histone deacetylases
+  3. E14	Transcribes_Or_Translates_To	Source:HDA 9	Product:histone deacetylases
+  4. E15	Transcribes_Or_Translates_To	Source:HDT1	Product:histone deacetylases
+2. The LEC1 gene encodes a transcription factor homolog , the CCAAT box–binding factor HAP3 subunit .
+  1. E12	Transcribes_Or_Translates_To	Source:LEC1	Product:CCAAT box–binding factor HAP3 subunit
+4. Three of the ABA insensitive loci , ABI3 , ABI4 and ABI5 , encode transcription factors of the B3 - , AP2- and bZIP - domain families , respectively , and regulate overlapping subsets of seed - specific and / or ABA - inducible genes ( Finkelstein and Lynch , 2000 ; Finkelstein et al. , 1998 ; Giraudat et al. , 1992 ) .
+  1. E92	Transcribes_Or_Translates_To	Source:ABI5	Product:transcription factors of the bZIP-domain families
+  2. E93	Transcribes_Or_Translates_To	Source:ABI3	Product:transcription factors of the B3- domain families
+  3. E95	Transcribes_Or_Translates_To	Source:ABI4	Product:transcription factors of the AP2- domain families
+0. Although the defect in mucilage production is readily explained by the putative function of MUM4 as an NDP - l-Rha synthase , the connection with the columella shape change is less obvious .
+  1. E9	Transcribes_Or_Translates_To	Source:MUM4	Product:NDP-l-Rha synthase
+21. AP2 encodes the founding member of a family of plant - specific transcription factors that contains an AP2 / EREBP ( ethylene responsive element binding protein ) domain , a conserved region of ≈60 aa involved in DNA binding ( 24–26 ) .
+  1. E28	Transcribes_Or_Translates_To	Source:AP2	Product:AP2
+3. AGAMOUS - like 15 ( AGL15 ; At5g13790 ) is a member of the MIKC subfamily , which consist of four domains : the MADS ( M ) , I , K , and C domains ( for a review , see Kaufmann et al. , 2005 ) .
+  1. E49	Transcribes_Or_Translates_To	Source:At5g13790	Product:AGL15
+17. Depending on the publications , the WRI1 - like group , composed of WRI1 , At2g41710 , At1g16060 and At1g79700 , is either presented as a third monophyletic group of the AP2 family ( Nole - Wilson et al. , 2005 ) or as a part of the ANT - like group ( Shigyo et al. , 2006 ) .
+  1. E57	Transcribes_Or_Translates_To	Source:At1g79700	Product:WRI1-like
+  2. E56	Transcribes_Or_Translates_To	Source:At1g16060	Product:WRI1-like
+  3. E58	Transcribes_Or_Translates_To	Source:At2g41710	Product:WRI1-like

@@ -1,0 +1,2434 @@
+# Inflected form	Frequency
+et al.	53		
+AGL15	47		
+AP2	45		
+ABI5	20		
+maturation	39		
+ABA	15		
+embryos	36		
+mass	14		
+domain	29		
+WRI1	16		
+SPL10	12		
+SPL11	12		
+seed mass	11		
+miR156	11		
+lec1	14		
+seed	67		
+embryonic	23		
+phase	19		
+AtEBP	10		
+dcl1	10		
+genes	53		
+LEC1	15		
+et al.	23		
+organs	9		
+fatty	9		
+members	17		
+ABI3	14		
+leaf	14		
+development	34		
+DNA	19		
+embryo	32		
+dcl1 embryos	8		
+expression	43		
+acid	10		
+ABI4	10		
+cotyledons	12		
+mutant	12		
+seeds	16		
+gene	28		
+transition	7		
+patterning	7		
+mRNA	7		
+maturation - phase	7		
+targets	11		
+mucilage	11		
+class	9		
+MADS	9		
+transcripts	9		
+bZIP	9		
+proteins	31		
+transcription	35		
+plant	22		
+coat	12		
+family	14		
+levels	14		
+wild - type	10		
+domains	10		
+elements	10		
+binding	16		
+leaves	16		
+Finkelstein	8		
+factors	28		
+VP1	6		
+ap	6		
+fatty acid	6		
+seed maturation	15		
+morphogenesis	15		
+embryogenesis	23		
+factor	14		
+wild	12		
+Perry	7		
+MUM4	7		
+biosynthetic	7		
+like	7		
+flowers	7		
+motif	7		
+miRNA	7		
+response	7		
+mutant embryos	7		
+SIN3	7		
+seed coat	10		
+complex	10		
+cells	13		
+transcriptional	13		
+cell	15		
+plants	20		
+EREBP	8		
+sequence	8		
+review	8		
+level	8		
+number	8		
+paternal	5		
+TTG1	5		
+MADS - domain	5		
+maturation - phase transition	5		
+single	5		
+AP2 domain	5		
+ANT	5		
+oilseed rape	5		
+transcription factors	17		
+processes	11		
+identity	9		
+type	14		
+accumulation	14		
+pathways	6		
+TFs	6		
+loci	6		
+AtERF1	6		
+SAP18	6		
+cotyledon	6		
+shoot	6		
+embryo development	6		
+transcription factor	10		
+function	10		
+results	10		
+yeast	7		
+repression	7		
+activity	7		
+biosynthesis	7		
+protein	17		
+storage	11		
+differentiation	8		
+interactions	8		
+desiccation	8		
+specific	14		
+regulation	14		
+studies	12		
+PHV	4		
+Carbonero	4		
+personal	4		
+SPL	4		
+lec1 mutant embryos	4		
+Lynch	4		
+repeat	4		
+MADS - domain proteins	4		
+PHB	4		
+juvenile	4		
+miRNA targets	4		
+personal observation	4		
+AP2 family	4		
+BCCP2	4		
+late	10		
+tissues	10		
+flower	5		
+high levels	5		
+ERF	5		
+defects	5		
+species	5		
+phenotypes	5		
+groups	5		
+pathway	5		
+A	5		
+higher	5		
+Riechmann	5		
+consensus	5		
+GL2	5		
+control	6		
+shape	6		
+meristem	6		
+tissue	6		
+high	6		
+enzymes	6		
+activation	6		
+production	6		
+aspects	6		
+fertilization	6		
+subfamily	6		
+endosperm	6		
+observation	6		
+formation	11		
+synthesis	7		
+several	7		
+mature	7		
+maternal	7		
+role	8		
+LEC2	8		
+Arabidopsis	12		
+target	9		
+stages	10		
+roles	10		
+DNA binding	6		
+data	6		
+mutant	6		
+core	6		
+gene expression	7		
+promoter	7		
+mode	7		
+vegetative	7		
+seed development	7		
+mutations	7		
+phases	5		
+interaction	5		
+functions	5		
+potential	5		
+Poethig	5		
+precocious	5		
+maturation phase	5		
+promoters	5		
+stage	5		
+programs	5		
+mutants	8		
+study	8		
+LEC	4		
+seedling	4		
+amount	4		
+HDAC1	4		
+characterization	4		
+TF	4		
+AG	4		
+group	4		
+Meyerowitz	4		
+two-hybrid	4		
+premature	4		
+specification	4		
+reduction	4		
+primordia	4		
+distinct	4		
+stems	4		
+seed formation	4		
+G-box	4		
+HDAC1 complex	4		
+germination	9		
+preglobular	3		
+secondary cotyledons	3		
+seedling development	3		
+MIKC	3		
+lec1 embryos	3		
+WOX2	3		
+LEC class genes	3		
+Goto	3		
+mRNA level	3		
+culture	3		
+ABA response	3		
+AP2 activity	3		
+immature	3		
+AP2 repeat	3		
+single AP2 repeat	3		
+leaf shape	3		
+genomic excess	3		
+biosynthetic pathways	3		
+SEP3	3		
+ERF genes	3		
+secondary	3		
+miR166	3		
+apical	3		
+EREBP family	3		
+juvenile phase	3		
+CNA	3		
+Honma	3		
+apex	3		
+O2	3		
+excess	3		
+QTL	3		
+Proteins	3		
+alfalfa	3		
+shoot apex	3		
+EmBP1	3		
+LEC1 gene	3		
+CArG	3		
+up-regulation	3		
+FA	3		
+TCP4	3		
+class genes	3		
+ARF17	3		
+parent	3		
+genomic	3		
+embryonic patterning	3		
+Perry et al.	3		
+Folter	3		
+Folter et al.	3		
+Galbraith	3		
+Finkelstein et al.	3		
+bHLH	3		
+flowering	3		
+T-rich	3		
+Song	3		
+K	3		
+pattern	10		
+regulatory	13		
+expression patterns	6		
+patterns	6		
+large	6		
+growth	5		
+member	5		
+putative	5		
+similar	5		
+loss	5		
+molecular	5		
+direct	5		
+Seed	4		
+B3	4		
+trichomes	4		
+components	4		
+understanding	4		
+target genes	4		
+effects	4		
+products	4		
+tolerance	4		
+in vivo	4		
+analyses	4		
+desiccation tolerance	4		
+addition	4		
+genetic	4		
+organ	4		
+zygotic	4		
+types	3		
+stems	3		
+West	3		
+developmental	3		
+common	3		
+relationships	3		
+amounts	3		
+fertilization event	3		
+reserves	3		
+biosynthetic genes	3		
+subsequent	3		
+C	3		
+transactivation	3		
+Wang	3		
+lipids	3		
+size	3		
+metabolism	3		
+event	3		
+sites	3		
+space	3		
+ectopic	3		
+Seeds	3		
+assays	3		
+ACGT	3		
+MYB	3		
+embryonic mode	3		
+lec	3		
+APETALA2	3		
+repressor	3		
+regulators	3		
+lec1 mutant	3		
+site	3		
+mucilage production	3		
+control of gene expression	3		
+onset	3		
+model	3		
+storage reserves	3		
+homozygous	3		
+dispersal	3		
+cell types	3		
+transcriptional repressor	3		
+ethylene	3		
+planta	3		
+Yang	3		
+HDAC	3		
+transcript	3		
+Meinke	3		
+miRNAs	3		
+oil	3		
+floral	5		
+families	4		
+ability	4		
+regulator	4		
+Arabidopsis thaliana	4		
+FUS3	4		
+state	4		
+absence	4		
+result	4		
+phenotype	4		
+element	4		
+AP2 domains	2		
+Lim et al.	2		
+K domain	2		
+pollen	2		
+mucilage biosynthesis	2		
+parent - of-origin effects	2		
+acquisition	2		
+homozygous mutant plants	2		
+seed storage reserves	2		
+M.D. Lehti	2		
+high levels of AGL15	2		
+Uno	2		
+Giraudat	2		
+columella	2		
+common pathway	2		
+xtc2	2		
+Benning	2		
+morphogenetic processes	2		
+complexes	2		
+lec 2-1	2		
+dominant	2		
+response elements	2		
+SEU	2		
+manner	2		
+events	2		
+association	2		
+meristems	2		
+regulation of AP2	2		
+cytoplasmic column	2		
+additional	2		
+amounts of AGL15	2		
+subsets	2		
+AINTEGUMENTA	2		
+aspects of embryogenesis	2		
+genomes	2		
+transcript levels	2		
+single AP2 domain	2		
+kingdoms	2		
+ABREs	2		
+ser	2		
+oilseed rape microspores	2		
+GCC	2		
+Ekwall	2		
+mutant plants	2		
+epidermis	2		
+ABI	2		
+ thaliana	2		
+wild - type plants	2		
+West et al.	2		
+Embryo	2		
+3-3	2		
+MADS	2		
+seed coat epidermis	2		
+mutant of Arabidopsis	2		
+miR156 targets SPL10	2		
+leaf primordia	2		
+EREBP domain	2		
+embryonic development	2		
+substrates	2		
+RGI	2		
+ternary complexes	2		
+monophyletic	2		
+targets SPL10	2		
+Silverstein	2		
+Tang	2		
+of-origin	2		
+consensus sequence	2		
+rosette	2		
+LxLxL motif	2		
+Wang et al.	2		
+FA biosynthetic genes	2		
+acquisition of desiccation tolerance	2		
+SPL11 transcript levels	2		
+cytoplasmic	2		
+ABA	2		
+dicot	2		
+gene products	2		
+stages of morphogenesis	2		
+6B	2		
+embryonic functions	2		
+PKp - Î²1	2		
+microspores	2		
+bZIP proteins	2		
+rosette leaves	2		
+fus	2		
+Meinke 1992Meinke	2		
+dcl	2		
+mode of DNA recognition	2		
+sensitivity	2		
+cruciferin	2		
+asexual	2		
+DREB	2		
+ERF3	2		
+leaf tissue	2		
+WOX2 transcripts	2		
+morphogenetic	2		
+MAT	2		
+hybridization	2		
+abi	2		
+Kaufmann	2		
+xtc2 mutant of Arabidopsis	2		
+kinase	2		
+WT	2		
+transgenic plants	2		
+Conway	2		
+fatty - acid	2		
+higher levels	2		
+reproduction	2		
+co-repressors	2		
+AP2 gene	2		
+binding site	2		
+LxLxL	2		
+I	2		
+inducible	2		
+transcriptional activation	2		
+plant MADS	2		
+negative	2		
+better	2		
+ABI	2		
+mature leaf tissues	2		
+column	2		
+Lim	2		
+2-1	2		
+ternary	2		
+region	2		
+BCCP2 promoter	2		
+Seed mass	2		
+DNA recognition	2		
+Rha	2		
+embryogenic potential	2		
+Î²1	2		
+cotyledon identity	2		
+siliques	2		
+CArG motif	2		
+cis-acting	2		
+boxes	2		
+Em1a	2		
+Krizek	2		
+marker	2		
+classes	2		
+Kaufmann et al.	2		
+phosphorylation	2		
+reduction of WOX2 transcripts	2		
+GLABRA3	2		
+transcriptional regulation of AP2	2		
+progeny	2		
+Baud	2		
+ABA - inducible	2		
+shoot apex development	2		
+fus 3-3	2		
+cell morphogenesis	2		
+Lara	2		
+Ruuska et al.	2		
+dandelion	2		
+patterning defects	2		
+fact	2		
+apical meristems	2		
+recognition	2		
+LUG	2		
+Ruuska	2		
+WRI1 - like	2		
+PKp	2		
+1992Meinke	2		
+resources	2		
+misregulation	2		
+Lara et al.	2		
+maturation events	2		
+embryonic identity	2		
+albumin	2		
+AtEBP mRNA level	2		
+presence	2		
+gene classes	2		
+Uno et al.	2		
+embryogenic	2		
+transgenic	2		
+leaf tissues	2		
+parent - of-origin	2		
+MIKC subfamily	2		
+ACGT elements	2		
+paternal genomic excess	2		
+accumulation of AGL15	2		
+Leung	2		
+somatic embryogenesis	3		
+embryo morphogenesis	3		
+adaptation	3		
+defect	3		
+systems	3		
+part	3		
+timing	3		
+contrast	3		
+basic	3		
+Arabidopsis	3		
+cycle	3		
+different	3		
+system	3		
+epidermal	3		
+life cycle	3		
+Mayer	3		
+isolation	3		
+dormancy	3		
+responsive	3		
+somatic	3		
+later	3		
+double	3		
+diverse	3		
+changes	3		
+mutation	3		
+life	3		
+environmental	3		
+conditions	2		
+in vitro	2		
+NDP - l-Rha	2		
+critical	2		
+cis	2		
+late stages of embryogenesis	2		
+wild type	2		
+Genetic	2		
+oleosins	2		
+LEA	2		
+eukaryotic	2		
+genetic factors	2		
+corresponding	2		
+important	2		
+strong	2		
+paper	2		
+Yang et al.	2		
+Harada	2		
+storage protein	2		
+arrest	2		
+specificity	2		
+expression of differentiation	2		
+NDP - l-Rha synthase	2		
+one-hybrid	2		
+trait	2		
+acids	2		
+ectopic expression	2		
+Effects	2		
+relative	2		
+expression of genes	2		
+accumulation pattern of AGL15	2		
+l-Rha	2		
+mechanism	2		
+gene expression programs	2		
+seedlings	2		
+postembryonic	2		
+drought	2		
+longer	2		
+pleiotropic	2		
+second	2		
+transcriptional regulator	2		
+analysis	2		
+none	2		
+link	2		
+sequences	2		
+interaction of AGL15	2		
+mucilage synthesis	2		
+expression pattern	2		
+maternal origin	2		
+form	2		
+unpublished	2		
+LIKE	2		
+higher plants	2		
+stages of embryogenesis	2		
+oil accumulation	2		
+origin	2		
+heart	2		
+Recent	2		
+action	2		
+AP1	2		
+AGAMOUS	2		
+multiple	2		
+vegetative growth	2		
+Mayer et al.	2		
+embryo maturation	2		
+expression programs	2		
+seed maturation genes	2		
+suspensor	2		
+Zhu	2		
+storage lipids	2		
+mechanisms	2		
+lower	2		
+regulatory elements	2		
+late embryogenesis	2		
+stresses	2		
+increases	2		
+cis-regulatory	2		
+embryonic processes	2		
+pattern formation	2		
+evidence	2		
+transcriptional repression	2		
+major	2		
+key	2		
+Riechmann et al.	2		
+first	2		
+ap2	2		
+pattern of AGL15	2		
+change	2		
+Expression	2		
+transgenes	2		
+genome	2		
+differences	2		
+detectable	2		
+mature seed	2		
+plant embryo	2		
+FUSCA3	2		
+root	2		
+body	2		
+instance	2		
+MADS factors	2		
+period	2		
+possibility	2		
+metabolic	2		
+hairs	2		
+EMBRYOGENESIS	2		
+unpublished data	2		
+maize	2		
+cell differentiation	2		
+complex	2		
+Weber	2		
+signals	2		
+alleles	2		
+parents	2		
+putative transcription factors	2		
+organ identity	2		
+NDP	2		
+Weber et al.	2		
+LEAFY	2		
+synthase	2		
+repressors	2		
+deacetylase	2		
+leucine zipper	1		
+Anthocyanin	1		
+promoters of WRI1	1		
+core sequence CCGAC	1		
+stable expression pattern	1		
+electrophoretic mobility - shift assays	1		
+root apical meristems	1		
+phenotype descriptions of LEC1	1		
+Liu	1		
+cell size	1		
+bZIP protein	1		
+perceptible	1		
+bHLH protein	1		
+case	1		
+Jang	1		
+plant embryos	1		
+qualitative	1		
+premature expression of miR156 targets SPL10	1		
+mature leaf tissues of oilseed rape	1		
+Mutation	1		
+Action	1		
+Future	1		
+characteristics	1		
+CATGCA	1		
+regulatory roles	1		
+expression of fatty - acid	1		
+leaky abi 3-1 alleles	1		
+form of asexual reproduction	1		
+mRNAs of several genes	1		
+Several factors	1		
+floral mutant phenotypes	1		
+DNA binding domain	1		
+acid biosynthetic pathways	1		
+Physiological	1		
+protected	1		
+At2g41710	1		
+plant embryonic processes	1		
+loss of water	1		
+counterparts	1		
+action of this master regulator of seed maturation	1		
+RECEPTOR	1		
+TRANSPARENT	1		
+family of ser	1		
+Complementary	1		
+reception	1		
+bZIP domains	1		
+T]6GG	1		
+stages of maturation	1		
+seed - specific manner	1		
+AP2 domain of AtERF1	1		
+SEPALLATA3	1		
+premature expression of miRNA targets	1		
+decrease	1		
+nonmaternal QTL affect seed mass	1		
+bZIP - domain families	1		
+transient assays	1		
+terrestrial plants	1		
+GF14	1		
+plant transcription factor	1		
+vast potential	1		
+oil synthesis	1		
+accessibility	1		
+arrest of embryo morphogenesis	1		
+domain of AGL15	1		
+functional relevance	1		
+signal	1		
+negative abi 1-1 mutation	1		
+specific regulatory processes	1		
+insight	1		
+Laux	1		
+Genetic strategies	1		
+accumulation of hexose	1		
+plant - specific	1		
+overlapping functions	1		
+phytohormone	1		
+involvement	1		
+abiotic stresses	1		
+sizes of seeds	1		
+AP2 mRNA levels	1		
+DOF TF families	1		
+target of LEAFY COTYLEDON2	1		
+Ng	1		
+combination	1		
+loss - of-function	1		
+Kroj	1		
+rounder	1		
+regions	1		
+flower organ identity	1		
+biology	1		
+patterning phenotypes	1		
+parental conflict theory	1		
+rice	1		
+Functional dissections	1		
+Focks	1		
+Bouman	1		
+Fujimoto et al.	1		
+SPL transcripts	1		
+severe mutations	1		
+mRNA accumulation of these genes	1		
+transcription co-repressors LEUNIG	1		
+forestall expression of differentiation	1		
+up-regulation of MUM4	1		
+mechanistic level	1		
+amino	1		
+quiescence	1		
+cyanobacteria	1		
+investigation	1		
+Maturation - stagextc2	1		
+structural link	1		
+seed dispersal	1		
+smaller seeds	1		
+dozens	1		
+element binding protein	1		
+unique form of development	1		
+TF gene	1		
+gl2	1		
+bHLH - MYB	1		
+Hara	1		
+possible relationships	1		
+homologues	1		
+Schultz et al.	1		
+dicot seed development	1		
+AP2 - like domains	1		
+similar expression patterns	1		
+T-rich cis element	1		
+seed dormancy	1		
+downstream targets of AGL15	1		
+complex of TTG1 - bHLH - MYB	1		
+salinity	1		
+additional targets	1		
+embryonic functions of SPL transcription factors	1		
+fertile homozygous mutant plants	1		
+root hairs	1		
+detectable amounts of AGL15	1		
+domain protein	1		
+12S	1		
+colonizers	1		
+CACCTG	1		
+Suzuki et al.	1		
+layers	1		
+synthesis pathway	1		
+GL2 MUM4 transcript	1		
+ethylene - responsive element binding	1		
+double fertilization	1		
+circumstances	1		
+ABI3 - responsive	1		
+2003a	1		
+Bäumlein et al.	1		
+Tighter	1		
+lack	1		
+abnormal suspensor	1		
+AGL15 - specific	1		
+co-repressors LEUNIG	1		
+late - heart	1		
+family of plant - specific transcription factors	1		
+better molecular understanding	1		
+subdomains of ABI3	1		
+support	1		
+cereal	1		
+refs	1		
+dormant	1		
+roles of plant miRNAs	1		
+study of dandelion embryos	1		
+confirmation	1		
+biological	1		
+Detectable amounts of AGL15	1		
+dimerization	1		
+Seed imbibition	1		
+oleosins increases	1		
+expression profiles	1		
+metabolic quiescence	1		
+PKL	1		
+Desiccation - intolerant	1		
+hydrophilic pectin	1		
+preglobular cells	1		
+axes of mutant embryos	1		
+regulatory mechanisms	1		
+SPL gene repression	1		
+dicot species	1		
+gl2 mutants	1		
+plan	1		
+fatty acid synthesis enzymes	1		
+AG expression	1		
+complex phenotype	1		
+cotyledons of lec1 mutants	1		
+sites of phosphorylation	1		
+PP2C	1		
+samples	1		
+non-MADS domain protein	1		
+PICKLE	1		
+number of crop plants	1		
+SSP	1		
+oilseed	1		
+Cooperation	1		
+enzyme	1		
+fourth	1		
+putative CArG motif	1		
+Fernandez	1		
+age-dependent fashion	1		
+floral organs of plants	1		
+AGL15 - specific antibodies	1		
+Sakuma	1		
+later	1		
+Mutational	1		
+fatty acid biosynthetic pathways	1		
+Trichomes	1		
+exclusive	1		
+2-5	1		
+cell number	1		
+seed size	1		
+miR319â€”also	1		
+Arabidopsis genome	1		
+cruciferin promoters	1		
+plant miRNAs	1		
+maize	1		
+aspects of seed maturation	1		
+plant fitness	1		
+time of mucilage production	1		
+wild - type cotyledons	1		
+reproductive tissues	1		
+precocious expression of genes	1		
+Fan	1		
+Functional	1		
+point	1		
+AGL15 in vivo	1		
+C-repeats	1		
+ABA - activation of target gene expression	1		
+vegetative phase	1		
+core SIN3	1		
+vegetative	1		
+insights	1		
+AREB1	1		
+yeast two-hybrid studies	1		
+tissue present	1		
+homeobox	1		
+Plantaginaceae	1		
+present	1		
+floral context	1		
+L1L	1		
+meristem function	1		
+higher levels of AGL15	1		
+CCGAC	1		
+fertile	1		
+Dubois	1		
+monocot model systems	1		
+maturation - specific	1		
+use	1		
+plant MADS - domain proteins	1		
+PISTILLATA	1		
+extracytoplasmic	1		
+regulatory units	1		
+sequence - specific DNA binding proteins	1		
+strength	1		
+pattern of expression	1		
+different tissues	1		
+Embryo DevelopmentMajor differences	1		
+COTYLEDON1	1		
+of-function	1		
+kinds of organs	1		
+lipogenic	1		
+double mutants	1		
+dominant negative mutations	1		
+AP2- and	1		
+Allen	1		
+temporal	1		
+inhibitor	1		
+lec 2-1 embryos	1		
+member of a family of plant - specific transcription factors	1		
+biosynthetic pathway	1		
+lec 2-1 dcl 1-15 embryos	1		
+late stages of zygotic embryo development	1		
+large primordia	1		
+hypersensitivity	1		
+flower meristem identity	1		
+3-1	1		
+Fang	1		
+ABI5 expression	1		
+nuclei of fully mature pollen	1		
+recognizable DNA	1		
+Recent studies	1		
+ap 2-5	1		
+inductive	1		
+Magnani et al.	1		
+miR319â€”also forestall expression of differentiation	1		
+minimal	1		
+Hanes	1		
+nothing	1		
+mobile endonucleases	1		
+idea	1		
+histone	1		
+obvious	1		
+significant	1		
+mucilage secretory cell differentiation	1		
+maternal plant	1		
+Jang et al.	1		
+original insights	1		
+yeast one-hybrid experiments	1		
+calli	1		
+pressure	1		
+amount of cotyledon tissue present	1		
+transcriptional activity of AP2	1		
+compound accumulation	1		
+legume	1		
+repression of SPL10	1		
+T)TcCC(a	1		
+ZIPIII	1		
+Putative	1		
+leaf mesophyll cells of alfalfa	1		
+target promoters of WRI1	1		
+FA biosynthesis	1		
+amino acids	1		
+AREB2	1		
+screens	1		
+â€˜contrapuntalâ€™	1		
+repeat of ANT	1		
+Fujita	1		
+mutant seeds	1		
+Ectopic expression	1		
+diploid seeds	1		
+abscisic	1		
+pleiotropic effects of lec mutations	1		
+WRI1 - like group	1		
+protected state	1		
+Albani	1		
+once	1		
+appropriate signals	1		
+phosphatases	1		
+Immature	1		
+Defects	1		
+context	1		
+situations	1		
+regulatory complex	1		
+variability	1		
+adaptation of terrestrial plants	1		
+extended period	1		
+two-hybrid assay	1		
+extra	1		
+fus 3-3 dcl	1		
+beginning	1		
+affect	1		
+Differentiation	1		
+promoter of a 7S storage protein gene	1		
+Tiwari	1		
+Ectopic	1		
+EGL3	1		
+Rounsley et al.	1		
+Developmental	1		
+Opaque2	1		
+stage of development	1		
+Schallau et al.	1		
+resumption	1		
+lack of information	1		
+higher plant embryonic processes	1		
+genes of maize	1		
+shift	1		
+SPL transcription factors	1		
+acetyl	1		
+Baker	1		
+2-5	1		
+AGAMOUS - LIKE	1		
+angiosperms	1		
+CTTT motifs	1		
+regulation of these target genes	1		
+character	1		
+paternal parent	1		
+cases	1		
+Cernac	1		
+Arabidopsis Information Resource	1		
+eukaryotic transcription factor	1		
+Masaki et al.	1		
+M	1		
+endonucleases	1		
+negative mutations	1		
+monogenic	1		
+synthesis of seed storage reserves	1		
+large family of regulatory factors	1		
+ANT - like group	1		
+Albani et al.	1		
+role of LEC2	1		
+accumulation of AtEBP	1		
+body plan	1		
+resource restrictions	1		
+MYB protein	1		
+mum4 plants	1		
+network	1		
+dormancy state	1		
+Laux et al.	1		
+Mizukami et al.	1		
+ABSCISIC ACID INSENSITIVE3	1		
+Arabidopsis seed mass	1		
+delay	1		
+DNA binding specificity	1		
+DREB subfamilies	1		
+g)ANG(c	1		
+literature	1		
+parental	1		
+mobility - shift	1		
+precocious germination	1		
+Magnani	1		
+level of ap	1		
+level of transcription	1		
+imagesView	1		
+profiles	1		
+ASIL1	1		
+dehydration response elements	1		
+juvenile mode of morphogenesis	1		
+vast	1		
+seed coat development	1		
+Becker	1		
+WRINKLED1	1		
+heart stage	1		
+oligosaccharide	1		
+nonmaternal	1		
+specific up-regulation of a putative NDP - l-Rha synthase	1		
+like groups	1		
+homologs of ABI3	1		
+perceptible roles of plant miRNAs	1		
+products of double fertilization	1		
+Rha biosynthesis	1		
+fewer	1		
+tests	1		
+Coat Secretory Cell Differentiation	1		
+cellular	1		
+establishment of flower meristem identity	1		
+broader	1		
+embryonic patterning phenotypes	1		
+once optimal	1		
+coexpression	1		
+corresponding proteins	1		
+D	1		
+antibodies	1		
+outstanding	1		
+gene regulation	1		
+putative NDP - l-Rha synthase	1		
+B3 domain	1		
+seed samples	1		
+Schultz	1		
+several target promoters of WRI1	1		
+ABA - inducible expression	1		
+cereals	1		
+orthologous	1		
+LEUNIG	1		
+reporter activation	1		
+plant life cycle	1		
+cotyledon tissue present	1		
+better understanding	1		
+second class of genes	1		
+extracytoplasmic space	1		
+plant body plan	1		
+amount of this enzyme	1		
+original	1		
+mutant cotyledons	1		
+T]8G	1		
+additional plant	1		
+bHLH proteins	1		
+similar results	1		
+Cell Differentiation	1		
+ABREs	1		
+Arabidopsis plants	1		
+leaky	1		
+one-hybrid system	1		
+Embryo shape	1		
+extended	1		
+absence of a fertilization event	1		
+embryo - specific transcription factor	1		
+regulation of oil synthesis	1		
+higher plant embryo development	1		
+ap2 mutations	1		
+Ma	1		
+sizes	1		
+MZdicer	1		
+columella shape change	1		
+dehydration	1		
+repressive function	1		
+protective layer	1		
+miR156 - resistant	1		
+stages of zygotic embryo development	1		
+RAV1	1		
+proper	1		
+Wang et al.	1		
+Gandikota et al.	1		
+LEAFY COTYLEDON2	1		
+downstream	1		
+critical embryonic processes	1		
+zygotic embryo	1		
+2S seed proteins	1		
+DNA binding proteins	1		
+ectopic AG transcription	1		
+4A	1		
+several roles	1		
+nuclei	1		
+uncharacterized roles of miR156	1		
+loss of developmental potential	1		
+shorter	1		
+Embryonic leaves	1		
+7S storage protein gene	1		
+leaf blades	1		
+direct target of LEAFY COTYLEDON2	1		
+understanding of gene expression control	1		
+quiescent	1		
+phv	1		
+wild - type ABA response	1		
+regulatory factors	1		
+Goldberg	1		
+miRNA target transcripts	1		
+Gosti et al.	1		
+specification of cotyledon identity	1		
+AP2 - like	1		
+thr-rich	1		
+shoot apical meristem	1		
+Hobo et al.	1		
+ABA - response elements	1		
+â€²	1		
+turgor	1		
+G-box elements	1		
+ABA - response	1		
+binding protein	1		
+seed proteins	1		
+3A	1		
+rounded	1		
+ABRE	1		
+tips	1		
+ABI1	1		
+apparent	1		
+requirement of these targets	1		
+lower plants	1		
+Oâ€™ Hara etÂ al.	1		
+CACCTG sequence	1		
+onset of seed dormancy	1		
+several genes	1		
+subset of LEAs	1		
+Important	1		
+Secretory Cell Differentiation	1		
+embryonic organs	1		
+osmotic gradient	1		
+undescribed function	1		
+two-hybrid studies	1		
+complexity	1		
+completion	1		
+loss - of-function ap2 mutations	1		
+broader consensus	1		
+mechanistic	1		
+TAGs	1		
+ABA sensitivity	1		
+establishment	1		
+formation of an osmotic gradient	1		
+embryonic cell types	1		
+genome equivalents	1		
+11-bp sequences	1		
+SERK1	1		
+homologs	1		
+Galau	1		
+subclass	1		
+TESTA8	1		
+end of ripening	1		
+immature embryos	1		
+later stages of embryogeny	1		
+amounts of anthocyanin	1		
+RAV1 transcription factor	1		
+Nambara	1		
+sensitivity to ABA	1		
+similarity	1		
+myb61	1		
+yeast two-hybrid assay	1		
+expression of miR156 targets SPL10	1		
+Boesewinkel	1		
+equivalents	1		
+Thomas	1		
+ectopic expression of SEPALLATA3	1		
+Parcy	1		
+array of biological functions	1		
+embryonic cell differentiation	1		
+numbers of seeds	1		
+dandelion embryos	1		
+rise	1		
+constitutive expression	1		
+MZdicer embryos	1		
+sectors of cotyledon	1		
+activities	1		
+diverse cell types	1		
+monogenic parents	1		
+lines of evidence	1		
+yeast two-hybrid assays	1		
+C-A	1		
+absence of LEC2	1		
+Future characterization	1		
+Messenguy	1		
+cis-acting regulatory elements	1		
+ACID INSENSITIVE3	1		
+Resource	1		
+LATE	1		
+VP1â€“EmBP1 interactions	1		
+Meinke et al.	1		
+Kroj et al.	1		
+Gosti	1		
+embryonic patterning defects	1		
+embryonic organ identity	1		
+specification of embryonic organ identity	1		
+transcription level	1		
+O2 - type	1		
+passive	1		
+18 kDa	1		
+Ridley	1		
+storage protein gene	1		
+putative function of MUM4	1		
+rise to embryonic cell types	1		
+insensitive loci	1		
+abundant	1		
+resumption once optimal growth conditions	1		
+regulation of PHB	1		
+TRAB1	1		
+differential	1		
+homologous	1		
+masses	1		
+AtEm6	1		
+DREB subfamily	1		
+similar expression profiles	1		
+repression of SPL genes	1		
+protein at high levels	1		
+basic plant body plan	1		
+subsites	1		
+number of seeds	1		
+order	1		
+biotin	1		
+Busk	1		
+increase	1		
+egg	1		
+class of mutations	1		
+situations of this type	1		
+hallmark	1		
+structure	1		
+regions of genes	1		
+MUM4 transcript	1		
+anatomy of lec1 mutant cotyledons	1		
+postgerminative	1		
+first detectable differentiation defect	1		
+number of downstream targets of AGL15	1		
+similar qualitative effects	1		
+functional	1		
+embryogeny	1		
+Information Resource	1		
+Crouch	1		
+accumulation of these genes	1		
+pleiotropic phenotype	1		
+optimal	1		
+maternal genomic excess	1		
+Yalovsky	1		
+important transcriptional regulator	1		
+DNA in vitro	1		
+diverse aspects of embryogenesis	1		
+Favaro et al.	1		
+box	1		
+SPL genes	1		
+precocious differentiation	1		
+subsequent globular stages	1		
+C domains	1		
+precocious expression of maturation transcripts	1		
+Braybrook	1		
+pAt2S3	1		
+modification	1		
+sexual reproduction	1		
+embryonic features	1		
+misregulation of additional targets	1		
+microarray	1		
+zygotic embryo development	1		
+Keith	1		
+challenge	1		
+AtEBP expression	1		
+de novo	1		
+PP2C family of ser	1		
+mRNA level of ap	1		
+motifs	1		
+roles of miRNAs	1		
+AG transcription	1		
+complex organ	1		
+properties of proteins	1		
+11-bp	1		
+Yamaguchi	1		
+bZIP domain	1		
+uncharacterized	1		
+Imprinting	1		
+globular stages	1		
+LxLxL motif resides	1		
+7A	1		
+hydrophilic	1		
+Glu	1		
+tinman	1		
+wild - type cotyledon	1		
+Mutational analyses of VP1	1		
+binding sequence	1		
+transition to a maturation phase	1		
+Fujimoto	1		
+plant molecular biology	1		
+aspects of plant growth	1		
+direct regulatory roles	1		
+subgroups	1		
+Maturation - stagextc2 embryos	1		
+detectable differentiation defect	1		
+cells of alfalfa	1		
+dissections	1		
+Em1b elements	1		
+accumulation of storage compounds	1		
+layer	1		
+bipartite mode of embryogenesis	1		
+global	1		
+descriptions of LEC1	1		
+ABI loci	1		
+coil	1		
+Gutierrez	1		
+SIN3 histone deacetylase	1		
+7S	1		
+fatty acid biosynthetic pathway	1		
+LEC genes	1		
+ERF3 in vitro	1		
+survival	1		
+expression control	1		
+Embryonic	1		
+embryonic phenotypes	1		
+CAACA motif	1		
+BCCP2 promoters	1		
+C[A	1		
+maturation - phase genes	1		
+distinct phases	1		
+genotype	1		
+cis-regulatory elements	1		
+cues	1		
+expression similarity	1		
+residue Gly -159 to Glu	1		
+growth arrest	1		
+regulatory network	1		
+longer period	1		
+germinates	1		
+bridge protein	1		
+gradient	1		
+repressors of seed maturation genes	1		
+interruption	1		
+TAAGAGGCCGCC	1		
+quantity of RGI	1		
+mesophyll	1		
+miR156 levels	1		
+ABUNDANT	1		
+restrictions	1		
+ENHANCER	1		
+maturation transcripts	1		
+Yalovsky et al.	1		
+petioles	1		
+ERF subfamily	1		
+Gly	1		
+AP3	1		
+promoter activities	1		
+-159	1		
+viruses	1		
+experimental confirmation	1		
+longer A	1		
+Sakuma et al.	1		
+several similarities	1		
+tomato	1		
+GCCGCC core	1		
+TRANSPARENT TESTA8	1		
+Kurup	1		
+binding to cis-acting regulatory elements	1		
+Incomplete specification of cotyledon identity	1		
+stable	1		
+Precocious germination	1		
+insensitive	1		
+class of genes	1		
+conflict	1		
+protein phosphatases	1		
+stages of embryogeny	1		
+maturation gene expression	1		
+inductive signals	1		
+Karlova	1		
+Graham	1		
+subsets of substrates	1		
+specification of flower organ identity	1		
+programs of gene expression	1		
+Information	1		
+higher plant life cycle	1		
+residue Gly	1		
+shaping	1		
+majority	1		
+point - mutation	1		
+constitutive	1		
+Ohta et al.	1		
+Steeves	1		
+expression of miRNA targets	1		
+large sectors of cotyledon	1		
+important aspects of plant growth	1		
+stagextc2	1		
+Immunoreactive	1		
+maternal tissues	1		
+control of seed mass	1		
+element binding	1		
+asexual reproduction	1		
+targets of WRI1	1		
+qualitative effects	1		
+heterodimers	1		
+commences	1		
+ARABIDOPSIS	1		
+thr protein phosphatases	1		
+Immature oilseed rape microspores	1		
+Multiple	1		
+late embryogenesis abundant	1		
+DOF	1		
+Immunoreactive protein	1		
+ABI5 loci	1		
+nutritive role	1		
+TF family	1		
+once optimal growth conditions	1		
+studies of somatic embryogenesis	1		
+Linaceae	1		
+SSPs	1		
+gene expression control	1		
+seed - specific	1		
+trait loci	1		
+ethylene responsive element binding protein	1		
+Schwarz	1		
+Mallory	1		
+EREBP transcription factor family	1		
+second DNA binding domain	1		
+Triticum aestivum	1		
+Complementary studies	1		
+t	1		
+preglobular stage	1		
+core element	1		
+paternal plant	1		
+resides	1		
+Espinas et al.	1		
+bZIP - domain	1		
+bZIP10	1		
+mature leaf tissues of pea	1		
+plant MADS - domain	1		
+regulatory framework	1		
+consistent marker	1		
+ERE	1		
+mobile	1		
+cereal O2 - type TFs	1		
+mobility	1		
+synthesis enzymes	1		
+DPBF	1		
+bZIP25	1		
+strategies	1		
+Interploidy crosses	1		
+oilseed rape embryos	1		
+subsequent loss of developmental potential	1		
+MUM4 transcription	1		
+premature germination	1		
+flowering plants	1		
+zygotic embryos	1		
+Zhang	1		
+paternal alleles	1		
+role of Arabidopsis APETALA2	1		
+number of direct target genes	1		
+regulatory regions of genes	1		
+ciliates	1		
+ Pleiotropic	1		
+abaxial surface	1		
+hypothesis	1		
+mRNA levels	1		
+AP2- and bZIP - domain families	1		
+suppression of flower meristem indeterminancy	1		
+Putative targets of WRI1	1		
+Several	1		
+dimerization domains	1		
+T-rich core	1		
+b	1		
+master regulator of seed maturation	1		
+vegetative plant	1		
+lower levels	1		
+immature oilseed rape microspores	1		
+effect	1		
+quantitative trait loci	1		
+in vivo regulation of these target genes	1		
+number of genes	1		
+different kinds of organs	1		
+homolog	1		
+fatty acid metabolism	1		
+hypersensitivity of vegetative tissues	1		
+C-terminal domain of AGL15	1		
+Schiefelbein	1		
+multiple miRNA	1		
+gene coexpression	1		
+function of AP2	1		
+late glycolysis	1		
+development of a complex organ	1		
+Mallory et al.	1		
+B3 - like domain	1		
+conflict theory	1		
+end	1		
+Gutierrez et al.	1		
+descriptions	1		
+axis	1		
+barley	1		
+Tighter wrapping	1		
+insertion of maturation events	1		
+binding to DNA	1		
+bridge	1		
+RY	1		
+Regulation of MUM4	1		
+contexts	1		
+large amounts of anthocyanin	1		
+genetic studies	1		
+affect seed mass	1		
+sexual	1		
+central regulators of embryo	1		
+maturation - specific genes	1		
+sequence CCGAC	1		
+environment	1		
+connection	1		
+shorter vegetative phase	1		
+homology	1		
+target interactions	1		
+core members	1		
+strong association	1		
+Voelker	1		
+TT8	1		
+subset	1		
+basic leucine zipper	1		
+lipid metabolism	1		
+Multiple factors	1		
+master	1		
+canonical sequence of CC[A	1		
+fewer rosette leaves	1		
+ABA regulation	1		
+floral homeotic phenotype	1		
+gel	1		
+acetyl groups	1		
+wild - type counterparts	1		
+ARABIDOPSIS 6B	1		
+phenotypic	1		
+organs of plants	1		
+proteinâ€“protein interactions	1		
+explanation	1		
+group C	1		
+RECEPTOR - LIKE	1		
+shoot apical meristems of lec1 embryos	1		
+wheat	1		
+mature seed coat	1		
+transcriptional repressor in vivo	1		
+maturation phase of embryogenesis	1		
+abiotic	1		
+population	1		
+prediction	1		
+glycolysis	1		
+G-box - like	1		
+ABI2	1		
+diverse array of biological functions	1		
+RECEPTOR - LIKE KINASE1	1		
+transactivation domain	1		
+sugar metabolism	1		
+cross	1		
+Yanofsky	1		
+sets	1		
+array	1		
+FUSCA3 gene	1		
+CC[A	1		
+At5g13790	1		
+repression of gene expression	1		
+blot hybridization	1		
+Histone	1		
+exclusive explanation	1		
+regulation of leaf shape	1		
+orthologous genes	1		
+Brassica napus	1		
+Wu	1		
+planta Histone deacetylase	1		
+SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1	1		
+S.-C.	1		
+molecular biology	1		
+phytohormone abscisic acid	1		
+Fujita et al.	1		
+EMBRYOGENESIS RECEPTOR - LIKE KINASE1	1		
+RAV	1		
+suppression	1		
+plant - specific transcription factors	1		
+number of MADS - domain proteins	1		
+G-box - like ACGT elements	1		
+bHLH protein GLABRA3	1		
+dozens of miRNA targets	1		
+two-hybrid screens	1		
+high levels of chlorophyll	1		
+Parenicová et al.	1		
+floral MADS factors	1		
+molecular understanding	1		
+CAACA	1		
+kinase inhibitor treatment of wild - type cells	1		
+transitions	1		
+tissue system	1		
+environmental conditions	1		
+status of these transcription factors	1		
+mid-maturation	1		
+carboxyl	1		
+myxospermy	1		
+LATE - EMBRYOGENESIS	1		
+Pages	1		
+specific probe	1		
+SCARECROW	1		
+dcl 1-15 embryos	1		
+GCCGCC	1		
+pectin	1		
+regulation of SPL transcripts	1		
+turn	1		
+activation of target gene expression	1		
+ERA	1		
+double fertilization event	1		
+CArG sequence	1		
+monocot	1		
+SHOOTMERISTEMLESS	1		
+formation of a gel capsule	1		
+thr-rich domains	1		
+phosphorylation status of these transcription factors	1		
+lec1 mutation	1		
+epidermal systems	1		
+AGL15 binding site	1		
+maturation - phase gene expression programs	1		
+mutant phenotypes	1		
+Seed development	1		
+several TFs	1		
+study of organs	1		
+Histone deacetylase	1		
+maternal transcripts	1		
+Hobo	1		
+significant role	1		
+temporal expression patterns	1		
+polyploid	1		
+structural	1		
+At1g16060	1		
+efficient colonizers	1		
+plethora	1		
+tissue - specific	1		
+seed coat - specific	1		
+activity of AP2	1		
+sucrose	1		
+homozygous mutant embryos	1		
+maturation transition	1		
+siliques of ap2 mutants	1		
+something	1		
+seed environment	1		
+histone deacetylase	1		
+correlations	1		
+direct physical interactions	1		
+strong AGL15 binding site	1		
+ACID	1		
+cellular functions	1		
+genetic tests	1		
+SEUSS	1		
+oligosaccharide signal	1		
+HD - ZIPIII transcripts	1		
+genes of Arabidopsis	1		
+homeobox genes	1		
+DREs	1		
+AGL15 transgenes	1		
+Incomplete	1		
+fully	1		
+TTG1 - bHLH - MYB	1		
+mature lec2 mutant seeds	1		
+lec1 mutant seeds	1		
+induction	1		
+CTTT	1		
+dcl1 mutant embryos	1		
+Important programs of gene expression	1		
+Genes	1		
+torpedo stage of development	1		
+late embryo development	1		
+Masaki	1		
+sectors	1		
+physical	1		
+RGI biosynthesis	1		
+Fernandez et al.	1		
+Arabidopsis APETALA2	1		
+SAM	1		
+mum4	1		
+c	1		
+Karlova et al.	1		
+fus3 embryos	1		
+leucine	1		
+division	1		
+completion of germination	1		
+definitive marker of phase	1		
+Genetic studies	1		
+homeotic phenotype	1		
+Rounsley	1		
+loss of turgor	1		
+homodimers	1		
+body of knowledge	1		
+COTYLEDON2	1		
+biochemical pathways	1		
+minimal DNA	1		
+abi 1-1 mutation	1		
+embryo morphology	1		
+Parcy	1		
+means	1		
+specific genes	1		
+epidermal hairs	1		
+large quantity of RGI	1		
+common cis	1		
+physiology	1		
+fitness	1		
+production of an oligosaccharide signal	1		
+Kurup et al.	1		
+meristem identity	1		
+coil motif	1		
+lipoic acid biosynthetic pathways	1		
+phenotypic defect	1		
+metabolic changes	1		
+experiments	1		
+pattern of accumulation	1		
+formation of ternary complexes	1		
+handle	1		
+2S	1		
+ap2 mutants	1		
+mesophyll cells of alfalfa	1		
+unorganized masses	1		
+growth conditions	1		
+dependence of cell morphogenesis	1		
+kinds	1		
+corresponding species	1		
+Wise	1		
+differential timing	1		
+ACGT core element	1		
+mode of morphogenesis	1		
+meristem indeterminancy	1		
+relevance	1		
+wrapping	1		
+shape change	1		
+transient	1		
+zygotic complement of genomes	1		
+activation of GL2	1		
+candidates	1		
+expression patterns of AP2	1		
+meristem formation	1		
+miRNA target	1		
+activators	1		
+layers of maternal origin	1		
+Fry	1		
+back	1		
+Fernandez	1		
+Interploidy	1		
+model system	1		
+embryo germinates	1		
+age	1		
+null	1		
+direct target genes	1		
+1-1	1		
+stem cells	1		
+target gene expression	1		
+damage	1		
+similar mode of DNA recognition	1		
+Lepiniec	1		
+regulators of embryo	1		
+Kim et al.	1		
+digenic mutants	1		
+central	1		
+ripening	1		
+RNA	1		
+distinct temporal expression patterns	1		
+lipoic	1		
+developmental contexts	1		
+HDAC complex	1		
+embryogenic potential of alfalfa leaf cells	1		
+origins	1		
+Ridley et al.	1		
+critical factor	1		
+SIN3â€“HDAC	1		
+Favaro	1		
+LATE - EMBRYOGENESIS ABUNDANT	1		
+variations	1		
+phb phv double mutants	1		
+reviews	1		
+several distinct temporal expression patterns	1		
+mRNAs	1		
+ABI PP2Cs	1		
+cis element	1		
+maintenance	1		
+preglobular cell types	1		
+function of MUM4	1		
+efficient	1		
+phosphatase activity	1		
+phb	1		
+two-hybrid assays	1		
+ovule	1		
+environmental stresses	1		
+transcriptional activators	1		
+seed plant embryos transition to a maturation phase	1		
+monophyletic group	1		
+Shinshi	1		
+differentiation defect	1		
+insertion	1		
+developmental situations of this type	1		
+crop plants	1		
+chlorophyll	1		
+PROTEIN	1		
+tissue - specific MYB protein	1		
+lec2	1		
+way	1		
+late maturation events	1		
+Solanaceae	1		
+subsequent up-regulation of MUM4	1		
+high quality	1		
+unfavourable	1		
+hydration	1		
+responsive element binding protein	1		
+Higher	1		
+Kinney	1		
+tips of mutant cotyledons	1		
+cell stage	1		
+null mutations	1		
+encode	1		
+proteinâ€“protein	1		
+distinct aspects of embryogenesis	1		
+key roles	1		
+sequence of CC[A	1		
+OSVP1	1		
+G	1		
+later stages of morphogenesis	1		
+key TFs	1		
+Bowman	1		
+ethylene response elements	1		
+Higher plant embryogenesis	1		
+severe	1		
+information	1		
+lab	1		
+apoplastic	1		
+resource	1		
+distinct processes	1		
+Parenicová	1		
+Wessler	1		
+blades	1		
+sugar	1		
+lec1 mutants	1		
+complement	1		
+plant's	1		
+protein kinase inhibitor treatment of wild - type cells	1		
+ttg2	1		
+result of changes	1		
+complement of genomes	1		
+INSENSITIVE3	1		
+VP1 genes of maize	1		
+QTL affect seed mass	1		
+zipper	1		
+number of AP2 domains	1		
+quality	1		
+transcriptional activation of these genes	1		
+analyses of VP1	1		
+ABA - inducible genes	1		
+maturation phases	1		
+maternal resources	1		
+Fan et al.	1		
+specialization	1		
+oilseed species	1		
+GNOM	1		
+T-rich - G	1		
+Ruijter	1		
+O2 - type TFs	1		
+non-MADS	1		
+EREBP domain of AP2	1		
+lec1 seedlings	1		
+response to ABA	1		
+framework	1		
+conspicuous function of AP2	1		
+AACA	1		
+storage compound accumulation	1		
+size reduction	1		
+miR160	1		
+restricted sets of cells	1		
+channeling of maternal resources	1		
+stages of vegetative growth	1		
+environmental cues	1		
+Hara et al.	1		
+2003Gamboa	1		
+cis-acting sequences	1		
+MADS - domain transcription factors	1		
+compounds	1		
+ttg1	1		
+morphology	1		
+axes	1		
+KNOLLE	1		
+lec1 mutant cotyledons	1		
+competence to flower	1		
+regulation of HD - ZIPIII transcripts	1		
+publications	1		
+nucleosome	1		
+Northern blot hybridization	1		
+chromatin	1		
+series of studies	1		
+identity - phase transitions	1		
+EEL	1		
+wild - type embryogenesis	1		
+vegetative tissues	1		
+storage compounds	1		
+B3 - like	1		
+isolation of mutants	1		
+stem	1		
+properties	1		
+AP2 gene expression	1		
+dcl1 embryonic phenotypes	1		
+possible	1		
+Detectable	1		
+use of yeast two-hybrid assays	1		
+PROTEIN 1-LIKE	1		
+dispersal of species	1		
+inhibitor treatment of wild - type cells	1		
+lec1 Mutation	1		
+one-hybrid experiments	1		
+postembryonic vegetative development	1		
+eukaryotic kingdoms	1		
+proper pattern formation	1		
+Schwarz et al.	1		
+family of regulatory factors	1		
+fashion	1		
+Ohlrogge	1		
+torpedo	1		
+late seed development	1		
+vegetative development	1		
+majority of LATE - EMBRYOGENESIS ABUNDANT	1		
+production of mucilage	1		
+expression pattern of AtERF1	1		
+ABI gene products	1		
+recognizable	1		
+Zea mays	1		
+gel capsule	1		
+cruciferin genes	1		
+AP2 mRNA level of ap 2-5	1		
+2C	1		
+Espinas	1		
+Ruijter et al.	1		
+flower meristem indeterminancy	1		
+developmental potential	1		
+wild - type Arabidopsis	1		
+extra Rha	1		
+crosses	1		
+Kim	1		
+BLZ2	1		
+abscisic acid	1		
+considerable	1		
+specific binding to G-box - like ACGT elements	1		
+shoot apical meristems	1		
+apparent complexity	1		
+AtERF1 mRNA level of ap	1		
+imbibition	1		
+plant cells	1		
+Plants	1		
+Masiero	1		
+hypotheses	1		
+Seeds of higher plants	1		
+obvious phenotypic defect	1		
+mature leaf tissue	1		
+competence	1		
+Finkelstein	1		
+TAIR	1		
+Regulation	1		
+storage of triacylglycerols	1		
+Keith et al.	1		
+experimental	1		
+Allen et al.	1		
+plant embryos transition to a maturation phase	1		
+offspring	1		
+chimeric organs	1		
+threshold	1		
+restricted	1		
+myb61 mutants	1		
+passive processes	1		
+requirement	1		
+capsule	1		
+solution	1		
+plethora of data	1		
+Desiccation - intolerant lec1 embryos	1		
+compound	1		
+mode of embryogenesis	1		
+fus3	1		
+expression of ERF genes	1		
+analysis of genetic factors	1		
+Mizukami	1		
+considerable variations	1		
+SEU	1		
+unorganized	1		
+residue Gly -159	1		
+S.E. Perry	1		
+expression of maturation transcripts	1		
+et al.	1		
+unfavourable environmental conditions	1		
+alfalfa leaf cells	1		
+plant's ability	1		
+member of this complex	1		
+histones	1		
+Tiwari et al.	1		
+TF families	1		
+ABA hypersensitivity of vegetative tissues	1		
+abnormal	1		
+nutritive	1		
+definitive	1		
+SPL11 transgenes	1		
+reduction of maternal transcripts	1		
+channeling	1		
+Cooperation of these regulatory units	1		
+Ohta	1		
+Dumville	1		
+basic cellular functions	1		
+quantitative	1		
+regulatory relationships	1		
+theory	1		
+treatment	1		
+units	1		
+maturation genes	1		
+PP2Cs	1		
+in planta	1		
+combinatorial control of gene expression	1		
+seed storage protein	1		
+Precocious	1		
+amount of AGL15	1		
+abi 3-1 alleles	1		
+LEC2 mutants	1		
+reporter	1		
+RAV family	1		
+meristem identity - phase transitions	1		
+postgerminative seedling development	1		
+suitable	1		
+vegetative cells	1		
+LEAs	1		
+2003Gamboa et al.	1		
+regulatory action of this master regulator of seed maturation	1		
+blot	1		
+AG cis-regulatory region	1		
+lec2 mutant seeds	1		
+transcription of MUM4	1		
+ABI3 - responsive promoters	1		
+Em1b	1		
+plant embryogenesis	1		
+indeterminancy	1		
+SPL11 repression	1		
+features	1		
+bell	1		
+third	1		
+EREBP family members	1		
+AP2 repeat of ANT	1		
+marker of phase	1		
+stronger inductive signals	1		
+electrophoretic	1		
+rounded leaves	1		
+binding properties of proteins	1		
+Tunnacliffe	1		
+subdomains	1		
+gene class	1		
+knowledge	1		
+fava bean	1		
+SOMATIC	1		
+synthesis of mucilage	1		
+mobility - shift assays	1		
+Schallau	1		
+state of dormancy	1		
+direct interaction	1		
+different genotype	1		
+SPA	1		
+current study	1		
+microarray analyses	1		
+major challenge	1		
+DPBF subfamily	1		
+Jaworski	1		
+ABI5 gene products	1		
+transcription factor genes	1		
+C-terminal	1		
+zygotic genomes	1		
+Jack	1		
+Baker et al.	1		
+age-dependent	1		
+miR156 - resistant SPL10	1		
+dominant negative abi 1-1 mutation	1		
+regulatory processes	1		
+secretory	1		
+terms	1		
+digenic	1		
+GCC boxes	1		
+regulators of higher plant embryonic processes	1		
+indirect	1		
+SPL11 promoter activities	1		
+Northern	1		
+exact	1		
+Seed Coat Secretory Cell Differentiation	1		
+water	1		
+large numbers of seeds	1		
+epidermal cells	1		
+products of these genes	1		
+SAP30	1		
+LEAFY COTYLEDON1	1		
+dependence	1		
+Oâ€™	1		
+Hordeum vulgare	1		
+seed coat - specific complex of TTG1 - bHLH - MYB	1		
+methods	1		
+target gene	1		
+Cell	1		
+morphogenesis phenotypes	1		
+terms of morphogenesis	1		
+Physiological studies	1		
+phv double mutants	1		
+coat development	1		
+promoter analyses	1		
+monophyletic groups	1		
+own	1		
+6C	1		
+subsets of seed	1		
+forestall	1		
+embryo - specific	1		
+recessive mutations	1		
+solution structure	1		
+relative timing of embryo	1		
+Developmental Regulation of MUM4	1		
+Franks	1		
+first plant transcription factor	1		
+aspects of seed development	1		
+own AP2 gene expression	1		
+premature induction of maturation - phase genes	1		
+embryonic pattern formation	1		
+Goldberg et al.	1		
+pea	1		
+time	1		
+bZIP TF family	1		
+cell division	1		
+numbers	1		
+later stages of maturation	1		
+global function	1		
+ANT - like	1		
+fully mature	1		
+thr	1		
+undescribed	1		
+imagesView high quality	1		
+S.-C. Fang	1		
+fully mature pollen	1		
+mid-maturation phase	1		
+apical meristem	1		
+suitable circumstances	1		
+assay	1		
+smaller	1		
+Hughes	1		
+osmotic	1		
+Schmidt	1		
+absence of trichomes	1		
+up-regulation of a putative NDP - l-Rha synthase	1		
+Secretory	1		
+Recent results	1		
+secretory cell differentiation	1		
+organ systems	1		
+mRNA accumulation of AtEBP	1		
+regulator of seed maturation	1		
+HD - ZIPIII	1		
+reproductive	1		
+HD	1		
+relative accumulation of hexose	1		
+biochemical	1		
+At1g79700	1		
+combinatorial	1		
+immature oilseed rape embryos	1		
+regulators of Arabidopsis thaliana embryo development	1		
+intolerant	1		
+Arabidopsis thaliana embryo development	1		
+lipid	1		
+diploid	1		
+MUM4 expression	1		
+exact processes	1		
+substrate	1		
+Growth	1		
+AP2 mRNA level	1		
+apomixis	1		
+current	1		
+plant growth	1		
+molecular level	1		
+sets of cells	1		
+Perry et al.	1		
+precocious expression of differentiation	1		
+DevelopmentMajor	1		
+outstanding adaptation of terrestrial plants	1		
+triacylglycerols	1		
+conspicuous	1		
+abi 1-1	1		
+storage proteins	1		
+Brassicaceae	1		
+SIN3â€“HDAC interaction	1		
+anthocyanin	1		
+accumulation of seed storage reserves	1		
+lec mutations	1		
+3-1 alleles	1		
+PKp - Î²1 promoters	1		
+consistent	1		
+abaxial	1		
+Jürgens	1		
+integuments	1		
+gene repression	1		
+support development	1		
+cell dcl1 embryos	1		
+Coat	1		
+quantity	1		
+rice homologs of ABI3	1		
+status	1		
+Bäumlein	1		
+molecular methods	1		
+absence of genetic tests	1		
+form of development	1		
+similarities	1		
+flower development	1		
+maintenance of maturation	1		
+1-15	1		
+polypeptide	1		
+several gene classes	1		
+verification	1		
+probe	1		
+physical interactions	1		
+promoter in planta	1		
+specific aspects of seed maturation	1		
+Research	1		
+biological functions	1		
+fatty acids	1		
+raspberry	1		
+leaf cells	1		
+yeast one-hybrid system	1		
+gCAC(A	1		
+transcription factor products of these genes	1		
+potential of preglobular cells	1		
+VP1 transactivation	1		
+dormant embryo germinates	1		
+subfamilies	1		
+recessive	1		
+control gene expression programs	1		
+homeotic	1		
+DevelopmentMajor differences	1		
+globular	1		
+fatty acid biosynthetic genes	1		
+Desiccation	1		
+effects of lec mutations	1		
+protein binding	1		
+quiescent state	1		
+extent	1		
+enzymes of late glycolysis	1		
+canonical	1		
+phosphatase	1		
+GFP	1		
+AGL15 accumulation	1		
+function of AGL15	1		
+transcription factor family	1		
+Determination	1		
+ABRE G-box	1		
+bipartite	1		
+Masiero et al.	1		
+molecular characteristics	1		
+ethylene - responsive	1		
+Arabidopsis bZIP TF family	1		
+AtEm6 promoter	1		
+consensus binding sequence	1		
+identity - phase	1		
+later stages of morphogenesis	1		
+fourth gene class	1		
+Theissen	1		
+residue	1		
+indirect effect	1		
+asexual embryos	1		
+ap 2-5	1		
+dcl 1-15	1		
+resistant	1		
+vacuole	1		
+ap 2-5 mutant	1		
+timing of embryo	1		
+Expression studies	1		
+seed cell number	1		
+cis-regulatory region	1		
+embryonic tissue	1		
+1-LIKE	1		
+elucidation	1		
+fatty acid synthesis pathway	1		
+targets of AGL15	1		
+kingdoms plants	1		
+stronger	1		
+MADS domain	1		
+Seed	1		
+subclass of MADS factors	1		
+surface	1		
+lines	1		
+repressive	1		
+Spermaphyta	1		
+transcription in vivo	1		
+polypeptide of 18 kDa	1		
+major components	1		
+model systems	1		
+VP1â€“EmBP1	1		
+series	1		
+protective	1		
+6A	1		
+anatomy	1		
+terrestrial	1		
+WRI1 - like groups	1		
+wild - type cells	1		
+appropriate	1		
+postembryonic development	1		
+sequence - specific	1		
+transcription factor families	1		
+MAT promoter analyses	1		
+multiple cis-acting sequences	1		
+fatty - acid biosynthesis	1		
+regulation of SPL10	1		
+unique	1		
+crop	1		
+intervening	1		
+ERF3 binding site	1		
+Maturation	1		
+ABA insensitive loci	1		
+KINASE1	1		
+seed maturation phases	1		
+GLABRA2	1		
+hexose	1		
+bZIP class	1		
+factor of lipogenic gene expression	1		
+EMB30	1		
+Cluster	1		
+encode transcription factors	1		
+chimeric	1		
+postembryonic vegetative development commences	1		
+induction of maturation - phase genes	1		
+overlapping	1		
+treatment of wild - type cells	1		
+embryonic programs	1		
+polyploid plants	1		
+binding to G-box - like ACGT elements	1		
+roles of miR156	1		
+ABSCISIC	1		
+hypoacetylation	1		
+class of maturation genes	1		
+apoplastic space	1		
+AP2 family of proteins	1		
+homologous members	1		
+Schmidt et al.	1		
+lipogenic gene expression	1		
+G)N(A	1		
+Zhang et al.	1		
+Suzuki	1		
+third monophyletic group	1		
+Gandikota	1		
+GCC box	1		
+Grubert	1		
+plant embryo development	1		
+ Pleiotropic Effects	1		

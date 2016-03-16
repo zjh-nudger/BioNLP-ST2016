@@ -1,0 +1,11 @@
+Arabidopsis	245 256	3701	genus
+yeast	405 410	4932	species
+cauliflower	1232 1243	3715	varietas
+yeast	5859 5864	4932	species
+Arabidopsis	6437 6448	3701	genus
+yeast	6506 6511	4932	species
+Arabidopsis	7239 7250	3701	genus
+Arabidopsis	7713 7724	3701	genus
+Pan	7815 7818	9596	genus
+Arabidopsis	8518 8529	3701	genus
+Arabidopsis	10102 10113	3701	genus

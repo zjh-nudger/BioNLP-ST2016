@@ -1,0 +1,27 @@
+The	The	DT	B-NP	O	
+mum4	mum4	NN	I-NP	O	
+phenotype	phenotype	NN	I-NP	O	
+is	be	VBZ	B-VP	O	
+characterized	characterize	VBN	I-VP	O	
+by	by	IN	B-PP	O	
+both	both	CC	O	O	
+a	a	DT	B-NP	O	
+reduction	reduction	NN	I-NP	O	
+in	in	IN	B-PP	O	
+the	the	DT	B-NP	O	
+amount	amount	NN	I-NP	O	
+of	of	IN	B-PP	O	
+mucilage	mucilage	NN	B-NP	O	
+produced	produce	VBN	B-VP	O	
+and	and	CC	O	O	
+by	by	IN	B-PP	O	
+a	a	DT	B-NP	O	
+flattened	flattened	JJ	I-NP	O	
+columella	columella	NN	I-NP	O	
+in	in	IN	B-PP	O	
+the	the	DT	B-NP	O	
+seed	seed	NN	I-NP	O	
+coat	coat	NN	I-NP	O	
+epidermis	epidermis	NN	I-NP	O	
+.	.	.	O	O	
+
