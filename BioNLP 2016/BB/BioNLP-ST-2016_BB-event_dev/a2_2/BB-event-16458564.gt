@@ -1,0 +1,15 @@
+1 T20_Bacteria T21_Habitat
+0 T20_Bacteria T24_Habitat
+0 T21_Habitat T22_Bacteria
+1 T22_Bacteria T24_Habitat
+0 T21_Habitat T23_Bacteria
+1 T23_Bacteria T24_Habitat
+1 T41_Bacteria T44_Habitat
+1 T41_Bacteria T45_Geographical
+1 T41_Bacteria T46_Geographical
+1 T42_Bacteria T44_Habitat
+1 T42_Bacteria T45_Geographical
+1 T42_Bacteria T46_Geographical
+1 T43_Bacteria T44_Habitat
+1 T43_Bacteria T45_Geographical
+1 T43_Bacteria T46_Geographical

@@ -1,0 +1,77 @@
+Isolation	Isolation	NN	B-NP	O		0	9
+of	of	IN	B-PP	O		10	12
+Helicobacter pullorum	Helicobacter_pullorum	NN	B-NP	O		13	34
+from	from	IN	B-PP	O		35	39
+patients	patient	NNS	B-NP	O		40	48
+with	with	IN	B-PP	O		49	53
+enteritis	enteritis	NN	B-NP	O		54	63
+.	.	.	O	O		63	64
+
+Helicobacter pullorum	Helicobacter_pullorum	NN	B-NP	O		65	86
+,	,	,	O	O		86	87
+recently	recently	RB	B-VP	O		88	96
+described	describe	VBN	I-VP	O		97	106
+as	as	IN	B-PP	O		107	109
+sp.	sp.	NN	B-NP	O		110	113
+nov	nov	NN	I-NP	O		114	117
+.	.	NN	I-NP	O		117	118
+,	,	,	O	O		118	119
+is	be	VBZ	B-VP	O		120	122
+commonly	commonly	RB	I-VP	O		123	131
+isolated	isolate	VBN	I-VP	O		132	140
+from	from	IN	B-PP	O		141	145
+asymptomatic	asymptomatic	JJ	B-NP	O		146	158
+poultry	poultry	NN	I-NP	O		159	166
+.	.	.	O	O		166	167
+
+Two	Two	CD	B-NP	O		168	171
+cases	case	NNS	I-NP	O		172	177
+of	of	IN	B-PP	O		178	180
+human	human	JJ	B-NP	O		181	186
+enteritis	enteritis	NN	I-NP	O		187	196
+associated	associate	VBN	B-VP	O		197	207
+with	with	IN	B-PP	O		208	212
+H. pullorum	H._pullorum	NN	B-NP	O		213	224
+,	,	,	O	O		224	225
+one	one	CD	B-NP	O		226	229
+of	of	IN	B-PP	O		230	232
+them	them	PRP	B-NP	O		233	237
+in	in	IN	B-PP	O		238	240
+an	an	DT	B-NP	O		241	243
+immunocompromised	immunocompromised	JJ	I-NP	O		244	261
+patient	patient	NN	I-NP	O		262	269
+,	,	,	O	O		269	270
+are	be	VBP	B-VP	O		271	274
+reported	report	VBN	I-VP	O		275	283
+.	.	.	O	O		283	284
+
+Problems	Problem	NNS	B-NP	O		285	293
+in	in	IN	B-PP	O		294	296
+the	the	DT	B-NP	O		297	300
+correct	correct	JJ	I-NP	O		301	308
+species	species	NN	I-NP	O		309	316
+identification	identification	NN	I-NP	O		317	331
+by	by	IN	B-PP	O		332	334
+means	mean	NNS	B-NP	O		335	340
+of	of	IN	B-PP	O		341	343
+phenotypic	phenotypic	JJ	B-NP	O		344	354
+and	and	CC	I-NP	O		355	358
+genotypic	genotypic	JJ	I-NP	O		359	368
+methods	method	NNS	I-NP	O		369	376
+are	be	VBP	B-VP	O		377	380
+discussed	discuss	VBN	I-VP	O		381	390
+and	and	CC	O	O		391	394
+for	for	IN	B-PP	O		395	398
+the	the	DT	B-NP	O		399	402
+first	first	JJ	I-NP	O		403	408
+time	time	NN	I-NP	O		409	413
+a	a	DT	B-NP	O		414	415
+fatty	fatty	JJ	I-NP	O		416	421
+acid	acid	NN	I-NP	O		422	426
+pattern	pattern	NN	I-NP	O		427	434
+of	of	IN	B-PP	O		435	437
+Helicobacter pullorum	Helicobacter_pullorum	NN	B-NP	O		438	459
+is	be	VBZ	B-VP	O		460	462
+presented	present	VBN	I-VP	O		463	472
+.	.	.	O	O		472	473
+

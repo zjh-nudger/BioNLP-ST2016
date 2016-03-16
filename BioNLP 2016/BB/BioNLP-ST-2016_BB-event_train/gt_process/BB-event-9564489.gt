@@ -1,0 +1,12 @@
+Gingivomandibular	Gingivomandibular	JJ	B-NP	O		0	17
+infection	infection	NN	I-NP	O		18	27
+due	due	JJ	B-ADJP	O		28	31
+to	to	TO	B-PP	O		32	34
+Mycobacterium kansasii	Mycobacterium_kansasii	NNP	B-NP	O		35	57
+in	in	IN	B-PP	O		58	60
+a	a	DT	B-NP	O		61	62
+patient	patient	NN	I-NP	O		63	70
+with	with	IN	B-PP	O		71	75
+AIDS	AIDS	NNP	B-NP	O		76	80
+.	.	.	O	O		80	81
+

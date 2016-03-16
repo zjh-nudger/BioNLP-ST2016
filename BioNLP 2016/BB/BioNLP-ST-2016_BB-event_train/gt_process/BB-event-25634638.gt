@@ -1,0 +1,233 @@
+Real	Real	JJ	B-NP	O		0	4
+-	-	HYPH	I-NP	O		4	5
+time	time	NN	I-NP	O		5	9
+monitoring	monitoring	NN	I-NP	O		10	20
+of	of	IN	B-PP	O		21	23
+hydrogen	hydrogen	NN	B-NP	O		24	32
+cyanide	cyanide	NN	I-NP	O		33	40
+(	(	(	O	O		41	42
+HCN	HCN	NN	B-NP	B-protein		42	45
+)	)	)	O	O		45	46
+and	and	CC	O	O		47	50
+ammonia	ammonia	NN	B-NP	O		51	58
+(	(	(	O	O		59	60
+NH₃	NH₃	NN	B-NP	O		60	63
+)	)	)	O	O		63	64
+emitted	emit	VBN	B-VP	O		65	72
+by	by	IN	B-PP	O		73	75
+Pseudomonas aeruginosa	Pseudomonas_aeruginosa	NNP	B-NP	O		76	98
+.	.	.	O	O		98	99
+
+We	We	PRP	B-NP	O		100	102
+present	present	VBP	B-VP	O		103	110
+the	the	DT	B-NP	O		111	114
+real	real	JJ	I-NP	O		115	119
+-	-	HYPH	I-NP	O		119	120
+time	time	NN	I-NP	O		120	124
+monitoring	monitoring	NN	I-NP	O		125	135
+of	of	IN	B-PP	O		136	138
+hydrogen	hydrogen	NN	B-NP	O		139	147
+cyanide	cyanide	NN	I-NP	O		148	155
+(	(	(	O	O		156	157
+HCN	HCN	NN	B-NP	B-protein		157	160
+)	)	)	O	O		160	161
+production	production	NN	B-NP	O		162	172
+from	from	IN	B-PP	O		173	177
+Pseudomonas aeruginosa	Pseudomonas_aeruginosa	NN	B-NP	O		178	200
+(	(	(	O	O		201	202
+P. aeruginosa	P._aeruginosa	NN	B-NP	O		202	215
+)	)	)	O	O		215	216
+strains	strain	NNS	B-NP	O		217	224
+in vitro	in_vitro	FW	B-ADJP	O		225	233
+,	,	,	O	O		233	234
+using	use	VBG	B-VP	O		235	240
+laser	laser	NN	B-NP	O		241	246
+-	-	HYPH	B-VP	O		246	247
+based	base	VBN	B-NP	O		247	252
+photoacoustic	photoacoustic	JJ	I-NP	O		253	266
+spectroscopy	spectroscopy	NN	I-NP	O		267	279
+.	.	.	O	O		279	280
+
+Simultaneously	Simultaneously	RB	B-ADVP	O		281	295
+,	,	,	O	O		295	296
+the	the	DT	B-NP	O		297	300
+production	production	NN	I-NP	O		301	311
+of	of	IN	B-PP	O		312	314
+ammonia	ammonia	NN	B-NP	O		315	322
+(	(	(	O	O		323	324
+NH3	NH3	NN	B-NP	B-protein		324	327
+)	)	)	O	O		327	328
+was	be	VBD	B-VP	O		329	332
+measured	measure	VBN	I-VP	O		333	341
+,	,	,	O	O		341	342
+and	and	CC	O	O		343	346
+the	the	DT	B-NP	O		347	350
+influence	influence	NN	I-NP	O		351	360
+of	of	IN	B-PP	O		361	363
+different	different	JJ	B-NP	O		364	373
+factors	factor	NNS	I-NP	O		374	381
+(	(	(	O	O		382	383
+e.g.	e.g.	FW	B-NP	O		383	387
+the	the	DT	B-NP	O		388	391
+medium	medium	NN	I-NP	O		392	398
+,	,	,	I-NP	O		398	399
+temperature	temperature	NN	I-NP	O		400	411
+and	and	CC	I-NP	O		412	415
+antibiotics	antibiotic	NNS	I-NP	O		416	427
+treatment	treatment	NN	I-NP	O		428	437
+)	)	)	O	O		437	438
+was	be	VBD	B-VP	O		439	442
+assessed	assess	VBN	I-VP	O		443	451
+.	.	.	O	O		451	452
+
+Both	Both	DT	B-NP	O		453	457
+reference	reference	NN	I-NP	O		458	467
+strains	strain	NNS	I-NP	O		468	475
+and	and	CC	O	O		476	479
+clinical	clinical	JJ	B-NP	O		480	488
+isolates	isolate	NNS	I-NP	O		489	497
+of	of	IN	B-PP	O		498	500
+patients	patient	NNS	B-NP	O		501	509
+with	with	IN	B-PP	O		510	514
+CF	CF	NN	B-NP	O		515	517
+were	be	VBD	B-VP	O		518	522
+studied	study	VBN	I-VP	O		523	530
+,	,	,	O	O		530	531
+and	and	CC	O	O		532	535
+compared	compare	VBN	B-VP	O		536	544
+to	to	TO	B-PP	O		545	547
+other	other	JJ	B-NP	O		548	553
+pathogens	pathogen	NNS	I-NP	O		554	563
+commonly	commonly	RB	B-ADJP	O		564	572
+present	present	JJ	I-ADJP	O		573	580
+in	in	IN	B-PP	O		581	583
+lungs	lung	NNS	B-NP	O		584	589
+/	/	SYM	B-VP	O		589	590
+airways	airway	NNS	B-NP	O		590	597
+of	of	IN	B-PP	O		598	600
+CF	CF	NN	B-NP	O		601	603
+patients	patient	NNS	I-NP	O		604	612
+.	.	.	O	O		612	613
+
+Hydrogen	Hydrogen	NN	B-NP	O		614	622
+cyanide	cyanide	NN	I-NP	O		623	630
+production	production	NN	I-NP	O		631	641
+starts	start	VBZ	B-VP	O		642	648
+to	to	TO	I-VP	O		649	651
+rise	rise	VB	I-VP	O		652	656
+as	as	RB	B-ADVP	O		657	659
+soon	soon	RB	I-ADVP	O		660	664
+as	as	IN	B-SBAR	O		665	667
+P. aeruginosa	P._aeruginosa	NNP	B-NP	O		668	681
+bacteria	bacteria	NNS	I-NP	O		682	690
+reach	reach	VBP	B-VP	O		691	696
+the	the	DT	B-NP	O		697	700
+stationary	stationary	JJ	I-NP	O		701	711
+phase	phase	NN	I-NP	O		712	717
+(	(	(	O	O		718	719
+(	(	(	O	O		719	720
+9.0-9.5	9.0-9.5	CD	B-NP	O		720	727
+)	)	)	O	O		727	728
+×	×	VBP	B-VP	O		729	730
+10(9)	10(9)	CD	B-NP	O		731	736
+colony	colony	NN	I-NP	O		737	743
+forming	form	VBG	B-VP	O		744	751
+units	unit	NNS	B-NP	O		752	757
+,	,	,	O	O		757	758
+CFUs	CFU	NNS	B-NP	B-protein		759	763
+)	)	)	O	O		763	764
+,	,	,	O	O		764	765
+up	up	RB	B-ADVP	O		766	768
+to	to	TO	B-PP	O		769	771
+concentrations	concentration	NNS	B-NP	O		772	786
+of	of	IN	B-PP	O		787	789
+14.5	14.5	CD	B-NP	O		790	794
+microliters	microliter	NNS	I-NP	O		795	806
+per	per	IN	B-PP	O		807	810
+hour	hour	NN	B-NP	O		811	815
+(	(	(	O	O		816	817
+µl h	µl_h	NN	B-NP	O		817	821
+(	(	(	O	O		821	822
+-1	-1	CD	B-NP	O		822	824
+)	)	)	O	O		824	825
+)	)	)	O	O		825	826
+.	.	.	O	O		826	827
+
+Different	Different	JJ	B-NP	O		828	837
+strains	strain	NNS	I-NP	O		838	845
+of	of	IN	B-PP	O		846	848
+P. aeruginosa	P._aeruginosa	NN	B-NP	B-protein		849	862
+produced	produce	VBD	B-VP	I-protein		863	871
+HCN	HCN	NN	B-NP	I-protein		872	875
+to	to	TO	B-PP	O		876	878
+varying	vary	VBG	B-NP	O		879	886
+degrees	degree	NNS	I-NP	O		887	894
+,	,	,	O	O		894	895
+and	and	CC	O	O		896	899
+addition	addition	NN	B-NP	O		900	908
+of	of	IN	B-PP	O		909	911
+tobramycin	tobramycin	NN	B-NP	O		912	922
+strongly	strongly	RB	B-ADVP	O		923	931
+reduced	reduce	VBD	B-VP	O		932	939
+HCN	HCN	NN	B-NP	B-protein		940	943
+production	production	NN	I-NP	O		944	954
+within	within	IN	B-PP	O		955	961
+2 h	2_h	NN	B-NP	O		962	965
+from	from	IN	B-PP	O		966	970
+application	application	NN	B-NP	O		971	982
+.	.	.	O	O		982	983
+
+Burkholderia cepacia	Burkholderia_cepacia	NNP	B-NP	O		984	1004
+also	also	RB	B-ADVP	O		1005	1009
+produced	produce	VBD	B-VP	O		1010	1018
+HCN	HCN	NN	B-NP	B-protein		1019	1022
+(	(	(	O	O		1023	1024
+up	up	RB	B-NP	O		1024	1026
+to	to	TO	I-NP	O		1027	1029
+0.35	0.35	CD	I-NP	O		1030	1034
+µl h	µl_h	NN	I-NP	O		1034	1038
+(	(	(	O	O		1038	1039
+-1	-1	NN	B-NP	O		1039	1041
+)	)	)	O	O		1041	1042
+in	in	IN	B-PP	O		1043	1045
+9.0	9.0	CD	B-NP	O		1046	1049
+ 	_	NN	I-NP	O		1049	1050
+×	×	NN	I-NP	O		1051	1052
+ 10(9) CFU)	_10(9)_CFU)	NN	I-NP	O		1053	1064
+while	while	IN	B-SBAR	O		1065	1070
+other	other	JJ	B-NP	O		1071	1076
+pathogens	pathogen	NNS	I-NP	O		1077	1086
+(	(	(	O	O		1087	1088
+Aspergillus fumigatus	Aspergillus_fumigatus	NNP	B-NP	O		1088	1109
+,	,	,	O	O		1109	1110
+Stenotrophomonas maltophilia	Stenotrophomonas_maltophilia	NNP	B-NP	O		1111	1139
+,	,	,	O	O		1139	1140
+Mycobacterium abscessus	Mycobacterium_abscessus	NNP	B-NP	O		1141	1164
+)	)	)	O	O		1164	1165
+did	do	VBD	B-VP	O		1166	1169
+not	not	RB	I-VP	O		1170	1173
+produce	produce	VB	I-VP	O		1174	1181
+detectable	detectable	JJ	B-NP	O		1182	1192
+levels	level	NNS	I-NP	O		1193	1199
+.	.	.	O	O		1199	1200
+
+Our	Our	PRP$	B-NP	O		1201	1204
+study	study	NN	I-NP	O		1205	1210
+reveals	reveal	VBZ	B-VP	O		1211	1218
+for	for	IN	B-PP	O		1219	1222
+the	the	DT	B-NP	O		1223	1226
+first	first	JJ	I-NP	O		1227	1232
+time	time	NN	I-NP	O		1233	1237
+a	a	DT	B-NP	O		1238	1239
+broad	broad	JJ	I-NP	O		1240	1245
+overview	overview	NN	I-NP	O		1246	1254
+of	of	IN	B-PP	O		1255	1257
+the	the	DT	B-NP	O		1258	1261
+dynamics	dynamic	NNS	I-NP	O		1262	1270
+of	of	IN	B-PP	O		1271	1273
+the	the	DT	B-NP	O		1274	1277
+HCN	HCN	NN	I-NP	B-protein		1278	1281
+production	production	NN	I-NP	O		1282	1292
+in vitro	in_vitro	FW	I-NP	O		1293	1301
+.	.	.	O	O		1301	1302
+

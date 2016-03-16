@@ -1,0 +1,92 @@
+Evaluation	Evaluation	NN	B-NP	O	
+of	of	IN	B-PP	O	
+antibacterial	antibacterial	JJ	B-NP	O	
+activity	activity	NN	I-NP	O	
+of	of	IN	B-PP	O	
+synthetic	synthetic	JJ	B-NP	O	
+aliphatic	aliphatic	JJ	I-NP	O	
+and	and	CC	I-NP	O	
+aromatic	aromatic	JJ	I-NP	O	
+monoacylglycerols	monoacylglycerol	NNS	I-NP	O	
+.	.	.	O	O	
+
+The	The	DT	B-NP	O	
+antibacterial	antibacterial	JJ	I-NP	O	
+activity	activity	NN	I-NP	O	
+of	of	IN	B-PP	O	
+synthetic	synthetic	JJ	B-NP	O	
+aliphatic	aliphatic	JJ	I-NP	O	
+and	and	CC	I-NP	O	
+aromatic	aromatic	JJ	I-NP	O	
+monoacylglycerols	monoacylglycerol	NNS	I-NP	O	
+(	(	(	O	O	
+MAGs	MAG	NNS	B-NP	B-protein	
+)	)	)	O	O	
+was	be	VBD	B-VP	O	
+studied	study	VBN	I-VP	O	
+against	against	IN	B-PP	O	
+two	two	CD	B-NP	O	
+human	human	JJ	I-NP	O	
+pathogens	pathogen	NNS	I-NP	O	
+:	:	:	O	O	
+Staphylococcus aureus	Staphylococcus_aureus	NNP	B-NP	O	
+and	and	CC	I-NP	O	
+Escherichia coli	Escherichia_coli	NNP	I-NP	O	
+.	.	.	O	O	
+
+The	The	DT	B-NP	O	
+active	active	JJ	I-NP	O	
+compounds	compound	NNS	I-NP	O	
+inhibited	inhibit	VBD	B-VP	O	
+selectively	selectively	RB	B-ADVP	O	
+S. aureus	S._aureus	NNP	B-NP	O	
+.	.	.	O	O	
+
+The	The	DT	B-NP	O	
+most	most	RBS	I-NP	O	
+active	active	JJ	I-NP	O	
+compounds	compound	NNS	I-NP	O	
+amongst	amongst	IN	B-PP	O	
+them	them	PRP	B-NP	O	
+were	be	VBD	B-VP	O	
+those	those	DT	B-NP	O	
+with	with	IN	B-PP	O	
+medium	medium	NN	B-NP	B-protein	
+size	size	NN	I-NP	I-protein	
+aliphatic	aliphatic	JJ	I-NP	I-protein	
+chain	chain	NN	I-NP	I-protein	
+and	and	CC	O	O	
+aromatic	aromatic	JJ	B-NP	O	
+MAGs	MAG	NNS	I-NP	O	
+with	with	IN	B-PP	O	
+electron	electron	NN	B-NP	O	
+withdrawing	withdraw	VBG	B-VP	O	
+substituents	substituent	NNS	B-NP	O	
+at	at	IN	B-PP	O	
+the	the	DT	B-NP	O	
+aryl	aryl	NN	I-NP	O	
+ring	ring	NN	I-NP	O	
+.	.	.	O	O	
+
+The	The	DT	B-NP	O	
+introduction	introduction	NN	I-NP	O	
+of	of	IN	B-PP	O	
+one	one	CD	B-NP	O	
+or	or	CC	I-NP	O	
+two-carbon	two-carbon	NN	I-NP	O	
+spacer	spacer	NN	I-NP	O	
+between	between	IN	B-PP	O	
+the	the	DT	B-NP	O	
+aryl	aryl	NN	I-NP	O	
+ring	ring	NN	I-NP	O	
+and	and	CC	O	O	
+the	the	DT	B-NP	O	
+carboxylic	carboxylic	JJ	I-NP	O	
+function	function	NN	I-NP	O	
+did	do	VBD	B-VP	O	
+not	not	RB	I-VP	O	
+influence	influence	VB	I-VP	O	
+antibacterial	antibacterial	JJ	B-NP	O	
+effectiveness	effectiveness	NN	I-NP	O	
+.	.	.	O	O	
+

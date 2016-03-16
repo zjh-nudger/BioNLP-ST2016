@@ -1,0 +1,244 @@
+Rickettsia	Rickettsia	NN	B-NP	O	
+infection	infection	NN	I-NP	O	
+in	in	IN	B-PP	O	
+five	five	CD	B-NP	O	
+areas	area	NNS	I-NP	O	
+of	of	IN	B-PP	O	
+the	the	DT	B-NP	O	
+state	state	NN	I-NP	O	
+of	of	IN	B-PP	O	
+São Paulo	São_Paulo	NNP	B-NP	O	
+,	,	,	O	O	
+Brazil	Brazil	NNP	B-NP	O	
+.	.	.	O	O	
+
+This	This	DT	B-NP	O	
+study	study	NN	I-NP	O	
+investigated	investigate	VBD	B-VP	O	
+rickettsial	rickettsial	JJ	B-NP	O	
+infection	infection	NN	I-NP	O	
+in	in	IN	B-PP	O	
+animals	animal	NNS	B-NP	O	
+,	,	,	O	O	
+humans	human	NNS	B-NP	O	
+,	,	,	O	O	
+ticks	tick	NNS	B-NP	O	
+,	,	,	O	O	
+and	and	CC	O	O	
+fleas	flea	NNS	B-NP	O	
+collected	collect	VBN	B-VP	O	
+in	in	IN	B-PP	O	
+five	five	CD	B-NP	O	
+areas	area	NNS	I-NP	O	
+of	of	IN	B-PP	O	
+the	the	DT	B-NP	O	
+state	state	NN	I-NP	O	
+of	of	IN	B-PP	O	
+São Paulo	São_Paulo	NNP	B-NP	O	
+.	.	.	O	O	
+
+Eight	Eight	CD	B-NP	O	
+flea	flea	NN	I-NP	O	
+species	specie	NNS	I-NP	O	
+(	(	(	O	O	
+Adoratopsylla	Adoratopsylla	NN	B-NP	O	
+antiquorum	antiquorum	NN	I-NP	O	
+antiquorum	antiquorum	NN	I-NP	O	
+,	,	,	O	O	
+Ctenocephalides felis felis	Ctenocephalides_felis_felis	NNP	B-NP	O	
+,	,	,	O	O	
+Polygenis	Polygenis	NNP	B-NP	O	
+atopus	atopus	NNP	I-NP	O	
+,	,	,	O	O	
+Polygenis rimatus	Polygenis_rimatus	NNP	B-NP	O	
+,	,	,	O	O	
+Polygenis	Polygenis	NNP	B-NP	O	
+roberti	roberti	NNP	I-NP	O	
+roberti	roberti	NNP	I-NP	O	
+,	,	,	O	O	
+Polygenis	Polygenis	NNP	B-NP	O	
+tripus	tripus	NNP	I-NP	O	
+,	,	,	O	O	
+Rhopalopsyllus	Rhopalopsyllus	NNP	B-NP	O	
+lugubris	lugubris	NNP	I-NP	O	
+,	,	,	O	O	
+and	and	CC	O	O	
+Rhopalopsyllus	Rhopalopsyllus	NNP	B-NP	O	
+lutzi	lutzi	FW	I-NP	O	
+lutzi	lutzi	FW	I-NP	O	
+)	)	)	O	O	
+,	,	,	O	O	
+and	and	CC	O	O	
+five	five	CD	B-NP	O	
+tick	tick	NN	I-NP	O	
+species	specie	NNS	I-NP	O	
+(	(	(	O	O	
+Amblyomma aureolatum	Amblyomma_aureolatum	NNP	B-NP	O	
+,	,	,	O	O	
+Amblyomma cajennense	Amblyomma_cajennense	NNP	B-NP	O	
+,	,	,	O	O	
+Amblyomma dubitatum	Amblyomma_dubitatum	NNP	B-NP	O	
+,	,	,	O	O	
+Ixodes loricatus	Ixodes_loricatus	NNP	B-NP	O	
+,	,	,	O	O	
+and	and	CC	O	O	
+Rhipicephalus sanguineus	Rhipicephalus_sanguineus	NN	B-NP	B-protein	
+)	)	)	O	O	
+were	be	VBD	B-VP	O	
+collected	collect	VBN	I-VP	O	
+from	from	IN	B-PP	O	
+dogs	dog	NNS	B-NP	O	
+,	,	,	O	O	
+cats	cat	NNS	B-NP	O	
+,	,	,	O	O	
+and	and	CC	O	O	
+opossums	opossum	NNS	B-NP	O	
+.	.	.	O	O	
+
+Rickettsia felis	Rickettsia_felis	NNP	B-NP	O	
+was	be	VBD	B-VP	O	
+the	the	DT	B-NP	O	
+only	only	JJ	I-NP	O	
+rickettsia	rickettsia	NN	I-NP	O	
+found	find	VBD	B-VP	O	
+infecting	infect	VBG	I-VP	O	
+fleas	flea	NNS	B-NP	O	
+,	,	,	O	O	
+whereas	whereas	IN	O	O	
+Rickettsia bellii	Rickettsia_bellii	NNP	B-NP	O	
+was	be	VBD	B-VP	O	
+the	the	DT	B-NP	O	
+only	only	JJ	I-NP	O	
+agent	agent	NN	I-NP	O	
+infecting	infect	VBG	B-VP	O	
+ticks	tick	NNS	B-NP	O	
+,	,	,	O	O	
+but	but	CC	O	O	
+no	no	DT	B-NP	O	
+animal	animal	NN	I-NP	O	
+or	or	CC	O	O	
+human	human	JJ	B-NP	O	
+blood	blood	NN	I-NP	O	
+was	be	VBD	B-VP	O	
+shown	show	VBN	I-VP	O	
+to	to	TO	I-VP	O	
+contain	contain	VB	I-VP	O	
+rickettsial	rickettsial	JJ	B-NP	B-DNA	
+DNA	DNA	NN	I-NP	I-DNA	
+.	.	.	O	O	
+
+Testing	Testing	JJ	B-NP	O	
+animal	animal	NN	I-NP	O	
+and	and	CC	O	O	
+human	human	JJ	B-NP	O	
+sera	serum	NNS	I-NP	O	
+by	by	IN	B-PP	O	
+indirect	indirect	JJ	B-NP	O	
+immunofluorescence	immunofluorescence	NN	I-NP	O	
+assay	assay	NN	I-NP	O	
+against	against	IN	B-PP	O	
+four	four	CD	B-NP	O	
+rickettsia	rickettsia	NN	I-NP	B-protein	
+antigens	antigen	NNS	I-NP	I-protein	
+(	(	(	O	O	
+R. rickettsii	R._rickettsii	NNP	B-NP	O	
+,	,	,	O	O	
+R. parkeri	R._parkeri	NNP	B-NP	O	
+,	,	,	O	O	
+R. felis	R._felis	NNP	B-NP	O	
+,	,	,	O	O	
+and	and	CC	O	O	
+R. bellii	R._bellii	NN	B-NP	B-protein	
+)	)	)	O	O	
+,	,	,	O	O	
+some	some	DT	B-NP	O	
+opossum	opossum	NN	I-NP	O	
+,	,	,	O	O	
+dog	dog	NN	B-NP	O	
+,	,	,	O	O	
+horse	horse	NN	B-NP	O	
+,	,	,	O	O	
+and	and	CC	O	O	
+human	human	JJ	B-NP	O	
+sera	serum	NNS	I-NP	O	
+reacted	react	VBD	B-VP	O	
+to	to	TO	B-PP	O	
+R. rickettsii	R._rickettsii	NNP	B-NP	O	
+with	with	IN	B-PP	O	
+titers	titer	NNS	B-NP	O	
+at	at	IN	B-NP	O	
+least	least	JJS	I-NP	O	
+four	four	CD	I-NP	O	
+-	-	HYPH	I-NP	O	
+fold	fold	RB	B-ADJP	O	
+higher	high	JJR	I-ADJP	O	
+than	than	IN	B-PP	O	
+to	to	TO	B-PP	O	
+the	the	DT	B-NP	O	
+other	other	JJ	I-NP	O	
+three	three	CD	I-NP	O	
+rickettsial	rickettsial	JJ	I-NP	B-protein	
+antigens	antigen	NNS	I-NP	I-protein	
+.	.	.	O	O	
+
+These	These	DT	B-NP	O	
+sera	serum	NNS	I-NP	O	
+were	be	VBD	B-VP	O	
+considered	consider	VBN	I-VP	O	
+to	to	TO	I-VP	O	
+have	have	VB	I-VP	O	
+a	a	DT	B-NP	O	
+predominant	predominant	JJ	I-NP	O	
+antibody	antibody	NN	I-NP	O	
+response	response	NN	I-NP	O	
+to	to	TO	B-PP	O	
+R. rickettsii	R._rickettsii	NNP	B-NP	O	
+.	.	.	O	O	
+
+Using	Use	VBG	B-VP	O	
+the	the	DT	B-NP	O	
+same	same	JJ	I-NP	O	
+criteria	criterion	NNS	I-NP	O	
+,	,	,	O	O	
+opossum	opossum	NN	B-NP	O	
+,	,	,	O	O	
+dog	dog	NN	B-NP	O	
+,	,	,	O	O	
+and	and	CC	O	O	
+horse	horse	NN	B-NP	O	
+sera	serum	NNS	I-NP	O	
+showed	show	VBD	B-VP	O	
+predominant	predominant	JJ	B-NP	O	
+antibody	antibody	NN	I-NP	O	
+response	response	NN	I-NP	O	
+to	to	TO	B-PP	O	
+R. parkeri	R._parkeri	NNP	B-NP	O	
+or	or	CC	O	O	
+a	a	DT	B-NP	O	
+very	very	RB	I-NP	O	
+closely	closely	RB	I-NP	O	
+related	related	JJ	I-NP	O	
+genotype	genotype	NN	I-NP	O	
+.	.	.	O	O	
+
+Our	Our	PRP$	B-NP	O	
+serological	serological	JJ	I-NP	O	
+results	result	NNS	I-NP	O	
+suggest	suggest	VBP	B-VP	O	
+that	that	IN	B-SBAR	O	
+both	both	DT	B-NP	O	
+R. rickettsii	R._rickettsii	NNP	I-NP	O	
+and	and	CC	I-NP	O	
+R. parkeri	R._parkeri	NNP	I-NP	O	
+infected	infected	JJ	I-NP	O	
+animals	animal	NNS	I-NP	O	
+and	and	CC	O	O	
+/	/	SYM	B-NP	O	
+or	or	CC	O	O	
+humans	human	NNS	B-NP	O	
+in	in	IN	B-PP	O	
+the	the	DT	B-NP	O	
+studied	study	VBN	I-NP	O	
+areas	area	NNS	I-NP	O	
+.	.	.	O	O	
+

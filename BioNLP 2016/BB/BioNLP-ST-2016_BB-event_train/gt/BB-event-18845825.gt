@@ -1,0 +1,76 @@
+High	High	JJ	B-NP	O	
+genetic	genetic	JJ	I-NP	O	
+diversity	diversity	NN	I-NP	O	
+of	of	IN	B-PP	O	
+nontypeable	nontypeable	JJ	B-NP	O	
+Haemophilus influenzae	Haemophilus_influenzae	NNP	I-NP	O	
+isolates	isolate	NNS	I-NP	O	
+from	from	IN	B-PP	O	
+two	two	CD	B-NP	O	
+children	child	NNS	I-NP	O	
+attending	attend	VBG	B-VP	O	
+a	a	DT	B-NP	O	
+day	day	NN	I-NP	O	
+care	care	NN	I-NP	O	
+center	center	NN	I-NP	O	
+.	.	.	O	O	
+
+Twenty-one	Twenty-one	CD	B-NP	O	
+nontypeable	nontypeable	JJ	I-NP	O	
+Haemophilus influenzae	Haemophilus_influenzae	NNP	I-NP	O	
+(	(	(	O	O	
+NTHi	NTHi	NNP	B-NP	O	
+)	)	)	O	O	
+isolates	isolate	VBZ	B-VP	O	
+from	from	IN	B-PP	O	
+the	the	DT	B-NP	O	
+throats	throat	NNS	I-NP	O	
+of	of	IN	B-PP	O	
+two	two	CD	B-NP	O	
+healthy	healthy	JJ	I-NP	O	
+children	child	NNS	I-NP	O	
+were	be	VBD	B-VP	O	
+genotyped	genotype	VBN	I-VP	O	
+by	by	IN	B-PP	O	
+multilocus	multilocus	JJ	B-NP	O	
+sequence	sequence	NN	I-NP	O	
+typing	typing	NN	I-NP	O	
+.	.	.	O	O	
+
+Nine	Nine	CD	B-NP	O	
+unique	unique	JJ	I-NP	O	
+sequence	sequence	NN	I-NP	O	
+types	type	NNS	I-NP	O	
+(	(	(	O	O	
+STs	ST	NNS	B-NP	O	
+)	)	)	O	O	
+were	be	VBD	B-VP	O	
+identified	identify	VBN	I-VP	O	
+.	.	.	O	O	
+
+These	These	DT	B-NP	O	
+STs	ST	NNS	I-NP	O	
+were	be	VBD	B-VP	O	
+scattered	scatter	VBN	I-VP	O	
+throughout	throughout	IN	B-PP	O	
+the	the	DT	B-NP	O	
+phylogenetic	phylogenetic	JJ	I-NP	O	
+tree	tree	NN	I-NP	O	
+of	of	IN	B-PP	O	
+reported	report	VBN	B-NP	O	
+NTHi	NTHi	NNP	I-NP	O	
+STs	ST	NNS	I-NP	O	
+,	,	,	O	O	
+demonstrating	demonstrate	VBG	B-VP	O	
+the	the	DT	B-NP	O	
+high	high	JJ	I-NP	O	
+level	level	NN	I-NP	O	
+of	of	IN	B-PP	O	
+NTHi	NTHi	NN	B-NP	O	
+diversity	diversity	NN	I-NP	O	
+found	find	VBN	B-VP	O	
+in	in	IN	B-PP	O	
+colonized	colonize	VBN	B-NP	O	
+children	child	NNS	I-NP	O	
+.	.	.	O	O	
+

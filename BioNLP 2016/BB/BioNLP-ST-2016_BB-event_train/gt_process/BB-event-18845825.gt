@@ -1,0 +1,76 @@
+High	High	JJ	B-NP	O		0	4
+genetic	genetic	JJ	I-NP	O		5	12
+diversity	diversity	NN	I-NP	O		13	22
+of	of	IN	B-PP	O		23	25
+nontypeable	nontypeable	JJ	B-NP	O		26	37
+Haemophilus influenzae	Haemophilus_influenzae	NNP	I-NP	O		38	60
+isolates	isolate	NNS	I-NP	O		61	69
+from	from	IN	B-PP	O		70	74
+two	two	CD	B-NP	O		75	78
+children	child	NNS	I-NP	O		79	87
+attending	attend	VBG	B-VP	O		88	97
+a	a	DT	B-NP	O		98	99
+day	day	NN	I-NP	O		100	103
+care	care	NN	I-NP	O		104	108
+center	center	NN	I-NP	O		109	115
+.	.	.	O	O		115	116
+
+Twenty-one	Twenty-one	CD	B-NP	O		117	127
+nontypeable	nontypeable	JJ	I-NP	O		128	139
+Haemophilus influenzae	Haemophilus_influenzae	NNP	I-NP	O		140	162
+(	(	(	O	O		163	164
+NTHi	NTHi	NNP	B-NP	O		164	168
+)	)	)	O	O		168	169
+isolates	isolate	VBZ	B-VP	O		170	178
+from	from	IN	B-PP	O		179	183
+the	the	DT	B-NP	O		184	187
+throats	throat	NNS	I-NP	O		188	195
+of	of	IN	B-PP	O		196	198
+two	two	CD	B-NP	O		199	202
+healthy	healthy	JJ	I-NP	O		203	210
+children	child	NNS	I-NP	O		211	219
+were	be	VBD	B-VP	O		220	224
+genotyped	genotype	VBN	I-VP	O		225	234
+by	by	IN	B-PP	O		235	237
+multilocus	multilocus	JJ	B-NP	O		238	248
+sequence	sequence	NN	I-NP	O		249	257
+typing	typing	NN	I-NP	O		258	264
+.	.	.	O	O		264	265
+
+Nine	Nine	CD	B-NP	O		266	270
+unique	unique	JJ	I-NP	O		271	277
+sequence	sequence	NN	I-NP	O		278	286
+types	type	NNS	I-NP	O		287	292
+(	(	(	O	O		293	294
+STs	ST	NNS	B-NP	O		294	297
+)	)	)	O	O		297	298
+were	be	VBD	B-VP	O		299	303
+identified	identify	VBN	I-VP	O		304	314
+.	.	.	O	O		314	315
+
+These	These	DT	B-NP	O		316	321
+STs	ST	NNS	I-NP	O		322	325
+were	be	VBD	B-VP	O		326	330
+scattered	scatter	VBN	I-VP	O		331	340
+throughout	throughout	IN	B-PP	O		341	351
+the	the	DT	B-NP	O		352	355
+phylogenetic	phylogenetic	JJ	I-NP	O		356	368
+tree	tree	NN	I-NP	O		369	373
+of	of	IN	B-PP	O		374	376
+reported	report	VBN	B-NP	O		377	385
+NTHi	NTHi	NNP	I-NP	O		386	390
+STs	ST	NNS	I-NP	O		391	394
+,	,	,	O	O		394	395
+demonstrating	demonstrate	VBG	B-VP	O		396	409
+the	the	DT	B-NP	O		410	413
+high	high	JJ	I-NP	O		414	418
+level	level	NN	I-NP	O		419	424
+of	of	IN	B-PP	O		425	427
+NTHi	NTHi	NN	B-NP	O		428	432
+diversity	diversity	NN	I-NP	O		433	442
+found	find	VBN	B-VP	O		443	448
+in	in	IN	B-PP	O		449	451
+colonized	colonize	VBN	B-NP	O		452	461
+children	child	NNS	I-NP	O		462	470
+.	.	.	O	O		470	471
+

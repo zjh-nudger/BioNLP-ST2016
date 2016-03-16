@@ -1,0 +1,15 @@
+Rapid	Rapid	JJ	B-NP	O	
+detection	detection	NN	I-NP	O	
+with	with	IN	B-PP	O	
+monoclonal	monoclonal	JJ	B-NP	B-protein	
+antibodies	antibody	NNS	I-NP	I-protein	
+of	of	IN	B-PP	O	
+Chlamydia trachomatis	Chlamydia_trachomatis	NN	B-NP	O	
+in	in	IN	B-PP	O	
+urethral	urethral	JJ	B-NP	O	
+smears	smear	NNS	I-NP	O	
+and	and	CC	O	O	
+urine	urine	NN	B-NP	O	
+sediments	sediment	NNS	I-NP	O	
+.	.	.	O	O	
+

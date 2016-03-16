@@ -1,0 +1,92 @@
+Evaluation	Evaluation	NN	B-NP	O		0	10
+of	of	IN	B-PP	O		11	13
+antibacterial	antibacterial	JJ	B-NP	O		14	27
+activity	activity	NN	I-NP	O		28	36
+of	of	IN	B-PP	O		37	39
+synthetic	synthetic	JJ	B-NP	O		40	49
+aliphatic	aliphatic	JJ	I-NP	O		50	59
+and	and	CC	I-NP	O		60	63
+aromatic	aromatic	JJ	I-NP	O		64	72
+monoacylglycerols	monoacylglycerol	NNS	I-NP	O		73	90
+.	.	.	O	O		90	91
+
+The	The	DT	B-NP	O		92	95
+antibacterial	antibacterial	JJ	I-NP	O		96	109
+activity	activity	NN	I-NP	O		110	118
+of	of	IN	B-PP	O		119	121
+synthetic	synthetic	JJ	B-NP	O		122	131
+aliphatic	aliphatic	JJ	I-NP	O		132	141
+and	and	CC	I-NP	O		142	145
+aromatic	aromatic	JJ	I-NP	O		146	154
+monoacylglycerols	monoacylglycerol	NNS	I-NP	O		155	172
+(	(	(	O	O		173	174
+MAGs	MAG	NNS	B-NP	B-protein		174	178
+)	)	)	O	O		178	179
+was	be	VBD	B-VP	O		180	183
+studied	study	VBN	I-VP	O		184	191
+against	against	IN	B-PP	O		192	199
+two	two	CD	B-NP	O		200	203
+human	human	JJ	I-NP	O		204	209
+pathogens	pathogen	NNS	I-NP	O		210	219
+:	:	:	O	O		219	220
+Staphylococcus aureus	Staphylococcus_aureus	NNP	B-NP	O		221	242
+and	and	CC	I-NP	O		243	246
+Escherichia coli	Escherichia_coli	NNP	I-NP	O		247	263
+.	.	.	O	O		263	264
+
+The	The	DT	B-NP	O		265	268
+active	active	JJ	I-NP	O		269	275
+compounds	compound	NNS	I-NP	O		276	285
+inhibited	inhibit	VBD	B-VP	O		286	295
+selectively	selectively	RB	B-ADVP	O		296	307
+S. aureus	S._aureus	NNP	B-NP	O		308	317
+.	.	.	O	O		317	318
+
+The	The	DT	B-NP	O		319	322
+most	most	RBS	I-NP	O		323	327
+active	active	JJ	I-NP	O		328	334
+compounds	compound	NNS	I-NP	O		335	344
+amongst	amongst	IN	B-PP	O		345	352
+them	them	PRP	B-NP	O		353	357
+were	be	VBD	B-VP	O		358	362
+those	those	DT	B-NP	O		363	368
+with	with	IN	B-PP	O		369	373
+medium	medium	NN	B-NP	B-protein		374	380
+size	size	NN	I-NP	I-protein		381	385
+aliphatic	aliphatic	JJ	I-NP	I-protein		386	395
+chain	chain	NN	I-NP	I-protein		396	401
+and	and	CC	O	O		402	405
+aromatic	aromatic	JJ	B-NP	O		406	414
+MAGs	MAG	NNS	I-NP	O		415	419
+with	with	IN	B-PP	O		420	424
+electron	electron	NN	B-NP	O		425	433
+withdrawing	withdraw	VBG	B-VP	O		434	445
+substituents	substituent	NNS	B-NP	O		446	458
+at	at	IN	B-PP	O		459	461
+the	the	DT	B-NP	O		462	465
+aryl	aryl	NN	I-NP	O		466	470
+ring	ring	NN	I-NP	O		471	475
+.	.	.	O	O		475	476
+
+The	The	DT	B-NP	O		477	480
+introduction	introduction	NN	I-NP	O		481	493
+of	of	IN	B-PP	O		494	496
+one	one	CD	B-NP	O		497	500
+or	or	CC	I-NP	O		501	503
+two-carbon	two-carbon	NN	I-NP	O		504	514
+spacer	spacer	NN	I-NP	O		515	521
+between	between	IN	B-PP	O		522	529
+the	the	DT	B-NP	O		530	533
+aryl	aryl	NN	I-NP	O		534	538
+ring	ring	NN	I-NP	O		539	543
+and	and	CC	O	O		544	547
+the	the	DT	B-NP	O		548	551
+carboxylic	carboxylic	JJ	I-NP	O		552	562
+function	function	NN	I-NP	O		563	571
+did	do	VBD	B-VP	O		572	575
+not	not	RB	I-VP	O		576	579
+influence	influence	VB	I-VP	O		580	589
+antibacterial	antibacterial	JJ	B-NP	O		590	603
+effectiveness	effectiveness	NN	I-NP	O		604	617
+.	.	.	O	O		617	618
+
