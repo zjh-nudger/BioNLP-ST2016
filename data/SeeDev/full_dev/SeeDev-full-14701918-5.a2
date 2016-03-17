@@ -1,0 +1,36 @@
+E1	Regulation_Of_Expression Agent:T5 DNA:T1 Developmental_Stage:T2
+E2	Regulation_Of_Expression Agent:T17 DNA:T16 Organism_Genotype:T18
+E3	Regulation_Of_Expression Agent:T4 DNA:T1 Developmental_Stage:T2
+E4	Regulation_Of_Expression Agent:T32 DNA:T27
+E5	Regulation_Of_Expression Agent:T31 DNA:T27
+E6	Regulation_Of_Expression Agent:T50 DNA:T54 Developmental_Stage:T56
+E7	Regulation_Of_Expression Agent:T29 DNA:T27
+E8	Regulation_Of_Expression Agent:T30 DNA:T27
+E9	Regulation_Of_Expression Agent:T6 DNA:T1 Developmental_Stage:T2
+E10	Regulation_Of_Expression Agent:T37 DNA:T39
+E11	Regulation_Of_Expression Agent:T28 DNA:T27
+E12	Regulation_Of_Expression Agent:T54 DNA:T55 Developmental_Stage:T56
+E13	Regulation_Of_Expression Agent:T38 DNA:T39
+E14	Regulation_Of_Expression Agent:T43 DNA:T48 Prerequisite_Event:E19
+E15	Interaction Agent:T43 Target:T44
+E16	Interaction Agent:T59 Target:T63 Tissue:T64
+E17	Interaction Agent:T57 Target:T63 Tissue:T64
+E18	Interaction Agent:T47 Target:T44
+E19	Interaction Agent:T43 Target:T47
+E20	Regulation_Of_Process Agent:T22 Process:T25
+E21	Regulation_Of_Process Agent:T23 Process:T24
+E22	Regulation_Of_Process Agent:T25 Process:T26
+E23	Regulation_Of_Development_Phase Agent:T49 Development:T56
+E24	Regulation_Of_Process Agent:T18 Process:T19
+E25	Regulation_Of_Process Agent:T36 Process:T35
+E26	Regulation_Of_Process Agent:T22 Process:T23
+E27	Presence_At_Stage Functional_Molecule:T7 Development:T9
+E28	Localization Process:T13 Target_Tissue:T12
+E29	Localization Functional_Molecule:T50 Target_Tissue:T49
+E30	Functional_Equivalence Element1:T60 Element2:T59
+E31	Functional_Equivalence Element1:T58 Element2:T57
+E32	Family_Membership Element:T59 Family:T61
+E33	Family_Membership Element:T47 Family:T45
+E34	Family_Membership Element:T57 Family:T61
+M1	Negation Annotation:E4
+M2	Negation Annotation:E5

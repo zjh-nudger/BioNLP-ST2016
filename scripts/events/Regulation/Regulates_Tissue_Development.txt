@@ -1,0 +1,25 @@
+3. We showed that LEC2 RNA accumulates primarily during seed development , consistent with our finding that LEC2 shares greatest similarity with the B3 domain transcription factors that act primarily in developing seeds , VIVIPAROUS1 / ABA INSENSITIVE3 and FUSCA3 .
+  1. E34	Regulates_Tissue_Development	Agent:FUSCA3	Target_Tissue:developing seeds
+  2. E21	Regulates_Tissue_Development	Agent:ABA INSENSITIVE3	Target_Tissue:developing seeds
+9. Moreover , postembryonic expression of LEC1 is sufficient to induce somatic embryogenesis in transgenic plants as occurs with 35S∷LEC2 seedlings , although somatic embryo formation is more robust with LEC2 .
+  1. E17	Regulates_Tissue_Development	Agent:LEC2	Target_Tissue:somatic embryo
+2. According to the ‘ABC’ model for the determination of floral organ identity , A activity specifies sepals , A and B activities lead to petals , B and C activities lead to stamens , and C activity specifies carpels ( Weigel and Meyerowitz , 1994 ) .
+  1. E28	Regulates_Tissue_Development	Agent:B	Target_Tissue:petals
+  2. E21	Regulates_Tissue_Development	Agent:A	Target_Tissue:petals
+  3. E26	Regulates_Tissue_Development	Agent:B	Target_Tissue:stamens
+  4. E19	Regulates_Tissue_Development	Agent:C	Target_Tissue:stamens
+  5. E20	Regulates_Tissue_Development	Agent:A	Target_Tissue:sepals
+  6. E27	Regulates_Tissue_Development	Agent:C	Target_Tissue:carpels
+11. The results of our study of organs produced during precocious germination in oilseed rape indicate that AGL15 also accumulates in cotyledons that are initiated outside of the seed environment .
+  1. E20	Regulates_Tissue_Development	Agent:precocious germination	Target_Tissue:organs
+  2. E44	Regulates_Tissue_Development	Agent:oilseed rape	Target_Tissue:organs
+0. Although the defect in mucilage production is readily explained by the putative function of MUM4 as an NDP - l-Rha synthase , the connection with the columella shape change is less obvious .
+  1. E5	Regulates_Tissue_Development	Agent:mucilage production	Target_Tissue:columella
+  2. E3	Regulates_Tissue_Development	Agent:defect in mucilage production	Target_Tissue:columella
+2. The formation of the apoplastic space and cytoplasmic column may be driven by the pressure of accumulating mucilage in the extracytoplasmic space and / or the formation of an osmotic gradient between the cell and the hydrophilic pectin may lead to the loss of turgor and size reduction of the vacuole .
+  3. E7	Regulates_Tissue_Development	Agent:mucilage	Target_Tissue:apoplastic space
+  4. E4	Regulates_Tissue_Development	Agent:mucilage	Target_Tissue:cytoplasmic column
+0. Higher plant embryogenesis is divided conceptually into two distinct phases : early morphogenetic processes that give rise to embryonic cell types , tissues , and organ systems , and late maturation events that allow the fully developed embryo to enter a desiccated and metabolically quiescent state ( [52] and [13] ) .
+  1. E27	Regulates_Tissue_Development	Agent:late maturation events	Target_Tissue:fully developed embryo
+  2. E38	Regulates_Tissue_Development	Agent:early morphogenetic processes	Target_Tissue:embryonic cell types, tissues
+  3. E41	Regulates_Tissue_Development	Agent:early morphogenetic processes	Target_Tissue:organ systems

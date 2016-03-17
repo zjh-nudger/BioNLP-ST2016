@@ -1,0 +1,8 @@
+<Tax sid='10' start='78' end='93' tax_id='4513'>hordeum vulgare</Tax>
+<Tax sid='18' start='185' end='196' tax_id='3702'>arabidopsis</Tax>
+<Tax sid='10' start='70' end='76' tax_id='4513'>barley</Tax>
+<Tax sid='10' start='41' end='58' tax_id='4565'>triticum aestivum</Tax>
+<Tax sid='10' start='34' end='39' tax_id='4565'>wheat</Tax>
+<Tax sid='18' start='78' end='89' tax_id='3702'>arabidopsis</Tax>
+<Tax sid='7' start='0' end='20' tax_id='3702'>arabidopsis thaliana</Tax>
+<Tax sid='9' start='126' end='134' tax_id='4577'>zea mays</Tax>

@@ -1,0 +1,237 @@
+6. The MADS domain family consists of at least 36 members in Arabidopsis ( Liljegren et al. 1998 ) , including the well - known floral organ identity regulators AGAMOUS ( AG ) , APETALA3 ( AP3 ) , and PISTILLATA ; meristem identity regulators APETALA1 ( AP1 ) and CAULIFLOWER ; silique tissue identity regulators FRUITFULL / AGL8 , AGL1 , and AGL5 ; and a set of other AGL factors of unknown function expressed in flowers .
+  1. E29	Is_Localized_In	Functional_Molecule:AGL factors	Target_Tissue:flowers
+14. Using AGL15 - specific antibodies , we have shown that AGL15 accumulates in the nuclei of young embryos , endosperm , and suspensor cells but only in the cytoplasm of the egg cell ( Perry et al. 1996 ) .
+  2. E43	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:nuclei of young embryos
+  3. E41	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:nuclei of suspensor cells
+  4. E31	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:nuclei of endosperm
+  5. E39	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:cytoplasm of the egg cell
+16. Although AGL15 accumulates preferentially in embryos , its accumulation is clearly not restricted to the embryonic phase .
+  6. E33	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:embryos
+17. AGL15 transcripts have been detected in young Arabidopsis seedlings by using in situ hybridization ( Rounsley et al. 1995 ) and in various tissues ( including flowers ) in Brassica by using RNA gel blot analyses ( Heck et al. 1995 ) .
+  7. E28	Is_Localized_In	Functional_Molecule:AGL15 transcripts	Target_Tissue:young Arabidopsis seedlings
+  8. E35	Is_Localized_In	Functional_Molecule:AGL15 transcripts	Target_Tissue:flowers
+20. Because the cellular localization of AGL15 is regulated in embryos ( Perry et al. 1996 , Perry et al. 1999 ) , we also performed immunolocalization analyses to determine whether the protein accumulated in the cytoplasm or the nuclei .
+  9. E32	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:embryos
+21. Because we found that AGL15 accumulates transiently in nuclei in a selected set of tissues during the vegetative and reproductive phases , this raises the possibility that it plays multiple roles during the plant life cycle .
+  10. E42	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:nuclei
+25. Specifically , AGL15 may play a role in controlling age-dependent developmental programs , particularly in reproductive tissues .
+  11. E78	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:reproductive tissues
+0. Although small amounts of AGL15 protein might accumulate in these tissues throughout the vegetative phase , we conclude that the amounts of nuclear - localized AGL15 protein approach those seen in young embryos only during the earliest stages of vegetative growth in the shoot apex of Arabidopsis .
+  1. E17	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:shoot apex
+  2. E19	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:nuclear
+7. Given the patterns of AGL15 promoter activity and mRNA and protein accumulation , we conclude that AGL15 function is most likely associated with the shoot apical meristems and with young vegetative organs during the juvenile stage of the vegetative phase , when the protein concentrations are highest , and with floral organs up to the point at which they are fully mature .
+  3. E20	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:floral organs
+  4. E21	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:young vegetative organs
+  5. E18	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:shoot apical meristems
+12. This result suggests that the chromodomain protein PKL acts normally to repress LEC1 in postgerminative roots , and therefore that LEC1 , at least in part , mediates somatic embryo formation in pkl mutants .
+  1. E27	Is_Localized_In	Functional_Molecule:PKL	Target_Tissue:roots
+3. This result suggests that the synthesis of monosaccharide substrates is a limiting factor in the biosynthesis of pectinaceous seed coat mucilage .
+  1. E17	Is_Localized_In	Process:biosynthesis of pectinaceous seed coat mucilage	Target_Tissue:seed coat
+0. The production of mucilage in the epidermal cells of the Arabidopsis seed coat is part of a coordinated developmental process that begins with cell growth , followed by biosynthesis and polar secretion of large quantities of pectin , formation of a cytoplasmic column through cytoplasmic constriction and vacuolar contraction , and , finally , the synthesis of a secondary cell wall ( columella ; Beeckman et al. , 2000 ; Western et al. , 2000 ; Windsor et al. , 2000 ) .
+  1. E27	Is_Localized_In	Process:production of mucilage	Target_Tissue:epidermal cells of the Arabidopsis seed coat
+1. Seed coat mucilage is dispensable under laboratory conditions in Arabidopsis and mum ( mucilage - modified ) mutants affecting mucilage production can be identified by a simple screening method ( Western et al. , 2001 ) .
+  2. E28	Is_Localized_In	Process:Seed coat mucilage	Target_Tissue:Seed coat
+6. It has been shown at the genetic and molecular levels in trichomes and root hairs that TTG1 interacts with a basic helix - loop - helix ( bHLH ) protein and a tissue - specific MYB protein to activate both GL2 and TTG2 ( Payne et al. , 2000 ; Johnson et al. , 2002 ; Schiefelbein , 2003 ) .
+  3. E38	Is_Localized_In	Functional_Molecule:TTG1	Target_Tissue:trichomes
+  4. E39	Is_Localized_In	Functional_Molecule:TTG1	Target_Tissue:root hairs
+12. The ubiquitous expression of RHM1 and RHM3 can be postulated to provide a mechanism for the formation of the normal primary cell wall in mum4 mutants and the residual mucilage present in mum4 seed coats .
+  1. E14	Is_Localized_In	Process:residual mucilage	Target_Tissue:seed coats
+51. During the early phase of favabean seed development , cell - wall - bound invertases localized in thin - walled parenchyma , the innermost seed coat tissue , hydrolyze sucrose .
+  1. E80	Is_Localized_In	Functional_Molecule:cell-wall-bound invertases	Target_Tissue:thin-walled parenchyma
+  2. E83	Is_Localized_In	Functional_Molecule:cell-wall-bound invertases	Target_Tissue:innermost seed coat tissue
+36. For example , sporophytic mutations in cereals that affect development of a specialized seed coat tissue responsible for nutrient transfer to the endosperm cause defects in seed development and size ( 46–48 ) . ap2 mutants have defective seed coats in that they lack epidermal plateaus and mucilage , their outer integument cells are larger than those of wild type and are irregular in shape , and mutant seeds are hypersensitive to bleach ( 24 , 49 ) .
+  3. E81	Is_Localized_In	Process:lack mucilage	Target_Tissue:seed coats
+53. Cell - wall - bound invertase activity decreases during the late phase of seed development , and sucrose is transported directly into embryo cells where it is hydrolyzed by sucrose synthase .
+  4. E82	Is_Localized_In	Functional_Molecule:sucrose synthase	Target_Tissue:embryo cells
+0. Postembryonic organ formation in plants requires the maintenance of small stem cell pools in the shoot , floral , and root meristems ( Weigel and Jürgens , 2002 ; Laux , 2003 ) .
+  1. E28	Is_Localized_In	Process:maintenance of small stem cell	Target_Tissue:floral meristems
+  2. E29	Is_Localized_In	Process:maintenance of small stem cell	Target_Tissue:root meristems
+  3. E30	Is_Localized_In	Process:maintenance of small stem cell	Target_Tissue:shoot meristems
+4. Expression of CLAVATA3 ( CLV3 ) mRNA ( Fletcher et al. , 1999 ) that coincides with the presumed position of the apical stem cells provides an operational marker for stem cell identity in the shoot meristem .
+  4. E1	Is_Localized_In	Functional_Molecule:CLV3 mRNA	Target_Tissue:shoot meristem
+0. Continuous organ formation from the shoot meristem during the postembryonic life of higher plants depends on the maintenance of undifferentiated stem cells in specific microenvironments , named stem cell niches ( Weigel and Jürgens , 2002 ; Laux , 2003 ) .
+  1. E1	Is_Localized_In	Process:maintenance of undifferentiated stem cells	Target_Tissue:stem cell niches
+11. Recently , we showed that in living plant cells BRI1 and SERK3 interaction occurred in restricted areas of the membrane and recycled upon internalization by endocytosis ( Russinova et al. , 2004 ) .
+  1. E106	Is_Localized_In	Process:endocytosis	Target_Tissue:cells
+  2. E88	Is_Localized_In	Functional_Molecule:BRI1	Target_Tissue:membrane
+  3. E89	Is_Localized_In	Functional_Molecule:SERK3	Target_Tissue:membrane
+3. For example , negative and positive regulators of brassinosteroid ( BR ) signaling were identified as the GSK -3 / Shaggy - like kinase called BRASSINOSTEROID - INSENSITIVE2 ( BIN2 ) ( Li and Nam , 2002 ) and the nucleus - localized Ser / Thr phosphatase bri1 Suppressor1 family ( Mora - Garcia et al. , 2004 ) , respectively .
+  4. E9	Is_Localized_In	Functional_Molecule:Ser/Thr phosphatase bri1 Suppressor1 family	Target_Tissue:nucleus
+4. Their potential substrates are the nuclear proteins BRASSINAZOLE - RESISTANT1 ( BZR1 ) ( Wang et al. , 2002b ) and bri1 - EMS - SUPPRESSOR1 ( BES1 ) ( Yin et al. , 2002 ) .
+  5. E2	Is_Localized_In	Functional_Molecule:BZR1	Target_Tissue:nuclear
+  6. E20	Is_Localized_In	Functional_Molecule:BES1	Target_Tissue:nuclear
+6. In sporophytic tissues , SERK1 has a complex expression pattern , with expression being highest in the vascular tissue of all organs ( Hecht et al. , 2001 ; Albrecht et al. , 2005 ; Kwaaitaal et al. , 2005 ) .
+  7. E16	Is_Localized_In	Functional_Molecule:SERK1	Target_Tissue:sporophytic tissues
+35. The results presented here suggest that the receptor preferentially interacts with 14-3 -3 ν in seedlings and perhaps with 14-3 -3 λ in siliques , given the origin of the Arabidopsis cDNA library from young silique tissue that was used for yeast two-hybrid screening .
+  1. E124	Is_Localized_In	Functional_Molecule:14-3-3λ	Target_Tissue:siliques
+  2. E122	Is_Localized_In	Functional_Molecule:14-3-3ν	Target_Tissue:seedlings
+38. In vivo , it was shown that SERK1 interacts with KAPP only in intracellular vesicles , and it was proposed to play a role in receptor internalization as well as in dephosphorylation ( Shah et al. , 2002 ) .
+  3. E121	Is_Localized_In	Functional_Molecule:KAPP	Target_Tissue:intracellular vesicles
+  4. E117	Is_Localized_In	Functional_Molecule:SERK1	Target_Tissue:intracellular vesicles
+41. In Arabidopsis suspension - cultured cells , soluble ( cytosolic ) CDC48A was found in a high molecular mass protein of 640 kD .
+  5. E32	Is_Localized_In	Functional_Molecule:CDC48A	Target_Tissue:cytosolic
+10. Recently , we showed that the SERK3 receptor may have a role in the internalization of BRI1 after heterodimerization and that BRI1 can also form homodimers in the plasma membrane ( Russinova et al. , 2004 ) .
+  6. E105	Is_Localized_In	Functional_Molecule:BRI1	Target_Tissue:plasma membrane
+  7. E103	Is_Localized_In	Functional_Molecule:BRI1	Target_Tissue:plasma membrane
+11. Further biochemical evidence comes from the finding here that BRI1 and SERK1 as well as SERK1 and SERK3 can interact in the plasma membrane of protoplasts .
+  8. E123	Is_Localized_In	Functional_Molecule:SERK1	Target_Tissue:plasma membrane of protoplasts
+  9. E119	Is_Localized_In	Functional_Molecule:BRI1	Target_Tissue:plasma membrane of protoplasts
+12. FRET studies between SERK1 - CFP and SERK1 - YFP have shown that only 15% of SERK1 exists as homodimers on the plasma membrane of protoplast cells ( Shah et al. , 2001a ) .
+  10. E107	Is_Localized_In	Functional_Molecule:SERK1	Target_Tissue:plasma membrane of protoplast cells
+48. One of the other MADS box transcription factors , AGL24 , was shown to interact directly with the kinase domain of the Arabidopsis meristematic receptor - like kinase and to be phosphorylated by the kinase domain of the receptor in vitro ( Fujita et al. , 2003 ) .
+  11. E100	Is_Localized_In	Functional_Molecule:receptor-like kinase	Target_Tissue:meristematic
+  12. E101	Is_Localized_In	Functional_Molecule:kinase domain	Target_Tissue:meristematic
+49. AGL15 was shown to accumulate in nuclei but also to be present in the cytoplasm ( Perry et al. , 1996 ) .
+  13. E23	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:cytoplasm
+19. An indication of the presence of different complexes is the localization of SERK1 in the plasma membrane as well as in internalized membrane compartments ( Russinova et al. , 2004 ; Kwaaitaal et al. , 2005 ) .
+  14. E34	Is_Localized_In	Functional_Molecule:SERK1	Target_Tissue:plasma membrane
+  15. E25	Is_Localized_In	Functional_Molecule:SERK1	Target_Tissue:internalized membrane compartments
+24. This notion seems to be supported by the fact that most of the BRI1 receptors were unassociated with SERK1 in seedlings .
+  16. E104	Is_Localized_In	Functional_Molecule:SERK1	Target_Tissue:seedlings
+  17. E102	Is_Localized_In	Functional_Molecule:BRI1	Target_Tissue:seedlings
+26. Each type of TGF - ß receptor is also present as a ligand - independent dimer on the cell surface .
+  18. E106	Is_Localized_In	Functional_Molecule:TGF-ß	Target_Tissue:cell surface
+58. In conclusion , we propose that in Arabidopsis seedlings , signaling mediated by the SERK1 receptor combines elements of the BR pathway with a short signal transduction chain , in which the plasma membrane receptor is in a complex with its cognate transcriptional regulators , such as AGL15 .
+  19. E27	Is_Localized_In	Functional_Molecule:SERK1	Target_Tissue:seedlings
+23. In addition , ABI3 mediates ABA - regulated gene expression in the seed through interaction with specific basic Leu-zipper transcription factors that bind ABA response elements ( Finkelstein et al. , 2002 ) .
+  1. E97	Is_Localized_In	Functional_Molecule:ABI3	Target_Tissue:seed
+5. The AP2 transcript is not observed in a region - specific pattern in the four wholes of flower , and is detected in other vegetative tissues ( Jofuku et al. , 1994 ; Okamuro et al. , 1997 ) .
+  1. E34	Is_Localized_In	Functional_Molecule:AP2 transcript	Target_Tissue:vegetative tissues
+  2. E30	Is_Localized_In	Functional_Molecule:AP2 transcript	Target_Tissue:four wholes of flower
+16. We have demonstrated that AGL15 binds to LEA76 ( At1g52690 ) ( Figure 6a ) , and that LEA76 is repressed by AGL15 and / or SAP18 in a variety of tissues , including seedlings ( Figure 5 ) .
+  1. E46	Is_Localized_In	Functional_Molecule:SAP18	Target_Tissue:seedlings
+  2. E45	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:seedlings
+6. In contrast to what was observed in seeds , no noticeable difference in CBF2 transcript between agl 15-2 and Ws seedlings was observed , which could be result from genetic redundancy with other MADS expressed in the seedling but not present in the seed .
+  3. E3	Is_Localized_In	Functional_Molecule:CBF2 transcript	Target_Tissue:seedlings
+6. Whereas bZIP53 does not interact with ABI3 , a crucial transcriptional regulator in Arabidopsis seeds , ternary complex formation between the bZIP heterodimers and ABI3 increases the expression of MAT genes in planta .
+  1. E7	Is_Localized_In	Functional_Molecule:ABI3	Target_Tissue:seeds
+9. ANT regulates ovule development and floral organ growth ( Elliott et al. , 1996 ; Mizukami and Fischer , 2000 ) , and PLETHORA1 ( PLT1 ) and PLT2 are required for stem cell specification and maintenance in the root meristem ( Aida et al. , 2004 ) .
+  1. E40	Is_Localized_In	Functional_Molecule:PLT2	Target_Tissue:root meristem
+  2. E39	Is_Localized_In	Functional_Molecule:PLT1	Target_Tissue:root meristem
+5. This is corroborated in our study by qRT - PCR experiments aimed at characterizing the steady - state accumulation of BCCP2 and PKp - β1 mRNAs among a developmental series of maturing siliques ( Figure 3a ) or seeds ( Figure S1 ) .
+  1. E4	Is_Localized_In	Functional_Molecule:PKp-β1 mRNAs	Target_Tissue:seeds
+  2. E1	Is_Localized_In	Functional_Molecule:PKp-β1 mRNAs	Target_Tissue:developmental series of maturing siliques
+  3. E2	Is_Localized_In	Functional_Molecule:BCCP2 mRNAs	Target_Tissue:seeds
+  4. E3	Is_Localized_In	Functional_Molecule:BCCP2 mRNAs	Target_Tissue:developmental series of maturing siliques
+4. SEF3 - like activities were reported in seeds of other oleaginous species , such as tobacco and sunflower ( Lessard et al. , 1991 ) .
+  1. E2	Is_Localized_In	Functional_Molecule:SEF3-like	Target_Tissue:seeds
+4. In dcl1 eight - cell embryos , the two most up-regulated targets are those of miR156 and encode SPL10 and SPL11 transcription factors .
+  1. E15	Is_Localized_In	Functional_Molecule:SPL11	Target_Tissue:eight-cell embryos
+  2. E13	Is_Localized_In	Functional_Molecule:SPL10	Target_Tissue:eight-cell embryos
+  3. E14	Is_Localized_In	Functional_Molecule:miR156	Target_Tissue:eight-cell embryos
+12. DCL1 transcripts were detected by quantitative RT–PCT ( qRT–PCR ) in both early globular embryos from wild - type plants and early globular embryos from selfed dcl 1-5 / + plants that developed normally , but were not detected in abnormal early globular embryos from selfed dcl 1-5 / + plants ( Supplemental Fig . 1 ) .
+  1. E11	Is_Localized_In	Functional_Molecule:DCL1 transcripts	Target_Tissue:embryos
+  2. E10	Is_Localized_In	Functional_Molecule:DCL1 transcripts	Target_Tissue:embryos
+1. WUSCHEL - related HOMEOBOX2 ( WOX2 ) transcripts are localized in the apical cell lineage of wild - type preglobular embryos ( Haecker et al. 2004 ) .
+  1. E26	Is_Localized_In	Functional_Molecule:WOX2 transcripts	Target_Tissue:apical cell lineage of embryos
+2. After the two / four - cell stage , WOX2 transcripts were not detected in about a quarter of eight - cell and dermatogen stage embryos ( seven of 35 and 14 of 52 , respectively ) from self - pollinated dcl 1-5 / + plants ( Fig . 1B ) , which implied that dcl 1-5 embryos had undetectable WOX2 expression .
+  2. E40	Is_Localized_In	Functional_Molecule:WOX2 transcripts	Target_Tissue:embryos
+3. Similar to WOX2 , PINHEAD / ZWILLE / ARGONAUTE10 transcripts , hereafter referred to as PNH , are localized in the apical cell lineage of preglobular embryos ( Lynn et al. 1999 ) .
+  3. E31	Is_Localized_In	Functional_Molecule:ARGONAUTE10 transcripts	Target_Tissue:apical cell lineage
+  4. E29	Is_Localized_In	Functional_Molecule:PINHEAD transcripts	Target_Tissue:apical cell lineage
+  5. E33	Is_Localized_In	Functional_Molecule:ZWILLE transcripts	Target_Tissue:apical cell lineage
+4. Approximately 89% ( 72 of 81 ) of eight - cell and dermatogen stage embryos from selfed dcl 1-5 / + plants had detectable levels of PNH transcripts , suggesting that apical cell fate is not completely abolished in all preglobular dcl1 embryos ( Supplemental Fig . 2 ) .
+  6. E30	Is_Localized_In	Functional_Molecule:PNH transcripts	Target_Tissue:embryos
+5. In contrast to WOX2 and PNH , WOX8 transcripts are localized to the basal cell lineage of preglobular wild - type embryos ( Haecker et al. 2004 ) .
+  7. E25	Is_Localized_In	Functional_Molecule:WOX8 transcripts	Target_Tissue:basal cell lineage
+  8. E23	Is_Localized_In	Functional_Molecule:PNH transcripts	Target_Tissue:basal cell lineage
+  9. E41	Is_Localized_In	Functional_Molecule:WOX2 transcripts	Target_Tissue:basal cell lineage
+6. WOX8 transcripts were detected in 90% ( 62 of 69 ) of eight - cell and dermatogen stage embryos from selfed dcl 1-5 / + plants , suggesting that basal cell lineage differentiation is not perturbed in all preglobular dcl1 embryos ( Fig . 1B ) .
+  10. E32	Is_Localized_In	Functional_Molecule:WOX8 transcripts	Target_Tissue:embryos
+9. A. thaliana MERISTEM LAYER1 ( ATML1 ) and PROTODERMAL FACTOR1 ( PDF1 ) transcripts are detectable in the protoderm , but not the subprotoderm , of globular stage embryos ( Lu et al. 1996 ; Abe et al. 1999 ) .
+  11. E28	Is_Localized_In	Functional_Molecule:ATML1 transcripts	Target_Tissue:protoderm
+  12. E21	Is_Localized_In	Functional_Molecule:PDF1 transcripts	Target_Tissue:protoderm
+  13. E39	Is_Localized_In	Functional_Molecule:ATML1 transcripts	Target_Tissue:subprotoderm
+  14. E36	Is_Localized_In	Functional_Molecule:PDF1 transcripts	Target_Tissue:subprotoderm
+10. ATML1 and PDF1 transcripts were appropriately localized to the protoderm of globular stage dcl 1-5 embryos , but were ectopically localized in the suspensors of dcl 1-5 embryos whose wild - type siblings were at the early heart stage ( Fig . 1B ; Supplemental Fig . 2 ) .
+  15. E38	Is_Localized_In	Functional_Molecule:ATML1 transcripts	Target_Tissue:suspensors
+  16. E43	Is_Localized_In	Functional_Molecule:ATML1 transcripts	Target_Tissue:protoderm
+  17. E34	Is_Localized_In	Functional_Molecule:PDF1 transcripts	Target_Tissue:suspensors
+  18. E42	Is_Localized_In	Functional_Molecule:PDF1 transcripts	Target_Tissue:protoderm
+11. This observation was consistent with the previously reported ectopic localization of embryo proper - specific starch grains and protein bodies in the suspensors of late stage sus1 / dcl1 embryos ( Schwartz et al. 1994 ) .
+  19. E35	Is_Localized_In	Process:protein bodies	Target_Tissue:suspensors
+  20. E24	Is_Localized_In	Process:starch grains	Target_Tissue:suspensors
+12. Consistent with the reduction / loss of subprotodermal cell divisions in dcl1 late globular / early heart stage embryos , we detected reduced levels of RPS5A transcripts in these cell types ( Supplemental Fig . 2 ) .
+  21. E27	Is_Localized_In	Functional_Molecule:RPS5A transcripts	Target_Tissue:embryos
+14. In addition to the ectopic localization of protoderm markers in the suspensor , globular dcl 1-5 suspensors had reduced levels of WOX8 transcripts ( Fig . 1B ) .
+  22. E22	Is_Localized_In	Functional_Molecule:WOX8 transcripts	Target_Tissue:suspensors
+17. The plant hormone auxin is transported from the embryo proper to the presumptive hypophysis and contributes to hypophysis specification ( Friml et al. 2003 ; Aida et al. 2004 ; Weijers et al. 2006 ) .
+  23. E37	Is_Localized_In	Functional_Molecule:auxin	Target_Tissue:embryo proper
+18. Because the auxin signaling - responsive DR5rev promoter fused to GFP ( DR5rev∷GFP ) is specifically active in the hypophysis cells of wild - type globular embryos ( Friml et al. 2003 ) , and hypophysis specification is perturbed in dcl1 embryos , we examined the activity of DR5rev∷GFP in dcl 1-5 embryos to test whether DCL1 was required for appropriate auxin signaling .
+  24. E65	Is_Localized_In	Functional_Molecule:auxin	Target_Tissue:hypophysis cells of wild-type globular embryos
+22. Therefore , the auxin response defects observed in dcl1 embryos were probably secondary consequences of subprotoderm cell differentiation defects , which in turn were probably due to the apical cell lineage defects observed at the preglobular stages .
+  25. E67	Is_Localized_In	Process:apical cell lineage defects	Target_Tissue:embryos
+  26. E66	Is_Localized_In	Process:subprotoderm cell differentiation defects	Target_Tissue:embryos
+3. LEC1 RNA accumulates only during seed development in embryo cell types and in endosperm tissue .
+  1. E2	Is_Localized_In	Functional_Molecule:LEC1 RNA	Target_Tissue:endosperm tissue
+  2. E1	Is_Localized_In	Functional_Molecule:LEC1 RNA	Target_Tissue:embryo cell types
+0. We reported previously that AGL15 accumulated at its highest levels in the products of double fertilization ( the embryo , suspensor , and endosperm ) following sexual reproduction in angiosperms and was maintained at high levels in immature embryos ( Perry et al. , 1996 ) .
+  1. E15	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:immature embryos
+  2. E6	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:products of double fertilization
+3. In every case , whenever embryos or embryonic organs were present , relatively high levels of AGL15 - related proteins could be detected as well .
+  3. E16	Is_Localized_In	Functional_Molecule:AGL15-related proteins	Target_Tissue:embryonic organs
+  4. E18	Is_Localized_In	Functional_Molecule:AGL15-related proteins	Target_Tissue:embryos
+4. The results of our study of dandelion embryos indicate that the absence of a fertilization event does not preclude accumulation of AGL15 .
+  5. E7	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:embryos
+6. AGL15 - related protein accumulates in the same pattern in these asexual embryos as it does in zygotic embryos that arise following a fertilization event ( Perry et al. , 1996 ) .
+  6. E2	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:asexual embryos
+  7. E14	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:zygotic embryos
+7. The results of our study of the xtc2 mutant of Arabidopsis indicate that AGL15 accumulates in organs with embryonic features ( i.e. cotyledons ) even if they initiate during later stages of embryogeny and develop largely after germination .
+  8. E13	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:organs with embryonic features
+10. We found that AGL15 accumulated to higher levels in the secondary cotyledons that developed from these primordia than in leaves of the same age .
+  9. E1	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:secondary cotyledons
+  10. E17	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:leaves
+11. The results of our study of organs produced during precocious germination in oilseed rape indicate that AGL15 also accumulates in cotyledons that are initiated outside of the seed environment .
+  11. E3	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:cotyledons that are initiated outside of the seed environment
+14. Finally , the results of our studies of somatic embryogenesis indicate that AGL15 accumulates even when embryos arise de novo from cells in other phases of the life cycle .
+  12. E43	Is_Localized_In	Process:somatic embryogenesis	Target_Tissue:embryos
+16. AGL15 was undetectable in the nuclei of fully mature pollen and in the cells in unorganized masses .
+  13. E11	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:nuclei of fully mature pollen
+  14. E9	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:nuclei of the cells in unorganized masses
+17. Only the cells that took on an embryonic identity accumulated higher levels of AGL15 .
+  15. E12	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:cells that took on an embryonic identity
+20. Detectable amounts of AGL15 - related proteins did not accumulate in the mature leaf tissues of oilseed rape , Arabidopsis ( Heck et al. , 1995 ; Perry et al. , 1996 ; and S.E. Perry , personal observation ) , tomato ( M.D. Lehti , personal observation ) , or maize ( S.-C. Fang , personal observation ) ; however , they did accumulate in the mature leaf tissues of pea , another legume ( M.D. Lehti , personal observation ) .
+  16. E5	Is_Localized_In	Functional_Molecule:AGL15-related proteins	Target_Tissue:mature leaf tissues
+  17. E10	Is_Localized_In	Functional_Molecule:AGL15-related proteins	Target_Tissue:mature leaf tissues
+22. AGL15 accumulation did not appear to be sufficient to confer an embryonic identity on a cell or cells : the floral organs of plants overexpressing AGL15 accumulated AGL15 ( Fig . 1c ) but maintained their identity as reproductive tissues .
+  18. E4	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:floral organs
+24. The fact that immature oilseed rape microspores accumulated low but detectable amounts of AGL15 and also had embryogenic potential that can be expressed in culture may be significant in this regard .
+  19. E8	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:immature microspores
+1. Two lines of evidence suggest that this up-regulation occurs in the seed coat epidermis to support mucilage biosynthesis .
+  1. E28	Is_Localized_In	Process:mucilage biosynthesis	Target_Tissue:seed coat epidermis
+10. Therefore , we favor a model in which a seed coat - specific complex of TTG1 - bHLH - MYB causes activation of GL2 and the subsequent up-regulation of MUM4 during mucilage production ( Fig . 8 ) .
+  2. E29	Is_Localized_In	Functional_Molecule:TTG1-bHLH-MYB	Target_Tissue:seed coat-specific
+11. Recent results suggest that EGL3 ( ENHANCER OF GLABRA3 ) and / or TT8 ( TRANSPARENT TESTA8 ) are the bHLH proteins acting with TTG1 in the seed coat ( Zhang et al. , 2003 ) .
+  3. E35	Is_Localized_In	Functional_Molecule:TT8	Target_Tissue:seed coat
+  4. E37	Is_Localized_In	Functional_Molecule:TTG1	Target_Tissue:seed coat
+  5. E36	Is_Localized_In	Functional_Molecule:EGL3	Target_Tissue:seed coat
+24. Although the most conspicuous function of AP2 is in flower development , its transcripts are not restricted to flowers but are detected in leaves , stems , and seedlings also ( 24 , 34 ) , opening the possibility of a more global function for AP2 .
+  1. E22	Is_Localized_In	Functional_Molecule:AP2 transcripts	Target_Tissue:stems
+  2. E24	Is_Localized_In	Functional_Molecule:AP2 transcripts	Target_Tissue:seedlings
+  3. E25	Is_Localized_In	Functional_Molecule:AP2 transcripts	Target_Tissue:flowers
+  4. E23	Is_Localized_In	Functional_Molecule:AP2 transcripts	Target_Tissue:leaves
+4. In the wild type ( WT ) , the AtEBP mRNA level was high in leaves and low in flowers , while AP2 mRNA levels were low in all the tissues analysed ( flowers , stems and leaves ) .
+  1. E23	Is_Localized_In	Functional_Molecule:AP2 mRNA	Target_Tissue:stems
+  2. E17	Is_Localized_In	Functional_Molecule:AP2 mRNA	Target_Tissue:flowers
+  3. E20	Is_Localized_In	Functional_Molecule:AP2 mRNA	Target_Tissue:leaves
+  4. E25	Is_Localized_In	Functional_Molecule:AtEBP mRNA	Target_Tissue:flowers
+  5. E22	Is_Localized_In	Functional_Molecule:AtEBP mRNA	Target_Tissue:leaves
+16. AGL15 is expressed at lower levels after completion of germination in restricted sets of cells ( Fernandez et al. , 2000 ) .
+  1. E11	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:restricted sets of cells
+15. AGL15 preferentially accumulates in a wide variety of tissues that develop in an embryonic mode ( Heck et al. , 1995 ; Perry et al. , 1996 , 1999 ; Rounsley et al. , 1995 ) , and constitutive expression promotes somatic embryogenesis ( Harding et al. , 2003 ) .
+  2. E16	Is_Localized_In	Functional_Molecule:AGL15	Target_Tissue:tissues that develop in an embryonic mode
+32. These results strongly suggest that WRI1 , which is a limiting factor of lipogenic gene expression in seeds , directly induces the transcriptional activation of these genes at the onset of the maturation phase .
+  1. E67	Is_Localized_In	Functional_Molecule:WRI1	Target_Tissue:seeds
+0. Early dcl1 mutant embryos lack miR156 and exhibit premature expression of miR156 targets SPL10 and SPL11 , which in turn induces precocious expression of genes normally induced during the maturation phase of embryogenesis .
+  1. E61	Is_Localized_In	Functional_Molecule:miR156	Target_Tissue:embryos
+17. After morphogenesis , seed plant embryos transition to a maturation phase , when they accumulate storage proteins , undergo desiccation tolerance , and prepare to enter into a state of dormancy prior to germination .
+  2. E83	Is_Localized_In	Process:desiccation tolerance	Target_Tissue:embryos
+  3. E82	Is_Localized_In	Process:storage proteins	Target_Tissue:embryos
+14. Perhaps the loss of both miR156 - mediated regulation of SPL transcripts and miR166 - mediated regulation of HD - ZIPIII transcripts in dcl1 embryos is responsible for the embryonic patterning phenotypes observed .
+  4. E111	Is_Localized_In	Process:loss of miR156-mediated regulation of SPL transcripts	Target_Tissue:embryos
+  5. E112	Is_Localized_In	Process:loss of miR166-mediated regulation of HD-ZIPIII transcripts	Target_Tissue:embryos
+6. Since the reduction of WOX2 transcripts in dcl1 eight - cell embryos was the first detectable differentiation defect , and homeobox genes related to WOX2 have been implicated in maintaining stem cells during post - embryonic development ( Laux et al. 1996 ; Mayer et al. 1998 ; Wu et al. 2005 ) , we speculate that premature expression of miRNA targets leads to the reduction of WOX2 transcripts in dcl1 embryos and ultimately contributes to precocious differentiation and subsequent loss of developmental potential in preglobular cell types .
+  6. E113	Is_Localized_In	Process:premature expression of miRNA targets	Target_Tissue:embryos
+5. Particularly , fus3 embryos are defective in producing 12S and 2S seed proteins as well as storage lipids but accumulate large amounts of anthocyanin .
+  1. E1	Is_Localized_In	Functional_Molecule:2S seed proteins	Target_Tissue:embryos
+  2. E2	Is_Localized_In	Functional_Molecule:12S seed proteins	Target_Tissue:embryos

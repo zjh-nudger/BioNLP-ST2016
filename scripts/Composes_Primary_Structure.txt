@@ -1,0 +1,1105 @@
+0. The consensus binding site of the ABI3 / FUS3 / LEC2 B3 DNA - binding domain ( Sph / RY ) is strongly enriched in the promoters and first introns of VAL - repressed genes , including the early acting LEC1 and L1L genes .
+  E61	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:L1L
+  E66	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:LEC1
+  E68	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:promoters of VAL-repressed genes
+  E65	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:first introns of VAL-repressed genes
+  T69	Gene 1534 1537	L1L
+  T68	Gene 1525 1529	LEC1
+  T65	Promoter 1446 1455;1474 1496	promoters of VAL-repressed genes
+  T64	Box 1410 1416	Sph/RY
+  T67	Gene_Family 1477 1480	VAL
+  T66	Promoter 1460 1496	first introns of VAL-repressed genes
+  T61	Protein 1377 1381	FUS3
+  T60	Protein 1372 1376	ABI3
+  T63	Protein_Domain 1387 1408	B3 DNA-binding domain
+  T62	Protein 1382 1386	LEC2
+1. Specific in vivo and in vitro binding of bZIP53 protein to a G-box element in the albumin 2S2 promoter is demonstrated .
+  E8	Composes_Primary_Structure	DNA_Part:G-box	DNA:albumin 2S2 promoter
+  T14	Environmental_Factor 507 514	in vivo
+  T15	Environmental_Factor 519 527	in vitro
+  T16	Protein 539 545	bZIP53
+  T17	Box 559 564	G-box
+  T18	Promoter 580 600	albumin 2S2 promoter
+2. WRI1 binds to the AW-box with two core motifs The WRI1 binding sites in the upstream regions of Pl-PKβ1 , KAS1 , BCCP2 , and SUS2 contained the conserved AW-box sequence 5′ - [CnTnG](n)7[CG] -3 ′ ( Figure 4f ) , and mutational analysis of the site 1 AW-box of Pl-PKβ1 indicated that each of the five conserved nucleotides is critical for WRI1 binding ( Figure 5c ) .
+  E13	Composes_Primary_Structure	DNA_Part:5′-[CnTnG](n)7[CG]-3′	DNA:AW-box
+  E15	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of SUS2
+  E10	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of KAS1
+  E16	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of BCCP2
+  E11	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of Pl-PKβ1
+  T8	Promoter 76 95;122 126	upstream regions of SUS2
+  T9	Gene 96 103	Pl-PKβ1
+  T6	Promoter 76 96;105 109	upstream regions of KAS1
+  T7	Promoter 76 95;111 116	upstream regions of BCCP2
+  T4	Protein 50 54	WRI1
+  T5	Promoter 76 103	upstream regions of Pl-PKβ1
+  T2	Box 18 24	AW-box
+  T3	Box 50 68	WRI1 binding sites
+  T1	Protein 0 4	WRI1
+  T14	Box 167 188	5′-[CnTnG](n)7[CG]-3′
+  T15	Box 240 257	AW-box of Pl-PKβ1
+  T16	Gene 250 257	Pl-PKβ1
+  T17	Protein 328 332	WRI1
+  T10	Gene 105 109	KAS1
+  T11	Gene 111 116	BCCP2
+  T12	Gene 122 126	SUS2
+  T13	Box 151 157	AW-box
+3. The opposite strand sequence of the ANT - binding consensus sequence , 5′ - ( g / a)CnT(t / c)GggA(A / T)n - ( T / C)GTGc -3 ′ , shows the [ CnTnG ] core of the AW-box in the 5′ - half , while the sequence of the 3′ - half is TG rather than CG in the AW-box .
+  E14	Composes_Primary_Structure	DNA_Part:[CnTnG]	DNA:AW-box
+  T49	Box 1392 1394	CG
+  T48	Box 1377 1379	TG
+  T43	Box 1214 1244	ANT-binding consensus sequence
+  T42	Box 1182 1244	opposite strand sequence of the ANT-binding consensus sequence
+  T47	Box 1317 1323	AW-box
+  T46	Box 1297 1304	[CnTnG]
+  T45	Box 1246 1285	5′-(g/a)CnT(t/c)GggA(A/T)n-(T/C)GTGc-3′
+  T44	Protein 1214 1217	ANT
+  T50	Box 1402 1408	AW-box
+4. The hexanucleotide AACCCA that can be observed on the minus strand of each enhancer element has previously been described as the core of the SEF3 - recognition sequence ( Allen et al. , 1989 ) .
+  E1	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:SEF3-recognition sequence
+  T10	Box 613 638	SEF3-recognition sequence
+  T9	Box 491 497	AACCCA
+5. Similarly , in this study , we show that mutations in the AACCCA element of the BCCP2 promoter ( m2 ; Figure 5b ) do not impact on promoter activity ( Figure 6 ) .
+  E3	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:BCCP2 promoter
+  T28	Gene 1420 1425	BCCP2
+  T27	Promoter 1420 1434	BCCP2 promoter
+  T26	Box 1398 1404	AACCCA
+6. It has already been shown that ASIL1 binds to a GT-box , which is present in both the promoters of the LEC genes and of the genes encoding storage products , regulating the program at least at two levels ( Gao et al. , 2009 ) .
+  E11	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the LEC genes
+  E10	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the genes encoding storage products
+  T21	Protein 605 610	ASIL1
+  T23	Promoter 659 685	promoters of the LEC genes
+  T22	Box 622 628	GT-box
+  T25	Gene_Family 676 685	LEC genes
+  T24	Promoter 659 668;690 728	promoters of the genes encoding storage products
+  T26	Pathway 712 728	storage products
+7. We also detected a large number of putative cis-acting regulatory elements in the promoter regions of these genes , and promoter motifs for LEC1 ( LEAFY COTYLEDON 1 ) , DOF ( DNA - binding - with - One-Finger ) , GATA , and MYB transcription factors ( TF ) , as well as SORLIP5 ( Sequences Over - Represented in Light - Induced Promoters 5 ) , are overrepresented in the promoter regions of fatty acid biosynthetic genes .
+  E6	Composes_Primary_Structure	DNA_Part:SORLIP5	DNA:promoter regions of fatty acid biosynthetic genes
+  T25	Promoter 1032 1081	promoter regions of fatty acid biosynthetic genes
+  T24	Box 947 1002	Sequences Over-Represented in Light-Induced Promoters 5
+  T16	Box 729 759	cis-acting regulatory elements
+  T17	Protein 824 828	LEC1
+  T21	Protein_Family 885 889	GATA
+  T20	Protein_Family 855 882	DNA-binding-with-One-Finger
+  T23	Box 938 945	SORLIP5
+  T22	Protein_Family 895 898	MYB
+  T18	Protein 830 847	LEAFY COTYLEDON 1
+  T19	Protein_Family 850 853	DOF
+  T26	Pathway 1052 1075	fatty acid biosynthetic
+8. The conserved CCAAT motifs for B3 - domain TFs and binding sites for bZIP ( basic - leucine zipper ) TFs are enriched in the promoters of genes encoding oleosins and seed storage proteins .
+  E10	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding seed storage proteins
+  E8	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding oleosins
+  T29	Protein_Family 1150 1154	bZIP
+  T28	Protein_Family 1114 1127	B3-domain TFs
+  T27	Box 1097 1102	CCAAT
+  T34	Protein_Family 1243 1264	seed storage proteins
+  T35	Tissue 1243 1247	seed
+  T32	Promoter 1202 1229;1243 1264	promoters of genes encoding seed storage proteins
+  T33	Protein_Family 1230 1238	oleosins
+  T30	Protein_Family 1156 1176	basic-leucine zipper
+  T31	Promoter 1202 1238	promoters of genes encoding oleosins
+9. Many additional presumed ABA - signaling components have been identified biochemically , based on binding to cis-acting regulatory elements such as ABREs ( ABA - response elements ; Busk and Pages , 1998 ) ; one - or two-hybrid screens in yeast ( Choi et al. , 2000 ; Hobo et al. , 1999 ; Kim et al. , 1997 ; Kurup et al. , 2000 ; Uno et al. , 2000 ) ; or correlations between kinase or phosphatase activity and ABA response ( Leung and Giraudat , 1998 ) .
+  E25	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting regulatory elements
+  T32	Regulatory_Network 911 923	ABA response
+  T31	Protein_Family 886 897	phosphatase
+  T29	Environmental_Factor 728 755	two-hybrid screens in yeast
+  T28	Environmental_Factor 720 724;732 755	one- hybrid screens in yeast
+  T33	Hormone 911 914	ABA
+  T30	Protein_Family 876 882	kinase
+  T23	Hormone 547 550	ABA
+  T22	Regulatory_Network 547 560	ABA-signaling
+  T25	Box 667 672	ABREs
+  T24	Box 628 658	cis-acting regulatory elements
+  T27	Hormone 674 677	ABA
+  T26	Box 674 695	ABA-response elements
+10. Mutational analyses of VP1 / ABI3 - responsive promoters have shown that G-box elements such as those present in the Em1a and Em1b elements , although required for ABA regulation and consequently designated ABREs , are sufficient but not necessary for VP1 transactivation ( Vasil et al. , 1995 ) .
+  E34	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1b elements
+  E41	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1a elements
+  E42	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:ABI3-responsive promoters
+  E30	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:VP1 -responsive promoters
+  T69	Box 1819 1832	Em1b elements
+  T68	Box 1810 1814;1824 1832	Em1a elements
+  T65	Promoter 1724 1749	ABI3-responsive promoters
+  T64	Promoter 1720 1723;1728 1749	VP1 -responsive promoters
+  T67	Box 1766 1780	G-box elements
+  T66	Protein 1724 1728	ABI3
+  T63	Protein 1720 1723	VP1
+  T62	Protein 1720 1723	VP1
+  T72	Box 1899 1904	ABREs
+  T73	Regulatory_Network 1943 1962	VP1 transactivation
+  T70	Regulatory_Network 1856 1870	ABA regulation
+  T71	Hormone 1856 1859	ABA
+  T74	Protein 1943 1946	VP1
+11. These studies suggest that VP1 activates transcription through multiple cis-acting sequences , only some of which are ABREs .
+  E39	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting sequences
+  T76	Box 2057 2077	cis-acting sequences
+  T77	Box 2102 2107	ABREs
+  T75	Protein 2012 2015	VP1
+12. This subfamily has a broader consensus - binding site than the other bZIP proteins in that its members tolerate variability in the ACGT core element essential to the ABRE G-box ( Kim et al. , 1997 ) .
+  E27	Composes_Primary_Structure	DNA_Part:ACGT	DNA:ABRE G-box
+  T94	Box 2670 2680	ABRE G-box
+  T92	Protein_Family 2573 2577	bZIP
+  T93	Box 2635 2639	ACGT
+13. MADS - domain proteins bind as either homo - or heterodimers to an A / T-rich cis element named the CArG motif ( C-A / T-rich - G , with a canonical sequence of CC[A / T]6GG ; for a review , see Riechmann and Meyerowitz , 1997 ) , and AGL15 has been shown to preferentially bind a CArG sequence with a longer A / T-rich core ( C[A / T]8G ) in vitro ( Tang and Perry , 2003 ) .
+  E17	Composes_Primary_Structure	DNA_Part:C[A/T]8G	DNA:CArG sequence
+  T29	Protein_Domain 1146 1157	MADS-domain
+  T28	Protein_Family 1146 1166	MADS-domain proteins
+  T36	Box 1452 1460	C[A/T]8G
+  T37	Environmental_Factor 1462 1470	in vitro
+  T34	Box 1409 1422	CArG sequence
+  T35	Box 1437 1450	A/T-rich core
+  T32	Box 1296 1306	CC[A/T]6GG
+  T33	Protein 1363 1368	AGL15
+  T30	Box 1241 1251	CArG motif
+  T31	Box 1253 1265	C-A/T-rich-G
+14. Among them , G-box - related ACGT elements , RY ( CATGCA ) , AACA , and CTTT motifs are the best described examples ( for review , see Vicente - Carbajosa and Carbonero , 2005 ) .
+  E17	Composes_Primary_Structure	DNA_Part:ACGT	DNA:G-box-related ACGT elements
+  E19	Composes_Primary_Structure	DNA_Part:CATGCA	DNA:RY
+  T69	Box 2735 2737	RY
+  T68	Box 2720 2724	ACGT
+  T67	Box 2706 2733	G-box-related ACGT elements
+  T72	Box 2758 2762	CTTT
+  T70	Box 2739 2745	CATGCA
+  T71	Box 2748 2752	AACA
+15. Expression during seed development , specific binding to G-box - like ACGT elements of the albumin and cruciferin promoters , and in vivo regulation of these target genes have been demonstrated ( Lara et al. , 2003 ) .
+  E16	Composes_Primary_Structure	DNA_Part:ACGT	DNA:albumin promoters
+  E13	Composes_Primary_Structure	DNA_Part:ACGT	DNA:cruciferin promoters
+  T94	Protein_Family 3558 3568	cruciferin
+  T89	Box 3514 3538	G-box-like ACGT elements
+  T88	Tissue 3476 3480	seed
+  T87	Development_Phase 3476 3492	seed development
+  T95	Environmental_Factor 3584 3591	in vivo
+  T90	Box 3525 3529	ACGT
+  T91	Protein_Family 3546 3553	albumin
+  T92	Promoter 3546 3553;3569 3578	albumin promoters
+  T93	Promoter 3558 3578	cruciferin promoters
+16. These boxes consist of 11-bp sequences ( TAAGAGGCCGCC ) exhibiting a GCCGCC core required for protein binding ( Ohme - Takagi and Shinshi , 1995 ; Fujimoto et al. , 2000 ; Song et al. , 2005 ) .
+  E15	Composes_Primary_Structure	DNA_Part:GCCGCC	DNA:TAAGAGGCCGCC
+  T97	Box 3896 3908	TAAGAGGCCGCC
+  T98	Box 3923 3929	GCCGCC
+17. Proteins of the DREB subfamily bind to dehydration response elements ( DREs ) / C-repeats containing the core sequence CCGAC ( Baker et al. , 1994 ) .
+  E13	Composes_Primary_Structure	DNA_Part:CCGAC	DNA:dehydration response elements
+  T103	Protein_Family 4169 4183	DREB subfamily
+  T105	Box 4223 4227	DREs
+  T104	Box 4192 4221	dehydration response elements
+  T106	Box 4268 4273	CCGAC
+0. The consensus binding site of the ABI3 / FUS3 / LEC2 B3 DNA - binding domain ( Sph / RY ) is strongly enriched in the promoters and first introns of VAL - repressed genes , including the early acting LEC1 and L1L genes .
+0. The consensus binding site of the ABI3 / FUS3 / LEC2 B3 DNA - binding domain ( Sph / RY ) is strongly enriched in the promoters and first introns of VAL - repressed genes , including the early acting LEC1 and L1L genes .
+  E61	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:L1L
+  E66	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:LEC1
+  E68	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:promoters of VAL-repressed genes
+  E65	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:first introns of VAL-repressed genes
+  T69	Gene 1534 1537	L1L
+  T68	Gene 1525 1529	LEC1
+  T65	Promoter 1446 1455;1474 1496	promoters of VAL-repressed genes
+  T64	Box 1410 1416	Sph/RY
+  T67	Gene_Family 1477 1480	VAL
+  T66	Promoter 1460 1496	first introns of VAL-repressed genes
+  T61	Protein 1377 1381	FUS3
+  T60	Protein 1372 1376	ABI3
+  T63	Protein_Domain 1387 1408	B3 DNA-binding domain
+  T62	Protein 1382 1386	LEC2
+1. Specific in vivo and in vitro binding of bZIP53 protein to a G-box element in the albumin 2S2 promoter is demonstrated .
+  E8	Composes_Primary_Structure	DNA_Part:G-box	DNA:albumin 2S2 promoter
+  T14	Environmental_Factor 507 514	in vivo
+  T15	Environmental_Factor 519 527	in vitro
+  T16	Protein 539 545	bZIP53
+  T17	Box 559 564	G-box
+  T18	Promoter 580 600	albumin 2S2 promoter
+2. WRI1 binds to the AW-box with two core motifs The WRI1 binding sites in the upstream regions of Pl-PKβ1 , KAS1 , BCCP2 , and SUS2 contained the conserved AW-box sequence 5′ - [CnTnG](n)7[CG] -3 ′ ( Figure 4f ) , and mutational analysis of the site 1 AW-box of Pl-PKβ1 indicated that each of the five conserved nucleotides is critical for WRI1 binding ( Figure 5c ) .
+  E13	Composes_Primary_Structure	DNA_Part:5′-[CnTnG](n)7[CG]-3′	DNA:AW-box
+  E15	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of SUS2
+  E10	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of KAS1
+  E16	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of BCCP2
+  E11	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of Pl-PKβ1
+  T8	Promoter 76 95;122 126	upstream regions of SUS2
+  T9	Gene 96 103	Pl-PKβ1
+  T6	Promoter 76 96;105 109	upstream regions of KAS1
+  T7	Promoter 76 95;111 116	upstream regions of BCCP2
+  T4	Protein 50 54	WRI1
+  T5	Promoter 76 103	upstream regions of Pl-PKβ1
+  T2	Box 18 24	AW-box
+  T3	Box 50 68	WRI1 binding sites
+  T1	Protein 0 4	WRI1
+  T14	Box 167 188	5′-[CnTnG](n)7[CG]-3′
+  T15	Box 240 257	AW-box of Pl-PKβ1
+  T16	Gene 250 257	Pl-PKβ1
+  T17	Protein 328 332	WRI1
+  T10	Gene 105 109	KAS1
+  T11	Gene 111 116	BCCP2
+  T12	Gene 122 126	SUS2
+  T13	Box 151 157	AW-box
+3. The opposite strand sequence of the ANT - binding consensus sequence , 5′ - ( g / a)CnT(t / c)GggA(A / T)n - ( T / C)GTGc -3 ′ , shows the [ CnTnG ] core of the AW-box in the 5′ - half , while the sequence of the 3′ - half is TG rather than CG in the AW-box .
+  E14	Composes_Primary_Structure	DNA_Part:[CnTnG]	DNA:AW-box
+  T49	Box 1392 1394	CG
+  T48	Box 1377 1379	TG
+  T43	Box 1214 1244	ANT-binding consensus sequence
+  T42	Box 1182 1244	opposite strand sequence of the ANT-binding consensus sequence
+  T47	Box 1317 1323	AW-box
+  T46	Box 1297 1304	[CnTnG]
+  T45	Box 1246 1285	5′-(g/a)CnT(t/c)GggA(A/T)n-(T/C)GTGc-3′
+  T44	Protein 1214 1217	ANT
+  T50	Box 1402 1408	AW-box
+4. The hexanucleotide AACCCA that can be observed on the minus strand of each enhancer element has previously been described as the core of the SEF3 - recognition sequence ( Allen et al. , 1989 ) .
+  E1	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:SEF3-recognition sequence
+  T10	Box 613 638	SEF3-recognition sequence
+  T9	Box 491 497	AACCCA
+5. Similarly , in this study , we show that mutations in the AACCCA element of the BCCP2 promoter ( m2 ; Figure 5b ) do not impact on promoter activity ( Figure 6 ) .
+  E3	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:BCCP2 promoter
+  T28	Gene 1420 1425	BCCP2
+  T27	Promoter 1420 1434	BCCP2 promoter
+  T26	Box 1398 1404	AACCCA
+6. It has already been shown that ASIL1 binds to a GT-box , which is present in both the promoters of the LEC genes and of the genes encoding storage products , regulating the program at least at two levels ( Gao et al. , 2009 ) .
+  E11	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the LEC genes
+  E10	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the genes encoding storage products
+  T21	Protein 605 610	ASIL1
+  T23	Promoter 659 685	promoters of the LEC genes
+  T22	Box 622 628	GT-box
+  T25	Gene_Family 676 685	LEC genes
+  T24	Promoter 659 668;690 728	promoters of the genes encoding storage products
+  T26	Pathway 712 728	storage products
+7. We also detected a large number of putative cis-acting regulatory elements in the promoter regions of these genes , and promoter motifs for LEC1 ( LEAFY COTYLEDON 1 ) , DOF ( DNA - binding - with - One-Finger ) , GATA , and MYB transcription factors ( TF ) , as well as SORLIP5 ( Sequences Over - Represented in Light - Induced Promoters 5 ) , are overrepresented in the promoter regions of fatty acid biosynthetic genes .
+  E6	Composes_Primary_Structure	DNA_Part:SORLIP5	DNA:promoter regions of fatty acid biosynthetic genes
+  T25	Promoter 1032 1081	promoter regions of fatty acid biosynthetic genes
+  T24	Box 947 1002	Sequences Over-Represented in Light-Induced Promoters 5
+  T16	Box 729 759	cis-acting regulatory elements
+  T17	Protein 824 828	LEC1
+  T21	Protein_Family 885 889	GATA
+  T20	Protein_Family 855 882	DNA-binding-with-One-Finger
+  T23	Box 938 945	SORLIP5
+  T22	Protein_Family 895 898	MYB
+  T18	Protein 830 847	LEAFY COTYLEDON 1
+  T19	Protein_Family 850 853	DOF
+  T26	Pathway 1052 1075	fatty acid biosynthetic
+8. The conserved CCAAT motifs for B3 - domain TFs and binding sites for bZIP ( basic - leucine zipper ) TFs are enriched in the promoters of genes encoding oleosins and seed storage proteins .
+  E10	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding seed storage proteins
+  E8	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding oleosins
+  T29	Protein_Family 1150 1154	bZIP
+  T28	Protein_Family 1114 1127	B3-domain TFs
+  T27	Box 1097 1102	CCAAT
+  T34	Protein_Family 1243 1264	seed storage proteins
+  T35	Tissue 1243 1247	seed
+  T32	Promoter 1202 1229;1243 1264	promoters of genes encoding seed storage proteins
+  T33	Protein_Family 1230 1238	oleosins
+  T30	Protein_Family 1156 1176	basic-leucine zipper
+  T31	Promoter 1202 1238	promoters of genes encoding oleosins
+9. Many additional presumed ABA - signaling components have been identified biochemically , based on binding to cis-acting regulatory elements such as ABREs ( ABA - response elements ; Busk and Pages , 1998 ) ; one - or two-hybrid screens in yeast ( Choi et al. , 2000 ; Hobo et al. , 1999 ; Kim et al. , 1997 ; Kurup et al. , 2000 ; Uno et al. , 2000 ) ; or correlations between kinase or phosphatase activity and ABA response ( Leung and Giraudat , 1998 ) .
+  E25	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting regulatory elements
+  T32	Regulatory_Network 911 923	ABA response
+  T31	Protein_Family 886 897	phosphatase
+  T29	Environmental_Factor 728 755	two-hybrid screens in yeast
+  T28	Environmental_Factor 720 724;732 755	one- hybrid screens in yeast
+  T33	Hormone 911 914	ABA
+  T30	Protein_Family 876 882	kinase
+  T23	Hormone 547 550	ABA
+  T22	Regulatory_Network 547 560	ABA-signaling
+  T25	Box 667 672	ABREs
+  T24	Box 628 658	cis-acting regulatory elements
+  T27	Hormone 674 677	ABA
+  T26	Box 674 695	ABA-response elements
+10. Mutational analyses of VP1 / ABI3 - responsive promoters have shown that G-box elements such as those present in the Em1a and Em1b elements , although required for ABA regulation and consequently designated ABREs , are sufficient but not necessary for VP1 transactivation ( Vasil et al. , 1995 ) .
+  E34	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1b elements
+  E41	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1a elements
+  E42	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:ABI3-responsive promoters
+  E30	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:VP1 -responsive promoters
+  T69	Box 1819 1832	Em1b elements
+  T68	Box 1810 1814;1824 1832	Em1a elements
+  T65	Promoter 1724 1749	ABI3-responsive promoters
+  T64	Promoter 1720 1723;1728 1749	VP1 -responsive promoters
+  T67	Box 1766 1780	G-box elements
+  T66	Protein 1724 1728	ABI3
+  T63	Protein 1720 1723	VP1
+  T62	Protein 1720 1723	VP1
+  T72	Box 1899 1904	ABREs
+  T73	Regulatory_Network 1943 1962	VP1 transactivation
+  T70	Regulatory_Network 1856 1870	ABA regulation
+  T71	Hormone 1856 1859	ABA
+  T74	Protein 1943 1946	VP1
+11. These studies suggest that VP1 activates transcription through multiple cis-acting sequences , only some of which are ABREs .
+  E39	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting sequences
+  T76	Box 2057 2077	cis-acting sequences
+  T77	Box 2102 2107	ABREs
+  T75	Protein 2012 2015	VP1
+12. This subfamily has a broader consensus - binding site than the other bZIP proteins in that its members tolerate variability in the ACGT core element essential to the ABRE G-box ( Kim et al. , 1997 ) .
+  E27	Composes_Primary_Structure	DNA_Part:ACGT	DNA:ABRE G-box
+  T94	Box 2670 2680	ABRE G-box
+  T92	Protein_Family 2573 2577	bZIP
+  T93	Box 2635 2639	ACGT
+13. MADS - domain proteins bind as either homo - or heterodimers to an A / T-rich cis element named the CArG motif ( C-A / T-rich - G , with a canonical sequence of CC[A / T]6GG ; for a review , see Riechmann and Meyerowitz , 1997 ) , and AGL15 has been shown to preferentially bind a CArG sequence with a longer A / T-rich core ( C[A / T]8G ) in vitro ( Tang and Perry , 2003 ) .
+  E17	Composes_Primary_Structure	DNA_Part:C[A/T]8G	DNA:CArG sequence
+  T29	Protein_Domain 1146 1157	MADS-domain
+  T28	Protein_Family 1146 1166	MADS-domain proteins
+  T36	Box 1452 1460	C[A/T]8G
+  T37	Environmental_Factor 1462 1470	in vitro
+  T34	Box 1409 1422	CArG sequence
+  T35	Box 1437 1450	A/T-rich core
+  T32	Box 1296 1306	CC[A/T]6GG
+  T33	Protein 1363 1368	AGL15
+  T30	Box 1241 1251	CArG motif
+  T31	Box 1253 1265	C-A/T-rich-G
+14. Among them , G-box - related ACGT elements , RY ( CATGCA ) , AACA , and CTTT motifs are the best described examples ( for review , see Vicente - Carbajosa and Carbonero , 2005 ) .
+  E17	Composes_Primary_Structure	DNA_Part:ACGT	DNA:G-box-related ACGT elements
+  E19	Composes_Primary_Structure	DNA_Part:CATGCA	DNA:RY
+  T69	Box 2735 2737	RY
+  T68	Box 2720 2724	ACGT
+  T67	Box 2706 2733	G-box-related ACGT elements
+  T72	Box 2758 2762	CTTT
+  T70	Box 2739 2745	CATGCA
+  T71	Box 2748 2752	AACA
+15. Expression during seed development , specific binding to G-box - like ACGT elements of the albumin and cruciferin promoters , and in vivo regulation of these target genes have been demonstrated ( Lara et al. , 2003 ) .
+  E16	Composes_Primary_Structure	DNA_Part:ACGT	DNA:albumin promoters
+  E13	Composes_Primary_Structure	DNA_Part:ACGT	DNA:cruciferin promoters
+  T94	Protein_Family 3558 3568	cruciferin
+  T89	Box 3514 3538	G-box-like ACGT elements
+  T88	Tissue 3476 3480	seed
+  T87	Development_Phase 3476 3492	seed development
+  T95	Environmental_Factor 3584 3591	in vivo
+  T90	Box 3525 3529	ACGT
+  T91	Protein_Family 3546 3553	albumin
+  T92	Promoter 3546 3553;3569 3578	albumin promoters
+  T93	Promoter 3558 3578	cruciferin promoters
+16. These boxes consist of 11-bp sequences ( TAAGAGGCCGCC ) exhibiting a GCCGCC core required for protein binding ( Ohme - Takagi and Shinshi , 1995 ; Fujimoto et al. , 2000 ; Song et al. , 2005 ) .
+  E15	Composes_Primary_Structure	DNA_Part:GCCGCC	DNA:TAAGAGGCCGCC
+  T97	Box 3896 3908	TAAGAGGCCGCC
+  T98	Box 3923 3929	GCCGCC
+17. Proteins of the DREB subfamily bind to dehydration response elements ( DREs ) / C-repeats containing the core sequence CCGAC ( Baker et al. , 1994 ) .
+  E13	Composes_Primary_Structure	DNA_Part:CCGAC	DNA:dehydration response elements
+  T103	Protein_Family 4169 4183	DREB subfamily
+  T105	Box 4223 4227	DREs
+  T104	Box 4192 4221	dehydration response elements
+  T106	Box 4268 4273	CCGAC
+0. The consensus binding site of the ABI3 / FUS3 / LEC2 B3 DNA - binding domain ( Sph / RY ) is strongly enriched in the promoters and first introns of VAL - repressed genes , including the early acting LEC1 and L1L genes .
+  E61	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:L1L
+  E66	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:LEC1
+  E68	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:promoters of VAL-repressed genes
+  E65	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:first introns of VAL-repressed genes
+  T69	Gene 1534 1537	L1L
+  T68	Gene 1525 1529	LEC1
+  T65	Promoter 1446 1455;1474 1496	promoters of VAL-repressed genes
+  T64	Box 1410 1416	Sph/RY
+  T67	Gene_Family 1477 1480	VAL
+  T66	Promoter 1460 1496	first introns of VAL-repressed genes
+  T61	Protein 1377 1381	FUS3
+  T60	Protein 1372 1376	ABI3
+  T63	Protein_Domain 1387 1408	B3 DNA-binding domain
+  T62	Protein 1382 1386	LEC2
+1. Specific in vivo and in vitro binding of bZIP53 protein to a G-box element in the albumin 2S2 promoter is demonstrated .
+  E8	Composes_Primary_Structure	DNA_Part:G-box	DNA:albumin 2S2 promoter
+  T14	Environmental_Factor 507 514	in vivo
+  T15	Environmental_Factor 519 527	in vitro
+  T16	Protein 539 545	bZIP53
+  T17	Box 559 564	G-box
+  T18	Promoter 580 600	albumin 2S2 promoter
+2. WRI1 binds to the AW-box with two core motifs The WRI1 binding sites in the upstream regions of Pl-PKβ1 , KAS1 , BCCP2 , and SUS2 contained the conserved AW-box sequence 5′ - [CnTnG](n)7[CG] -3 ′ ( Figure 4f ) , and mutational analysis of the site 1 AW-box of Pl-PKβ1 indicated that each of the five conserved nucleotides is critical for WRI1 binding ( Figure 5c ) .
+  E13	Composes_Primary_Structure	DNA_Part:5′-[CnTnG](n)7[CG]-3′	DNA:AW-box
+  E15	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of SUS2
+  E10	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of KAS1
+  E16	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of BCCP2
+  E11	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of Pl-PKβ1
+  T8	Promoter 76 95;122 126	upstream regions of SUS2
+  T9	Gene 96 103	Pl-PKβ1
+  T6	Promoter 76 96;105 109	upstream regions of KAS1
+  T7	Promoter 76 95;111 116	upstream regions of BCCP2
+  T4	Protein 50 54	WRI1
+  T5	Promoter 76 103	upstream regions of Pl-PKβ1
+  T2	Box 18 24	AW-box
+  T3	Box 50 68	WRI1 binding sites
+  T1	Protein 0 4	WRI1
+  T14	Box 167 188	5′-[CnTnG](n)7[CG]-3′
+  T15	Box 240 257	AW-box of Pl-PKβ1
+  T16	Gene 250 257	Pl-PKβ1
+  T17	Protein 328 332	WRI1
+  T10	Gene 105 109	KAS1
+  T11	Gene 111 116	BCCP2
+  T12	Gene 122 126	SUS2
+  T13	Box 151 157	AW-box
+3. The opposite strand sequence of the ANT - binding consensus sequence , 5′ - ( g / a)CnT(t / c)GggA(A / T)n - ( T / C)GTGc -3 ′ , shows the [ CnTnG ] core of the AW-box in the 5′ - half , while the sequence of the 3′ - half is TG rather than CG in the AW-box .
+  E14	Composes_Primary_Structure	DNA_Part:[CnTnG]	DNA:AW-box
+  T49	Box 1392 1394	CG
+  T48	Box 1377 1379	TG
+  T43	Box 1214 1244	ANT-binding consensus sequence
+  T42	Box 1182 1244	opposite strand sequence of the ANT-binding consensus sequence
+  T47	Box 1317 1323	AW-box
+  T46	Box 1297 1304	[CnTnG]
+  T45	Box 1246 1285	5′-(g/a)CnT(t/c)GggA(A/T)n-(T/C)GTGc-3′
+  T44	Protein 1214 1217	ANT
+  T50	Box 1402 1408	AW-box
+4. The hexanucleotide AACCCA that can be observed on the minus strand of each enhancer element has previously been described as the core of the SEF3 - recognition sequence ( Allen et al. , 1989 ) .
+  E1	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:SEF3-recognition sequence
+  T10	Box 613 638	SEF3-recognition sequence
+  T9	Box 491 497	AACCCA
+5. Similarly , in this study , we show that mutations in the AACCCA element of the BCCP2 promoter ( m2 ; Figure 5b ) do not impact on promoter activity ( Figure 6 ) .
+  E3	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:BCCP2 promoter
+  T28	Gene 1420 1425	BCCP2
+  T27	Promoter 1420 1434	BCCP2 promoter
+  T26	Box 1398 1404	AACCCA
+6. It has already been shown that ASIL1 binds to a GT-box , which is present in both the promoters of the LEC genes and of the genes encoding storage products , regulating the program at least at two levels ( Gao et al. , 2009 ) .
+  E11	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the LEC genes
+  E10	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the genes encoding storage products
+  T21	Protein 605 610	ASIL1
+  T23	Promoter 659 685	promoters of the LEC genes
+  T22	Box 622 628	GT-box
+  T25	Gene_Family 676 685	LEC genes
+  T24	Promoter 659 668;690 728	promoters of the genes encoding storage products
+  T26	Pathway 712 728	storage products
+7. We also detected a large number of putative cis-acting regulatory elements in the promoter regions of these genes , and promoter motifs for LEC1 ( LEAFY COTYLEDON 1 ) , DOF ( DNA - binding - with - One-Finger ) , GATA , and MYB transcription factors ( TF ) , as well as SORLIP5 ( Sequences Over - Represented in Light - Induced Promoters 5 ) , are overrepresented in the promoter regions of fatty acid biosynthetic genes .
+  E6	Composes_Primary_Structure	DNA_Part:SORLIP5	DNA:promoter regions of fatty acid biosynthetic genes
+  T25	Promoter 1032 1081	promoter regions of fatty acid biosynthetic genes
+  T24	Box 947 1002	Sequences Over-Represented in Light-Induced Promoters 5
+  T16	Box 729 759	cis-acting regulatory elements
+  T17	Protein 824 828	LEC1
+  T21	Protein_Family 885 889	GATA
+  T20	Protein_Family 855 882	DNA-binding-with-One-Finger
+  T23	Box 938 945	SORLIP5
+  T22	Protein_Family 895 898	MYB
+  T18	Protein 830 847	LEAFY COTYLEDON 1
+  T19	Protein_Family 850 853	DOF
+  T26	Pathway 1052 1075	fatty acid biosynthetic
+8. The conserved CCAAT motifs for B3 - domain TFs and binding sites for bZIP ( basic - leucine zipper ) TFs are enriched in the promoters of genes encoding oleosins and seed storage proteins .
+  E10	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding seed storage proteins
+  E8	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding oleosins
+  T29	Protein_Family 1150 1154	bZIP
+  T28	Protein_Family 1114 1127	B3-domain TFs
+  T27	Box 1097 1102	CCAAT
+  T34	Protein_Family 1243 1264	seed storage proteins
+  T35	Tissue 1243 1247	seed
+  T32	Promoter 1202 1229;1243 1264	promoters of genes encoding seed storage proteins
+  T33	Protein_Family 1230 1238	oleosins
+  T30	Protein_Family 1156 1176	basic-leucine zipper
+  T31	Promoter 1202 1238	promoters of genes encoding oleosins
+9. Many additional presumed ABA - signaling components have been identified biochemically , based on binding to cis-acting regulatory elements such as ABREs ( ABA - response elements ; Busk and Pages , 1998 ) ; one - or two-hybrid screens in yeast ( Choi et al. , 2000 ; Hobo et al. , 1999 ; Kim et al. , 1997 ; Kurup et al. , 2000 ; Uno et al. , 2000 ) ; or correlations between kinase or phosphatase activity and ABA response ( Leung and Giraudat , 1998 ) .
+  E25	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting regulatory elements
+  T32	Regulatory_Network 911 923	ABA response
+  T31	Protein_Family 886 897	phosphatase
+  T29	Environmental_Factor 728 755	two-hybrid screens in yeast
+  T28	Environmental_Factor 720 724;732 755	one- hybrid screens in yeast
+  T33	Hormone 911 914	ABA
+  T30	Protein_Family 876 882	kinase
+  T23	Hormone 547 550	ABA
+  T22	Regulatory_Network 547 560	ABA-signaling
+  T25	Box 667 672	ABREs
+  T24	Box 628 658	cis-acting regulatory elements
+  T27	Hormone 674 677	ABA
+  T26	Box 674 695	ABA-response elements
+10. Mutational analyses of VP1 / ABI3 - responsive promoters have shown that G-box elements such as those present in the Em1a and Em1b elements , although required for ABA regulation and consequently designated ABREs , are sufficient but not necessary for VP1 transactivation ( Vasil et al. , 1995 ) .
+  E34	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1b elements
+  E41	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1a elements
+  E42	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:ABI3-responsive promoters
+  E30	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:VP1 -responsive promoters
+  T69	Box 1819 1832	Em1b elements
+  T68	Box 1810 1814;1824 1832	Em1a elements
+  T65	Promoter 1724 1749	ABI3-responsive promoters
+  T64	Promoter 1720 1723;1728 1749	VP1 -responsive promoters
+  T67	Box 1766 1780	G-box elements
+  T66	Protein 1724 1728	ABI3
+  T63	Protein 1720 1723	VP1
+  T62	Protein 1720 1723	VP1
+  T72	Box 1899 1904	ABREs
+  T73	Regulatory_Network 1943 1962	VP1 transactivation
+  T70	Regulatory_Network 1856 1870	ABA regulation
+  T71	Hormone 1856 1859	ABA
+  T74	Protein 1943 1946	VP1
+11. These studies suggest that VP1 activates transcription through multiple cis-acting sequences , only some of which are ABREs .
+  E39	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting sequences
+  T76	Box 2057 2077	cis-acting sequences
+  T77	Box 2102 2107	ABREs
+  T75	Protein 2012 2015	VP1
+12. This subfamily has a broader consensus - binding site than the other bZIP proteins in that its members tolerate variability in the ACGT core element essential to the ABRE G-box ( Kim et al. , 1997 ) .
+  E27	Composes_Primary_Structure	DNA_Part:ACGT	DNA:ABRE G-box
+  T94	Box 2670 2680	ABRE G-box
+  T92	Protein_Family 2573 2577	bZIP
+  T93	Box 2635 2639	ACGT
+13. MADS - domain proteins bind as either homo - or heterodimers to an A / T-rich cis element named the CArG motif ( C-A / T-rich - G , with a canonical sequence of CC[A / T]6GG ; for a review , see Riechmann and Meyerowitz , 1997 ) , and AGL15 has been shown to preferentially bind a CArG sequence with a longer A / T-rich core ( C[A / T]8G ) in vitro ( Tang and Perry , 2003 ) .
+  E17	Composes_Primary_Structure	DNA_Part:C[A/T]8G	DNA:CArG sequence
+  T29	Protein_Domain 1146 1157	MADS-domain
+  T28	Protein_Family 1146 1166	MADS-domain proteins
+  T36	Box 1452 1460	C[A/T]8G
+  T37	Environmental_Factor 1462 1470	in vitro
+  T34	Box 1409 1422	CArG sequence
+  T35	Box 1437 1450	A/T-rich core
+  T32	Box 1296 1306	CC[A/T]6GG
+  T33	Protein 1363 1368	AGL15
+  T30	Box 1241 1251	CArG motif
+  T31	Box 1253 1265	C-A/T-rich-G
+14. Among them , G-box - related ACGT elements , RY ( CATGCA ) , AACA , and CTTT motifs are the best described examples ( for review , see Vicente - Carbajosa and Carbonero , 2005 ) .
+  E17	Composes_Primary_Structure	DNA_Part:ACGT	DNA:G-box-related ACGT elements
+  E19	Composes_Primary_Structure	DNA_Part:CATGCA	DNA:RY
+  T69	Box 2735 2737	RY
+  T68	Box 2720 2724	ACGT
+  T67	Box 2706 2733	G-box-related ACGT elements
+  T72	Box 2758 2762	CTTT
+  T70	Box 2739 2745	CATGCA
+  T71	Box 2748 2752	AACA
+15. Expression during seed development , specific binding to G-box - like ACGT elements of the albumin and cruciferin promoters , and in vivo regulation of these target genes have been demonstrated ( Lara et al. , 2003 ) .
+  E16	Composes_Primary_Structure	DNA_Part:ACGT	DNA:albumin promoters
+  E13	Composes_Primary_Structure	DNA_Part:ACGT	DNA:cruciferin promoters
+  T94	Protein_Family 3558 3568	cruciferin
+  T89	Box 3514 3538	G-box-like ACGT elements
+  T88	Tissue 3476 3480	seed
+  T87	Development_Phase 3476 3492	seed development
+  T95	Environmental_Factor 3584 3591	in vivo
+  T90	Box 3525 3529	ACGT
+  T91	Protein_Family 3546 3553	albumin
+  T92	Promoter 3546 3553;3569 3578	albumin promoters
+  T93	Promoter 3558 3578	cruciferin promoters
+16. These boxes consist of 11-bp sequences ( TAAGAGGCCGCC ) exhibiting a GCCGCC core required for protein binding ( Ohme - Takagi and Shinshi , 1995 ; Fujimoto et al. , 2000 ; Song et al. , 2005 ) .
+  E15	Composes_Primary_Structure	DNA_Part:GCCGCC	DNA:TAAGAGGCCGCC
+  T97	Box 3896 3908	TAAGAGGCCGCC
+  T98	Box 3923 3929	GCCGCC
+17. Proteins of the DREB subfamily bind to dehydration response elements ( DREs ) / C-repeats containing the core sequence CCGAC ( Baker et al. , 1994 ) .
+  E13	Composes_Primary_Structure	DNA_Part:CCGAC	DNA:dehydration response elements
+  T103	Protein_Family 4169 4183	DREB subfamily
+  T105	Box 4223 4227	DREs
+  T104	Box 4192 4221	dehydration response elements
+  T106	Box 4268 4273	CCGAC
+0. The consensus binding site of the ABI3 / FUS3 / LEC2 B3 DNA - binding domain ( Sph / RY ) is strongly enriched in the promoters and first introns of VAL - repressed genes , including the early acting LEC1 and L1L genes .
+  E61	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:L1L
+  E66	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:LEC1
+  E68	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:promoters of VAL-repressed genes
+  E65	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:first introns of VAL-repressed genes
+  T69	Gene 1534 1537	L1L
+  T68	Gene 1525 1529	LEC1
+  T65	Promoter 1446 1455;1474 1496	promoters of VAL-repressed genes
+  T64	Box 1410 1416	Sph/RY
+  T67	Gene_Family 1477 1480	VAL
+  T66	Promoter 1460 1496	first introns of VAL-repressed genes
+  T61	Protein 1377 1381	FUS3
+  T60	Protein 1372 1376	ABI3
+  T63	Protein_Domain 1387 1408	B3 DNA-binding domain
+  T62	Protein 1382 1386	LEC2
+1. Specific in vivo and in vitro binding of bZIP53 protein to a G-box element in the albumin 2S2 promoter is demonstrated .
+  E8	Composes_Primary_Structure	DNA_Part:G-box	DNA:albumin 2S2 promoter
+  T14	Environmental_Factor 507 514	in vivo
+  T15	Environmental_Factor 519 527	in vitro
+  T16	Protein 539 545	bZIP53
+  T17	Box 559 564	G-box
+  T18	Promoter 580 600	albumin 2S2 promoter
+2. WRI1 binds to the AW-box with two core motifs The WRI1 binding sites in the upstream regions of Pl-PKβ1 , KAS1 , BCCP2 , and SUS2 contained the conserved AW-box sequence 5′ - [CnTnG](n)7[CG] -3 ′ ( Figure 4f ) , and mutational analysis of the site 1 AW-box of Pl-PKβ1 indicated that each of the five conserved nucleotides is critical for WRI1 binding ( Figure 5c ) .
+  E13	Composes_Primary_Structure	DNA_Part:5′-[CnTnG](n)7[CG]-3′	DNA:AW-box
+  E15	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of SUS2
+  E10	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of KAS1
+  E16	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of BCCP2
+  E11	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of Pl-PKβ1
+  T8	Promoter 76 95;122 126	upstream regions of SUS2
+  T9	Gene 96 103	Pl-PKβ1
+  T6	Promoter 76 96;105 109	upstream regions of KAS1
+  T7	Promoter 76 95;111 116	upstream regions of BCCP2
+  T4	Protein 50 54	WRI1
+  T5	Promoter 76 103	upstream regions of Pl-PKβ1
+  T2	Box 18 24	AW-box
+  T3	Box 50 68	WRI1 binding sites
+  T1	Protein 0 4	WRI1
+  T14	Box 167 188	5′-[CnTnG](n)7[CG]-3′
+  T15	Box 240 257	AW-box of Pl-PKβ1
+  T16	Gene 250 257	Pl-PKβ1
+  T17	Protein 328 332	WRI1
+  T10	Gene 105 109	KAS1
+  T11	Gene 111 116	BCCP2
+  T12	Gene 122 126	SUS2
+  T13	Box 151 157	AW-box
+3. The opposite strand sequence of the ANT - binding consensus sequence , 5′ - ( g / a)CnT(t / c)GggA(A / T)n - ( T / C)GTGc -3 ′ , shows the [ CnTnG ] core of the AW-box in the 5′ - half , while the sequence of the 3′ - half is TG rather than CG in the AW-box .
+  E14	Composes_Primary_Structure	DNA_Part:[CnTnG]	DNA:AW-box
+  T49	Box 1392 1394	CG
+  T48	Box 1377 1379	TG
+  T43	Box 1214 1244	ANT-binding consensus sequence
+  T42	Box 1182 1244	opposite strand sequence of the ANT-binding consensus sequence
+  T47	Box 1317 1323	AW-box
+  T46	Box 1297 1304	[CnTnG]
+  T45	Box 1246 1285	5′-(g/a)CnT(t/c)GggA(A/T)n-(T/C)GTGc-3′
+  T44	Protein 1214 1217	ANT
+  T50	Box 1402 1408	AW-box
+4. The hexanucleotide AACCCA that can be observed on the minus strand of each enhancer element has previously been described as the core of the SEF3 - recognition sequence ( Allen et al. , 1989 ) .
+  E1	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:SEF3-recognition sequence
+  T10	Box 613 638	SEF3-recognition sequence
+  T9	Box 491 497	AACCCA
+5. Similarly , in this study , we show that mutations in the AACCCA element of the BCCP2 promoter ( m2 ; Figure 5b ) do not impact on promoter activity ( Figure 6 ) .
+  E3	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:BCCP2 promoter
+  T28	Gene 1420 1425	BCCP2
+  T27	Promoter 1420 1434	BCCP2 promoter
+  T26	Box 1398 1404	AACCCA
+6. It has already been shown that ASIL1 binds to a GT-box , which is present in both the promoters of the LEC genes and of the genes encoding storage products , regulating the program at least at two levels ( Gao et al. , 2009 ) .
+  E11	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the LEC genes
+  E10	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the genes encoding storage products
+  T21	Protein 605 610	ASIL1
+  T23	Promoter 659 685	promoters of the LEC genes
+  T22	Box 622 628	GT-box
+  T25	Gene_Family 676 685	LEC genes
+  T24	Promoter 659 668;690 728	promoters of the genes encoding storage products
+  T26	Pathway 712 728	storage products
+7. We also detected a large number of putative cis-acting regulatory elements in the promoter regions of these genes , and promoter motifs for LEC1 ( LEAFY COTYLEDON 1 ) , DOF ( DNA - binding - with - One-Finger ) , GATA , and MYB transcription factors ( TF ) , as well as SORLIP5 ( Sequences Over - Represented in Light - Induced Promoters 5 ) , are overrepresented in the promoter regions of fatty acid biosynthetic genes .
+  E6	Composes_Primary_Structure	DNA_Part:SORLIP5	DNA:promoter regions of fatty acid biosynthetic genes
+  T25	Promoter 1032 1081	promoter regions of fatty acid biosynthetic genes
+  T24	Box 947 1002	Sequences Over-Represented in Light-Induced Promoters 5
+  T16	Box 729 759	cis-acting regulatory elements
+  T17	Protein 824 828	LEC1
+  T21	Protein_Family 885 889	GATA
+  T20	Protein_Family 855 882	DNA-binding-with-One-Finger
+  T23	Box 938 945	SORLIP5
+  T22	Protein_Family 895 898	MYB
+  T18	Protein 830 847	LEAFY COTYLEDON 1
+  T19	Protein_Family 850 853	DOF
+  T26	Pathway 1052 1075	fatty acid biosynthetic
+8. The conserved CCAAT motifs for B3 - domain TFs and binding sites for bZIP ( basic - leucine zipper ) TFs are enriched in the promoters of genes encoding oleosins and seed storage proteins .
+  E10	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding seed storage proteins
+  E8	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding oleosins
+  T29	Protein_Family 1150 1154	bZIP
+  T28	Protein_Family 1114 1127	B3-domain TFs
+  T27	Box 1097 1102	CCAAT
+  T34	Protein_Family 1243 1264	seed storage proteins
+  T35	Tissue 1243 1247	seed
+  T32	Promoter 1202 1229;1243 1264	promoters of genes encoding seed storage proteins
+  T33	Protein_Family 1230 1238	oleosins
+  T30	Protein_Family 1156 1176	basic-leucine zipper
+  T31	Promoter 1202 1238	promoters of genes encoding oleosins
+9. Many additional presumed ABA - signaling components have been identified biochemically , based on binding to cis-acting regulatory elements such as ABREs ( ABA - response elements ; Busk and Pages , 1998 ) ; one - or two-hybrid screens in yeast ( Choi et al. , 2000 ; Hobo et al. , 1999 ; Kim et al. , 1997 ; Kurup et al. , 2000 ; Uno et al. , 2000 ) ; or correlations between kinase or phosphatase activity and ABA response ( Leung and Giraudat , 1998 ) .
+  E25	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting regulatory elements
+  T32	Regulatory_Network 911 923	ABA response
+  T31	Protein_Family 886 897	phosphatase
+  T29	Environmental_Factor 728 755	two-hybrid screens in yeast
+  T28	Environmental_Factor 720 724;732 755	one- hybrid screens in yeast
+  T33	Hormone 911 914	ABA
+  T30	Protein_Family 876 882	kinase
+  T23	Hormone 547 550	ABA
+  T22	Regulatory_Network 547 560	ABA-signaling
+  T25	Box 667 672	ABREs
+  T24	Box 628 658	cis-acting regulatory elements
+  T27	Hormone 674 677	ABA
+  T26	Box 674 695	ABA-response elements
+10. Mutational analyses of VP1 / ABI3 - responsive promoters have shown that G-box elements such as those present in the Em1a and Em1b elements , although required for ABA regulation and consequently designated ABREs , are sufficient but not necessary for VP1 transactivation ( Vasil et al. , 1995 ) .
+  E34	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1b elements
+  E41	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1a elements
+  E42	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:ABI3-responsive promoters
+  E30	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:VP1 -responsive promoters
+  T69	Box 1819 1832	Em1b elements
+  T68	Box 1810 1814;1824 1832	Em1a elements
+  T65	Promoter 1724 1749	ABI3-responsive promoters
+  T64	Promoter 1720 1723;1728 1749	VP1 -responsive promoters
+  T67	Box 1766 1780	G-box elements
+  T66	Protein 1724 1728	ABI3
+  T63	Protein 1720 1723	VP1
+  T62	Protein 1720 1723	VP1
+  T72	Box 1899 1904	ABREs
+  T73	Regulatory_Network 1943 1962	VP1 transactivation
+  T70	Regulatory_Network 1856 1870	ABA regulation
+  T71	Hormone 1856 1859	ABA
+  T74	Protein 1943 1946	VP1
+11. These studies suggest that VP1 activates transcription through multiple cis-acting sequences , only some of which are ABREs .
+  E39	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting sequences
+  T76	Box 2057 2077	cis-acting sequences
+  T77	Box 2102 2107	ABREs
+  T75	Protein 2012 2015	VP1
+12. This subfamily has a broader consensus - binding site than the other bZIP proteins in that its members tolerate variability in the ACGT core element essential to the ABRE G-box ( Kim et al. , 1997 ) .
+  E27	Composes_Primary_Structure	DNA_Part:ACGT	DNA:ABRE G-box
+  T94	Box 2670 2680	ABRE G-box
+  T92	Protein_Family 2573 2577	bZIP
+  T93	Box 2635 2639	ACGT
+13. MADS - domain proteins bind as either homo - or heterodimers to an A / T-rich cis element named the CArG motif ( C-A / T-rich - G , with a canonical sequence of CC[A / T]6GG ; for a review , see Riechmann and Meyerowitz , 1997 ) , and AGL15 has been shown to preferentially bind a CArG sequence with a longer A / T-rich core ( C[A / T]8G ) in vitro ( Tang and Perry , 2003 ) .
+  E17	Composes_Primary_Structure	DNA_Part:C[A/T]8G	DNA:CArG sequence
+  T29	Protein_Domain 1146 1157	MADS-domain
+  T28	Protein_Family 1146 1166	MADS-domain proteins
+  T36	Box 1452 1460	C[A/T]8G
+  T37	Environmental_Factor 1462 1470	in vitro
+  T34	Box 1409 1422	CArG sequence
+  T35	Box 1437 1450	A/T-rich core
+  T32	Box 1296 1306	CC[A/T]6GG
+  T33	Protein 1363 1368	AGL15
+  T30	Box 1241 1251	CArG motif
+  T31	Box 1253 1265	C-A/T-rich-G
+14. Among them , G-box - related ACGT elements , RY ( CATGCA ) , AACA , and CTTT motifs are the best described examples ( for review , see Vicente - Carbajosa and Carbonero , 2005 ) .
+  E17	Composes_Primary_Structure	DNA_Part:ACGT	DNA:G-box-related ACGT elements
+  E19	Composes_Primary_Structure	DNA_Part:CATGCA	DNA:RY
+  T69	Box 2735 2737	RY
+  T68	Box 2720 2724	ACGT
+  T67	Box 2706 2733	G-box-related ACGT elements
+  T72	Box 2758 2762	CTTT
+  T70	Box 2739 2745	CATGCA
+  T71	Box 2748 2752	AACA
+15. Expression during seed development , specific binding to G-box - like ACGT elements of the albumin and cruciferin promoters , and in vivo regulation of these target genes have been demonstrated ( Lara et al. , 2003 ) .
+  E16	Composes_Primary_Structure	DNA_Part:ACGT	DNA:albumin promoters
+  E13	Composes_Primary_Structure	DNA_Part:ACGT	DNA:cruciferin promoters
+  T94	Protein_Family 3558 3568	cruciferin
+  T89	Box 3514 3538	G-box-like ACGT elements
+  T88	Tissue 3476 3480	seed
+  T87	Development_Phase 3476 3492	seed development
+  T95	Environmental_Factor 3584 3591	in vivo
+  T90	Box 3525 3529	ACGT
+  T91	Protein_Family 3546 3553	albumin
+  T92	Promoter 3546 3553;3569 3578	albumin promoters
+  T93	Promoter 3558 3578	cruciferin promoters
+16. These boxes consist of 11-bp sequences ( TAAGAGGCCGCC ) exhibiting a GCCGCC core required for protein binding ( Ohme - Takagi and Shinshi , 1995 ; Fujimoto et al. , 2000 ; Song et al. , 2005 ) .
+  E15	Composes_Primary_Structure	DNA_Part:GCCGCC	DNA:TAAGAGGCCGCC
+  T97	Box 3896 3908	TAAGAGGCCGCC
+  T98	Box 3923 3929	GCCGCC
+17. Proteins of the DREB subfamily bind to dehydration response elements ( DREs ) / C-repeats containing the core sequence CCGAC ( Baker et al. , 1994 ) .
+  E13	Composes_Primary_Structure	DNA_Part:CCGAC	DNA:dehydration response elements
+  T103	Protein_Family 4169 4183	DREB subfamily
+  T105	Box 4223 4227	DREs
+  T104	Box 4192 4221	dehydration response elements
+  T106	Box 4268 4273	CCGAC
+0. The consensus binding site of the ABI3 / FUS3 / LEC2 B3 DNA - binding domain ( Sph / RY ) is strongly enriched in the promoters and first introns of VAL - repressed genes , including the early acting LEC1 and L1L genes .
+  E61	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:L1L
+  E66	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:LEC1
+  E68	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:promoters of VAL-repressed genes
+  E65	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:first introns of VAL-repressed genes
+  T69	Gene 1534 1537	L1L
+  T68	Gene 1525 1529	LEC1
+  T65	Promoter 1446 1455;1474 1496	promoters of VAL-repressed genes
+  T64	Box 1410 1416	Sph/RY
+  T67	Gene_Family 1477 1480	VAL
+  T66	Promoter 1460 1496	first introns of VAL-repressed genes
+  T61	Protein 1377 1381	FUS3
+  T60	Protein 1372 1376	ABI3
+  T63	Protein_Domain 1387 1408	B3 DNA-binding domain
+  T62	Protein 1382 1386	LEC2
+1. Specific in vivo and in vitro binding of bZIP53 protein to a G-box element in the albumin 2S2 promoter is demonstrated .
+  E8	Composes_Primary_Structure	DNA_Part:G-box	DNA:albumin 2S2 promoter
+  T14	Environmental_Factor 507 514	in vivo
+  T15	Environmental_Factor 519 527	in vitro
+  T16	Protein 539 545	bZIP53
+  T17	Box 559 564	G-box
+  T18	Promoter 580 600	albumin 2S2 promoter
+2. WRI1 binds to the AW-box with two core motifs The WRI1 binding sites in the upstream regions of Pl-PKβ1 , KAS1 , BCCP2 , and SUS2 contained the conserved AW-box sequence 5′ - [CnTnG](n)7[CG] -3 ′ ( Figure 4f ) , and mutational analysis of the site 1 AW-box of Pl-PKβ1 indicated that each of the five conserved nucleotides is critical for WRI1 binding ( Figure 5c ) .
+  E13	Composes_Primary_Structure	DNA_Part:5′-[CnTnG](n)7[CG]-3′	DNA:AW-box
+  E15	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of SUS2
+  E10	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of KAS1
+  E16	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of BCCP2
+  E11	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of Pl-PKβ1
+  T8	Promoter 76 95;122 126	upstream regions of SUS2
+  T9	Gene 96 103	Pl-PKβ1
+  T6	Promoter 76 96;105 109	upstream regions of KAS1
+  T7	Promoter 76 95;111 116	upstream regions of BCCP2
+  T4	Protein 50 54	WRI1
+  T5	Promoter 76 103	upstream regions of Pl-PKβ1
+  T2	Box 18 24	AW-box
+  T3	Box 50 68	WRI1 binding sites
+  T1	Protein 0 4	WRI1
+  T14	Box 167 188	5′-[CnTnG](n)7[CG]-3′
+  T15	Box 240 257	AW-box of Pl-PKβ1
+  T16	Gene 250 257	Pl-PKβ1
+  T17	Protein 328 332	WRI1
+  T10	Gene 105 109	KAS1
+  T11	Gene 111 116	BCCP2
+  T12	Gene 122 126	SUS2
+  T13	Box 151 157	AW-box
+3. The opposite strand sequence of the ANT - binding consensus sequence , 5′ - ( g / a)CnT(t / c)GggA(A / T)n - ( T / C)GTGc -3 ′ , shows the [ CnTnG ] core of the AW-box in the 5′ - half , while the sequence of the 3′ - half is TG rather than CG in the AW-box .
+  E14	Composes_Primary_Structure	DNA_Part:[CnTnG]	DNA:AW-box
+  T49	Box 1392 1394	CG
+  T48	Box 1377 1379	TG
+  T43	Box 1214 1244	ANT-binding consensus sequence
+  T42	Box 1182 1244	opposite strand sequence of the ANT-binding consensus sequence
+  T47	Box 1317 1323	AW-box
+  T46	Box 1297 1304	[CnTnG]
+  T45	Box 1246 1285	5′-(g/a)CnT(t/c)GggA(A/T)n-(T/C)GTGc-3′
+  T44	Protein 1214 1217	ANT
+  T50	Box 1402 1408	AW-box
+4. The hexanucleotide AACCCA that can be observed on the minus strand of each enhancer element has previously been described as the core of the SEF3 - recognition sequence ( Allen et al. , 1989 ) .
+  E1	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:SEF3-recognition sequence
+  T10	Box 613 638	SEF3-recognition sequence
+  T9	Box 491 497	AACCCA
+5. Similarly , in this study , we show that mutations in the AACCCA element of the BCCP2 promoter ( m2 ; Figure 5b ) do not impact on promoter activity ( Figure 6 ) .
+  E3	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:BCCP2 promoter
+  T28	Gene 1420 1425	BCCP2
+  T27	Promoter 1420 1434	BCCP2 promoter
+  T26	Box 1398 1404	AACCCA
+6. It has already been shown that ASIL1 binds to a GT-box , which is present in both the promoters of the LEC genes and of the genes encoding storage products , regulating the program at least at two levels ( Gao et al. , 2009 ) .
+  E11	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the LEC genes
+  E10	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the genes encoding storage products
+  T21	Protein 605 610	ASIL1
+  T23	Promoter 659 685	promoters of the LEC genes
+  T22	Box 622 628	GT-box
+  T25	Gene_Family 676 685	LEC genes
+  T24	Promoter 659 668;690 728	promoters of the genes encoding storage products
+  T26	Pathway 712 728	storage products
+7. We also detected a large number of putative cis-acting regulatory elements in the promoter regions of these genes , and promoter motifs for LEC1 ( LEAFY COTYLEDON 1 ) , DOF ( DNA - binding - with - One-Finger ) , GATA , and MYB transcription factors ( TF ) , as well as SORLIP5 ( Sequences Over - Represented in Light - Induced Promoters 5 ) , are overrepresented in the promoter regions of fatty acid biosynthetic genes .
+  E6	Composes_Primary_Structure	DNA_Part:SORLIP5	DNA:promoter regions of fatty acid biosynthetic genes
+  T25	Promoter 1032 1081	promoter regions of fatty acid biosynthetic genes
+  T24	Box 947 1002	Sequences Over-Represented in Light-Induced Promoters 5
+  T16	Box 729 759	cis-acting regulatory elements
+  T17	Protein 824 828	LEC1
+  T21	Protein_Family 885 889	GATA
+  T20	Protein_Family 855 882	DNA-binding-with-One-Finger
+  T23	Box 938 945	SORLIP5
+  T22	Protein_Family 895 898	MYB
+  T18	Protein 830 847	LEAFY COTYLEDON 1
+  T19	Protein_Family 850 853	DOF
+  T26	Pathway 1052 1075	fatty acid biosynthetic
+8. The conserved CCAAT motifs for B3 - domain TFs and binding sites for bZIP ( basic - leucine zipper ) TFs are enriched in the promoters of genes encoding oleosins and seed storage proteins .
+  E10	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding seed storage proteins
+  E8	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding oleosins
+  T29	Protein_Family 1150 1154	bZIP
+  T28	Protein_Family 1114 1127	B3-domain TFs
+  T27	Box 1097 1102	CCAAT
+  T34	Protein_Family 1243 1264	seed storage proteins
+  T35	Tissue 1243 1247	seed
+  T32	Promoter 1202 1229;1243 1264	promoters of genes encoding seed storage proteins
+  T33	Protein_Family 1230 1238	oleosins
+  T30	Protein_Family 1156 1176	basic-leucine zipper
+  T31	Promoter 1202 1238	promoters of genes encoding oleosins
+9. Many additional presumed ABA - signaling components have been identified biochemically , based on binding to cis-acting regulatory elements such as ABREs ( ABA - response elements ; Busk and Pages , 1998 ) ; one - or two-hybrid screens in yeast ( Choi et al. , 2000 ; Hobo et al. , 1999 ; Kim et al. , 1997 ; Kurup et al. , 2000 ; Uno et al. , 2000 ) ; or correlations between kinase or phosphatase activity and ABA response ( Leung and Giraudat , 1998 ) .
+  E25	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting regulatory elements
+  T32	Regulatory_Network 911 923	ABA response
+  T31	Protein_Family 886 897	phosphatase
+  T29	Environmental_Factor 728 755	two-hybrid screens in yeast
+  T28	Environmental_Factor 720 724;732 755	one- hybrid screens in yeast
+  T33	Hormone 911 914	ABA
+  T30	Protein_Family 876 882	kinase
+  T23	Hormone 547 550	ABA
+  T22	Regulatory_Network 547 560	ABA-signaling
+  T25	Box 667 672	ABREs
+  T24	Box 628 658	cis-acting regulatory elements
+  T27	Hormone 674 677	ABA
+  T26	Box 674 695	ABA-response elements
+10. Mutational analyses of VP1 / ABI3 - responsive promoters have shown that G-box elements such as those present in the Em1a and Em1b elements , although required for ABA regulation and consequently designated ABREs , are sufficient but not necessary for VP1 transactivation ( Vasil et al. , 1995 ) .
+  E34	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1b elements
+  E41	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1a elements
+  E42	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:ABI3-responsive promoters
+  E30	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:VP1 -responsive promoters
+  T69	Box 1819 1832	Em1b elements
+  T68	Box 1810 1814;1824 1832	Em1a elements
+  T65	Promoter 1724 1749	ABI3-responsive promoters
+  T64	Promoter 1720 1723;1728 1749	VP1 -responsive promoters
+  T67	Box 1766 1780	G-box elements
+  T66	Protein 1724 1728	ABI3
+  T63	Protein 1720 1723	VP1
+  T62	Protein 1720 1723	VP1
+  T72	Box 1899 1904	ABREs
+  T73	Regulatory_Network 1943 1962	VP1 transactivation
+  T70	Regulatory_Network 1856 1870	ABA regulation
+  T71	Hormone 1856 1859	ABA
+  T74	Protein 1943 1946	VP1
+11. These studies suggest that VP1 activates transcription through multiple cis-acting sequences , only some of which are ABREs .
+  E39	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting sequences
+  T76	Box 2057 2077	cis-acting sequences
+  T77	Box 2102 2107	ABREs
+  T75	Protein 2012 2015	VP1
+12. This subfamily has a broader consensus - binding site than the other bZIP proteins in that its members tolerate variability in the ACGT core element essential to the ABRE G-box ( Kim et al. , 1997 ) .
+  E27	Composes_Primary_Structure	DNA_Part:ACGT	DNA:ABRE G-box
+  T94	Box 2670 2680	ABRE G-box
+  T92	Protein_Family 2573 2577	bZIP
+  T93	Box 2635 2639	ACGT
+13. MADS - domain proteins bind as either homo - or heterodimers to an A / T-rich cis element named the CArG motif ( C-A / T-rich - G , with a canonical sequence of CC[A / T]6GG ; for a review , see Riechmann and Meyerowitz , 1997 ) , and AGL15 has been shown to preferentially bind a CArG sequence with a longer A / T-rich core ( C[A / T]8G ) in vitro ( Tang and Perry , 2003 ) .
+  E17	Composes_Primary_Structure	DNA_Part:C[A/T]8G	DNA:CArG sequence
+  T29	Protein_Domain 1146 1157	MADS-domain
+  T28	Protein_Family 1146 1166	MADS-domain proteins
+  T36	Box 1452 1460	C[A/T]8G
+  T37	Environmental_Factor 1462 1470	in vitro
+  T34	Box 1409 1422	CArG sequence
+  T35	Box 1437 1450	A/T-rich core
+  T32	Box 1296 1306	CC[A/T]6GG
+  T33	Protein 1363 1368	AGL15
+  T30	Box 1241 1251	CArG motif
+  T31	Box 1253 1265	C-A/T-rich-G
+14. Among them , G-box - related ACGT elements , RY ( CATGCA ) , AACA , and CTTT motifs are the best described examples ( for review , see Vicente - Carbajosa and Carbonero , 2005 ) .
+  E17	Composes_Primary_Structure	DNA_Part:ACGT	DNA:G-box-related ACGT elements
+  E19	Composes_Primary_Structure	DNA_Part:CATGCA	DNA:RY
+  T69	Box 2735 2737	RY
+  T68	Box 2720 2724	ACGT
+  T67	Box 2706 2733	G-box-related ACGT elements
+  T72	Box 2758 2762	CTTT
+  T70	Box 2739 2745	CATGCA
+  T71	Box 2748 2752	AACA
+15. Expression during seed development , specific binding to G-box - like ACGT elements of the albumin and cruciferin promoters , and in vivo regulation of these target genes have been demonstrated ( Lara et al. , 2003 ) .
+  E16	Composes_Primary_Structure	DNA_Part:ACGT	DNA:albumin promoters
+  E13	Composes_Primary_Structure	DNA_Part:ACGT	DNA:cruciferin promoters
+  T94	Protein_Family 3558 3568	cruciferin
+  T89	Box 3514 3538	G-box-like ACGT elements
+  T88	Tissue 3476 3480	seed
+  T87	Development_Phase 3476 3492	seed development
+  T95	Environmental_Factor 3584 3591	in vivo
+  T90	Box 3525 3529	ACGT
+  T91	Protein_Family 3546 3553	albumin
+  T92	Promoter 3546 3553;3569 3578	albumin promoters
+  T93	Promoter 3558 3578	cruciferin promoters
+16. These boxes consist of 11-bp sequences ( TAAGAGGCCGCC ) exhibiting a GCCGCC core required for protein binding ( Ohme - Takagi and Shinshi , 1995 ; Fujimoto et al. , 2000 ; Song et al. , 2005 ) .
+  E15	Composes_Primary_Structure	DNA_Part:GCCGCC	DNA:TAAGAGGCCGCC
+  T97	Box 3896 3908	TAAGAGGCCGCC
+  T98	Box 3923 3929	GCCGCC
+17. Proteins of the DREB subfamily bind to dehydration response elements ( DREs ) / C-repeats containing the core sequence CCGAC ( Baker et al. , 1994 ) .
+  E13	Composes_Primary_Structure	DNA_Part:CCGAC	DNA:dehydration response elements
+  T103	Protein_Family 4169 4183	DREB subfamily
+  T105	Box 4223 4227	DREs
+  T104	Box 4192 4221	dehydration response elements
+  T106	Box 4268 4273	CCGAC
+0. The consensus binding site of the ABI3 / FUS3 / LEC2 B3 DNA - binding domain ( Sph / RY ) is strongly enriched in the promoters and first introns of VAL - repressed genes , including the early acting LEC1 and L1L genes .
+  E61	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:L1L
+  E66	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:LEC1
+  E68	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:promoters of VAL-repressed genes
+  E65	Composes_Primary_Structure	DNA_Part:Sph/RY	DNA:first introns of VAL-repressed genes
+  T69	Gene 1534 1537	L1L
+  T68	Gene 1525 1529	LEC1
+  T65	Promoter 1446 1455;1474 1496	promoters of VAL-repressed genes
+  T64	Box 1410 1416	Sph/RY
+  T67	Gene_Family 1477 1480	VAL
+  T66	Promoter 1460 1496	first introns of VAL-repressed genes
+  T61	Protein 1377 1381	FUS3
+  T60	Protein 1372 1376	ABI3
+  T63	Protein_Domain 1387 1408	B3 DNA-binding domain
+  T62	Protein 1382 1386	LEC2
+1. Specific in vivo and in vitro binding of bZIP53 protein to a G-box element in the albumin 2S2 promoter is demonstrated .
+  E8	Composes_Primary_Structure	DNA_Part:G-box	DNA:albumin 2S2 promoter
+  T14	Environmental_Factor 507 514	in vivo
+  T15	Environmental_Factor 519 527	in vitro
+  T16	Protein 539 545	bZIP53
+  T17	Box 559 564	G-box
+  T18	Promoter 580 600	albumin 2S2 promoter
+2. WRI1 binds to the AW-box with two core motifs The WRI1 binding sites in the upstream regions of Pl-PKβ1 , KAS1 , BCCP2 , and SUS2 contained the conserved AW-box sequence 5′ - [CnTnG](n)7[CG] -3 ′ ( Figure 4f ) , and mutational analysis of the site 1 AW-box of Pl-PKβ1 indicated that each of the five conserved nucleotides is critical for WRI1 binding ( Figure 5c ) .
+  E13	Composes_Primary_Structure	DNA_Part:5′-[CnTnG](n)7[CG]-3′	DNA:AW-box
+  E15	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of SUS2
+  E10	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of KAS1
+  E16	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of BCCP2
+  E11	Composes_Primary_Structure	DNA_Part:AW-box	DNA:upstream regions of Pl-PKβ1
+  T8	Promoter 76 95;122 126	upstream regions of SUS2
+  T9	Gene 96 103	Pl-PKβ1
+  T6	Promoter 76 96;105 109	upstream regions of KAS1
+  T7	Promoter 76 95;111 116	upstream regions of BCCP2
+  T4	Protein 50 54	WRI1
+  T5	Promoter 76 103	upstream regions of Pl-PKβ1
+  T2	Box 18 24	AW-box
+  T3	Box 50 68	WRI1 binding sites
+  T1	Protein 0 4	WRI1
+  T14	Box 167 188	5′-[CnTnG](n)7[CG]-3′
+  T15	Box 240 257	AW-box of Pl-PKβ1
+  T16	Gene 250 257	Pl-PKβ1
+  T17	Protein 328 332	WRI1
+  T10	Gene 105 109	KAS1
+  T11	Gene 111 116	BCCP2
+  T12	Gene 122 126	SUS2
+  T13	Box 151 157	AW-box
+3. The opposite strand sequence of the ANT - binding consensus sequence , 5′ - ( g / a)CnT(t / c)GggA(A / T)n - ( T / C)GTGc -3 ′ , shows the [ CnTnG ] core of the AW-box in the 5′ - half , while the sequence of the 3′ - half is TG rather than CG in the AW-box .
+  E14	Composes_Primary_Structure	DNA_Part:[CnTnG]	DNA:AW-box
+  T49	Box 1392 1394	CG
+  T48	Box 1377 1379	TG
+  T43	Box 1214 1244	ANT-binding consensus sequence
+  T42	Box 1182 1244	opposite strand sequence of the ANT-binding consensus sequence
+  T47	Box 1317 1323	AW-box
+  T46	Box 1297 1304	[CnTnG]
+  T45	Box 1246 1285	5′-(g/a)CnT(t/c)GggA(A/T)n-(T/C)GTGc-3′
+  T44	Protein 1214 1217	ANT
+  T50	Box 1402 1408	AW-box
+4. The hexanucleotide AACCCA that can be observed on the minus strand of each enhancer element has previously been described as the core of the SEF3 - recognition sequence ( Allen et al. , 1989 ) .
+  E1	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:SEF3-recognition sequence
+  T10	Box 613 638	SEF3-recognition sequence
+  T9	Box 491 497	AACCCA
+5. Similarly , in this study , we show that mutations in the AACCCA element of the BCCP2 promoter ( m2 ; Figure 5b ) do not impact on promoter activity ( Figure 6 ) .
+  E3	Composes_Primary_Structure	DNA_Part:AACCCA	DNA:BCCP2 promoter
+  T28	Gene 1420 1425	BCCP2
+  T27	Promoter 1420 1434	BCCP2 promoter
+  T26	Box 1398 1404	AACCCA
+6. It has already been shown that ASIL1 binds to a GT-box , which is present in both the promoters of the LEC genes and of the genes encoding storage products , regulating the program at least at two levels ( Gao et al. , 2009 ) .
+  E11	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the LEC genes
+  E10	Composes_Primary_Structure	DNA_Part:GT-box	DNA:promoters of the genes encoding storage products
+  T21	Protein 605 610	ASIL1
+  T23	Promoter 659 685	promoters of the LEC genes
+  T22	Box 622 628	GT-box
+  T25	Gene_Family 676 685	LEC genes
+  T24	Promoter 659 668;690 728	promoters of the genes encoding storage products
+  T26	Pathway 712 728	storage products
+7. We also detected a large number of putative cis-acting regulatory elements in the promoter regions of these genes , and promoter motifs for LEC1 ( LEAFY COTYLEDON 1 ) , DOF ( DNA - binding - with - One-Finger ) , GATA , and MYB transcription factors ( TF ) , as well as SORLIP5 ( Sequences Over - Represented in Light - Induced Promoters 5 ) , are overrepresented in the promoter regions of fatty acid biosynthetic genes .
+  E6	Composes_Primary_Structure	DNA_Part:SORLIP5	DNA:promoter regions of fatty acid biosynthetic genes
+  T25	Promoter 1032 1081	promoter regions of fatty acid biosynthetic genes
+  T24	Box 947 1002	Sequences Over-Represented in Light-Induced Promoters 5
+  T16	Box 729 759	cis-acting regulatory elements
+  T17	Protein 824 828	LEC1
+  T21	Protein_Family 885 889	GATA
+  T20	Protein_Family 855 882	DNA-binding-with-One-Finger
+  T23	Box 938 945	SORLIP5
+  T22	Protein_Family 895 898	MYB
+  T18	Protein 830 847	LEAFY COTYLEDON 1
+  T19	Protein_Family 850 853	DOF
+  T26	Pathway 1052 1075	fatty acid biosynthetic
+8. The conserved CCAAT motifs for B3 - domain TFs and binding sites for bZIP ( basic - leucine zipper ) TFs are enriched in the promoters of genes encoding oleosins and seed storage proteins .
+  E10	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding seed storage proteins
+  E8	Composes_Primary_Structure	DNA_Part:CCAAT	DNA:promoters of genes encoding oleosins
+  T29	Protein_Family 1150 1154	bZIP
+  T28	Protein_Family 1114 1127	B3-domain TFs
+  T27	Box 1097 1102	CCAAT
+  T34	Protein_Family 1243 1264	seed storage proteins
+  T35	Tissue 1243 1247	seed
+  T32	Promoter 1202 1229;1243 1264	promoters of genes encoding seed storage proteins
+  T33	Protein_Family 1230 1238	oleosins
+  T30	Protein_Family 1156 1176	basic-leucine zipper
+  T31	Promoter 1202 1238	promoters of genes encoding oleosins
+9. Many additional presumed ABA - signaling components have been identified biochemically , based on binding to cis-acting regulatory elements such as ABREs ( ABA - response elements ; Busk and Pages , 1998 ) ; one - or two-hybrid screens in yeast ( Choi et al. , 2000 ; Hobo et al. , 1999 ; Kim et al. , 1997 ; Kurup et al. , 2000 ; Uno et al. , 2000 ) ; or correlations between kinase or phosphatase activity and ABA response ( Leung and Giraudat , 1998 ) .
+  E25	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting regulatory elements
+  T32	Regulatory_Network 911 923	ABA response
+  T31	Protein_Family 886 897	phosphatase
+  T29	Environmental_Factor 728 755	two-hybrid screens in yeast
+  T28	Environmental_Factor 720 724;732 755	one- hybrid screens in yeast
+  T33	Hormone 911 914	ABA
+  T30	Protein_Family 876 882	kinase
+  T23	Hormone 547 550	ABA
+  T22	Regulatory_Network 547 560	ABA-signaling
+  T25	Box 667 672	ABREs
+  T24	Box 628 658	cis-acting regulatory elements
+  T27	Hormone 674 677	ABA
+  T26	Box 674 695	ABA-response elements
+10. Mutational analyses of VP1 / ABI3 - responsive promoters have shown that G-box elements such as those present in the Em1a and Em1b elements , although required for ABA regulation and consequently designated ABREs , are sufficient but not necessary for VP1 transactivation ( Vasil et al. , 1995 ) .
+  E34	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1b elements
+  E41	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:Em1a elements
+  E42	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:ABI3-responsive promoters
+  E30	Composes_Primary_Structure	DNA_Part:G-box elements	DNA:VP1 -responsive promoters
+  T69	Box 1819 1832	Em1b elements
+  T68	Box 1810 1814;1824 1832	Em1a elements
+  T65	Promoter 1724 1749	ABI3-responsive promoters
+  T64	Promoter 1720 1723;1728 1749	VP1 -responsive promoters
+  T67	Box 1766 1780	G-box elements
+  T66	Protein 1724 1728	ABI3
+  T63	Protein 1720 1723	VP1
+  T62	Protein 1720 1723	VP1
+  T72	Box 1899 1904	ABREs
+  T73	Regulatory_Network 1943 1962	VP1 transactivation
+  T70	Regulatory_Network 1856 1870	ABA regulation
+  T71	Hormone 1856 1859	ABA
+  T74	Protein 1943 1946	VP1
+11. These studies suggest that VP1 activates transcription through multiple cis-acting sequences , only some of which are ABREs .
+  E39	Composes_Primary_Structure	DNA_Part:ABREs	DNA:cis-acting sequences
+  T76	Box 2057 2077	cis-acting sequences
+  T77	Box 2102 2107	ABREs
+  T75	Protein 2012 2015	VP1
+12. This subfamily has a broader consensus - binding site than the other bZIP proteins in that its members tolerate variability in the ACGT core element essential to the ABRE G-box ( Kim et al. , 1997 ) .
+  E27	Composes_Primary_Structure	DNA_Part:ACGT	DNA:ABRE G-box
+  T94	Box 2670 2680	ABRE G-box
+  T92	Protein_Family 2573 2577	bZIP
+  T93	Box 2635 2639	ACGT
+13. MADS - domain proteins bind as either homo - or heterodimers to an A / T-rich cis element named the CArG motif ( C-A / T-rich - G , with a canonical sequence of CC[A / T]6GG ; for a review , see Riechmann and Meyerowitz , 1997 ) , and AGL15 has been shown to preferentially bind a CArG sequence with a longer A / T-rich core ( C[A / T]8G ) in vitro ( Tang and Perry , 2003 ) .
+  E17	Composes_Primary_Structure	DNA_Part:C[A/T]8G	DNA:CArG sequence
+  T29	Protein_Domain 1146 1157	MADS-domain
+  T28	Protein_Family 1146 1166	MADS-domain proteins
+  T36	Box 1452 1460	C[A/T]8G
+  T37	Environmental_Factor 1462 1470	in vitro
+  T34	Box 1409 1422	CArG sequence
+  T35	Box 1437 1450	A/T-rich core
+  T32	Box 1296 1306	CC[A/T]6GG
+  T33	Protein 1363 1368	AGL15
+  T30	Box 1241 1251	CArG motif
+  T31	Box 1253 1265	C-A/T-rich-G
+14. Among them , G-box - related ACGT elements , RY ( CATGCA ) , AACA , and CTTT motifs are the best described examples ( for review , see Vicente - Carbajosa and Carbonero , 2005 ) .
+  E17	Composes_Primary_Structure	DNA_Part:ACGT	DNA:G-box-related ACGT elements
+  E19	Composes_Primary_Structure	DNA_Part:CATGCA	DNA:RY
+  T69	Box 2735 2737	RY
+  T68	Box 2720 2724	ACGT
+  T67	Box 2706 2733	G-box-related ACGT elements
+  T72	Box 2758 2762	CTTT
+  T70	Box 2739 2745	CATGCA
+  T71	Box 2748 2752	AACA
+15. Expression during seed development , specific binding to G-box - like ACGT elements of the albumin and cruciferin promoters , and in vivo regulation of these target genes have been demonstrated ( Lara et al. , 2003 ) .
+  E16	Composes_Primary_Structure	DNA_Part:ACGT	DNA:albumin promoters
+  E13	Composes_Primary_Structure	DNA_Part:ACGT	DNA:cruciferin promoters
+  T94	Protein_Family 3558 3568	cruciferin
+  T89	Box 3514 3538	G-box-like ACGT elements
+  T88	Tissue 3476 3480	seed
+  T87	Development_Phase 3476 3492	seed development
+  T95	Environmental_Factor 3584 3591	in vivo
+  T90	Box 3525 3529	ACGT
+  T91	Protein_Family 3546 3553	albumin
+  T92	Promoter 3546 3553;3569 3578	albumin promoters
+  T93	Promoter 3558 3578	cruciferin promoters
+16. These boxes consist of 11-bp sequences ( TAAGAGGCCGCC ) exhibiting a GCCGCC core required for protein binding ( Ohme - Takagi and Shinshi , 1995 ; Fujimoto et al. , 2000 ; Song et al. , 2005 ) .
+  E15	Composes_Primary_Structure	DNA_Part:GCCGCC	DNA:TAAGAGGCCGCC
+  T97	Box 3896 3908	TAAGAGGCCGCC
+  T98	Box 3923 3929	GCCGCC
+17. Proteins of the DREB subfamily bind to dehydration response elements ( DREs ) / C-repeats containing the core sequence CCGAC ( Baker et al. , 1994 ) .
+  E13	Composes_Primary_Structure	DNA_Part:CCGAC	DNA:dehydration response elements
+  T103	Protein_Family 4169 4183	DREB subfamily
+  T105	Box 4223 4227	DREs
+  T104	Box 4192 4221	dehydration response elements
+  T106	Box 4268 4273	CCGAC

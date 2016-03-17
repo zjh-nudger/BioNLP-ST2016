@@ -1,0 +1,23 @@
+E1	Regulation_Of_Expression Agent:T12 DNA:T20
+E2	Regulation_Of_Expression Agent:T24 DNA:T22 Organism_Genotype:T21 Developmental_Stage:T26
+E3	Regulation_Of_Expression Agent:T28 DNA:T22 Developmental_Stage:T29
+E4	Regulation_Of_Expression Agent:T24 DNA:T23 Organism_Genotype:T21 Developmental_Stage:T26
+E5	Regulation_Of_Expression Agent:T12 DNA:T13
+E6	Regulation_Of_Expression Agent:T28 DNA:T22 Organism_Genotype:T27
+E7	Regulation_Of_Expression Agent:T12 DNA:T18
+E8	Regulation_Of_Expression Agent:T24 DNA:T23 Organism_Genotype:T21 Developmental_Stage:T25
+E9	Regulation_Of_Expression Agent:T12 DNA:T15
+E10	Regulation_Of_Expression Agent:T12 DNA:T14
+E11	Regulation_Of_Expression Agent:T24 DNA:T22 Organism_Genotype:T21 Developmental_Stage:T25
+E12	Regulation_Of_Expression Agent:T28 DNA:T23 Developmental_Stage:T29
+E13	Regulation_Of_Expression Agent:T28 DNA:T23 Organism_Genotype:T27
+E14	Regulation_Of_Process Agent:T5 Process:T1
+E15	Regulation_Of_Process Agent:T6 Process:T1
+E16	Regulation_Of_Process Agent:T3 Process:T1
+E17	Binding Functional_Molecule:T4 Molecule:T8
+E18	Binding Functional_Molecule:T5 Molecule:T8
+E19	Binding Functional_Molecule:T5 Molecule:T7
+E20	Binding Functional_Molecule:T4 Molecule:T7
+E21	Binding Functional_Molecule:T6 Molecule:T8
+E22	Binding Functional_Molecule:T6 Molecule:T7
+M1	Negation Annotation:E7

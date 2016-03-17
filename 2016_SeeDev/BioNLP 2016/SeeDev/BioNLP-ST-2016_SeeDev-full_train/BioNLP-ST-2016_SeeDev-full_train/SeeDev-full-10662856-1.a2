@@ -1,0 +1,58 @@
+E1	Regulation_Of_Process Agent:T7 Process:T14 Organism_Genotype:T15
+E2	Regulation_Of_Development_Phase Agent:T35 Development:T31 Organism_Genotype:T23
+E3	Regulation_Of_Development_Phase Agent:T7 Development:T11 Organism_Genotype:T13
+E4	Regulation_Of_Development_Phase Agent:T102 Development:T106
+E5	Regulation_Of_Development_Phase Agent:T49 Development:T50
+E6	Regulation_Of_Process Agent:T7 Process:T9 Organism_Genotype:T10
+E7	Regulation_Of_Development_Phase Agent:T39 Development:T36 Organism_Genotype:T23
+E8	Regulation_Of_Development_Phase Agent:T29 Development:T24 Organism_Genotype:T23
+E9	Regulation_Of_Development_Phase Agent:T30 Development:T24 Organism_Genotype:T23
+E10	Regulation_Of_Development_Phase Agent:T52 Development:T53
+E11	Regulation_Of_Development_Phase Agent:T34 Development:T31 Organism_Genotype:T23
+E12	Regulation_Of_Process Agent:T113 Process:T114 Tissue:T115
+E13	Regulation_Of_Development_Phase Agent:T41 Development:T36 Organism_Genotype:T23
+E14	Regulation_Of_Process Agent:T45 Process:T46 Environmental_Factor:T48
+E15	Regulation_Of_Development_Phase Agent:T27 Development:T24 Organism_Genotype:T23
+E16	Regulation_Of_Development_Phase Agent:T7 Development:T11 Organism_Genotype:T12
+E17	Regulation_Of_Development_Phase Agent:T40 Development:T36 Organism_Genotype:T23
+E18	Functional_Equivalence Element1:T1 Element2:T2
+E19	Functional_Equivalence Element1:T34 Element2:T33
+E20	Functional_Equivalence Element1:T27 Element2:T26
+E21	Functional_Equivalence Element1:T29 Element2:T28
+E22	Functional_Equivalence Element1:T39 Element2:T38
+E23	Regulation_Of_Expression Agent:T63 DNA:T65 Organism_Genotype:T62
+E24	Regulation_Of_Expression Agent:T94 DNA:T93
+E25	Regulation_Of_Expression Agent:T63 DNA:T64 Organism_Genotype:T62
+E26	Regulation_Of_Expression Agent:T69 DNA:T68
+E27	Regulation_Of_Expression Agent:T67 DNA:T66
+E28	Localization Functional_Molecule:T102 Target_Tissue:T103 Developmental_Stage:T104
+E29	Presence_In_Genotype Molecule:T16 Genotype:T17
+E30	Localization Functional_Molecule:T86 Target_Tissue:T88 Organism_Genotype:T89
+E31	Localization Functional_Molecule:T42 Target_Tissue:T43 Organism_Genotype:T23
+E32	Presence_In_Genotype Molecule:T7 Genotype:T8
+E33	Localization Functional_Molecule:T71 Target_Tissue:T74
+E34	Localization Functional_Molecule:T98 Target_Tissue:T99
+E35	Localization Functional_Molecule:T83 Target_Tissue:T84 Developmental_Stage:T85
+E36	Presence_At_Stage Functional_Molecule:T55 Development:T57
+E37	Localization Functional_Molecule:T86 Target_Tissue:T90 Organism_Genotype:T91
+E38	Presence_In_Genotype Molecule:T18 Genotype:T19
+E39	Protein_Domain_Composition Domain:T5 Product:T4
+E40	Presence_In_Genotype Molecule:T58 Genotype:T59
+E41	Localization Functional_Molecule:T71 Target_Tissue:T79
+E42	Presence_In_Genotype Molecule:T20 Genotype:T19
+E43	Localization Functional_Molecule:T71 Target_Tissue:T73
+E44	Localization Functional_Molecule:T102 Target_Tissue:T103 Developmental_Stage:T105
+E45	Localization Functional_Molecule:T71 Target_Tissue:T72
+E46	Family_Membership Element:T30 Family:T22 Organism_Genotype:T23
+E47	Family_Membership Element:T29 Family:T22 Organism_Genotype:T23
+E48	Family_Membership Element:T34 Family:T22 Organism_Genotype:T23
+E49	Family_Membership Element:T35 Family:T22 Organism_Genotype:T23
+E50	Family_Membership Element:T27 Family:T22 Organism_Genotype:T23
+E51	Family_Membership Element:T40 Family:T22 Organism_Genotype:T23
+E52	Family_Membership Element:T41 Family:T22 Organism_Genotype:T23
+E53	Family_Membership Element:T45 Family:T22 Organism_Genotype:T23
+E54	Family_Membership Element:T1 Family:T4
+E55	Family_Membership Element:T49 Family:T22 Organism_Genotype:T23
+E56	Family_Membership Element:T39 Family:T22 Organism_Genotype:T23
+E57	Transcription_Or_Translation Source:T64 Product:T61 Organism_Genotype:T62
+E58	Transcription_Or_Translation Source:T65 Product:T61 Organism_Genotype:T62

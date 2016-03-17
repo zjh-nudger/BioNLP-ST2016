@@ -1,0 +1,21 @@
+E1	Regulation_Of_Process Agent:T24 Process:T18
+E2	Regulation_Of_Process Agent:T42 Process:T39 Tissue:T43
+E3	Regulation_Of_Process Agent:T44 Process:T45 Developmental_Stage:T47
+E4	Regulation_Of_Process Agent:T58 Process:T59
+E5	Regulation_Of_Process Agent:T57 Process:T59
+E6	Regulation_Of_Development_Phase Agent:T27 Development:T30
+E7	Regulation_Of_Process Agent:T21 Process:T18
+E8	Regulation_Of_Process Agent:T40 Process:T39 Tissue:T41
+E9	Regulation_Of_Process Agent:T27 Process:T28 Tissue:T29
+E10	Functional_Equivalence Element1:T22 Element2:T21
+E11	Functional_Equivalence Element1:T24 Element2:T23
+E12	Functional_Equivalence Element1:T6 Element2:T5
+E13	Functional_Equivalence Element1:T55 Element2:T56
+E14	Functional_Equivalence Element1:T4 Element2:T3
+E15	Regulation_Of_Expression Agent:T60 DNA:T61
+E16	Regulation_Of_Expression Agent:T33 DNA:T32
+E17	Regulation_Of_Expression Agent:T31 DNA:T27
+E18	Regulation_Of_Expression Agent:T25 DNA:T24
+E19	Regulation_Of_Expression Agent:T50 DNA:T49
+E20	Regulation_Of_Expression Agent:T25 DNA:T21
+M1	Negation Annotation:E19

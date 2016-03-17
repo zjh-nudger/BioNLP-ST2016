@@ -1,0 +1,35 @@
+E1	Regulation_Of_Development_Phase Agent:T60 Development:T63
+E2	Regulation_Of_Process Agent:T66 Process:T70 Tissue:T71
+E3	Regulation_Of_Process Agent:T66 Process:T68 Tissue:T71
+E4	Regulation_Of_Development_Phase Agent:T60 Development:T61
+E5	Regulation_Of_Process Agent:T67 Process:T68 Tissue:T71
+E6	Regulation_Of_Process Agent:T67 Process:T70 Tissue:T71
+E7	Regulation_Of_Process Agent:T57 Process:T58
+E8	Regulation_Of_Development_Phase Agent:T51 Development:T55
+E9	Regulation_Of_Process Agent:T51 Process:T53
+E10	Primary_Structure_Composition DNA_Part:T13 DNA:T6
+E11	Primary_Structure_Composition DNA_Part:T13 DNA:T5
+E12	Protein_Domain_Composition Domain:T37 Product:T35
+E13	Primary_Structure_Composition DNA_Part:T14 DNA:T13
+E14	Primary_Structure_Composition DNA_Part:T46 DNA:T47
+E15	Primary_Structure_Composition DNA_Part:T13 DNA:T8
+E16	Primary_Structure_Composition DNA_Part:T13 DNA:T7
+E17	Binding Functional_Molecule:T1 Molecule:T2
+E18	Binding Functional_Molecule:T37 Molecule:T34
+E19	Binding Functional_Molecule:T21 Molecule:T23
+E20	Binding Functional_Molecule:T17 Molecule:T15
+E21	Binding Functional_Molecule:T4 Molecule:T7
+E22	Binding Functional_Molecule:T4 Molecule:T8
+E23	Binding Functional_Molecule:T4 Molecule:T5
+E24	Binding Functional_Molecule:T4 Molecule:T6
+E25	Sequence_Identity Element1:T24 Element2:T23
+E26	Functional_Equivalence Element1:T42 Element2:T45
+E27	Functional_Equivalence Element1:T33 Element2:T34
+E28	Functional_Equivalence Element1:T66 Element2:T65
+E29	Family_Membership Element:T74 Family:T72
+E30	Family_Membership Element:T79 Family:T72
+E31	Family_Membership Element:T82 Family:T72
+E32	Family_Membership Element:T77 Family:T72
+E33	Transcription_Or_Translation Source:T80 Product:T79 Organism_Genotype:T81
+E34	Transcription_Or_Translation Source:T78 Product:T77 Organism_Genotype:T81
+M1	Negation Annotation:E25

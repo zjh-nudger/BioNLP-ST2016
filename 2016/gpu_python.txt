@@ -1,0 +1,1 @@
+THEANO_FLAGS='cuda.root=/usr/local/cuda-5.5,mode=FAST_RUN,device=gpu,floatX=float32'

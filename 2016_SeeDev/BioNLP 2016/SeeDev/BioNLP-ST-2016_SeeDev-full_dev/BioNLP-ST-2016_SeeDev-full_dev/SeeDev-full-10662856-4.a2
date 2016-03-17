@@ -1,0 +1,17 @@
+E1	Regulation_Of_Process Agent:T3 Process:T15
+E2	Regulation_Of_Process Agent:T4 Process:T15
+E3	Regulation_Of_Process Agent:T2 Process:T13
+E4	Regulation_Of_Process Agent:T2 Process:T15
+E5	Regulation_Of_Process Agent:T18 Process:T19 Organism_Genotype:T20
+E6	Regulation_Of_Process Agent:T4 Process:T10
+E7	Regulation_Of_Process Agent:T3 Process:T10
+E8	Regulation_Of_Process Agent:T2 Process:T10
+E9	Regulation_Of_Process Agent:T4 Process:T13
+E10	Regulation_Of_Process Agent:T46 Process:T47 Organism_Genotype:T45
+E11	Regulation_Of_Process Agent:T41 Process:T38
+E12	Regulation_Of_Process Agent:T3 Process:T13
+E13	Presence_In_Genotype Element:T37 Genotype:T34
+E14	Presence_In_Genotype Molecule:T16 Genotype:T17
+E15	Family_Membership Element:T8 Family:T5
+E16	Family_Membership Element:T7 Family:T5
+E17	Family_Membership Element:T6 Family:T5
