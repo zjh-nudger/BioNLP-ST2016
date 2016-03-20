@@ -14,6 +14,9 @@ span_sorted= sorted(label_count.iteritems(), key=lambda d:d[1],
 label_count_seedev = {1:55,2:23,3:9,4:20,5:29,6:179,7:0,8:10,
                       9:32,10:47,11:15,12:16,13:24,14:81,15:29,
                       16:13,17:59,18:111,19:0,20:39,21:8,22:20}
+label_count_seedev_21 = {1:55,2:82,3:9,4:29,5:179,6:0,7:10,
+                      8:32,9:47,10:15,11:16,12:24,13:81,14:29,
+                      15:13,16:59,17:111,18:0,19:8,20:20}
 #zjh{1: 43, 2: 89, 3: 291, 4: 56, 5: 36, 6: 20, 7: 8, 
 #    8: 4, 9: 124, 10: 7, 11: 3, 12: 3, 13: 1, 14: 125,
 #    15: 55, 16: 174, 17: 298, 18: 227, 19: 145}
@@ -75,6 +78,7 @@ def evaluate_single_class_seedev(prediction,answer,claz = 2):
     precision,recall,f_score = calculate(tp,pre_pos,real_pos)
     return precision,recall,f_score
 
+'''
 def evaluate_multi_class_seedev(prediction=None,answer=None,claz_count = 2):
     list_answer=load_answer(answer)
     list_predict=load_prediction(prediction)
@@ -83,6 +87,8 @@ def evaluate_multi_class_seedev(prediction=None,answer=None,claz_count = 2):
     f_score_macro_avg=[]
     precision_list = []
     recall_list = []
+    all_tp = 0
+    all_fp = 0
     for num in xrange(claz_count-1):
         num += 1
         tp = 0
@@ -92,9 +98,12 @@ def evaluate_multi_class_seedev(prediction=None,answer=None,claz_count = 2):
             d = int(list_answer[index])
             if p == d and p == num:
                 tp += 1
+                all_tp += 1
+            if p > 0 and p != d:
+                all_fp += 1
             if p == num and p != d:
                 fp += 1
-        precision,recall,f_score = calculate(tp,(fp+tp),label_count_seedev[num]) 
+        precision,recall,f_score = calculate(tp,(fp+tp),label_count_seedev_21[num]) 
         precision_list.append(precision)
         recall_list.append(recall)
         f_score_macro_avg.append(f_score)
@@ -103,10 +112,37 @@ def evaluate_multi_class_seedev(prediction=None,answer=None,claz_count = 2):
     #print len(f_score_mean)
     micro_f_score = 2*numpy.sum(f_score_micro_avg_1)/(numpy.sum(f_score_micro_avg_2)+0.00001)
     macro_f_score = numpy.mean(f_score_macro_avg)
-    if micro_f_score > 0.2:
-        for i in xrange(claz_count-1):
-            print precision_list[i],recall_list[i],f_score_macro_avg[i]
-    return micro_f_score,macro_f_score
+#    if micro_f_score > 0.3:
+#        for i in xrange(claz_count-1):
+#            print precision_list[i],recall_list[i],f_score_macro_avg[i]
+    all_precision = float(all_tp)/(all_fp+all_tp+0.00000001)
+    event_count = 0
+    for k,v in label_count_seedev_21.iteritems():
+        event_count += v
+    all_recall = float(all_tp) / event_count
+    all_f1_score = 2.0 * ((all_precision * all_recall)/(all_precision + all_recall+0.000001))
+    return all_precision,all_recall,all_f1_score#micro_f_score,macro_f_score
+'''
+def evaluate_multi_class_seedev(prediction=None,answer=None,claz_count = 2):
+    list_answer=load_answer(answer)
+    list_predict=load_prediction(prediction)
+    all_tp = 0
+    all_fp = 0
+    for index in xrange(len(list_answer)-1):
+        p = int(list_predict[index])
+        d = int(list_answer[index])
+        if p == d and p != 0:
+            all_tp += 1
+        if p > 0 and p != d:
+            all_fp += 1
+    all_precision = float(all_tp)/(all_fp+all_tp+0.00000001)
+    event_count = 0
+    for k,v in label_count_seedev_21.iteritems():
+        event_count += v
+    all_recall = float(all_tp) / event_count
+    all_f1_score = 2.0 * ((all_precision * all_recall)/(all_precision + all_recall+0.000001))
+    return all_precision,all_recall,all_f1_score#micro_f_score,macro_f_score
+
 
 '''
 将每个类别的准确率、召回率、F1值输出到文件

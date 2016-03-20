@@ -1,0 +1,195 @@
+EXAMPLE482  T8	Protein 78 81	AP3 T9	Protein 87 97	PISTILLATA
+EXAMPLE483  T8	Protein 78 81	AP3 T6	Protein 66 69	AP1
+EXAMPLE484  T8	Protein 78 81	AP3 T7	Protein 71 73	AG
+EXAMPLE485  T8	Protein 78 81	AP3 T4	Genotype 13 36;66 69	plants that overexpress AP1
+EXAMPLE486  T8	Protein 78 81	AP3 T5	Protein_Family 37 56	floral MADS factors
+EXAMPLE487  T8	Protein 78 81	AP3 T2	Genotype 13 36;71 73	plants that overexpress AG
+EXAMPLE488  T8	Protein 78 81	AP3 T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA
+EXAMPLE489  T8	Protein 78 81	AP3 T1	Genotype 13 56	plants that overexpress floral MADS factors
+EXAMPLE490  T8	Protein 78 81	AP3 T14	Tissue 186 200	rosette leaves
+EXAMPLE491  T8	Protein 78 81	AP3 T15	Regulatory_Network 205 222	earlier flowering
+EXAMPLE492  T8	Protein 78 81	AP3 T10	Regulatory_Network 116 140	shorter vegetative phase
+EXAMPLE493  T8	Protein 78 81	AP3 T11	Development_Phase 124 140	vegetative phase
+EXAMPLE494  T8	Protein 78 81	AP3 T12	Genotype 149 165	wild-type plants
+EXAMPLE495  T8	Protein 78 81	AP3 T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE496  T9	Protein 87 97	PISTILLATA T6	Protein 66 69	AP1
+EXAMPLE497  T9	Protein 87 97	PISTILLATA T7	Protein 71 73	AG
+EXAMPLE498  T9	Protein 87 97	PISTILLATA T4	Genotype 13 36;66 69	plants that overexpress AP1
+EXAMPLE499  T9	Protein 87 97	PISTILLATA T5	Protein_Family 37 56	floral MADS factors
+EXAMPLE500  T9	Protein 87 97	PISTILLATA T2	Genotype 13 36;71 73	plants that overexpress AG
+EXAMPLE501  T9	Protein 87 97	PISTILLATA T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA
+EXAMPLE502  T9	Protein 87 97	PISTILLATA T1	Genotype 13 56	plants that overexpress floral MADS factors
+EXAMPLE503  T9	Protein 87 97	PISTILLATA T14	Tissue 186 200	rosette leaves
+EXAMPLE504  T9	Protein 87 97	PISTILLATA T15	Regulatory_Network 205 222	earlier flowering
+EXAMPLE505  T9	Protein 87 97	PISTILLATA T10	Regulatory_Network 116 140	shorter vegetative phase
+EXAMPLE506  T9	Protein 87 97	PISTILLATA T11	Development_Phase 124 140	vegetative phase
+EXAMPLE507  T9	Protein 87 97	PISTILLATA T12	Genotype 149 165	wild-type plants
+EXAMPLE508  T9	Protein 87 97	PISTILLATA T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE509  T6	Protein 66 69	AP1 T7	Protein 71 73	AG
+EXAMPLE510  T6	Protein 66 69	AP1 T4	Genotype 13 36;66 69	plants that overexpress AP1
+EXAMPLE511  T6	Protein 66 69	AP1 T5	Protein_Family 37 56	floral MADS factors
+EXAMPLE512  T6	Protein 66 69	AP1 T2	Genotype 13 36;71 73	plants that overexpress AG
+EXAMPLE513  T6	Protein 66 69	AP1 T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA
+EXAMPLE514  T6	Protein 66 69	AP1 T1	Genotype 13 56	plants that overexpress floral MADS factors
+EXAMPLE515  T6	Protein 66 69	AP1 T14	Tissue 186 200	rosette leaves
+EXAMPLE516  T6	Protein 66 69	AP1 T15	Regulatory_Network 205 222	earlier flowering
+EXAMPLE517  T6	Protein 66 69	AP1 T10	Regulatory_Network 116 140	shorter vegetative phase
+EXAMPLE518  T6	Protein 66 69	AP1 T11	Development_Phase 124 140	vegetative phase
+EXAMPLE519  T6	Protein 66 69	AP1 T12	Genotype 149 165	wild-type plants
+EXAMPLE520  T6	Protein 66 69	AP1 T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE521  T7	Protein 71 73	AG T4	Genotype 13 36;66 69	plants that overexpress AP1
+EXAMPLE522  T7	Protein 71 73	AG T5	Protein_Family 37 56	floral MADS factors
+EXAMPLE523  T7	Protein 71 73	AG T2	Genotype 13 36;71 73	plants that overexpress AG
+EXAMPLE524  T7	Protein 71 73	AG T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA
+EXAMPLE525  T7	Protein 71 73	AG T1	Genotype 13 56	plants that overexpress floral MADS factors
+EXAMPLE526  T7	Protein 71 73	AG T14	Tissue 186 200	rosette leaves
+EXAMPLE527  T7	Protein 71 73	AG T15	Regulatory_Network 205 222	earlier flowering
+EXAMPLE528  T7	Protein 71 73	AG T10	Regulatory_Network 116 140	shorter vegetative phase
+EXAMPLE529  T7	Protein 71 73	AG T11	Development_Phase 124 140	vegetative phase
+EXAMPLE530  T7	Protein 71 73	AG T12	Genotype 149 165	wild-type plants
+EXAMPLE531  T7	Protein 71 73	AG T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE532  T4	Genotype 13 36;66 69	plants that overexpress AP1 T5	Protein_Family 37 56	floral MADS factors
+EXAMPLE533  T4	Genotype 13 36;66 69	plants that overexpress AP1 T2	Genotype 13 36;71 73	plants that overexpress AG
+EXAMPLE534  T4	Genotype 13 36;66 69	plants that overexpress AP1 T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA
+EXAMPLE535  T4	Genotype 13 36;66 69	plants that overexpress AP1 T1	Genotype 13 56	plants that overexpress floral MADS factors
+EXAMPLE536  T4	Genotype 13 36;66 69	plants that overexpress AP1 T14	Tissue 186 200	rosette leaves
+EXAMPLE537  T4	Genotype 13 36;66 69	plants that overexpress AP1 T15	Regulatory_Network 205 222	earlier flowering
+EXAMPLE538  T4	Genotype 13 36;66 69	plants that overexpress AP1 T10	Regulatory_Network 116 140	shorter vegetative phase
+EXAMPLE539  T4	Genotype 13 36;66 69	plants that overexpress AP1 T11	Development_Phase 124 140	vegetative phase
+EXAMPLE540  T4	Genotype 13 36;66 69	plants that overexpress AP1 T12	Genotype 149 165	wild-type plants
+EXAMPLE541  T4	Genotype 13 36;66 69	plants that overexpress AP1 T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE542  T5	Protein_Family 37 56	floral MADS factors T2	Genotype 13 36;71 73	plants that overexpress AG
+EXAMPLE543  T5	Protein_Family 37 56	floral MADS factors T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA
+EXAMPLE544  T5	Protein_Family 37 56	floral MADS factors T1	Genotype 13 56	plants that overexpress floral MADS factors
+EXAMPLE545  T5	Protein_Family 37 56	floral MADS factors T14	Tissue 186 200	rosette leaves
+EXAMPLE546  T5	Protein_Family 37 56	floral MADS factors T15	Regulatory_Network 205 222	earlier flowering
+EXAMPLE547  T5	Protein_Family 37 56	floral MADS factors T10	Regulatory_Network 116 140	shorter vegetative phase
+EXAMPLE548  T5	Protein_Family 37 56	floral MADS factors T11	Development_Phase 124 140	vegetative phase
+EXAMPLE549  T5	Protein_Family 37 56	floral MADS factors T12	Genotype 149 165	wild-type plants
+EXAMPLE550  T5	Protein_Family 37 56	floral MADS factors T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE551  T2	Genotype 13 36;71 73	plants that overexpress AG T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA
+EXAMPLE552  T2	Genotype 13 36;71 73	plants that overexpress AG T1	Genotype 13 56	plants that overexpress floral MADS factors
+EXAMPLE553  T2	Genotype 13 36;71 73	plants that overexpress AG T14	Tissue 186 200	rosette leaves
+EXAMPLE554  T2	Genotype 13 36;71 73	plants that overexpress AG T15	Regulatory_Network 205 222	earlier flowering
+EXAMPLE555  T2	Genotype 13 36;71 73	plants that overexpress AG T10	Regulatory_Network 116 140	shorter vegetative phase
+EXAMPLE556  T2	Genotype 13 36;71 73	plants that overexpress AG T11	Development_Phase 124 140	vegetative phase
+EXAMPLE557  T2	Genotype 13 36;71 73	plants that overexpress AG T12	Genotype 149 165	wild-type plants
+EXAMPLE558  T2	Genotype 13 36;71 73	plants that overexpress AG T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE559  T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA T1	Genotype 13 56	plants that overexpress floral MADS factors
+EXAMPLE560  T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA T14	Tissue 186 200	rosette leaves
+EXAMPLE561  T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA T15	Regulatory_Network 205 222	earlier flowering
+EXAMPLE562  T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA T10	Regulatory_Network 116 140	shorter vegetative phase
+EXAMPLE563  T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA T11	Development_Phase 124 140	vegetative phase
+EXAMPLE564  T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA T12	Genotype 149 165	wild-type plants
+EXAMPLE565  T3	Genotype 13 36;78 97	plants that overexpress AP3 with PISTILLATA T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE566  T1	Genotype 13 56	plants that overexpress floral MADS factors T14	Tissue 186 200	rosette leaves
+EXAMPLE567  T1	Genotype 13 56	plants that overexpress floral MADS factors T15	Regulatory_Network 205 222	earlier flowering
+EXAMPLE568  T1	Genotype 13 56	plants that overexpress floral MADS factors T10	Regulatory_Network 116 140	shorter vegetative phase
+EXAMPLE569  T1	Genotype 13 56	plants that overexpress floral MADS factors T11	Development_Phase 124 140	vegetative phase
+EXAMPLE570  T1	Genotype 13 56	plants that overexpress floral MADS factors T12	Genotype 149 165	wild-type plants
+EXAMPLE571  T1	Genotype 13 56	plants that overexpress floral MADS factors T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE572  T14	Tissue 186 200	rosette leaves T15	Regulatory_Network 205 222	earlier flowering
+EXAMPLE573  T14	Tissue 186 200	rosette leaves T10	Regulatory_Network 116 140	shorter vegetative phase
+EXAMPLE574  T14	Tissue 186 200	rosette leaves T11	Development_Phase 124 140	vegetative phase
+EXAMPLE575  T14	Tissue 186 200	rosette leaves T12	Genotype 149 165	wild-type plants
+EXAMPLE576  T14	Tissue 186 200	rosette leaves T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE577  T15	Regulatory_Network 205 222	earlier flowering T10	Regulatory_Network 116 140	shorter vegetative phase
+EXAMPLE578  T15	Regulatory_Network 205 222	earlier flowering T11	Development_Phase 124 140	vegetative phase
+EXAMPLE579  T15	Regulatory_Network 205 222	earlier flowering T12	Genotype 149 165	wild-type plants
+EXAMPLE580  T15	Regulatory_Network 205 222	earlier flowering T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE581  T10	Regulatory_Network 116 140	shorter vegetative phase T11	Development_Phase 124 140	vegetative phase
+EXAMPLE582  T10	Regulatory_Network 116 140	shorter vegetative phase T12	Genotype 149 165	wild-type plants
+EXAMPLE583  T10	Regulatory_Network 116 140	shorter vegetative phase T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE584  T11	Development_Phase 124 140	vegetative phase T12	Genotype 149 165	wild-type plants
+EXAMPLE585  T11	Development_Phase 124 140	vegetative phase T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE586  T12	Genotype 149 165	wild-type plants T13	Regulatory_Network 180 200	fewer rosette leaves
+EXAMPLE587  T20	Genotype 382 399	transgenic plants T16	Protein 280 285	AGL15
+EXAMPLE588  T20	Genotype 382 399	transgenic plants T17	Genotype 289 305	wild-type plants
+EXAMPLE589  T20	Genotype 382 399	transgenic plants T18	Protein 307 312	AGL15
+EXAMPLE590  T20	Genotype 382 399	transgenic plants T19	Regulatory_Network 354 374	early juvenile phase
+EXAMPLE591  T16	Protein 280 285	AGL15 T17	Genotype 289 305	wild-type plants
+EXAMPLE592  T16	Protein 280 285	AGL15 T18	Protein 307 312	AGL15
+EXAMPLE593  T16	Protein 280 285	AGL15 T19	Regulatory_Network 354 374	early juvenile phase
+EXAMPLE594  T17	Genotype 289 305	wild-type plants T18	Protein 307 312	AGL15
+EXAMPLE595  T17	Genotype 289 305	wild-type plants T19	Regulatory_Network 354 374	early juvenile phase
+EXAMPLE596  T18	Protein 307 312	AGL15 T19	Regulatory_Network 354 374	early juvenile phase
+EXAMPLE597  T21	Development_Phase 457 488	beginning of the juvenile phase T23	Development_Phase 521 530	flowering
+EXAMPLE598  T21	Development_Phase 457 488	beginning of the juvenile phase T22	Regulatory_Network 512 530	delay in flowering
+EXAMPLE599  T23	Development_Phase 521 530	flowering T22	Regulatory_Network 512 530	delay in flowering
+EXAMPLE600  T25	Development_Phase 712 721	flowering T24	Tissue 617 644	partially juvenilized plant
+EXAMPLE601  T29	Tissue 743 753	cotyledons T28	Tissue 727 735	petioles
+EXAMPLE602  T29	Tissue 743 753	cotyledons T27	Tissue 727 742;758 772	petioles of the rosette leaves
+EXAMPLE603  T29	Tissue 743 753	cotyledons T26	Tissue 727 753	petioles of the cotyledons
+EXAMPLE604  T29	Tissue 743 753	cotyledons T32	Genotype 847 879	plants carrying AGL15 transgenes
+EXAMPLE605  T29	Tissue 743 753	cotyledons T33	Gene 863 868	AGL15
+EXAMPLE606  T29	Tissue 743 753	cotyledons T30	Tissue 758 772	rosette leaves
+EXAMPLE607  T29	Tissue 743 753	cotyledons T31	Tissue 807 818	leaf blades
+EXAMPLE608  T28	Tissue 727 735	petioles T27	Tissue 727 742;758 772	petioles of the rosette leaves
+EXAMPLE609  T28	Tissue 727 735	petioles T26	Tissue 727 753	petioles of the cotyledons
+EXAMPLE610  T28	Tissue 727 735	petioles T32	Genotype 847 879	plants carrying AGL15 transgenes
+EXAMPLE611  T28	Tissue 727 735	petioles T33	Gene 863 868	AGL15
+EXAMPLE612  T28	Tissue 727 735	petioles T30	Tissue 758 772	rosette leaves
+EXAMPLE613  T28	Tissue 727 735	petioles T31	Tissue 807 818	leaf blades
+EXAMPLE614  T27	Tissue 727 742;758 772	petioles of the rosette leaves T26	Tissue 727 753	petioles of the cotyledons
+EXAMPLE615  T27	Tissue 727 742;758 772	petioles of the rosette leaves T32	Genotype 847 879	plants carrying AGL15 transgenes
+EXAMPLE616  T27	Tissue 727 742;758 772	petioles of the rosette leaves T33	Gene 863 868	AGL15
+EXAMPLE617  T27	Tissue 727 742;758 772	petioles of the rosette leaves T30	Tissue 758 772	rosette leaves
+EXAMPLE618  T27	Tissue 727 742;758 772	petioles of the rosette leaves T31	Tissue 807 818	leaf blades
+EXAMPLE619  T26	Tissue 727 753	petioles of the cotyledons T32	Genotype 847 879	plants carrying AGL15 transgenes
+EXAMPLE620  T26	Tissue 727 753	petioles of the cotyledons T33	Gene 863 868	AGL15
+EXAMPLE621  T26	Tissue 727 753	petioles of the cotyledons T30	Tissue 758 772	rosette leaves
+EXAMPLE622  T26	Tissue 727 753	petioles of the cotyledons T31	Tissue 807 818	leaf blades
+EXAMPLE623  T32	Genotype 847 879	plants carrying AGL15 transgenes T33	Gene 863 868	AGL15
+EXAMPLE624  T32	Genotype 847 879	plants carrying AGL15 transgenes T30	Tissue 758 772	rosette leaves
+EXAMPLE625  T32	Genotype 847 879	plants carrying AGL15 transgenes T31	Tissue 807 818	leaf blades
+EXAMPLE626  T33	Gene 863 868	AGL15 T30	Tissue 758 772	rosette leaves
+EXAMPLE627  T33	Gene 863 868	AGL15 T31	Tissue 807 818	leaf blades
+EXAMPLE628  T30	Tissue 758 772	rosette leaves T31	Tissue 807 818	leaf blades
+EXAMPLE629  T36	Development_Phase 946 982	earliest stages of vegetative growth T37	Tissue 1005 1021	spatulate leaves
+EXAMPLE630  T36	Development_Phase 946 982	earliest stages of vegetative growth T34	Genotype 884 905	wild-type Arabidopsis
+EXAMPLE631  T36	Development_Phase 946 982	earliest stages of vegetative growth T35	Tissue 907 921	rounded leaves
+EXAMPLE632  T37	Tissue 1005 1021	spatulate leaves T34	Genotype 884 905	wild-type Arabidopsis
+EXAMPLE633  T37	Tissue 1005 1021	spatulate leaves T35	Tissue 907 921	rounded leaves
+EXAMPLE634  T34	Genotype 884 905	wild-type Arabidopsis T35	Tissue 907 921	rounded leaves
+EXAMPLE635  T43	Regulatory_Network 1213 1237	regulation of leaf shape T42	Tissue 1178 1182	leaf
+EXAMPLE636  T43	Regulatory_Network 1213 1237	regulation of leaf shape T41	Genotype 1159 1176	transgenic plants
+EXAMPLE637  T43	Regulatory_Network 1213 1237	regulation of leaf shape T40	Development_Phase 1138 1151	morphogenesis
+EXAMPLE638  T43	Regulatory_Network 1213 1237	regulation of leaf shape T44	Tissue 1227 1231	leaf
+EXAMPLE639  T43	Regulatory_Network 1213 1237	regulation of leaf shape T38	Regulatory_Network 1084 1104	change in leaf shape
+EXAMPLE640  T43	Regulatory_Network 1213 1237	regulation of leaf shape T39	Tissue 1094 1098	leaf
+EXAMPLE641  T42	Tissue 1178 1182	leaf T41	Genotype 1159 1176	transgenic plants
+EXAMPLE642  T42	Tissue 1178 1182	leaf T40	Development_Phase 1138 1151	morphogenesis
+EXAMPLE643  T42	Tissue 1178 1182	leaf T44	Tissue 1227 1231	leaf
+EXAMPLE644  T42	Tissue 1178 1182	leaf T38	Regulatory_Network 1084 1104	change in leaf shape
+EXAMPLE645  T42	Tissue 1178 1182	leaf T39	Tissue 1094 1098	leaf
+EXAMPLE646  T41	Genotype 1159 1176	transgenic plants T40	Development_Phase 1138 1151	morphogenesis
+EXAMPLE647  T41	Genotype 1159 1176	transgenic plants T44	Tissue 1227 1231	leaf
+EXAMPLE648  T41	Genotype 1159 1176	transgenic plants T38	Regulatory_Network 1084 1104	change in leaf shape
+EXAMPLE649  T41	Genotype 1159 1176	transgenic plants T39	Tissue 1094 1098	leaf
+EXAMPLE650  T40	Development_Phase 1138 1151	morphogenesis T44	Tissue 1227 1231	leaf
+EXAMPLE651  T40	Development_Phase 1138 1151	morphogenesis T38	Regulatory_Network 1084 1104	change in leaf shape
+EXAMPLE652  T40	Development_Phase 1138 1151	morphogenesis T39	Tissue 1094 1098	leaf
+EXAMPLE653  T44	Tissue 1227 1231	leaf T38	Regulatory_Network 1084 1104	change in leaf shape
+EXAMPLE654  T44	Tissue 1227 1231	leaf T39	Tissue 1094 1098	leaf
+EXAMPLE655  T38	Regulatory_Network 1084 1104	change in leaf shape T39	Tissue 1094 1098	leaf
+EXAMPLE656  T49	Tissue 1422 1431	trichomes T48	Tissue 1422 1466	trichomes on the abaxial surface of the leaf
+EXAMPLE657  T49	Tissue 1422 1431	trichomes T50	Tissue 1439 1466	abaxial surface of the leaf
+EXAMPLE658  T49	Tissue 1422 1431	trichomes T51	Tissue 1462 1466	leaf
+EXAMPLE659  T49	Tissue 1422 1431	trichomes T47	Regulatory_Network 1411 1466	absence of trichomes on the abaxial surface of the leaf
+EXAMPLE660  T49	Tissue 1422 1431	trichomes T46	Development_Phase 1389 1403	juvenile phase
+EXAMPLE661  T49	Tissue 1422 1431	trichomes T45	Genotype 1344 1355	Arabidopsis
+EXAMPLE662  T48	Tissue 1422 1466	trichomes on the abaxial surface of the leaf T50	Tissue 1439 1466	abaxial surface of the leaf
+EXAMPLE663  T48	Tissue 1422 1466	trichomes on the abaxial surface of the leaf T51	Tissue 1462 1466	leaf
+EXAMPLE664  T48	Tissue 1422 1466	trichomes on the abaxial surface of the leaf T47	Regulatory_Network 1411 1466	absence of trichomes on the abaxial surface of the leaf
+EXAMPLE665  T48	Tissue 1422 1466	trichomes on the abaxial surface of the leaf T46	Development_Phase 1389 1403	juvenile phase
+EXAMPLE666  T48	Tissue 1422 1466	trichomes on the abaxial surface of the leaf T45	Genotype 1344 1355	Arabidopsis
+EXAMPLE667  T50	Tissue 1439 1466	abaxial surface of the leaf T51	Tissue 1462 1466	leaf
+EXAMPLE668  T50	Tissue 1439 1466	abaxial surface of the leaf T47	Regulatory_Network 1411 1466	absence of trichomes on the abaxial surface of the leaf
+EXAMPLE669  T50	Tissue 1439 1466	abaxial surface of the leaf T46	Development_Phase 1389 1403	juvenile phase
+EXAMPLE670  T50	Tissue 1439 1466	abaxial surface of the leaf T45	Genotype 1344 1355	Arabidopsis
+EXAMPLE671  T51	Tissue 1462 1466	leaf T47	Regulatory_Network 1411 1466	absence of trichomes on the abaxial surface of the leaf
+EXAMPLE672  T51	Tissue 1462 1466	leaf T46	Development_Phase 1389 1403	juvenile phase
+EXAMPLE673  T51	Tissue 1462 1466	leaf T45	Genotype 1344 1355	Arabidopsis
+EXAMPLE674  T47	Regulatory_Network 1411 1466	absence of trichomes on the abaxial surface of the leaf T46	Development_Phase 1389 1403	juvenile phase
+EXAMPLE675  T47	Regulatory_Network 1411 1466	absence of trichomes on the abaxial surface of the leaf T45	Genotype 1344 1355	Arabidopsis
+EXAMPLE676  T46	Development_Phase 1389 1403	juvenile phase T45	Genotype 1344 1355	Arabidopsis

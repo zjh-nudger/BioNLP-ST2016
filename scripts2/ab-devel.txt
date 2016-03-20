@@ -1,0 +1,301 @@
+We reported previously that AGL15 accumulated at its highest levels in the products of double fertilization ( the embryo , suspensor , and endosperm ) following sexual reproduction in angiosperms and was maintained at high levels in immature embryos ( Perry et al. , 1996 ) .
+If AGL15 is important for development in an embryonic mode , as this pattern of accumulation might suggest , we would also expect to find relatively high levels of AGL15 or AGL15 - related proteins in developmental contexts where embryos or organs with embryonic tissue arise outside of the seed or by means other than fertilization of the egg .
+We have used AGL15 - specific antibodies to examine developmental situations of this type in a variety of flowering plants .
+In every case , whenever embryos or embryonic organs were present , relatively high levels of AGL15 - related proteins could be detected as well .
+The results of our study of dandelion embryos indicate that the absence of a fertilization event does not preclude accumulation of AGL15 .
+In dandelion , embryos arise via apomixis , which is a form of asexual reproduction .
+AGL15 - related protein accumulates in the same pattern in these asexual embryos as it does in zygotic embryos that arise following a fertilization event ( Perry et al. , 1996 ) .
+The results of our study of the xtc2 mutant of Arabidopsis indicate that AGL15 accumulates in organs with embryonic features ( i.e. cotyledons ) even if they initiate during later stages of embryogeny and develop largely after germination .
+In the xtc2 mutant of Arabidopsis , secondary cotyledons appear as a result of changes in the relative timing of embryo and shoot apex development ( Conway and Poethig , 1997 ) . xtc2 embryo development is delayed , but shoot apex development initiates precociously .
+Maturation - stagextc2 embryos are at the late - heart to early - torpedo stage of development in terms of morphogenesis but have large primordia at the shoot apex ( Conway and Poethig , 1997 ) .
+We found that AGL15 accumulated to higher levels in the secondary cotyledons that developed from these primordia than in leaves of the same age .
+The results of our study of organs produced during precocious germination in oilseed rape indicate that AGL15 also accumulates in cotyledons that are initiated outside of the seed environment .
+When immature oilseed rape embryos were excised and placed into culture , they produced three different kinds of organs : secondary cotyledons , leaves , and chimeric organs , with large sectors of cotyledon and leaf tissue ( Finkelstein and Crouch , 1984 ; Fernandez , 1997 ) .
+The amount of AGL15 present in these organs was directly proportional to the amount of cotyledon tissue present , despite the fact that these organs initiated after the maternal tissues were removed and often after an extended period in culture .
+Finally , the results of our studies of somatic embryogenesis indicate that AGL15 accumulates even when embryos arise de novo from cells in other phases of the life cycle .
+Immature oilseed rape microspores can be induced to develop into pollen , calli , or embryos .
+AGL15 was undetectable in the nuclei of fully mature pollen and in the cells in unorganized masses .
+Only the cells that took on an embryonic identity accumulated higher levels of AGL15 .
+The accumulation pattern of AGL15 - related proteins was even more interesting in alfalfa , where embryos were obtained by culturing mature leaf tissue .
+Immunoreactive protein was present at relatively high levels in the leaf mesophyll cells of alfalfa .
+Detectable amounts of AGL15 - related proteins did not accumulate in the mature leaf tissues of oilseed rape , Arabidopsis ( Heck et al. , 1995 ; Perry et al. , 1996 ; and S.E. Perry , personal observation ) , tomato ( M.D. Lehti , personal observation ) , or maize ( S.-C. Fang , personal observation ) ; however , they did accumulate in the mature leaf tissues of pea , another legume ( M.D. Lehti , personal observation ) .
+Does the accumulation of AGL15 - related protein at high levels somehow enhance the embryogenic potential of alfalfa leaf cells ?
+AGL15 accumulation did not appear to be sufficient to confer an embryonic identity on a cell or cells : the floral organs of plants overexpressing AGL15 accumulated AGL15 ( Fig . 1c ) but maintained their identity as reproductive tissues .
+However , AGL15 may be necessary to either direct or support development in an embryonic mode .
+The fact that immature oilseed rape microspores accumulated low but detectable amounts of AGL15 and also had embryogenic potential that can be expressed in culture may be significant in this regard .
+In contrast , plants that overexpress floral MADS factors , such as AP1 , AG , or AP3 with PISTILLATA , typically have a shorter vegetative phase than do wild - type plants , resulting in fewer rosette leaves and earlier flowering ( reviewed in Ma 1998 ) .
+Given the accumulation pattern of AGL15 in wild - type plants , AGL15 might act by prolonging or promoting the early juvenile phase in the transgenic plants ; that is , it may " juvenilize " the plants .
+Effects at the beginning of the juvenile phase would translate into a delay in flowering because competence to flower is acquired in an age-dependent fashion ( Thomas 1993 ) .
+A partially juvenilized plant might require a longer period or stronger inductive signals before flowering .
+The petioles of the cotyledons and rosette leaves were considerably shorter and the leaf blades were shorter and rounder in plants carrying AGL15 transgenes .
+In wild - type Arabidopsis , rounded leaves are produced during the earliest stages of vegetative growth , whereas increasingly spatulate leaves are produced later ( Bowman 1994 ; Poethig 1997 ) .
+Although the change in leaf shape suggests a more juvenile mode of morphogenesis in the transgenic plants , leaf shape is too variable and the regulation of leaf shape is too complex ( reviewed in Poethig 1997 ) for this character to serve as a definitive marker of phase .
+In Arabidopsis , a more consistent marker of the juvenile phase is the absence of trichomes on the abaxial surface of the leaf ( Telfer et al. 1997 ) .
+The phytohormone abscisic acid ( ABA ) can regulate many agronomically important aspects of plant growth , including seed maturation , onset of seed dormancy , and adaptation to assorted environmental stresses such as drought and salinity ( Leung and Giraudat , 1998 ) .
+Genetic studies have identified many loci required for wild - type ABA response ; the best characterized are the ABA insensitive ( ABI ) and enhanced response to ABA ( ERA ) genes of Arabidopsis and the VP1 genes of maize and other cereals ( Holdsworth , 1999 ) .
+Many additional presumed ABA - signaling components have been identified biochemically , based on binding to cis-acting regulatory elements such as ABREs ( ABA - response elements ; Busk and Pages , 1998 ) ; one - or two-hybrid screens in yeast ( Choi , 2000 ; Hobo , 1999 ; Kim , 1997 ; Kurup , 2000 ; Uno , 2000 ) ; or correlations between kinase or phosphatase activity and ABA response ( Leung and Giraudat , 1998 ) .
+However , in the absence of genetic tests of function the roles of most of these components remain speculative .
+Three of the ABA insensitive loci , ABI3 , ABI4 and ABI5 , encode transcription factors of the B3 - , AP2- and bZIP - domain families , respectively , and regulate overlapping subsets of seed - specific and / or ABA - inducible genes ( Finkelstein and Lynch , 2000 ; Finkelstein , 1998 ; Giraudat , 1992 ) .
+Two of these , ABI4 and ABI5 , contain presumed DNA - binding and dimerization domains : the AP2 and bZIP domains , respectively .
+ABI3 can activate transcription in vivo , but the intact purified protein does not specifically bind DNA in vitro , suggesting that it interacts with other proteins that mediate DNA binding ( Suzuki , 1997 ) .
+Mutational analyses of VP1 / ABI3 - responsive promoters have shown that G-box elements such as those present in the Em1a and Em1b elements , although required for ABA regulation and consequently designated ABREs , are sufficient but not necessary for VP1 transactivation ( Vasil , 1995 ) .
+These studies suggest that VP1 activates transcription through multiple cis-acting sequences , only some of which are ABREs .
+It was subsequently shown that both VP1 and EmBP1 , an Em1a - binding bZIP protein , specifically interact with GF14 , a 14-3 -3 protein which may provide a structural link between these transcription factors ( Schultz , 1998 ) .
+Although ABI5 is similar to EmBP1 in that they are both bZIP proteins correlated with ABA response , ABI5 is a member of the DPBF subfamily ( Finkelstein and Lynch , 2000 ) .
+This subfamily has a broader consensus - binding site than the other bZIP proteins in that its members tolerate variability in the ACGT core element essential to the ABRE G-box ( Kim , 1997 ) .
+Furthermore , the homology between ABI5 and EmBP1 is limited to the bZIP domain .
+Consequently , any interactions between ABI5 and VP1 / ABI3 need not be mechanistically similar to the previously described interactions .
+Physiological studies have shown that the ABI3 , ABI4 and ABI5 loci have similar qualitative effects on seed development and ABA sensitivity , consistent with action in a common pathway , but that null mutations in ABI3 are more severe than those in ABI4 or ABI5 ( Finkelstein and Lynch , 2000 ; Finkelstein , 1998 ; Parcy , 1994 ) .
+Action in a common pathway was also suggested by genetic studies showing that digenic mutants combining the leaky abi 3-1 alleles with severe mutations in either ABI4 or ABI5 produced seeds that were only slightly more resistant to ABA than their monogenic parents ( Finkelstein , 1994 ) .
+Recent studies show extensive cross - regulation of expression among ABI3 , ABI4 and ABI5 ( , 2000 ) .
+Furthermore , ectopic expression of either ABI3 or ABI4 results in ABA hypersensitivity of vegetative tissues which is partly dependent on increased ABI5 expression ( Parcy , 1994 ; , 2000 ) .
+Taken together , these results suggest that these three transcription factors participate in combinatorial control of gene expression , possibly by forming a regulatory complex mediating seed - specific or ABA - inducible expression .
+Consistent with this , rice homologs of ABI3 and ABI5 ( OSVP1 and TRAB1 , respectively ) have been shown to interact in a yeast two-hybrid assay , as well as in transient assays in plant cells ( Hobo , 1999 ) .
+The two remaining cloned ABI loci , ABI1 and ABI2 , were initially identified by dominant negative mutations resulting in decreased sensitivity to ABA ( Gosti , 1999 ; Koornneef , 1984 ) .
+These loci encode highly homologous members of the PP2C family of ser / thr protein phosphatases , and it has been suggested that they might act on overlapping subsets of substrates ( Leung , 1997 ) .
+However , none of their substrates has been identified to date .
+Both the ABI4 and ABI5 gene products contain ser / thr-rich domains that could be sites of phosphorylation ( Finkelstein and Lynch , 2000 ; Finkelstein , 1998 ) , consistent with the possibility that either might be a substrate for the ABI PP2Cs .
+Recently , two ABI5 - related transcription factors , AREB1 and AREB2 , were shown to promote ABA - activation of target gene expression ( Uno , 2000 ) .
+Although this activation was repressed either by protein kinase inhibitor treatment of wild - type cells or by the dominant negative abi 1-1 mutation , it is not known whether this reflects a direct or indirect effect on the phosphorylation status of these transcription factors .
+Our study makes use of yeast two-hybrid assays to test for direct physical interactions among ABI gene products previously demonstrated to interact genetically .
+Only two of these proteins interacted directly : ABI3 and ABI5 .
+In addition , ABI5 interacted with itself , presumably reflecting an ability to form homodimers .
+We mapped the interacting domains by assaying reporter activation by combination of various subdomains of ABI3 and ABI5 .
+In addition , we tested for transactivation of the AtEm6 promoter by ABI3 , ABI4 and ABI5 in a yeast one-hybrid system .
+The pleiotropic effects of lec mutations , represented in Fig . 1 , suggest that the LEC genes serve as central regulators of embryo and seed development .
+This prediction was confirmed by showing that LEC1 and FUS3 encode putative transcription factors that regulate critical embryonic processes ( 12 , 19 , 20 ) .
+Here we present evidence suggesting that LEC2 likely encodes a transcriptional regulator with a significant role in embryogenesis .
+The mature seed coat , in addition to forming a protective layer around the embryo , can play roles in such processes as seed dispersal and germination .
+One adaptation believed to act in these processes is the production of mucilage in the epidermal cells of the seed coat .
+This specialization , known as myxospermy , is found in many families , including the Brassicaceae , Solanaceae , Linaceae , and Plantaginaceae ( Grubert , 1981 ; Boesewinkel and Bouman , 1995 ) .
+Seed imbibition in these plants leads to the formation of a gel capsule around the seed that is thought to aid hydration and / or dispersal .
+Developmental Regulation of MUM4 during Seed Coat Secretory Cell Differentiation by AP2 , TTG1 , and GL2 MUM4 transcript increases in differentiating siliques at the time of mucilage production .
+Two lines of evidence suggest that this up-regulation occurs in the seed coat epidermis to support mucilage biosynthesis .
+First , the only obvious phenotypic defect in mum4 plants occurs in the seed coat epidermis .
+Second , MUM4 expression is severely attenuated in siliques of ap2 mutants that fail to differentiate the outer two layers of the seed coat .
+Such a specific up-regulation of a putative NDP - l-Rha synthase may be required to provide extra Rha for the production of the large quantity of RGI required for mucilage synthesis .
+If so , the amount of this enzyme must be the limiting factor in Rha biosynthesis and the amount of Rha a limiting factor in RGI biosynthesis .
+Our data indicate that MUM4 transcription is decreased in ttg1 and gl2 mutants but is essentially wild type in ttg2 and myb61 mutants ( Fig . 7A ) .
+This result suggests a regulatory framework for mucilage secretory cell differentiation in which there are at least two pathways controlling mucilage biosynthesis in the seed coat .
+In one of these pathways , it appears that TTG1 and GL2 control the transcription of MUM4 ( Fig . 8 ) .
+In other epidermal systems , such as trichomes and root hairs , TTG1 has been shown to interact with a tissue - specific MYB protein through the bHLH protein GLABRA3 ( Payne et al. , 2000 ; Schiefelbein , 2003 ) to activate GL2 .
+Therefore , we favor a model in which a seed coat - specific complex of TTG1 - bHLH - MYB causes activation of GL2 and the subsequent up-regulation of MUM4 during mucilage production ( Fig . 8 ) .
+Recent results suggest that EGL3 ( ENHANCER OF GLABRA3 ) and / or TT8 ( TRANSPARENT TESTA8 ) are the bHLH proteins acting with TTG1 in the seed coat ( Zhang et al. , 2003 ) .
+Although the defect in mucilage production is readily explained by the putative function of MUM4 as an NDP - l-Rha synthase , the connection with the columella shape change is less obvious .
+At least two hypotheses can explain the dependence of cell morphogenesis on mucilage synthesis .
+The formation of the apoplastic space and cytoplasmic column may be driven by the pressure of accumulating mucilage in the extracytoplasmic space and / or the formation of an osmotic gradient between the cell and the hydrophilic pectin may lead to the loss of turgor and size reduction of the vacuole .
+Such passive processes may contribute to cell morphogenesis but seem too simple to account for the apparent complexity of the shape of the cytoplasmic column .
+An alternate but not mutually exclusive explanation is that the synthesis of mucilage may represent or lead to the production of an oligosaccharide signal that stimulates the cell to undergo morphogenesis ( Dumville and Fry , 2000 ; Ridley et al. , 2001 ) .
+Determination of the exact processes involved would be facilitated by the isolation of mutants affected specifically in the shaping of the columella .
+Seeds of higher plants consist of three major components , each with a different genotype .
+The embryo that develops into the vegetative plant is diploid with a zygotic complement of genomes contributed by its parents .
+The endosperm , a tissue system that serves a nutritive role for the developing embryo and / or germinating seedling , is triploid with two and one genome equivalents , respectively , contributed by the maternal and paternal parent .
+By contrast , the seed coat that surrounds the embryo and endosperm is strictly of maternal origin .
+Growth and development of the embryo , endosperm , and seed coat must be coordinated to produce the mature seed .
+Although seeds have been studied extensively , many aspects of seed development are not well understood , including the mechanisms that underlie seed size or mass .
+A critical factor in determining plant fitness is seed mass .
+Seed mass is negatively correlated with the number of seeds produced and positively correlated with seedling survival ( ) .
+Small - seeded plants are considered to be efficient colonizers because they produce large numbers of seeds , whereas seedlings of large - seeded plants are thought to more effectively withstand resource restrictions and abiotic stresses .
+Moreover , seed mass can vary intraspecifically in response to environmental cues , although little is known of the specific regulatory processes involved .
+Several factors that influence seed mass have been identified .
+For example , quantitative trait loci ( QTL ) that influence seed mass have been mapped in a number of crop plants ( ) .
+An analysis of genetic factors affecting Arabidopsis seed mass used a segregating population from a cross between small - seeded and large - seeded ecotypes to show that both maternal and nonmaternal QTL affect seed mass , implicating both the maternal and zygotic genomes in processes that determine the sizes of seeds ( 13 ) .
+Although the specific genes associated with these QTL have not been identified , other studies implicate enzymes involved in sugar metabolism as candidates for factors that influence seed mass ( 14 ) .
+A series of studies with fava bean suggest that the relative accumulation of hexose and sucrose during seed development plays roles in determining seed mass through changes in seed cell number and cell size ( ) .
+Seed mass is also influenced by parent - of-origin effects ( 17 , 18 ) .
+Interploidy crosses between diploid and polyploid plants produce offspring with a maternal or paternal genomic excess .
+Seeds from Arabidopsis plants with a paternal genomic excess are larger than diploid seeds resulting from self - fertilization , whereas smaller seeds are obtained with a maternal genomic excess .
+The parental conflict theory ( 19 , 20 ) , proposed to account for these parent - of-origin effects , posits that the maternal plant will attempt to allocate resources equally among its progeny , whereas the paternal plant will try to maximize channeling of maternal resources to its progeny .
+Imprinting of maternal and paternal alleles expressed in the endosperm has been implicated to function in the control of seed mass ( reviewed in refs . ) .
+In this study , we focus on the role of Arabidopsis APETALA2 ( AP2 ) in controlling seed mass .
+AP2 encodes the founding member of a family of plant - specific transcription factors that contains an AP2 / EREBP ( ethylene responsive element binding protein ) domain , a conserved region of aa involved in DNA binding ( ) .
+This transcription factor is involved in the specification of flower organ identity , establishment of flower meristem identity , and suppression of flower meristem indeterminancy ( 25 , ) .
+AP2 is also required for ovule and seed coat development ( 24 , 32 , 33 ) .
+Although the most conspicuous function of AP2 is in flower development , its transcripts are not restricted to flowers but are detected in leaves , stems , and seedlings also ( 24 , 34 ) , opening the possibility of a more global function for AP2 .
+Here , we identify a previously undescribed function for AP2 by showing that loss - of-function ap2 mutations cause increases in seed mass .
+It has been reported that expression of the ERF genes including AtEBP is regulated by AP2 activity ( Okamuro et al. , 1997 ) .
+This observation lead to the investigation of the transcriptional regulation of AP2 / EREBP domain - containing genes in the current study .
+To investigate the relationships in the transcriptional regulation of AP2 and AtEBP , an analysis was made of the expression patterns of AP2 and ERF genes such as AtEBP and AtERF1 in different tissues ( flowers , stems and leaves ) .
+To avoid cross - hybridization among AP2 , AtEBP and AtERF1 , each specific probe was used for Northern blot hybridization ( Fig . ) .
+In the wild type ( WT ) , the AtEBP mRNA level was high in leaves and low in flowers , while AP2 mRNA levels were low in all the tissues analysed ( flowers , stems and leaves ) .
+There is a point - mutation in the AP2 / EREBP domain of AP2 ( residue Gly -159 to Glu ) in the ap 2-5 mutant , which leads to reduced transcriptional activity of AP2 ( Jofuku et al. , 1994 ) .
+As a result , the floral homeotic phenotype was observed .
+To test whether AP2 activity affects the AtEBP expression , we investigated mRNA accumulation of AtEBP in ap 2-5 .
+In ap 2-5 , the AtEBP mRNA level was increased in flowers , leaves and stems .
+The AP2 mRNA level of ap 2-5 was also increased , especially in flowers and leaves , suggesting that AP2 activity also suppresses its own AP2 gene expression .
+The expression pattern of AtERF1 was similar to that of AtEBP : the AtERF1 mRNA level of ap 2-5 increased in flowers , leaves and stems compared with the WT . mRNA accumulation of these genes was examined in ap 2-7 , and similar results were obtained ( data not shown ) .
+These results may suggest that AP2 represses the expression of ERF genes such as AtEBP , AtERF1 and the AP2 gene itself .
+MADS - domain proteins comprise a large family of regulatory factors that have been identified in all eukaryotic kingdoms , and are involved in a diverse array of biological functions ( for reviews , see Becker and Theissen , 2003 ; Messenguy and Dubois , 2003 ; Kaufmann , 2005 ) .
+Plants uniquely possess a subclass of MADS factors referred to as MIKC , members of which contain a second weakly conserved coiled - coil motif ( the K domain ) .
+Compared with other kingdoms plants have greatly expanded the number of MADS - domain proteins , with the Arabidopsis genome encoding 107 members , 39 members of which are in the MIKC subfamily ( for a review , see , 2003 ) .
+AGAMOUS - like 15 ( AGL15 ; At5g13790 ) is a member of the MIKC subfamily , which consist of four domains : the MADS ( M ) , I , K , and C domains ( for a review , see Kaufmann , 2005 ) .
+The MADS domain itself is comprised of highly conserved amino acids , and it is this domain that associates with the DNA ( for a review , see Riechmann and Meyerowitz , 1997 ) .
+The intervening ( I ) domain is less conserved , but forms part of the minimal DNA - binding domain ( Riechmann , 1996 ) .
+MADS - domain proteins bind as either homo - or heterodimers to an A / T-rich cis element named the CArG motif ( C-A / T-rich - G , with a canonical sequence of CC[A / T]6GG ; for a review , see Riechmann and Meyerowitz , 1997 ) , and AGL15 has been shown to preferentially bind a CArG sequence with a longer A / T-rich core ( C[A / T]8G ) in vitro ( Tang and Perry , 2003 ) .
+The K domain is implicated in mediating interactions ( Riechmann , 1996 ) .
+The carboxyl - terminal ( C ) domain is the most divergent , and in some cases functions as a transactivation domain ( Cho , 1999 ; Honma and Goto , 2001 ; Lim , 2000 ; Moon , 1999 ; Ng and Yanofsky , 2001 ; Pelaz , 2001 ) or is involved in the formation of ternary complexes ( Egea - Cortines , 1999 ) .
+The literature contains a plethora of data demonstrating interactions between plant MADS - domain proteins ( Causier , 2003 ; Cseke , 2007 ; Egea - Cortines , 1999 ; Fan , 1997 ; Favaro , 2002 , 2003 ; de Folter , 2005 ; Honma and Goto , 2001 ; Immink , 2002 ; Jang , 2002 ; Lim , 2000 ; Mizukami , 1996 ; Moon , 1999 ; Shchennikova , 2004 ; Yang and Jack , 2004 ; Yang , 2003a , b ) , indicating the vast potential for modular - based regulation .
+There is also a rapidly growing body of knowledge where plant MADS are reported to interact with other factors , such as putative transcription factors ( Causier , 2003 ; Masiero , 2002 ) , or co-repressors ( Sridhar , 2006 ) , RNA - binding proteins ( Pelaz , 2001 ) , post - translational modifying factors ( Fujita , 2003Gamboa , 2001 ; Yalovsky , 2000 ) and others ( Cseke , 2007 ; Honma and Goto , 2001 ) .
+MADS - domain transcription factors may function as both transcriptional activators and repressors , depending on these interactions .
+For instance , ectopic expression of SEPALLATA3 ( SEP3 ) has been reported to induce AG expression outside of the floral context ( Castillejo , 2005 ) .
+However AP1 and SEP3 are also able to interact with the transcription co-repressors LEUNIG ( LUG ) and SEUSS ( SEU ) ( Sridhar , 2006 ) , which prevent ectopic AG transcription ( Franks , 2002 ; Liu and Meyerowitz , 1995 ) .
+Neither LUG nor SEU are predicted to encode a recognizable DNA - binding motif , but SEU has been shown to associate in vivo with an AG cis-regulatory region containing a putative CArG motif , perhaps through binding to DNA - bound SEP3 ( Sridhar , 2006 ) .
+AGL15 preferentially accumulates in a wide variety of tissues that develop in an embryonic mode ( Heck , 1995 ; Perry , 1996 , 1999 ; Rounsley , 1995 ) , and constitutive expression promotes somatic embryogenesis ( Harding , 2003 ) .
+AGL15 is expressed at lower levels after completion of germination in restricted sets of cells ( Fernandez , 2000 ) .
+Research in our lab has identified a number of downstream targets of AGL15 ( Tang and Perry , 2003 ; Wang , 2002 ; Wang , 2004 ; Zhu and Perry , 2005 ; unpublished data ) , and although some of these target genes are induced in response to AGL15 , others are repressed .
+A number of direct target genes have been analyzed that exhibit strong association with AGL15 in vivo ; yet in vitro , AGL15 binds only weakly .
+Taken together these data suggest that AGL15 may form heterodimers , or ternary complexes with other proteins , thus modulating the specificity and function of AGL15 in planta .
+AGL15 possesses the ability to directly interact with other MADS - domain proteins ( de Folter , 2005 ; this study ) , some of which have overlapping expression patterns ( de Folter , 2005 ; Lehti - Shiu , 2005 ) .
+Although AGL15 has been reported as a protein co-purifying in the same complex as SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 ( SERK1 ; Karlova , 2006 ) , no direct interaction between AGL15 and a non-MADS domain protein has yet been reported .
+Here we report that AGL15 interacts with members of the SIN3 histone deacetylase ( HDAC ) complex , and that a conserved LxLxL motif present in the C-terminal domain of AGL15 , which has been shown to be involved in transcriptional repression in other proteins ( Ohta , 2001 ; Tiwari , 2004 ) , is required for its association with one member of this complex , named SIN3 - associated polypeptide of ( SAP18 ) , in yeast two-hybrid studies .
+We also show that AGL15 functions as a transcriptional repressor in vivo , and that the region where the LxLxL motif resides is essential to the repressive function .
+The interaction of AGL15 with members of the SIN3 / HDAC1 complex suggests a mechanism that could explain its function as a transcriptional repressor in planta .
+The interaction of AGL15 with members of the SIN3 / HDAC1 complex suggests a mechanism that could explain its function as a transcriptional repressor in planta Histone deacetylase ( HDAC ) enzymes remove acetyl groups from histones , and hypoacetylation results in a decrease in the space between the nucleosome and the DNA that is wrapped around it .
+Tighter wrapping of the DNA diminishes accessibility for transcription factors , leading to transcriptional repression ( for a review , see de Ruijter , 2003 ) .
+SIN3 - associated proteins ( SAP18 and SAP30 ) have been hypothesized to stabilize the interaction ( discussed by Silverstein and Ekwall , 2005 ) .
+SAP18 , like other core members of the SIN3 / HDAC1 complex , is not believed to directly associate with the chromatin ( reviewed by Silverstein and Ekwall , 2005 ) , but does interact with sequence - specific DNA binding proteins ( e.g. , Espinas , 2000 ; Song and Galbraith , 2006 ; Zhu and Hanes , 2000 ; this study ) , implicating it as a bridge protein connecting the core SIN3 / HDAC1 complex targeted genes .
+When directed to regulatory regions of genes , SAP18 or other components of the HDAC complex lead to repression of gene expression ( Song and Galbraith , 2006 ; Song , 2005 ; Wu , 2000 ; Yang , 1996 ; Zhang , 1997 ; Zhu , 2001 ) .
+We demonstrated that SAP18 is able to associate with DNA - bound AGL15 in vitro , but is not able to directly interact with a strong AGL15 binding site ( Figure 7 ) .
+Likewise , SAP18 also interacts with DNA - bound ERF3 in vitro , but not with the ERF3 binding site ( Song and Galbraith , 2006 ) .
+As an outstanding adaptation of terrestrial plants , seed formation favors dispersal of species and allows the interruption of the life cycle and its resumption once optimal growth conditions are newly established ( for review , see Vicente - Carbajosa and Carbonero , 2005 ; Weber et al. , 2005 ; Santos - Mendoza et al. , 2008 ) .
+Seeds are formed after a double fertilization event , triggering the development of a complex organ , which comprises the embryo , the endosperm , and the seed coat derived from the integuments and other surrounding layers of maternal origin .
+Seed development can be divided into three phases : first , embryogenesis is characterized by cell division and differentiation until embryo morphology is established .
+Second , the maturation phase is dominated by storage compound accumulation , growth arrest , and acquisition of desiccation tolerance .
+Third , the embryo can enter into a dormancy state that is broken upon germination .
+With respect to seed morphology , physiology , and gene regulation , considerable variations occur among species .
+Arabidopsis thaliana has been developed as a well - established model system for dicot seed development , and several similarities and differences with monocot model systems have been described ( Vicente - Carbajosa and Carbonero , 2005 ; Santos - Mendoza et al. , 2008 ) .
+Important programs of gene expression related to the metabolic changes that occur during seed maturation are highly coordinated and tightly regulated ( Gutierrez et al. , 2007 ) .
+An understanding of gene expression control in the seed was tackled from early studies in plant molecular biology , with maize ( Zea mays ) Opaque2 ( O2 ) representing a hallmark as one of the first plant transcription factor ( TF ) genes cloned and characterized ( Hartings et al. , 1989 ; Schmidt et al. , 1990 ) .
+Similarly , orthologous genes from wheat ( Triticum aestivum ) ( SPA ) and barley ( Hordeum vulgare ) ( BLZ2 ) play the same roles as O2 in their corresponding species ( Albani et al. , 1997 ; et al. , 1999 ) .
+In dicot species , key TFs have been characterized that control gene expression programs during seed maturation .
+The class of maturation genes ( MAT ) expressed during seed maturation typically includes seed storage protein ( SSP ) genes , such as albumin and cruciferin genes , which are induced in early or mid-maturation phase .
+The late embryogenesis abundant ( LEA ) genes are induced at later stages of maturation and include genes proposed to be involved in acquisition of desiccation tolerance ( for review , see Tunnacliffe and Wise , 2007 ) .
+MAT promoter analyses have revealed several conserved cis-regulatory elements with functional relevance in the control of gene expression during seed maturation .
+Among them , G-box - related ACGT elements , RY ( CATGCA ) , AACA , and CTTT motifs are the best described examples ( for review , see Vicente - Carbajosa and Carbonero , 2005 ) .
+The corresponding associated TFs belong to the basic leucine zipper ( bZIP ) , B3 , MYB , and DOF TF families , respectively .
+Cooperation of these regulatory units in the control of gene expression appears to be an evolutionarily conserved pattern that can be traced back to the origins of the Spermaphyta ( Vicente - Carbajosa and Carbonero , 2005 ; Schallau et al. , 2008 ) .
+TFs of the bZIP class , related to cereal O2 - type TFs , have been identified in Arabidopsis ( Lara et al. , 2003 ) , namely , bZIP10 and bZIP25 , which have been classified into group C of the Arabidopsis bZIP TF family ( Jakoby et al. , 2002 ) .
+Expression during seed development , specific binding to G-box - like ACGT elements of the albumin and cruciferin promoters , and in vivo regulation of these target genes have been demonstrated ( Lara et al. , 2003 ) .
+After the biochemical pathways producing storage lipids in oilseed species like Brassica napus or Arabidopsis thaliana were largely described ( Voelker and Kinney , 2001 ) , the elucidation of the regulation of oil synthesis has become a major challenge ( Ohlrogge and Jaworski , 1997 ) .
+Complementary studies carried out on developing seeds and / or embryos have established that the biosynthetic pathways for fatty acids and lipids are largely regulated at the level of transcription ( Fawcett , 1994 ; Hara , 2002 ; Baud and Graham , 2006 ) .
+In A . , microarray analyses have been used to characterize the or differential timing of the expression of genes involved in fatty - acid biosynthesis and lipid metabolism during seed maturation ( Ruuska , 2002 ) .
+Genes related to the biosynthesis and storage of triacylglycerols ( TAGs ) show several distinct temporal expression patterns .
+For instance , a number of genes encoding fatty acid synthesis enzymes display a bell - shaped pattern of expression at the onset of the maturation phase , whereas the expression of fatty - acid modifying enzymes and oleosins increases later ( Baud and Lepiniec , 2009 ) .
+The observation that the mRNAs of several genes encoding enzymes of the fatty acid biosynthetic pathway accumulate in a coordinated manner strongly suggests that those members of the pathway are co-regulated , and presumably share common cis - and trans - regulatory elements .
+This hypothesis has been strengthened by the isolation and characterization of the WRINKLED1 ( WRI1 ) transcription factor ( Focks and Benning , 1998 ; Cernac and Benning , 2004 ; Masaki , 2005 ) .
+WRI1 is a direct target of LEAFY COTYLEDON2 ( LEC2 ) that specifies the regulatory action of this master regulator of seed maturation towards fatty acid metabolism ( Baud , 2007a ) .
+Putative targets of WRI1 encode enzymes of late glycolysis , the fatty acid synthesis pathway , and the biotin and lipoic acid biosynthetic pathways ( Ruuska , 2002 ; Baud , 2007a ) .
+WRI1 is a member of the APETALA2 / ethylene - responsive element binding ( AP2 / EREBP ) proteins , one of the largest transcription factor families in A . ( Riechmann , 2000 ) .
+This family is best characterized by a common AP2 domain of about 60 amino acids that is important for DNA binding ( Jofuku , 1994 ; Okamuro , 1997 ; Riechmann and Meyerowitz , 1998 ; Sakuma , 2002 ) .
+While the AP2 / EREBP transcription factor family is unique to plants , proteins containing homologues of the AP2 domain have been identified in cyanobacteria , ciliates and viruses , where they are predicted to function as mobile endonucleases ( Magnani , 2004 ; Wessler , 2005 ; Shigyo , 2006 ) .
+Based on the presence of the conserved AP2 - like domains , 147 proteins were identified as belonging to the AP2 / EREBP family in A . ( Feng , 2005 ) .
+The AP2 / EREBP family members are classified in groups based on the number of AP2 domains and the presence of other domains .
+The EREBP family ( 122 members ) , which has a single AP2 domain , is composed of two subgroups , namely the ERF ( 65 members ) and DREB subfamilies ( 57 members ) .
+Proteins of the RAV family ( six members ) contain one AP2 domain and a second DNA binding domain ( the B3 - like domain ) .
+The AP2 family ( 19 members ) , which has two AP2 domains , is further divided into two monophyletic groups , the APETALA2 - like and AINTEGUMENTA ( ANT ) - like groups .
+Depending on the publications , the WRI1 - like group , composed of WRI1 , At2g41710 , At1g16060 and At1g79700 , is either presented as a third monophyletic group of the AP2 family ( Nole - Wilson , 2005 ) or as a part of the ANT - like group ( Shigyo , 2006 ) .
+DNA binding specificity has been studied for proteins that contain a single AP2 repeat .
+Proteins of the ERF subfamily bind to ethylene response elements ( ERE ) or GCC boxes .
+These boxes consist of 11-bp sequences ( TAAGAGGCCGCC ) exhibiting a GCCGCC core required for protein binding ( Ohme - Takagi and Shinshi , 1995 ; Fujimoto , 2000 ; Song , 2005 ) .
+The solution structure of the AP2 domain of AtERF1 bound to the GCC box has been determined ( Allen , 1998 ) .
+Proteins of the DREB subfamily bind to dehydration response elements ( DREs ) / C-repeats containing the core sequence CCGAC ( Baker , 1994 ) .
+The single AP2 repeat of the RAV1 transcription factor has been shown to bind to a CAACA motif , whereas the B3 domain binds to a CACCTG sequence ( Kagaya , 1999 ) .
+Little is known about the interactions between members of the AP2 family of proteins and DNA .
+A consensus binding sequence of the AINTEGUMENTA ( ANT ) protein determined is - gCAC(A / G)N(A / T)TcCC(a / g)ANG(c / t ) -3 ( Nole - Wilson and Krizek , 2000 ) .
+This consensus is much longer than sites recognized by proteins containing a single AP2 repeat .
+Each AP2 repeat of ANT contacts juxtaposed subsites within the consensus sequence , demonstrating that ANT utilizes a mode of DNA recognition distinct from that used by proteins containing a single AP2 domain ( Krizek , 2003 ) .
+To date , given the lack of information about the binding properties of proteins of the AP2 - like and WRI1 - like groups , it has not been possible to determine whether all of the transcription factors of the AP2 family share a similar mode of DNA recognition .
+In this paper , it is shown that WRI1 can be used in a seed - specific manner to enhance the transcription level of glycolytic and fatty acid biosynthetic genes in tissues where these genes are already expressed .
+Consistent with this , it is demonstrated that WRI1 is able to regulate the activity of the BCCP2 and PKp - promoters .
+In addition , electrophoretic mobility - shift assays and yeast one-hybrid experiments show that WRI1 is able to interact with the BCCP2 promoter .
+These results strongly suggest that WRI1 , which is a limiting factor of lipogenic gene expression in seeds , directly induces the transcriptional activation of these genes at the onset of the maturation phase .
+Functional dissections of the PKp - and BCCP2 promoters allow isolating putative binding sites to be present in several target promoters of WRI1 .
+Finally , the modification of the consensus sequence thus isolated modulates the strength of the interaction between WRI1 and the BCCP2 promoter , both in vitro and in yeast , as well as the activity of the promoter .
+Taken together , these results provide original insights into our understanding of the transcriptional activation of the glycolytic and fatty acid biosynthetic pathways in A . , and they pave the way for further analyses aimed at elucidating the regulatory network controlling oil accumulation in seeds .
+Therefore , some of the earliest roles of miRNAs are to prevent the precocious expression of differentiation - promoting transcription factors during early embryogenesis and to enable proper pattern formation .
+Early dcl1 mutant embryos lack miR156 and exhibit premature expression of miR156 targets SPL10 and SPL11 , which in turn induces precocious expression of genes normally induced during the maturation phase of embryogenesis .
+We propose that additional plant miR160 , miR166 , and forestall expression of differentiation - promoting transcription factors such as ARF17 , CNA , PHB , PHV , and TCP4 .
+A link between delayed reduction of maternal transcripts and the morphogenesis phenotypes observed in MZdicer embryos awaits experimental confirmation .
+The same is true for the precocious expression of maturation transcripts and the patterning phenotypes observed in dcl1 embryos , although SPL10 and SPL11 have been experimentally linked to defects in both patterning and maturation gene expression .
+One of the earliest perceptible roles of plant miRNAs is to repress transcription factors ( Fig . 2C ) .
+We propose that , by repressing differentiation - promoting transcription factors ( including SPL10 , SPL11 , ARF17 , CNA , PHB , PHV , and TCP4 ) , miRNAs maintain the potential of preglobular cells to generate diverse cell types at the subsequent globular stages .
+Since the reduction of WOX2 transcripts in dcl1 eight - cell embryos was the first detectable differentiation defect , and homeobox genes related to WOX2 have been implicated in maintaining stem cells during post - embryonic development ( Laux et al. 1996 ; Mayer et al. 1998 ; Wu et al. 2005 ) , we speculate that premature expression of miRNA targets leads to the reduction of WOX2 transcripts in dcl1 embryos and ultimately contributes to precocious differentiation and subsequent loss of developmental potential in preglobular cell types .
+The two transcription factor genes that were most derepressed in eight - cell dcl1 embryos were miR156 targets SPL10 and SPL11 , for which transcripts were up-regulated - fold ( - fold if only the homozygous mutant embryos contributed to the increase ) .
+These two genes were redundantly required for the embryonic patterning defects observed in dcl1 embryos ( Table 1 ; Fig . 4A , D ) .
+The ability to suppress such a pleiotropic phenotype by knocking out / down only two miRNA targets was surprising when considering that dozens of miRNA targets were derepressed in dcl1 embryos .
+However , miR156 - resistant SPL10 and SPL11 transgenes did not phenocopy dcl1 embryos , which suggests that the misregulation of additional targets contributes to the patterning defects observed .
+Consistent with this idea , at least seven miRNA target transcripts in addition to SPL10 and SPL11 have increased levels as early as the eight - cell stage , and all of these encode transcription factors .
+Of these seven misregulated targets , five ( ARF17 , CNA , PHB , PHV , and TCP4 ) have reported embryonic functions after the preglobular stage ( Palatnik et al. 2003 ; Mallory et al. 2005 ; Prigge et al. 2005 ) . miR166 - mediated regulation of PHB and PHV has also been reported to be important during early embryonic patterning ( Grigg et al. 2009 ) .
+However , phb phv double mutants do not suppress dcl1 - null embryonic phenotypes ( Grigg et al. 2009 ) , suggesting that the misregulation of other miRNA targets is required for the dcl1 embryonic phenotypes .
+Perhaps the loss of both miR156 - mediated regulation of SPL transcripts and miR166 - mediated regulation of HD - ZIPIII transcripts in dcl1 embryos is responsible for the embryonic patterning phenotypes observed .
+Future characterization of how multiple miRNA / target interactions facilitate embryonic cell differentiation will contribute to a better understanding of how the basic plant body plan is established during embryo morphogenesis .
+We also report previously uncharacterized roles of miR156 - mediated SPL gene repression during embryogenesis .
+After morphogenesis , seed plant embryos transition to a maturation phase , when they accumulate storage proteins , undergo desiccation tolerance , and prepare to enter into a state of dormancy prior to germination .
+We found that miR156 - mediated regulation of SPL10 and SPL11 prevents the transcription factor products of these genes from prematurely inducing seed maturation genes before the embryo has formed .
+To the extent that this regulation forestalls the morphogenesis-to - maturation - phase transition , this newly identified role for miR156 - mediated repression of SPL genes resembles that observed for vegetative - , reproductive - , and meristem identity - phase transitions during post - embryonic development ( Wu and Poethig 2006 ; Gandikota et al. 2007 ; Schwarz et al. 2008 ; Wang et al. 2009 ; Wu et al. 2009 ; Yamaguchi et al. 2009 ) .
+This role for SPL10 and SPL11 repression might be tied to the requirement of these targets for the patterning defects observed in dcl1 embryos .
+Perhaps the premature induction of maturation - phase genes arrests morphogenesis before it is complete .
+Later in development , the miR156 - mediated repression of SPL10 and SPL11 must presumably be overcome in order for the embryo to undergo the morphogenesis-to - maturation transition .
+Although miR156 levels do not appear to decrease at later stages of morphogenesis ( Fig . 3A ) , SPL10 and SPL11 promoter activities do increase at the same stages that the morphogenesis-to - maturation - phase transition occurs ( Fig . 5 ) .
+Therefore , at later stages of morphogenesis , miR156 may establish a threshold that SPL10 and SPL11 transcript levels must surpass in order to accumulate and promote maturation - phase gene expression programs .
+Despite the characterization of hormonal , metabolic , and genetic factors involved in embryo maturation ( Nambara and Marion - Poll 2003 ; Weber et al. 2005 ; Braybrook and Harada 2008 ) , the regulatory mechanisms that control the morphogenesis-to - maturation - phase transition are still not well understood .
+Multiple factors may influence SPL10 and SPL11 transcript levels and ultimately regulate the timing of the morphogenesis-to - maturation - phase transition .
+Further characterization of the embryonic functions of SPL transcription factors may provide a handle to acquire a better molecular understanding of the morphogenesis-to - maturation - phase transition .
+Interestingly , after the heart stage , fus 3-3 dcl 1-15 and lec 2-1 dcl 1-15 embryos have high levels of chlorophyll and pAt2S3 : GFP , something not seen in either fus 3-3 or lec 2-1 embryos ( Meinke et al. , 1994 ; Kroj et al. , 2003 ; To et al. , 2006 ) , suggesting that after that stage , other miRNA - regulated factors can compensate for the absence of LEC2 or FUS3 .
+To gain insight into possible relationships in gene coexpression and regulation , we first identified the expression patterns for several TFs known to regulate the accumulation of seed storage reserves ( Figure 6 ) .
+AGL15 ( AGAMOUS - LIKE 15 ) , GL2 ( GLABRA2 ) , LEC1 , L1L , and WRI1 exhibited similar expression patterns with most genes encoding proteins involved in FA biosynthesis ( Figure 6A ) whereas ABI3 , EEL , and FUS3 all have similar expression profiles with genes encoding oleosins and SSPs ( Figure 6B ) .
+Two repressors of seed maturation genes , ASIL1 ( ARABIDOPSIS 6B - INTERACTING PROTEIN 1-LIKE 1 ) [ 69 ] and PICKLE ( PKL ) [ 70 ] , were modestly expressed and exhibited a stable expression pattern throughout seed maturation ( Figure 6C ) .
+Surprisingly , LEC2 , a TF gene known to regulate oil accumulation in leaves and somatic embryogenesis [ 10 , 14 , 16 ] , was barely detectable in these developing seeds .
+Although this result requires verification with other molecular methods , it was previously reported that LEC2 might be only expressed during early embryo morphogenesis [ 15 ] .
+Additionally , based on phenotype descriptions of LEC1 , LEC2 mutants in the Arabidopsis Information Resource ( TAIR ) [ 71 ] , the accumulation of storage compounds in the mature lec2 mutant seeds is only slightly defective when compared to lec1 mutant seeds .
+Therefore , the role of LEC2 as a regulator in the synthesis of seed storage reserves during late stages of zygotic embryo development might not be as important as currently thought .
+Likewise , ABI4 was also essentially unexpressed in these seed samples .
+The expression similarity between genes encoding TFs and their target genes is suggestive of regulatory relationships .
+Both LEC1 and WRI1 were clustered with most FA biosynthetic genes , while ABI5 was clustered with the majority of LATE - EMBRYOGENESIS ABUNDANT ( LEA ) genes ( Figure 3 Cluster 3 ) .
+LEC1 and WRI1 are known to regulate many FA biosynthetic genes [ 25-27 ] , and ABI5 regulates a subset of LEAs [ 72 ] .
+Higher plant embryogenesis is divided conceptually into two distinct phases : early morphogenetic processes that give rise to embryonic cell types , tissues , and organ systems , and late maturation events that allow the fully developed embryo to enter a desiccated and metabolically quiescent state ( ) .
+Upon reception of the appropriate signals , the dormant embryo germinates , and seedling development begins .
+Thus , seed maturation and metabolic quiescence interrupt the morphogenetic processes that occur during embryogenesis and seedling development .
+This unique form of development underlies , in part , a plant's ability to make seeds , a trait that has conferred significant selective advantages to higher plants ( Steeves 1983 ) .
+Because lower plants do not make seeds and do not undergo embryo maturation , this bipartite mode of embryogenesis is thought to have resulted from the insertion of maturation events into the higher plant life cycle ( reviewed by [ 51 ] , ) .
+Little is known at the mechanistic level about how distinct processes that occur during the morphogenesis and seed maturation phases are coordinated .
+Genetic strategies employed to identify regulators of Arabidopsis thaliana embryo development have distinguished several gene classes that affect embryogenesis .
+One class of mutations , including raspberry , tinman , and abnormal suspensor ( [41] , [ 56 ] , ; T. L. et al , unpublished data ) , causes the arrest of embryo morphogenesis .
+Many of the corresponding proteins are involved in basic cellular functions and probably do not perform direct regulatory roles .
+A second class of genes predicted to play a role in embryonic pattern formation has been identified ( Mayer et al. 1991 ) .
+The expression patterns of two such genes , EMB30 ( GNOM ) and KNOLLE , suggest that they do not function specifically during embryogenesis ( ) .
+Another class , including SHOOTMERISTEMLESS and SCARECROW , is active in the developing shoot or root apical meristems ( ) .
+Although these genes play key roles in meristem function , they are required for meristem formation during both embryogenesis and postembryonic development .
+ABSCISIC ACID INSENSITIVE3 ( ABI3 ) , a fourth gene class , encodes an embryo - specific transcription factor that regulates genes expressed during seed maturation ( ) .
+However , its function is limited to the late stages of embryogenesis .
+Although each of these gene classes is essential for embryo development , none appears to act specifically during embryogenesis to control both the morphogenesis and maturation phases .
+The LEAFY COTYLEDON1 ( LEC1 ) gene , by contrast , controls many distinct aspects of embryogenesis ( Meinke 1992Meinke , 1992 , 1994 ; ) .
+As summarized in Figure 1 , the lec1 mutation is pleiotropic , indicating several roles in late embryo development .
+LEC1 is required for specific aspects of seed maturation . lec1 mutant embryos are intolerant of desiccation and show defects in the expression of some , but not all , maturation - specific genes ( [28] , ) .
+LEC1 is also involved in inhibiting premature germination . lec1 mutant embryos exhibit morphological and molecular characteristics of both embryogenesis and postgerminative seedling development , showing that aspects of both programs can occur simultaneously ( Meinke 1992Meinke , 1992 , 1994 ; West et al. 1994 ) .
+LEC1 plays a role in the specification of embryonic organ identity as well .
+Embryonic leaves or cotyledons of lec1 mutants possess trichomes , epidermal hairs , which normally form only on leaves and stems in Arabidopsis ( ) .
+The anatomy of lec1 mutant cotyledons is intermediate between those of a wild - type cotyledon and a leaf ( West et al. 1994 ) .
+Finally , LEC1 appears to act only during embryo development .
+Desiccation - intolerant lec1 embryos can be rescued from plants before desiccation and germinated to produce homozygous mutant plants that are fertile and that do not display any obvious vegetative or floral mutant phenotypes ( ) .
+Two other LEC class genes , LEC2 and FUSCA3 ( FUS3 ) , are thought to share similar or overlapping functions with LEC1 , including the specification or cotyledon identity and the maintenance of maturation ( [2] , ) .
+Although nothing has been reported about how LEC class genes act at the molecular level , their involvement in many diverse aspects of embryogenesis suggests that these genes serve as regulators of higher plant embryonic processes .
+Figure 1 . Effects of the lec1 Mutation on Embryo DevelopmentMajor differences between wild - type and lec1 mutant embryos are as follows .
+Embryo shape : the axes of mutant embryos are short , and their cotyledons are round and do not curl .
+Anthocyanin generally accumulates at the tips of mutant cotyledons .
+Precocious germination : the shoot apical meristems of lec1 embryos are activated in that they are domed and possess leaf primordia , unlike their wild - type counterparts that are flat and do not contain leaf primordia .
+Defects in seed maturation : lec1 mutant embryos are intolerant of desiccation and normally die if dried on the plant .
+However , lec1 embryos isolated before desiccation can be germinated to produce fertile homozygous mutant plants .
+The promoter of a 7S storage protein gene that is normally active during wild - type embryogenesis is not active in the lec1 mutant .
+Incomplete specification of cotyledon identity : lec1 seedlings possess trichomes on cotyledons .
+Trichomes are present on Arabidopsis leaves and stems but not on wild - type cotyledons . a , axis ; c , cotyledon ; SAM , shoot apical meristem .
+View thumbnail imagesView high quality image (116K)In this paper , we report the isolation of the LEC1 gene and show that it encodes a homolog of a conserved eukaryotic transcription factor .
+Expression studies showed that the LEC1 gene is active only within seeds during both early and late seed development .
+Ectopic expression of the LEC1 gene induces embryonic programs and embryo development in vegetative cells .
+We suggest that LEC1 is an important transcriptional regulator required for both early and late embryogenesis that controls and coordinates higher plant embryo development .
+The late stages of embryogenesis in higher plants are dominated by seed formation during which vegetative growth of the embryo is halted and storage reserves are accumulated .
+In addition , the embryo develops desiccation tolerance to prevent damage by the loss of water at the end of ripening ( Goldberg 1994 ; Hughes & Galau 1989 ; & Mayer 1994 ; West & Harada 1993 ) .
+By means of seed formation , the plant embryo acquires a quiescent and protected state which allows it to outlast unfavourable environmental conditions such as drought .
+Under more suitable circumstances , germination can be initiated and further postembryonic vegetative development commences .
+In Arabidopsis thaliana , recessive mutations in the FUSCA3 gene ( FUS3 ) lead to a complex phenotype specifically affecting seed formation ( 1994 ; Keith 1994 ) .
+Particularly , fus3 embryos are defective in producing 12S and 2S seed proteins as well as storage lipids but accumulate large amounts of anthocyanin .

@@ -1,0 +1,318 @@
+EXAMPLE1680  T2	Genotype 9 22	higher plants T1	Tissue 0 5	Seeds
+EXAMPLE1681  T4	Tissue 124 140	vegetative plant T3	Tissue 94 100	embryo
+EXAMPLE1682  T6	Development_Phase 285 302	developing embryo T7	Tissue 296 302	embryo
+EXAMPLE1683  T6	Development_Phase 285 302	developing embryo T5	Tissue 221 230	endosperm
+EXAMPLE1684  T6	Development_Phase 285 302	developing embryo T8	Development_Phase 310 330	germinating seedling
+EXAMPLE1685  T7	Tissue 296 302	embryo T5	Tissue 221 230	endosperm
+EXAMPLE1686  T7	Tissue 296 302	embryo T8	Development_Phase 310 330	germinating seedling
+EXAMPLE1687  T5	Tissue 221 230	endosperm T8	Development_Phase 310 330	germinating seedling
+EXAMPLE1688  T10	Tissue 490 496	embryo T11	Tissue 501 510	endosperm
+EXAMPLE1689  T10	Tissue 490 496	embryo T9	Tissue 461 470	seed coat
+EXAMPLE1690  T11	Tissue 501 510	endosperm T9	Tissue 461 470	seed coat
+EXAMPLE1691  T14	Development_Phase 543 549;566 572;596 605	Growth of the seed coat T15	Development_Phase 554 579	development of the embryo
+EXAMPLE1692  T14	Development_Phase 543 549;566 572;596 605	Growth of the seed coat T16	Development_Phase 554 572;596 605	development of the seed coat
+EXAMPLE1693  T14	Development_Phase 543 549;566 572;596 605	Growth of the seed coat T17	Development_Phase 554 572;581 590	development of the endosperm
+EXAMPLE1694  T14	Development_Phase 543 549;566 572;596 605	Growth of the seed coat T12	Development_Phase 543 549;566 572;581 590	Growth of the endosperm
+EXAMPLE1695  T14	Development_Phase 543 549;566 572;596 605	Growth of the seed coat T13	Development_Phase 543 549;566 579	Growth of the embryo
+EXAMPLE1696  T14	Development_Phase 543 549;566 572;596 605	Growth of the seed coat T21	Tissue 641 652	mature seed
+EXAMPLE1697  T14	Development_Phase 543 549;566 572;596 605	Growth of the seed coat T20	Tissue 596 605	seed coat
+EXAMPLE1698  T14	Development_Phase 543 549;566 572;596 605	Growth of the seed coat T18	Tissue 573 579	embryo
+EXAMPLE1699  T14	Development_Phase 543 549;566 572;596 605	Growth of the seed coat T19	Tissue 581 590	endosperm
+EXAMPLE1700  T15	Development_Phase 554 579	development of the embryo T16	Development_Phase 554 572;596 605	development of the seed coat
+EXAMPLE1701  T15	Development_Phase 554 579	development of the embryo T17	Development_Phase 554 572;581 590	development of the endosperm
+EXAMPLE1702  T15	Development_Phase 554 579	development of the embryo T12	Development_Phase 543 549;566 572;581 590	Growth of the endosperm
+EXAMPLE1703  T15	Development_Phase 554 579	development of the embryo T13	Development_Phase 543 549;566 579	Growth of the embryo
+EXAMPLE1704  T15	Development_Phase 554 579	development of the embryo T21	Tissue 641 652	mature seed
+EXAMPLE1705  T15	Development_Phase 554 579	development of the embryo T20	Tissue 596 605	seed coat
+EXAMPLE1706  T15	Development_Phase 554 579	development of the embryo T18	Tissue 573 579	embryo
+EXAMPLE1707  T15	Development_Phase 554 579	development of the embryo T19	Tissue 581 590	endosperm
+EXAMPLE1708  T16	Development_Phase 554 572;596 605	development of the seed coat T17	Development_Phase 554 572;581 590	development of the endosperm
+EXAMPLE1709  T16	Development_Phase 554 572;596 605	development of the seed coat T12	Development_Phase 543 549;566 572;581 590	Growth of the endosperm
+EXAMPLE1710  T16	Development_Phase 554 572;596 605	development of the seed coat T13	Development_Phase 543 549;566 579	Growth of the embryo
+EXAMPLE1711  T16	Development_Phase 554 572;596 605	development of the seed coat T21	Tissue 641 652	mature seed
+EXAMPLE1712  T16	Development_Phase 554 572;596 605	development of the seed coat T20	Tissue 596 605	seed coat
+EXAMPLE1713  T16	Development_Phase 554 572;596 605	development of the seed coat T18	Tissue 573 579	embryo
+EXAMPLE1714  T16	Development_Phase 554 572;596 605	development of the seed coat T19	Tissue 581 590	endosperm
+EXAMPLE1715  T17	Development_Phase 554 572;581 590	development of the endosperm T12	Development_Phase 543 549;566 572;581 590	Growth of the endosperm
+EXAMPLE1716  T17	Development_Phase 554 572;581 590	development of the endosperm T13	Development_Phase 543 549;566 579	Growth of the embryo
+EXAMPLE1717  T17	Development_Phase 554 572;581 590	development of the endosperm T21	Tissue 641 652	mature seed
+EXAMPLE1718  T17	Development_Phase 554 572;581 590	development of the endosperm T20	Tissue 596 605	seed coat
+EXAMPLE1719  T17	Development_Phase 554 572;581 590	development of the endosperm T18	Tissue 573 579	embryo
+EXAMPLE1720  T17	Development_Phase 554 572;581 590	development of the endosperm T19	Tissue 581 590	endosperm
+EXAMPLE1721  T12	Development_Phase 543 549;566 572;581 590	Growth of the endosperm T13	Development_Phase 543 549;566 579	Growth of the embryo
+EXAMPLE1722  T12	Development_Phase 543 549;566 572;581 590	Growth of the endosperm T21	Tissue 641 652	mature seed
+EXAMPLE1723  T12	Development_Phase 543 549;566 572;581 590	Growth of the endosperm T20	Tissue 596 605	seed coat
+EXAMPLE1724  T12	Development_Phase 543 549;566 572;581 590	Growth of the endosperm T18	Tissue 573 579	embryo
+EXAMPLE1725  T12	Development_Phase 543 549;566 572;581 590	Growth of the endosperm T19	Tissue 581 590	endosperm
+EXAMPLE1726  T13	Development_Phase 543 549;566 579	Growth of the embryo T21	Tissue 641 652	mature seed
+EXAMPLE1727  T13	Development_Phase 543 549;566 579	Growth of the embryo T20	Tissue 596 605	seed coat
+EXAMPLE1728  T13	Development_Phase 543 549;566 579	Growth of the embryo T18	Tissue 573 579	embryo
+EXAMPLE1729  T13	Development_Phase 543 549;566 579	Growth of the embryo T19	Tissue 581 590	endosperm
+EXAMPLE1730  T21	Tissue 641 652	mature seed T20	Tissue 596 605	seed coat
+EXAMPLE1731  T21	Tissue 641 652	mature seed T18	Tissue 573 579	embryo
+EXAMPLE1732  T21	Tissue 641 652	mature seed T19	Tissue 581 590	endosperm
+EXAMPLE1733  T20	Tissue 596 605	seed coat T18	Tissue 573 579	embryo
+EXAMPLE1734  T20	Tissue 596 605	seed coat T19	Tissue 581 590	endosperm
+EXAMPLE1735  T18	Tissue 573 579	embryo T19	Tissue 581 590	endosperm
+EXAMPLE1736  T23	Development_Phase 716 732	seed development T22	Tissue 663 668	seeds
+EXAMPLE1737  T23	Development_Phase 716 732	seed development T25	Regulatory_Network 797 806	seed size
+EXAMPLE1738  T23	Development_Phase 716 732	seed development T24	Tissue 716 720	seed
+EXAMPLE1739  T23	Development_Phase 716 732	seed development T27	Tissue 797 801	seed
+EXAMPLE1740  T23	Development_Phase 716 732	seed development T26	Regulatory_Network 797 801;810 814	seed mass
+EXAMPLE1741  T22	Tissue 663 668	seeds T25	Regulatory_Network 797 806	seed size
+EXAMPLE1742  T22	Tissue 663 668	seeds T24	Tissue 716 720	seed
+EXAMPLE1743  T22	Tissue 663 668	seeds T27	Tissue 797 801	seed
+EXAMPLE1744  T22	Tissue 663 668	seeds T26	Regulatory_Network 797 801;810 814	seed mass
+EXAMPLE1745  T25	Regulatory_Network 797 806	seed size T24	Tissue 716 720	seed
+EXAMPLE1746  T25	Regulatory_Network 797 806	seed size T27	Tissue 797 801	seed
+EXAMPLE1747  T25	Regulatory_Network 797 806	seed size T26	Regulatory_Network 797 801;810 814	seed mass
+EXAMPLE1748  T24	Tissue 716 720	seed T27	Tissue 797 801	seed
+EXAMPLE1749  T24	Tissue 716 720	seed T26	Regulatory_Network 797 801;810 814	seed mass
+EXAMPLE1750  T27	Tissue 797 801	seed T26	Regulatory_Network 797 801;810 814	seed mass
+EXAMPLE1751  T29	Regulatory_Network 866 875	seed mass T28	Regulatory_Network 849 862	plant fitness
+EXAMPLE1752  T29	Regulatory_Network 866 875	seed mass T30	Tissue 866 870	seed
+EXAMPLE1753  T28	Regulatory_Network 849 862	plant fitness T30	Tissue 866 870	seed
+EXAMPLE1754  T34	Regulatory_Network 977 994	seedling survival T32	Tissue 877 881	Seed
+EXAMPLE1755  T34	Regulatory_Network 977 994	seedling survival T33	Regulatory_Network 921 936	number of seeds
+EXAMPLE1756  T34	Regulatory_Network 977 994	seedling survival T31	Regulatory_Network 877 886	Seed mass
+EXAMPLE1757  T32	Tissue 877 881	Seed T33	Regulatory_Network 921 936	number of seeds
+EXAMPLE1758  T32	Tissue 877 881	Seed T31	Regulatory_Network 877 886	Seed mass
+EXAMPLE1759  T33	Regulatory_Network 921 936	number of seeds T31	Regulatory_Network 877 886	Seed mass
+EXAMPLE1760  T41	Environmental_Factor 1218 1234	abiotic stresses T40	Environmental_Factor 1192 1213	resource restrictions
+EXAMPLE1761  T41	Environmental_Factor 1218 1234	abiotic stresses T38	Tissue 1117 1126	seedlings
+EXAMPLE1762  T41	Environmental_Factor 1218 1234	abiotic stresses T39	Genotype 1130 1149	large-seeded plants
+EXAMPLE1763  T41	Environmental_Factor 1218 1234	abiotic stresses T36	Regulatory_Network 1085 1107	large numbers of seeds
+EXAMPLE1764  T41	Environmental_Factor 1218 1234	abiotic stresses T37	Tissue 1102 1107	seeds
+EXAMPLE1765  T41	Environmental_Factor 1218 1234	abiotic stresses T35	Genotype 1002 1021	Small-seeded plants
+EXAMPLE1766  T40	Environmental_Factor 1192 1213	resource restrictions T38	Tissue 1117 1126	seedlings
+EXAMPLE1767  T40	Environmental_Factor 1192 1213	resource restrictions T39	Genotype 1130 1149	large-seeded plants
+EXAMPLE1768  T40	Environmental_Factor 1192 1213	resource restrictions T36	Regulatory_Network 1085 1107	large numbers of seeds
+EXAMPLE1769  T40	Environmental_Factor 1192 1213	resource restrictions T37	Tissue 1102 1107	seeds
+EXAMPLE1770  T40	Environmental_Factor 1192 1213	resource restrictions T35	Genotype 1002 1021	Small-seeded plants
+EXAMPLE1771  T38	Tissue 1117 1126	seedlings T39	Genotype 1130 1149	large-seeded plants
+EXAMPLE1772  T38	Tissue 1117 1126	seedlings T36	Regulatory_Network 1085 1107	large numbers of seeds
+EXAMPLE1773  T38	Tissue 1117 1126	seedlings T37	Tissue 1102 1107	seeds
+EXAMPLE1774  T38	Tissue 1117 1126	seedlings T35	Genotype 1002 1021	Small-seeded plants
+EXAMPLE1775  T39	Genotype 1130 1149	large-seeded plants T36	Regulatory_Network 1085 1107	large numbers of seeds
+EXAMPLE1776  T39	Genotype 1130 1149	large-seeded plants T37	Tissue 1102 1107	seeds
+EXAMPLE1777  T39	Genotype 1130 1149	large-seeded plants T35	Genotype 1002 1021	Small-seeded plants
+EXAMPLE1778  T36	Regulatory_Network 1085 1107	large numbers of seeds T37	Tissue 1102 1107	seeds
+EXAMPLE1779  T36	Regulatory_Network 1085 1107	large numbers of seeds T35	Genotype 1002 1021	Small-seeded plants
+EXAMPLE1780  T37	Tissue 1102 1107	seeds T35	Genotype 1002 1021	Small-seeded plants
+EXAMPLE1781  T43	Tissue 1246 1250	seed T42	Regulatory_Network 1246 1255	seed mass
+EXAMPLE1782  T45	Tissue 1421 1425	seed T44	Regulatory_Network 1421 1430	seed mass
+EXAMPLE1783  T48	Genotype 1553 1564	crop plants T47	Tissue 1511 1515	seed
+EXAMPLE1784  T48	Genotype 1553 1564	crop plants T46	Regulatory_Network 1511 1520	seed mass
+EXAMPLE1785  T47	Tissue 1511 1515	seed T46	Regulatory_Network 1511 1520	seed mass
+EXAMPLE1786  T49	Genotype 1614 1625	Arabidopsis T50	Regulatory_Network 1626 1635	seed mass
+EXAMPLE1787  T49	Genotype 1614 1625	Arabidopsis T51	Tissue 1626 1630	seed
+EXAMPLE1788  T49	Genotype 1614 1625	Arabidopsis T52	Genotype 1687 1699	small-seeded
+EXAMPLE1789  T49	Genotype 1614 1625	Arabidopsis T53	Genotype 1704 1716	large-seeded
+EXAMPLE1790  T49	Genotype 1614 1625	Arabidopsis T54	Regulatory_Network 1780 1789	seed mass
+EXAMPLE1791  T49	Genotype 1614 1625	Arabidopsis T55	Tissue 1780 1784	seed
+EXAMPLE1792  T49	Genotype 1614 1625	Arabidopsis T56	Regulatory_Network 1873 1887	sizes of seeds
+EXAMPLE1793  T50	Regulatory_Network 1626 1635	seed mass T51	Tissue 1626 1630	seed
+EXAMPLE1794  T50	Regulatory_Network 1626 1635	seed mass T52	Genotype 1687 1699	small-seeded
+EXAMPLE1795  T50	Regulatory_Network 1626 1635	seed mass T53	Genotype 1704 1716	large-seeded
+EXAMPLE1796  T50	Regulatory_Network 1626 1635	seed mass T54	Regulatory_Network 1780 1789	seed mass
+EXAMPLE1797  T50	Regulatory_Network 1626 1635	seed mass T55	Tissue 1780 1784	seed
+EXAMPLE1798  T50	Regulatory_Network 1626 1635	seed mass T56	Regulatory_Network 1873 1887	sizes of seeds
+EXAMPLE1799  T51	Tissue 1626 1630	seed T52	Genotype 1687 1699	small-seeded
+EXAMPLE1800  T51	Tissue 1626 1630	seed T53	Genotype 1704 1716	large-seeded
+EXAMPLE1801  T51	Tissue 1626 1630	seed T54	Regulatory_Network 1780 1789	seed mass
+EXAMPLE1802  T51	Tissue 1626 1630	seed T55	Tissue 1780 1784	seed
+EXAMPLE1803  T51	Tissue 1626 1630	seed T56	Regulatory_Network 1873 1887	sizes of seeds
+EXAMPLE1804  T52	Genotype 1687 1699	small-seeded T53	Genotype 1704 1716	large-seeded
+EXAMPLE1805  T52	Genotype 1687 1699	small-seeded T54	Regulatory_Network 1780 1789	seed mass
+EXAMPLE1806  T52	Genotype 1687 1699	small-seeded T55	Tissue 1780 1784	seed
+EXAMPLE1807  T52	Genotype 1687 1699	small-seeded T56	Regulatory_Network 1873 1887	sizes of seeds
+EXAMPLE1808  T53	Genotype 1704 1716	large-seeded T54	Regulatory_Network 1780 1789	seed mass
+EXAMPLE1809  T53	Genotype 1704 1716	large-seeded T55	Tissue 1780 1784	seed
+EXAMPLE1810  T53	Genotype 1704 1716	large-seeded T56	Regulatory_Network 1873 1887	sizes of seeds
+EXAMPLE1811  T54	Regulatory_Network 1780 1789	seed mass T55	Tissue 1780 1784	seed
+EXAMPLE1812  T54	Regulatory_Network 1780 1789	seed mass T56	Regulatory_Network 1873 1887	sizes of seeds
+EXAMPLE1813  T55	Tissue 1780 1784	seed T56	Regulatory_Network 1873 1887	sizes of seeds
+EXAMPLE1814  T58	Regulatory_Network 2076 2085	seed mass T59	Tissue 2076 2080	seed
+EXAMPLE1815  T58	Regulatory_Network 2076 2085	seed mass T57	Pathway 2018 2034	sugar metabolism
+EXAMPLE1816  T59	Tissue 2076 2080	seed T57	Pathway 2018 2034	sugar metabolism
+EXAMPLE1817  T69	Tissue 2268 2272	seed T68	Regulatory_Network 2268 2272;2289 2298	seed cell size
+EXAMPLE1818  T69	Tissue 2268 2272	seed T65	Regulatory_Network 2239 2248	seed mass
+EXAMPLE1819  T69	Tissue 2268 2272	seed T64	Tissue 2195 2199	seed
+EXAMPLE1820  T69	Tissue 2268 2272	seed T67	Regulatory_Network 2268 2284	seed cell number
+EXAMPLE1821  T69	Tissue 2268 2272	seed T66	Tissue 2239 2243	seed
+EXAMPLE1822  T69	Tissue 2268 2272	seed T61	Pathway 2153 2175	accumulation of hexose
+EXAMPLE1823  T69	Tissue 2268 2272	seed T60	Genotype 2117 2126	fava bean
+EXAMPLE1824  T69	Tissue 2268 2272	seed T63	Development_Phase 2195 2211	seed development
+EXAMPLE1825  T69	Tissue 2268 2272	seed T62	Pathway 2153 2168;2180 2187	accumulation of sucrose
+EXAMPLE1826  T68	Regulatory_Network 2268 2272;2289 2298	seed cell size T65	Regulatory_Network 2239 2248	seed mass
+EXAMPLE1827  T68	Regulatory_Network 2268 2272;2289 2298	seed cell size T64	Tissue 2195 2199	seed
+EXAMPLE1828  T68	Regulatory_Network 2268 2272;2289 2298	seed cell size T67	Regulatory_Network 2268 2284	seed cell number
+EXAMPLE1829  T68	Regulatory_Network 2268 2272;2289 2298	seed cell size T66	Tissue 2239 2243	seed
+EXAMPLE1830  T68	Regulatory_Network 2268 2272;2289 2298	seed cell size T61	Pathway 2153 2175	accumulation of hexose
+EXAMPLE1831  T68	Regulatory_Network 2268 2272;2289 2298	seed cell size T60	Genotype 2117 2126	fava bean
+EXAMPLE1832  T68	Regulatory_Network 2268 2272;2289 2298	seed cell size T63	Development_Phase 2195 2211	seed development
+EXAMPLE1833  T68	Regulatory_Network 2268 2272;2289 2298	seed cell size T62	Pathway 2153 2168;2180 2187	accumulation of sucrose
+EXAMPLE1834  T65	Regulatory_Network 2239 2248	seed mass T64	Tissue 2195 2199	seed
+EXAMPLE1835  T65	Regulatory_Network 2239 2248	seed mass T67	Regulatory_Network 2268 2284	seed cell number
+EXAMPLE1836  T65	Regulatory_Network 2239 2248	seed mass T66	Tissue 2239 2243	seed
+EXAMPLE1837  T65	Regulatory_Network 2239 2248	seed mass T61	Pathway 2153 2175	accumulation of hexose
+EXAMPLE1838  T65	Regulatory_Network 2239 2248	seed mass T60	Genotype 2117 2126	fava bean
+EXAMPLE1839  T65	Regulatory_Network 2239 2248	seed mass T63	Development_Phase 2195 2211	seed development
+EXAMPLE1840  T65	Regulatory_Network 2239 2248	seed mass T62	Pathway 2153 2168;2180 2187	accumulation of sucrose
+EXAMPLE1841  T64	Tissue 2195 2199	seed T67	Regulatory_Network 2268 2284	seed cell number
+EXAMPLE1842  T64	Tissue 2195 2199	seed T66	Tissue 2239 2243	seed
+EXAMPLE1843  T64	Tissue 2195 2199	seed T61	Pathway 2153 2175	accumulation of hexose
+EXAMPLE1844  T64	Tissue 2195 2199	seed T60	Genotype 2117 2126	fava bean
+EXAMPLE1845  T64	Tissue 2195 2199	seed T63	Development_Phase 2195 2211	seed development
+EXAMPLE1846  T64	Tissue 2195 2199	seed T62	Pathway 2153 2168;2180 2187	accumulation of sucrose
+EXAMPLE1847  T67	Regulatory_Network 2268 2284	seed cell number T66	Tissue 2239 2243	seed
+EXAMPLE1848  T67	Regulatory_Network 2268 2284	seed cell number T61	Pathway 2153 2175	accumulation of hexose
+EXAMPLE1849  T67	Regulatory_Network 2268 2284	seed cell number T60	Genotype 2117 2126	fava bean
+EXAMPLE1850  T67	Regulatory_Network 2268 2284	seed cell number T63	Development_Phase 2195 2211	seed development
+EXAMPLE1851  T67	Regulatory_Network 2268 2284	seed cell number T62	Pathway 2153 2168;2180 2187	accumulation of sucrose
+EXAMPLE1852  T66	Tissue 2239 2243	seed T61	Pathway 2153 2175	accumulation of hexose
+EXAMPLE1853  T66	Tissue 2239 2243	seed T60	Genotype 2117 2126	fava bean
+EXAMPLE1854  T66	Tissue 2239 2243	seed T63	Development_Phase 2195 2211	seed development
+EXAMPLE1855  T66	Tissue 2239 2243	seed T62	Pathway 2153 2168;2180 2187	accumulation of sucrose
+EXAMPLE1856  T61	Pathway 2153 2175	accumulation of hexose T60	Genotype 2117 2126	fava bean
+EXAMPLE1857  T61	Pathway 2153 2175	accumulation of hexose T63	Development_Phase 2195 2211	seed development
+EXAMPLE1858  T61	Pathway 2153 2175	accumulation of hexose T62	Pathway 2153 2168;2180 2187	accumulation of sucrose
+EXAMPLE1859  T60	Genotype 2117 2126	fava bean T63	Development_Phase 2195 2211	seed development
+EXAMPLE1860  T60	Genotype 2117 2126	fava bean T62	Pathway 2153 2168;2180 2187	accumulation of sucrose
+EXAMPLE1861  T63	Development_Phase 2195 2211	seed development T62	Pathway 2153 2168;2180 2187	accumulation of sucrose
+EXAMPLE1862  T70	Regulatory_Network 2308 2317	Seed mass T71	Tissue 2308 2312	Seed
+EXAMPLE1863  T73	Tissue 2494 2499	Seeds T76	Regulatory_Network 2628 2641	smaller seeds
+EXAMPLE1864  T73	Tissue 2494 2499	Seeds T77	Tissue 2636 2641	seeds
+EXAMPLE1865  T73	Tissue 2494 2499	Seeds T74	Genotype 2505 2516	Arabidopsis
+EXAMPLE1866  T73	Tissue 2494 2499	Seeds T75	Tissue 2579 2584	seeds
+EXAMPLE1867  T76	Regulatory_Network 2628 2641	smaller seeds T77	Tissue 2636 2641	seeds
+EXAMPLE1868  T76	Regulatory_Network 2628 2641	smaller seeds T74	Genotype 2505 2516	Arabidopsis
+EXAMPLE1869  T76	Regulatory_Network 2628 2641	smaller seeds T75	Tissue 2579 2584	seeds
+EXAMPLE1870  T77	Tissue 2636 2641	seeds T74	Genotype 2505 2516	Arabidopsis
+EXAMPLE1871  T77	Tissue 2636 2641	seeds T75	Tissue 2579 2584	seeds
+EXAMPLE1872  T74	Genotype 2505 2516	Arabidopsis T75	Tissue 2579 2584	seeds
+EXAMPLE1873  T78	Regulatory_Network 2972 3042	Imprinting of maternal and paternal alleles expressed in the endosperm T79	Tissue 3033 3042	endosperm
+EXAMPLE1874  T78	Regulatory_Network 2972 3042	Imprinting of maternal and paternal alleles expressed in the endosperm T81	Tissue 3093 3097	seed
+EXAMPLE1875  T78	Regulatory_Network 2972 3042	Imprinting of maternal and paternal alleles expressed in the endosperm T80	Regulatory_Network 3093 3102	seed mass
+EXAMPLE1876  T79	Tissue 3033 3042	endosperm T81	Tissue 3093 3097	seed
+EXAMPLE1877  T79	Tissue 3033 3042	endosperm T80	Regulatory_Network 3093 3102	seed mass
+EXAMPLE1878  T81	Tissue 3093 3097	seed T80	Regulatory_Network 3093 3102	seed mass
+EXAMPLE1879  T86	Tissue 3211 3215	seed T85	Regulatory_Network 3211 3220	seed mass
+EXAMPLE1880  T86	Tissue 3211 3215	seed T84	Gene 3191 3194	AP2
+EXAMPLE1881  T86	Tissue 3211 3215	seed T83	Gene 3181 3189	APETALA2
+EXAMPLE1882  T86	Tissue 3211 3215	seed T82	Genotype 3169 3180	Arabidopsis
+EXAMPLE1883  T85	Regulatory_Network 3211 3220	seed mass T84	Gene 3191 3194	AP2
+EXAMPLE1884  T85	Regulatory_Network 3211 3220	seed mass T83	Gene 3181 3189	APETALA2
+EXAMPLE1885  T85	Regulatory_Network 3211 3220	seed mass T82	Genotype 3169 3180	Arabidopsis
+EXAMPLE1886  T84	Gene 3191 3194	AP2 T83	Gene 3181 3189	APETALA2
+EXAMPLE1887  T84	Gene 3191 3194	AP2 T82	Genotype 3169 3180	Arabidopsis
+EXAMPLE1888  T83	Gene 3181 3189	APETALA2 T82	Genotype 3169 3180	Arabidopsis
+EXAMPLE1889  T89	Protein_Domain 3323 3332;3379 3385	AP2/EREBP domain T88	Genotype 3269 3274	plant
+EXAMPLE1890  T89	Protein_Domain 3323 3332;3379 3385	AP2/EREBP domain T87	Gene 3222 3225	AP2
+EXAMPLE1891  T89	Protein_Domain 3323 3332;3379 3385	AP2/EREBP domain T90	Protein_Family 3323 3332	AP2/EREBP
+EXAMPLE1892  T89	Protein_Domain 3323 3332;3379 3385	AP2/EREBP domain T91	Protein 3323 3326	AP2
+EXAMPLE1893  T89	Protein_Domain 3323 3332;3379 3385	AP2/EREBP domain T92	Protein_Family 3327 3332	EREBP
+EXAMPLE1894  T89	Protein_Domain 3323 3332;3379 3385	AP2/EREBP domain T93	Protein_Family 3334 3377	ethylene responsive element binding protein
+EXAMPLE1895  T88	Genotype 3269 3274	plant T87	Gene 3222 3225	AP2
+EXAMPLE1896  T88	Genotype 3269 3274	plant T90	Protein_Family 3323 3332	AP2/EREBP
+EXAMPLE1897  T88	Genotype 3269 3274	plant T91	Protein 3323 3326	AP2
+EXAMPLE1898  T88	Genotype 3269 3274	plant T92	Protein_Family 3327 3332	EREBP
+EXAMPLE1899  T88	Genotype 3269 3274	plant T93	Protein_Family 3334 3377	ethylene responsive element binding protein
+EXAMPLE1900  T87	Gene 3222 3225	AP2 T90	Protein_Family 3323 3332	AP2/EREBP
+EXAMPLE1901  T87	Gene 3222 3225	AP2 T91	Protein 3323 3326	AP2
+EXAMPLE1902  T87	Gene 3222 3225	AP2 T92	Protein_Family 3327 3332	EREBP
+EXAMPLE1903  T87	Gene 3222 3225	AP2 T93	Protein_Family 3334 3377	ethylene responsive element binding protein
+EXAMPLE1904  T90	Protein_Family 3323 3332	AP2/EREBP T91	Protein 3323 3326	AP2
+EXAMPLE1905  T90	Protein_Family 3323 3332	AP2/EREBP T92	Protein_Family 3327 3332	EREBP
+EXAMPLE1906  T90	Protein_Family 3323 3332	AP2/EREBP T93	Protein_Family 3334 3377	ethylene responsive element binding protein
+EXAMPLE1907  T91	Protein 3323 3326	AP2 T92	Protein_Family 3327 3332	EREBP
+EXAMPLE1908  T91	Protein 3323 3326	AP2 T93	Protein_Family 3334 3377	ethylene responsive element binding protein
+EXAMPLE1909  T92	Protein_Family 3327 3332	EREBP T93	Protein_Family 3334 3377	ethylene responsive element binding protein
+EXAMPLE1910  T101	Development_Phase 3596 3626	flower meristem indeterminancy T100	Regulatory_Network 3581 3626	suppression of flower meristem indeterminancy
+EXAMPLE1911  T101	Development_Phase 3596 3626	flower meristem indeterminancy T102	Tissue 3596 3602	flower
+EXAMPLE1912  T101	Development_Phase 3596 3626	flower meristem indeterminancy T98	Development_Phase 3551 3575	flower meristem identity
+EXAMPLE1913  T101	Development_Phase 3596 3626	flower meristem indeterminancy T99	Tissue 3551 3557	flower
+EXAMPLE1914  T101	Development_Phase 3596 3626	flower meristem indeterminancy T94	Regulatory_Network 3494 3532	specification of flower organ identity
+EXAMPLE1915  T101	Development_Phase 3596 3626	flower meristem indeterminancy T95	Development_Phase 3511 3532	flower organ identity
+EXAMPLE1916  T101	Development_Phase 3596 3626	flower meristem indeterminancy T96	Tissue 3511 3517	flower
+EXAMPLE1917  T101	Development_Phase 3596 3626	flower meristem indeterminancy T97	Regulatory_Network 3534 3575	establishment of flower meristem identity
+EXAMPLE1918  T100	Regulatory_Network 3581 3626	suppression of flower meristem indeterminancy T102	Tissue 3596 3602	flower
+EXAMPLE1919  T100	Regulatory_Network 3581 3626	suppression of flower meristem indeterminancy T98	Development_Phase 3551 3575	flower meristem identity
+EXAMPLE1920  T100	Regulatory_Network 3581 3626	suppression of flower meristem indeterminancy T99	Tissue 3551 3557	flower
+EXAMPLE1921  T100	Regulatory_Network 3581 3626	suppression of flower meristem indeterminancy T94	Regulatory_Network 3494 3532	specification of flower organ identity
+EXAMPLE1922  T100	Regulatory_Network 3581 3626	suppression of flower meristem indeterminancy T95	Development_Phase 3511 3532	flower organ identity
+EXAMPLE1923  T100	Regulatory_Network 3581 3626	suppression of flower meristem indeterminancy T96	Tissue 3511 3517	flower
+EXAMPLE1924  T100	Regulatory_Network 3581 3626	suppression of flower meristem indeterminancy T97	Regulatory_Network 3534 3575	establishment of flower meristem identity
+EXAMPLE1925  T102	Tissue 3596 3602	flower T98	Development_Phase 3551 3575	flower meristem identity
+EXAMPLE1926  T102	Tissue 3596 3602	flower T99	Tissue 3551 3557	flower
+EXAMPLE1927  T102	Tissue 3596 3602	flower T94	Regulatory_Network 3494 3532	specification of flower organ identity
+EXAMPLE1928  T102	Tissue 3596 3602	flower T95	Development_Phase 3511 3532	flower organ identity
+EXAMPLE1929  T102	Tissue 3596 3602	flower T96	Tissue 3511 3517	flower
+EXAMPLE1930  T102	Tissue 3596 3602	flower T97	Regulatory_Network 3534 3575	establishment of flower meristem identity
+EXAMPLE1931  T98	Development_Phase 3551 3575	flower meristem identity T99	Tissue 3551 3557	flower
+EXAMPLE1932  T98	Development_Phase 3551 3575	flower meristem identity T94	Regulatory_Network 3494 3532	specification of flower organ identity
+EXAMPLE1933  T98	Development_Phase 3551 3575	flower meristem identity T95	Development_Phase 3511 3532	flower organ identity
+EXAMPLE1934  T98	Development_Phase 3551 3575	flower meristem identity T96	Tissue 3511 3517	flower
+EXAMPLE1935  T98	Development_Phase 3551 3575	flower meristem identity T97	Regulatory_Network 3534 3575	establishment of flower meristem identity
+EXAMPLE1936  T99	Tissue 3551 3557	flower T94	Regulatory_Network 3494 3532	specification of flower organ identity
+EXAMPLE1937  T99	Tissue 3551 3557	flower T95	Development_Phase 3511 3532	flower organ identity
+EXAMPLE1938  T99	Tissue 3551 3557	flower T96	Tissue 3511 3517	flower
+EXAMPLE1939  T99	Tissue 3551 3557	flower T97	Regulatory_Network 3534 3575	establishment of flower meristem identity
+EXAMPLE1940  T94	Regulatory_Network 3494 3532	specification of flower organ identity T95	Development_Phase 3511 3532	flower organ identity
+EXAMPLE1941  T94	Regulatory_Network 3494 3532	specification of flower organ identity T96	Tissue 3511 3517	flower
+EXAMPLE1942  T94	Regulatory_Network 3494 3532	specification of flower organ identity T97	Regulatory_Network 3534 3575	establishment of flower meristem identity
+EXAMPLE1943  T95	Development_Phase 3511 3532	flower organ identity T96	Tissue 3511 3517	flower
+EXAMPLE1944  T95	Development_Phase 3511 3532	flower organ identity T97	Regulatory_Network 3534 3575	establishment of flower meristem identity
+EXAMPLE1945  T96	Tissue 3511 3517	flower T97	Regulatory_Network 3534 3575	establishment of flower meristem identity
+EXAMPLE1946  T103	Gene 3640 3643	AP2 T105	Tissue 3665 3670	ovule
+EXAMPLE1947  T103	Gene 3640 3643	AP2 T104	Development_Phase 3665 3670;3685 3696	ovule development
+EXAMPLE1948  T103	Gene 3640 3643	AP2 T107	Tissue 3675 3684	seed coat
+EXAMPLE1949  T103	Gene 3640 3643	AP2 T106	Development_Phase 3675 3696	seed coat development
+EXAMPLE1950  T105	Tissue 3665 3670	ovule T104	Development_Phase 3665 3670;3685 3696	ovule development
+EXAMPLE1951  T105	Tissue 3665 3670	ovule T107	Tissue 3675 3684	seed coat
+EXAMPLE1952  T105	Tissue 3665 3670	ovule T106	Development_Phase 3675 3696	seed coat development
+EXAMPLE1953  T104	Development_Phase 3665 3670;3685 3696	ovule development T107	Tissue 3675 3684	seed coat
+EXAMPLE1954  T104	Development_Phase 3665 3670;3685 3696	ovule development T106	Development_Phase 3675 3696	seed coat development
+EXAMPLE1955  T107	Tissue 3675 3684	seed coat T106	Development_Phase 3675 3696	seed coat development
+EXAMPLE1956  T116	Gene 3947 3950	AP2 T114	Tissue 3857 3862	stems
+EXAMPLE1957  T116	Gene 3947 3950	AP2 T115	Tissue 3868 3877	seedlings
+EXAMPLE1958  T116	Gene 3947 3950	AP2 T112	Tissue 3821 3828	flowers
+EXAMPLE1959  T116	Gene 3947 3950	AP2 T113	Tissue 3849 3855	leaves
+EXAMPLE1960  T116	Gene 3947 3950	AP2 T110	Development_Phase 3763 3781	flower development
+EXAMPLE1961  T116	Gene 3947 3950	AP2 T111	Tissue 3763 3769	flower
+EXAMPLE1962  T116	Gene 3947 3950	AP2 T109	Gene 3753 3756	AP2
+EXAMPLE1963  T116	Gene 3947 3950	AP2 T108	RNA 3753 3756;3787 3798	AP2 transcripts
+EXAMPLE1964  T114	Tissue 3857 3862	stems T115	Tissue 3868 3877	seedlings
+EXAMPLE1965  T114	Tissue 3857 3862	stems T112	Tissue 3821 3828	flowers
+EXAMPLE1966  T114	Tissue 3857 3862	stems T113	Tissue 3849 3855	leaves
+EXAMPLE1967  T114	Tissue 3857 3862	stems T110	Development_Phase 3763 3781	flower development
+EXAMPLE1968  T114	Tissue 3857 3862	stems T111	Tissue 3763 3769	flower
+EXAMPLE1969  T114	Tissue 3857 3862	stems T109	Gene 3753 3756	AP2
+EXAMPLE1970  T114	Tissue 3857 3862	stems T108	RNA 3753 3756;3787 3798	AP2 transcripts
+EXAMPLE1971  T115	Tissue 3868 3877	seedlings T112	Tissue 3821 3828	flowers
+EXAMPLE1972  T115	Tissue 3868 3877	seedlings T113	Tissue 3849 3855	leaves
+EXAMPLE1973  T115	Tissue 3868 3877	seedlings T110	Development_Phase 3763 3781	flower development
+EXAMPLE1974  T115	Tissue 3868 3877	seedlings T111	Tissue 3763 3769	flower
+EXAMPLE1975  T115	Tissue 3868 3877	seedlings T109	Gene 3753 3756	AP2
+EXAMPLE1976  T115	Tissue 3868 3877	seedlings T108	RNA 3753 3756;3787 3798	AP2 transcripts
+EXAMPLE1977  T112	Tissue 3821 3828	flowers T113	Tissue 3849 3855	leaves
+EXAMPLE1978  T112	Tissue 3821 3828	flowers T110	Development_Phase 3763 3781	flower development
+EXAMPLE1979  T112	Tissue 3821 3828	flowers T111	Tissue 3763 3769	flower
+EXAMPLE1980  T112	Tissue 3821 3828	flowers T109	Gene 3753 3756	AP2
+EXAMPLE1981  T112	Tissue 3821 3828	flowers T108	RNA 3753 3756;3787 3798	AP2 transcripts
+EXAMPLE1982  T113	Tissue 3849 3855	leaves T110	Development_Phase 3763 3781	flower development
+EXAMPLE1983  T113	Tissue 3849 3855	leaves T111	Tissue 3763 3769	flower
+EXAMPLE1984  T113	Tissue 3849 3855	leaves T109	Gene 3753 3756	AP2
+EXAMPLE1985  T113	Tissue 3849 3855	leaves T108	RNA 3753 3756;3787 3798	AP2 transcripts
+EXAMPLE1986  T110	Development_Phase 3763 3781	flower development T111	Tissue 3763 3769	flower
+EXAMPLE1987  T110	Development_Phase 3763 3781	flower development T109	Gene 3753 3756	AP2
+EXAMPLE1988  T110	Development_Phase 3763 3781	flower development T108	RNA 3753 3756;3787 3798	AP2 transcripts
+EXAMPLE1989  T111	Tissue 3763 3769	flower T109	Gene 3753 3756	AP2
+EXAMPLE1990  T111	Tissue 3763 3769	flower T108	RNA 3753 3756;3787 3798	AP2 transcripts
+EXAMPLE1991  T109	Gene 3753 3756	AP2 T108	RNA 3753 3756;3787 3798	AP2 transcripts
+EXAMPLE1992  T117	Gene 4008 4011	AP2 T120	Tissue 4078 4082	seed
+EXAMPLE1993  T117	Gene 4008 4011	AP2 T118	Genotype 4028 4048	loss-of-function ap2
+EXAMPLE1994  T117	Gene 4008 4011	AP2 T119	Regulatory_Network 4065 4087	increases in seed mass
+EXAMPLE1995  T120	Tissue 4078 4082	seed T118	Genotype 4028 4048	loss-of-function ap2
+EXAMPLE1996  T120	Tissue 4078 4082	seed T119	Regulatory_Network 4065 4087	increases in seed mass
+EXAMPLE1997  T118	Genotype 4028 4048	loss-of-function ap2 T119	Regulatory_Network 4065 4087	increases in seed mass

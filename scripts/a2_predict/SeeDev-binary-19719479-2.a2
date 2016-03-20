@@ -1,0 +1,366 @@
+EXAMPLE2872  T6	Pathway 207 220	oil synthesis T4	Genotype 98 118	Arabidopsis thaliana
+EXAMPLE2873  T6	Pathway 207 220	oil synthesis T5	Regulatory_Network 193 220	regulation of oil synthesis
+EXAMPLE2874  T6	Pathway 207 220	oil synthesis T2	Genotype 59 74	oilseed species
+EXAMPLE2875  T6	Pathway 207 220	oil synthesis T3	Genotype 80 94	Brassica napus
+EXAMPLE2876  T6	Pathway 207 220	oil synthesis T1	Pathway 10 55	biochemical pathways producing storage lipids
+EXAMPLE2877  T4	Genotype 98 118	Arabidopsis thaliana T5	Regulatory_Network 193 220	regulation of oil synthesis
+EXAMPLE2878  T4	Genotype 98 118	Arabidopsis thaliana T2	Genotype 59 74	oilseed species
+EXAMPLE2879  T4	Genotype 98 118	Arabidopsis thaliana T3	Genotype 80 94	Brassica napus
+EXAMPLE2880  T4	Genotype 98 118	Arabidopsis thaliana T1	Pathway 10 55	biochemical pathways producing storage lipids
+EXAMPLE2881  T5	Regulatory_Network 193 220	regulation of oil synthesis T2	Genotype 59 74	oilseed species
+EXAMPLE2882  T5	Regulatory_Network 193 220	regulation of oil synthesis T3	Genotype 80 94	Brassica napus
+EXAMPLE2883  T5	Regulatory_Network 193 220	regulation of oil synthesis T1	Pathway 10 55	biochemical pathways producing storage lipids
+EXAMPLE2884  T2	Genotype 59 74	oilseed species T3	Genotype 80 94	Brassica napus
+EXAMPLE2885  T2	Genotype 59 74	oilseed species T1	Pathway 10 55	biochemical pathways producing storage lipids
+EXAMPLE2886  T3	Genotype 80 94	Brassica napus T1	Pathway 10 55	biochemical pathways producing storage lipids
+EXAMPLE2887  T7	Tissue 318 334	developing seeds T10	Pathway 376 402;418 424	biosynthetic pathways for lipids
+EXAMPLE2888  T7	Tissue 318 334	developing seeds T8	Tissue 342 349	embryos
+EXAMPLE2889  T7	Tissue 318 334	developing seeds T9	Pathway 376 413	biosynthetic pathways for fatty acids
+EXAMPLE2890  T10	Pathway 376 402;418 424	biosynthetic pathways for lipids T8	Tissue 342 349	embryos
+EXAMPLE2891  T10	Pathway 376 402;418 424	biosynthetic pathways for lipids T9	Pathway 376 413	biosynthetic pathways for fatty acids
+EXAMPLE2892  T8	Tissue 342 349	embryos T9	Pathway 376 413	biosynthetic pathways for fatty acids
+EXAMPLE2893  T14	Development_Phase 745 760	seed maturation T15	Tissue 745 749	seed
+EXAMPLE2894  T14	Development_Phase 745 760	seed maturation T11	Genotype 548 559	A. thaliana
+EXAMPLE2895  T14	Development_Phase 745 760	seed maturation T12	Pathway 693 716	fatty-acid biosynthesis
+EXAMPLE2896  T14	Development_Phase 745 760	seed maturation T13	Pathway 721 737	lipid metabolism
+EXAMPLE2897  T15	Tissue 745 749	seed T11	Genotype 548 559	A. thaliana
+EXAMPLE2898  T15	Tissue 745 749	seed T12	Pathway 693 716	fatty-acid biosynthesis
+EXAMPLE2899  T15	Tissue 745 749	seed T13	Pathway 721 737	lipid metabolism
+EXAMPLE2900  T11	Genotype 548 559	A. thaliana T12	Pathway 693 716	fatty-acid biosynthesis
+EXAMPLE2901  T11	Genotype 548 559	A. thaliana T13	Pathway 721 737	lipid metabolism
+EXAMPLE2902  T12	Pathway 693 716	fatty-acid biosynthesis T13	Pathway 721 737	lipid metabolism
+EXAMPLE2903  T16	Pathway 805 817;830 849	biosynthesis of triacylglycerols T17	Pathway 822 849	storage of triacylglycerols
+EXAMPLE2904  T20	Protein_Family 1120 1128	oleosins T18	Pathway 950 970	fatty acid synthesis
+EXAMPLE2905  T20	Protein_Family 1120 1128	oleosins T19	Development_Phase 1030 1059	onset of the maturation phase
+EXAMPLE2906  T18	Pathway 950 970	fatty acid synthesis T19	Development_Phase 1030 1059	onset of the maturation phase
+EXAMPLE2907  T21	RNA 1197 1275	mRNAs of several genes encoding enzymes of the fatty acid biosynthetic pathway T22	Pathway 1244 1275	fatty acid biosynthetic pathway
+EXAMPLE2908  T23	Protein 1528 1537	WRINKLED1 T24	Protein 1539 1543	WRI1
+EXAMPLE2909  T29	Tissue 1756 1760	seed T28	Development_Phase 1756 1771	seed maturation
+EXAMPLE2910  T29	Tissue 1756 1760	seed T27	Protein 1685 1689	LEC2
+EXAMPLE2911  T29	Tissue 1756 1760	seed T25	Protein 1640 1644	WRI1
+EXAMPLE2912  T29	Tissue 1756 1760	seed T30	Pathway 1780 1801	fatty acid metabolism
+EXAMPLE2913  T29	Tissue 1756 1760	seed T26	Protein 1667 1683	LEAFY COTYLEDON2
+EXAMPLE2914  T28	Development_Phase 1756 1771	seed maturation T27	Protein 1685 1689	LEC2
+EXAMPLE2915  T28	Development_Phase 1756 1771	seed maturation T25	Protein 1640 1644	WRI1
+EXAMPLE2916  T28	Development_Phase 1756 1771	seed maturation T30	Pathway 1780 1801	fatty acid metabolism
+EXAMPLE2917  T28	Development_Phase 1756 1771	seed maturation T26	Protein 1667 1683	LEAFY COTYLEDON2
+EXAMPLE2918  T27	Protein 1685 1689	LEC2 T25	Protein 1640 1644	WRI1
+EXAMPLE2919  T27	Protein 1685 1689	LEC2 T30	Pathway 1780 1801	fatty acid metabolism
+EXAMPLE2920  T27	Protein 1685 1689	LEC2 T26	Protein 1667 1683	LEAFY COTYLEDON2
+EXAMPLE2921  T25	Protein 1640 1644	WRI1 T30	Pathway 1780 1801	fatty acid metabolism
+EXAMPLE2922  T25	Protein 1640 1644	WRI1 T26	Protein 1667 1683	LEAFY COTYLEDON2
+EXAMPLE2923  T30	Pathway 1780 1801	fatty acid metabolism T26	Protein 1667 1683	LEAFY COTYLEDON2
+EXAMPLE2924  T34	Pathway 1926 1932;1949 1970	biotin biosynthetic pathways T35	Pathway 1937 1970	lipoic acid biosynthetic pathways
+EXAMPLE2925  T34	Pathway 1926 1932;1949 1970	biotin biosynthetic pathways T32	Pathway 1867 1882	late glycolysis
+EXAMPLE2926  T34	Pathway 1926 1932;1949 1970	biotin biosynthetic pathways T33	Pathway 1888 1908	fatty acid synthesis
+EXAMPLE2927  T34	Pathway 1926 1932;1949 1970	biotin biosynthetic pathways T31	Protein 1844 1848	WRI1
+EXAMPLE2928  T35	Pathway 1937 1970	lipoic acid biosynthetic pathways T32	Pathway 1867 1882	late glycolysis
+EXAMPLE2929  T35	Pathway 1937 1970	lipoic acid biosynthetic pathways T33	Pathway 1888 1908	fatty acid synthesis
+EXAMPLE2930  T35	Pathway 1937 1970	lipoic acid biosynthetic pathways T31	Protein 1844 1848	WRI1
+EXAMPLE2931  T32	Pathway 1867 1882	late glycolysis T33	Pathway 1888 1908	fatty acid synthesis
+EXAMPLE2932  T32	Pathway 1867 1882	late glycolysis T31	Protein 1844 1848	WRI1
+EXAMPLE2933  T33	Pathway 1888 1908	fatty acid synthesis T31	Protein 1844 1848	WRI1
+EXAMPLE2934  T43	Genotype 2157 2168	A. thaliana T42	Protein_Family 2088 2093	EREBP
+EXAMPLE2935  T43	Genotype 2157 2168	A. thaliana T41	Protein 2084 2087	AP2
+EXAMPLE2936  T43	Genotype 2157 2168	A. thaliana T40	Protein_Family 2084 2093	AP2/EREBP
+EXAMPLE2937  T43	Genotype 2157 2168	A. thaliana T38	Protein 2038 2046	APETALA2
+EXAMPLE2938  T43	Genotype 2157 2168	A. thaliana T39	Protein_Family 2047 2082;2095 2103	ethylene-responsive element binding proteins
+EXAMPLE2939  T43	Genotype 2157 2168	A. thaliana T36	Protein 2014 2018	WRI1
+EXAMPLE2940  T43	Genotype 2157 2168	A. thaliana T37	Protein_Family 2038 2083;2095 2103	APETALA2/ethylene-responsive element binding proteins
+EXAMPLE2941  T42	Protein_Family 2088 2093	EREBP T41	Protein 2084 2087	AP2
+EXAMPLE2942  T42	Protein_Family 2088 2093	EREBP T40	Protein_Family 2084 2093	AP2/EREBP
+EXAMPLE2943  T42	Protein_Family 2088 2093	EREBP T38	Protein 2038 2046	APETALA2
+EXAMPLE2944  T42	Protein_Family 2088 2093	EREBP T39	Protein_Family 2047 2082;2095 2103	ethylene-responsive element binding proteins
+EXAMPLE2945  T42	Protein_Family 2088 2093	EREBP T36	Protein 2014 2018	WRI1
+EXAMPLE2946  T42	Protein_Family 2088 2093	EREBP T37	Protein_Family 2038 2083;2095 2103	APETALA2/ethylene-responsive element binding proteins
+EXAMPLE2947  T41	Protein 2084 2087	AP2 T40	Protein_Family 2084 2093	AP2/EREBP
+EXAMPLE2948  T41	Protein 2084 2087	AP2 T38	Protein 2038 2046	APETALA2
+EXAMPLE2949  T41	Protein 2084 2087	AP2 T39	Protein_Family 2047 2082;2095 2103	ethylene-responsive element binding proteins
+EXAMPLE2950  T41	Protein 2084 2087	AP2 T36	Protein 2014 2018	WRI1
+EXAMPLE2951  T41	Protein 2084 2087	AP2 T37	Protein_Family 2038 2083;2095 2103	APETALA2/ethylene-responsive element binding proteins
+EXAMPLE2952  T40	Protein_Family 2084 2093	AP2/EREBP T38	Protein 2038 2046	APETALA2
+EXAMPLE2953  T40	Protein_Family 2084 2093	AP2/EREBP T39	Protein_Family 2047 2082;2095 2103	ethylene-responsive element binding proteins
+EXAMPLE2954  T40	Protein_Family 2084 2093	AP2/EREBP T36	Protein 2014 2018	WRI1
+EXAMPLE2955  T40	Protein_Family 2084 2093	AP2/EREBP T37	Protein_Family 2038 2083;2095 2103	APETALA2/ethylene-responsive element binding proteins
+EXAMPLE2956  T38	Protein 2038 2046	APETALA2 T39	Protein_Family 2047 2082;2095 2103	ethylene-responsive element binding proteins
+EXAMPLE2957  T38	Protein 2038 2046	APETALA2 T36	Protein 2014 2018	WRI1
+EXAMPLE2958  T38	Protein 2038 2046	APETALA2 T37	Protein_Family 2038 2083;2095 2103	APETALA2/ethylene-responsive element binding proteins
+EXAMPLE2959  T39	Protein_Family 2047 2082;2095 2103	ethylene-responsive element binding proteins T36	Protein 2014 2018	WRI1
+EXAMPLE2960  T39	Protein_Family 2047 2082;2095 2103	ethylene-responsive element binding proteins T37	Protein_Family 2038 2083;2095 2103	APETALA2/ethylene-responsive element binding proteins
+EXAMPLE2961  T36	Protein 2014 2018	WRI1 T37	Protein_Family 2038 2083;2095 2103	APETALA2/ethylene-responsive element binding proteins
+EXAMPLE2962  T45	Protein 2241 2244	AP2 T44	Protein_Domain 2241 2251	AP2 domain
+EXAMPLE2963  T49	Genotype 2469 2475	plants T48	Protein_Family 2422 2427	EREBP
+EXAMPLE2964  T49	Genotype 2469 2475	plants T50	Protein_Domain 2515 2525	AP2 domain
+EXAMPLE2965  T49	Genotype 2469 2475	plants T51	Protein 2515 2518	AP2
+EXAMPLE2966  T49	Genotype 2469 2475	plants T52	Genotype 2550 2563	cyanobacteria
+EXAMPLE2967  T49	Genotype 2469 2475	plants T53	Genotype 2565 2573	ciliates
+EXAMPLE2968  T49	Genotype 2469 2475	plants T47	Protein 2418 2421	AP2
+EXAMPLE2969  T49	Genotype 2469 2475	plants T46	Protein_Family 2418 2427	AP2/EREBP
+EXAMPLE2970  T49	Genotype 2469 2475	plants T54	Genotype 2578 2585	viruses
+EXAMPLE2971  T48	Protein_Family 2422 2427	EREBP T50	Protein_Domain 2515 2525	AP2 domain
+EXAMPLE2972  T48	Protein_Family 2422 2427	EREBP T51	Protein 2515 2518	AP2
+EXAMPLE2973  T48	Protein_Family 2422 2427	EREBP T52	Genotype 2550 2563	cyanobacteria
+EXAMPLE2974  T48	Protein_Family 2422 2427	EREBP T53	Genotype 2565 2573	ciliates
+EXAMPLE2975  T48	Protein_Family 2422 2427	EREBP T47	Protein 2418 2421	AP2
+EXAMPLE2976  T48	Protein_Family 2422 2427	EREBP T46	Protein_Family 2418 2427	AP2/EREBP
+EXAMPLE2977  T48	Protein_Family 2422 2427	EREBP T54	Genotype 2578 2585	viruses
+EXAMPLE2978  T50	Protein_Domain 2515 2525	AP2 domain T51	Protein 2515 2518	AP2
+EXAMPLE2979  T50	Protein_Domain 2515 2525	AP2 domain T52	Genotype 2550 2563	cyanobacteria
+EXAMPLE2980  T50	Protein_Domain 2515 2525	AP2 domain T53	Genotype 2565 2573	ciliates
+EXAMPLE2981  T50	Protein_Domain 2515 2525	AP2 domain T47	Protein 2418 2421	AP2
+EXAMPLE2982  T50	Protein_Domain 2515 2525	AP2 domain T46	Protein_Family 2418 2427	AP2/EREBP
+EXAMPLE2983  T50	Protein_Domain 2515 2525	AP2 domain T54	Genotype 2578 2585	viruses
+EXAMPLE2984  T51	Protein 2515 2518	AP2 T52	Genotype 2550 2563	cyanobacteria
+EXAMPLE2985  T51	Protein 2515 2518	AP2 T53	Genotype 2565 2573	ciliates
+EXAMPLE2986  T51	Protein 2515 2518	AP2 T47	Protein 2418 2421	AP2
+EXAMPLE2987  T51	Protein 2515 2518	AP2 T46	Protein_Family 2418 2427	AP2/EREBP
+EXAMPLE2988  T51	Protein 2515 2518	AP2 T54	Genotype 2578 2585	viruses
+EXAMPLE2989  T52	Genotype 2550 2563	cyanobacteria T53	Genotype 2565 2573	ciliates
+EXAMPLE2990  T52	Genotype 2550 2563	cyanobacteria T47	Protein 2418 2421	AP2
+EXAMPLE2991  T52	Genotype 2550 2563	cyanobacteria T46	Protein_Family 2418 2427	AP2/EREBP
+EXAMPLE2992  T52	Genotype 2550 2563	cyanobacteria T54	Genotype 2578 2585	viruses
+EXAMPLE2993  T53	Genotype 2565 2573	ciliates T47	Protein 2418 2421	AP2
+EXAMPLE2994  T53	Genotype 2565 2573	ciliates T46	Protein_Family 2418 2427	AP2/EREBP
+EXAMPLE2995  T53	Genotype 2565 2573	ciliates T54	Genotype 2578 2585	viruses
+EXAMPLE2996  T47	Protein 2418 2421	AP2 T46	Protein_Family 2418 2427	AP2/EREBP
+EXAMPLE2997  T47	Protein 2418 2421	AP2 T54	Genotype 2578 2585	viruses
+EXAMPLE2998  T46	Protein_Family 2418 2427	AP2/EREBP T54	Genotype 2578 2585	viruses
+EXAMPLE2999  T58	Protein 2814 2817	AP2 T59	Protein_Family 2818 2823	EREBP
+EXAMPLE3000  T58	Protein 2814 2817	AP2 T60	Genotype 2834 2845	A. thaliana
+EXAMPLE3001  T58	Protein 2814 2817	AP2 T56	Protein 2747 2750	AP2
+EXAMPLE3002  T58	Protein 2814 2817	AP2 T55	Protein_Domain 2747 2763	AP2-like domains
+EXAMPLE3003  T58	Protein 2814 2817	AP2 T57	Protein_Family 2814 2823	AP2/EREBP
+EXAMPLE3004  T59	Protein_Family 2818 2823	EREBP T60	Genotype 2834 2845	A. thaliana
+EXAMPLE3005  T59	Protein_Family 2818 2823	EREBP T56	Protein 2747 2750	AP2
+EXAMPLE3006  T59	Protein_Family 2818 2823	EREBP T55	Protein_Domain 2747 2763	AP2-like domains
+EXAMPLE3007  T59	Protein_Family 2818 2823	EREBP T57	Protein_Family 2814 2823	AP2/EREBP
+EXAMPLE3008  T60	Genotype 2834 2845	A. thaliana T56	Protein 2747 2750	AP2
+EXAMPLE3009  T60	Genotype 2834 2845	A. thaliana T55	Protein_Domain 2747 2763	AP2-like domains
+EXAMPLE3010  T60	Genotype 2834 2845	A. thaliana T57	Protein_Family 2814 2823	AP2/EREBP
+EXAMPLE3011  T56	Protein 2747 2750	AP2 T55	Protein_Domain 2747 2763	AP2-like domains
+EXAMPLE3012  T56	Protein 2747 2750	AP2 T57	Protein_Family 2814 2823	AP2/EREBP
+EXAMPLE3013  T55	Protein_Domain 2747 2763	AP2-like domains T57	Protein_Family 2814 2823	AP2/EREBP
+EXAMPLE3014  T65	Protein 2944 2947	AP2 T64	Protein_Domain 2944 2955	AP2 domains
+EXAMPLE3015  T65	Protein 2944 2947	AP2 T61	Protein_Family 2871 2880	AP2/EREBP
+EXAMPLE3016  T65	Protein 2944 2947	AP2 T63	Protein_Family 2875 2880	EREBP
+EXAMPLE3017  T65	Protein 2944 2947	AP2 T62	Protein 2871 2874	AP2
+EXAMPLE3018  T64	Protein_Domain 2944 2955	AP2 domains T61	Protein_Family 2871 2880	AP2/EREBP
+EXAMPLE3019  T64	Protein_Domain 2944 2955	AP2 domains T63	Protein_Family 2875 2880	EREBP
+EXAMPLE3020  T64	Protein_Domain 2944 2955	AP2 domains T62	Protein 2871 2874	AP2
+EXAMPLE3021  T61	Protein_Family 2871 2880	AP2/EREBP T63	Protein_Family 2875 2880	EREBP
+EXAMPLE3022  T61	Protein_Family 2871 2880	AP2/EREBP T62	Protein 2871 2874	AP2
+EXAMPLE3023  T63	Protein_Family 2875 2880	EREBP T62	Protein 2871 2874	AP2
+EXAMPLE3024  T67	Protein_Domain 3042 3052	AP2 domain T66	Protein_Family 2995 3000	EREBP
+EXAMPLE3025  T67	Protein_Domain 3042 3052	AP2 domain T69	Protein_Family 3095 3098	ERF
+EXAMPLE3026  T67	Protein_Domain 3042 3052	AP2 domain T68	Protein 3042 3045	AP2
+EXAMPLE3027  T67	Protein_Domain 3042 3052	AP2 domain T70	Protein_Family 3116 3120	DREB
+EXAMPLE3028  T66	Protein_Family 2995 3000	EREBP T69	Protein_Family 3095 3098	ERF
+EXAMPLE3029  T66	Protein_Family 2995 3000	EREBP T68	Protein 3042 3045	AP2
+EXAMPLE3030  T66	Protein_Family 2995 3000	EREBP T70	Protein_Family 3116 3120	DREB
+EXAMPLE3031  T69	Protein_Family 3095 3098	ERF T68	Protein 3042 3045	AP2
+EXAMPLE3032  T69	Protein_Family 3095 3098	ERF T70	Protein_Family 3116 3120	DREB
+EXAMPLE3033  T68	Protein 3042 3045	AP2 T70	Protein_Family 3116 3120	DREB
+EXAMPLE3034  T72	Protein_Domain 3200 3210	AP2 domain T73	Protein 3200 3203	AP2
+EXAMPLE3035  T72	Protein_Domain 3200 3210	AP2 domain T71	Protein_Family 3163 3166	RAV
+EXAMPLE3036  T72	Protein_Domain 3200 3210	AP2 domain T74	Protein_Domain 3248 3262	B3-like domain
+EXAMPLE3037  T73	Protein 3200 3203	AP2 T71	Protein_Family 3163 3166	RAV
+EXAMPLE3038  T73	Protein 3200 3203	AP2 T74	Protein_Domain 3248 3262	B3-like domain
+EXAMPLE3039  T71	Protein_Family 3163 3166	RAV T74	Protein_Domain 3248 3262	B3-like domain
+EXAMPLE3040  T76	Protein 3269 3272	AP2 T77	Protein_Domain 3308 3319	AP2 domains
+EXAMPLE3041  T76	Protein 3269 3272	AP2 T75	Protein_Family 3269 3279	AP2 family
+EXAMPLE3042  T76	Protein 3269 3272	AP2 T78	Protein 3308 3311	AP2
+EXAMPLE3043  T76	Protein 3269 3272	AP2 T79	Protein_Family 3374 3387	APETALA2-like
+EXAMPLE3044  T76	Protein 3269 3272	AP2 T81	Protein_Family 3406 3409;3410 3415	ANT -like
+EXAMPLE3045  T76	Protein 3269 3272	AP2 T80	Protein_Family 3392 3404;3410 3415	AINTEGUMENTA -like
+EXAMPLE3046  T77	Protein_Domain 3308 3319	AP2 domains T75	Protein_Family 3269 3279	AP2 family
+EXAMPLE3047  T77	Protein_Domain 3308 3319	AP2 domains T78	Protein 3308 3311	AP2
+EXAMPLE3048  T77	Protein_Domain 3308 3319	AP2 domains T79	Protein_Family 3374 3387	APETALA2-like
+EXAMPLE3049  T77	Protein_Domain 3308 3319	AP2 domains T81	Protein_Family 3406 3409;3410 3415	ANT -like
+EXAMPLE3050  T77	Protein_Domain 3308 3319	AP2 domains T80	Protein_Family 3392 3404;3410 3415	AINTEGUMENTA -like
+EXAMPLE3051  T75	Protein_Family 3269 3279	AP2 family T78	Protein 3308 3311	AP2
+EXAMPLE3052  T75	Protein_Family 3269 3279	AP2 family T79	Protein_Family 3374 3387	APETALA2-like
+EXAMPLE3053  T75	Protein_Family 3269 3279	AP2 family T81	Protein_Family 3406 3409;3410 3415	ANT -like
+EXAMPLE3054  T75	Protein_Family 3269 3279	AP2 family T80	Protein_Family 3392 3404;3410 3415	AINTEGUMENTA -like
+EXAMPLE3055  T78	Protein 3308 3311	AP2 T79	Protein_Family 3374 3387	APETALA2-like
+EXAMPLE3056  T78	Protein 3308 3311	AP2 T81	Protein_Family 3406 3409;3410 3415	ANT -like
+EXAMPLE3057  T78	Protein 3308 3311	AP2 T80	Protein_Family 3392 3404;3410 3415	AINTEGUMENTA -like
+EXAMPLE3058  T79	Protein_Family 3374 3387	APETALA2-like T81	Protein_Family 3406 3409;3410 3415	ANT -like
+EXAMPLE3059  T79	Protein_Family 3374 3387	APETALA2-like T80	Protein_Family 3392 3404;3410 3415	AINTEGUMENTA -like
+EXAMPLE3060  T81	Protein_Family 3406 3409;3410 3415	ANT -like T80	Protein_Family 3392 3404;3410 3415	AINTEGUMENTA -like
+EXAMPLE3061  T90	Protein_Family 3645 3653	ANT-like T89	Protein 3587 3590	AP2
+EXAMPLE3062  T90	Protein_Family 3645 3653	ANT-like T88	Protein_Family 3587 3597	AP2 family
+EXAMPLE3063  T90	Protein_Family 3645 3653	ANT-like T87	Gene 3519 3528	At1g79700
+EXAMPLE3064  T90	Protein_Family 3645 3653	ANT-like T86	Gene 3505 3514	At1g16060
+EXAMPLE3065  T90	Protein_Family 3645 3653	ANT-like T85	Gene 3494 3503	At2g41710
+EXAMPLE3066  T90	Protein_Family 3645 3653	ANT-like T84	Protein 3488 3492	WRI1
+EXAMPLE3067  T90	Protein_Family 3645 3653	ANT-like T83	Protein 3459 3463	WRI1
+EXAMPLE3068  T90	Protein_Family 3645 3653	ANT-like T82	Protein_Family 3459 3468	WRI1-like
+EXAMPLE3069  T89	Protein 3587 3590	AP2 T88	Protein_Family 3587 3597	AP2 family
+EXAMPLE3070  T89	Protein 3587 3590	AP2 T87	Gene 3519 3528	At1g79700
+EXAMPLE3071  T89	Protein 3587 3590	AP2 T86	Gene 3505 3514	At1g16060
+EXAMPLE3072  T89	Protein 3587 3590	AP2 T85	Gene 3494 3503	At2g41710
+EXAMPLE3073  T89	Protein 3587 3590	AP2 T84	Protein 3488 3492	WRI1
+EXAMPLE3074  T89	Protein 3587 3590	AP2 T83	Protein 3459 3463	WRI1
+EXAMPLE3075  T89	Protein 3587 3590	AP2 T82	Protein_Family 3459 3468	WRI1-like
+EXAMPLE3076  T88	Protein_Family 3587 3597	AP2 family T87	Gene 3519 3528	At1g79700
+EXAMPLE3077  T88	Protein_Family 3587 3597	AP2 family T86	Gene 3505 3514	At1g16060
+EXAMPLE3078  T88	Protein_Family 3587 3597	AP2 family T85	Gene 3494 3503	At2g41710
+EXAMPLE3079  T88	Protein_Family 3587 3597	AP2 family T84	Protein 3488 3492	WRI1
+EXAMPLE3080  T88	Protein_Family 3587 3597	AP2 family T83	Protein 3459 3463	WRI1
+EXAMPLE3081  T88	Protein_Family 3587 3597	AP2 family T82	Protein_Family 3459 3468	WRI1-like
+EXAMPLE3082  T87	Gene 3519 3528	At1g79700 T86	Gene 3505 3514	At1g16060
+EXAMPLE3083  T87	Gene 3519 3528	At1g79700 T85	Gene 3494 3503	At2g41710
+EXAMPLE3084  T87	Gene 3519 3528	At1g79700 T84	Protein 3488 3492	WRI1
+EXAMPLE3085  T87	Gene 3519 3528	At1g79700 T83	Protein 3459 3463	WRI1
+EXAMPLE3086  T87	Gene 3519 3528	At1g79700 T82	Protein_Family 3459 3468	WRI1-like
+EXAMPLE3087  T86	Gene 3505 3514	At1g16060 T85	Gene 3494 3503	At2g41710
+EXAMPLE3088  T86	Gene 3505 3514	At1g16060 T84	Protein 3488 3492	WRI1
+EXAMPLE3089  T86	Gene 3505 3514	At1g16060 T83	Protein 3459 3463	WRI1
+EXAMPLE3090  T86	Gene 3505 3514	At1g16060 T82	Protein_Family 3459 3468	WRI1-like
+EXAMPLE3091  T85	Gene 3494 3503	At2g41710 T84	Protein 3488 3492	WRI1
+EXAMPLE3092  T85	Gene 3494 3503	At2g41710 T83	Protein 3459 3463	WRI1
+EXAMPLE3093  T85	Gene 3494 3503	At2g41710 T82	Protein_Family 3459 3468	WRI1-like
+EXAMPLE3094  T84	Protein 3488 3492	WRI1 T83	Protein 3459 3463	WRI1
+EXAMPLE3095  T84	Protein 3488 3492	WRI1 T82	Protein_Family 3459 3468	WRI1-like
+EXAMPLE3096  T83	Protein 3459 3463	WRI1 T82	Protein_Family 3459 3468	WRI1-like
+EXAMPLE3097  T91	Protein_Domain 3759 3769	AP2 repeat T92	Protein 3759 3762	AP2
+EXAMPLE3098  T94	Box 3809 3835	ethylene response elements T95	Box 3837 3840	ERE
+EXAMPLE3099  T94	Box 3809 3835	ethylene response elements T96	Box 3845 3854	GCC boxes
+EXAMPLE3100  T94	Box 3809 3835	ethylene response elements T93	Protein_Family 3787 3790	ERF
+EXAMPLE3101  T95	Box 3837 3840	ERE T96	Box 3845 3854	GCC boxes
+EXAMPLE3102  T95	Box 3837 3840	ERE T93	Protein_Family 3787 3790	ERF
+EXAMPLE3103  T96	Box 3845 3854	GCC boxes T93	Protein_Family 3787 3790	ERF
+EXAMPLE3104  T97	Box 3896 3908	TAAGAGGCCGCC T98	Box 3923 3929	GCCGCC
+EXAMPLE3105  T101	Protein 4083 4089	AtERF1 T100	Protein 4069 4072	AP2
+EXAMPLE3106  T101	Protein 4083 4089	AtERF1 T102	Box 4103 4110	GCC box
+EXAMPLE3107  T101	Protein 4083 4089	AtERF1 T99	Protein_Domain 4069 4079	AP2 domain
+EXAMPLE3108  T100	Protein 4069 4072	AP2 T102	Box 4103 4110	GCC box
+EXAMPLE3109  T100	Protein 4069 4072	AP2 T99	Protein_Domain 4069 4079	AP2 domain
+EXAMPLE3110  T102	Box 4103 4110	GCC box T99	Protein_Domain 4069 4079	AP2 domain
+EXAMPLE3111  T103	Protein_Family 4169 4183	DREB subfamily T105	Box 4223 4227	DREs
+EXAMPLE3112  T103	Protein_Family 4169 4183	DREB subfamily T104	Box 4192 4221	dehydration response elements
+EXAMPLE3113  T103	Protein_Family 4169 4183	DREB subfamily T106	Box 4268 4273	CCGAC
+EXAMPLE3114  T105	Box 4223 4227	DREs T104	Box 4192 4221	dehydration response elements
+EXAMPLE3115  T105	Box 4223 4227	DREs T106	Box 4268 4273	CCGAC
+EXAMPLE3116  T104	Box 4192 4221	dehydration response elements T106	Box 4268 4273	CCGAC
+EXAMPLE3117  T107	Protein_Domain 4307 4317	AP2 repeat T112	Box 4425 4431	CACCTG
+EXAMPLE3118  T107	Protein_Domain 4307 4317	AP2 repeat T110	Box 4379 4384	CAACA
+EXAMPLE3119  T107	Protein_Domain 4307 4317	AP2 repeat T111	Protein_Domain 4404 4413	B3 domain
+EXAMPLE3120  T107	Protein_Domain 4307 4317	AP2 repeat T109	Protein 4325 4329	RAV1
+EXAMPLE3121  T107	Protein_Domain 4307 4317	AP2 repeat T108	Protein 4307 4310	AP2
+EXAMPLE3122  T112	Box 4425 4431	CACCTG T110	Box 4379 4384	CAACA
+EXAMPLE3123  T112	Box 4425 4431	CACCTG T111	Protein_Domain 4404 4413	B3 domain
+EXAMPLE3124  T112	Box 4425 4431	CACCTG T109	Protein 4325 4329	RAV1
+EXAMPLE3125  T112	Box 4425 4431	CACCTG T108	Protein 4307 4310	AP2
+EXAMPLE3126  T110	Box 4379 4384	CAACA T111	Protein_Domain 4404 4413	B3 domain
+EXAMPLE3127  T110	Box 4379 4384	CAACA T109	Protein 4325 4329	RAV1
+EXAMPLE3128  T110	Box 4379 4384	CAACA T108	Protein 4307 4310	AP2
+EXAMPLE3129  T111	Protein_Domain 4404 4413	B3 domain T109	Protein 4325 4329	RAV1
+EXAMPLE3130  T111	Protein_Domain 4404 4413	B3 domain T108	Protein 4307 4310	AP2
+EXAMPLE3131  T109	Protein 4325 4329	RAV1 T108	Protein 4307 4310	AP2
+EXAMPLE3132  T114	Protein 4526 4529	AP2 T113	Protein_Family 4526 4536	AP2 family
+EXAMPLE3133  T116	Protein 4608 4611	ANT T117	Environmental_Factor 4632 4640	in vitro
+EXAMPLE3134  T116	Protein 4608 4611	ANT T115	Protein 4594 4606	AINTEGUMENTA
+EXAMPLE3135  T116	Protein 4608 4611	ANT T118	Box 4644 4682	5′-gCAC(A/G)N(A/T)TcCC(a/g)ANG(c/t)-3′
+EXAMPLE3136  T117	Environmental_Factor 4632 4640	in vitro T115	Protein 4594 4606	AINTEGUMENTA
+EXAMPLE3137  T117	Environmental_Factor 4632 4640	in vitro T118	Box 4644 4682	5′-gCAC(A/G)N(A/T)TcCC(a/g)ANG(c/t)-3′
+EXAMPLE3138  T115	Protein 4594 4606	AINTEGUMENTA T118	Box 4644 4682	5′-gCAC(A/G)N(A/T)TcCC(a/g)ANG(c/t)-3′
+EXAMPLE3139  T120	Protein 4799 4802	AP2 T119	Protein_Domain 4799 4809	AP2 repeat
+EXAMPLE3140  T123	Protein 4830 4833	ANT T122	Protein 4816 4819	AP2
+EXAMPLE3141  T123	Protein 4830 4833	ANT T121	Protein_Domain 4816 4826	AP2 repeat
+EXAMPLE3142  T123	Protein 4830 4833	ANT T126	Protein 5008 5011	AP2
+EXAMPLE3143  T123	Protein 4830 4833	ANT T125	Protein_Domain 5008 5018	AP2 domain
+EXAMPLE3144  T123	Protein 4830 4833	ANT T124	Protein 4913 4916	ANT
+EXAMPLE3145  T122	Protein 4816 4819	AP2 T121	Protein_Domain 4816 4826	AP2 repeat
+EXAMPLE3146  T122	Protein 4816 4819	AP2 T126	Protein 5008 5011	AP2
+EXAMPLE3147  T122	Protein 4816 4819	AP2 T125	Protein_Domain 5008 5018	AP2 domain
+EXAMPLE3148  T122	Protein 4816 4819	AP2 T124	Protein 4913 4916	ANT
+EXAMPLE3149  T121	Protein_Domain 4816 4826	AP2 repeat T126	Protein 5008 5011	AP2
+EXAMPLE3150  T121	Protein_Domain 4816 4826	AP2 repeat T125	Protein_Domain 5008 5018	AP2 domain
+EXAMPLE3151  T121	Protein_Domain 4816 4826	AP2 repeat T124	Protein 4913 4916	ANT
+EXAMPLE3152  T126	Protein 5008 5011	AP2 T125	Protein_Domain 5008 5018	AP2 domain
+EXAMPLE3153  T126	Protein 5008 5011	AP2 T124	Protein 4913 4916	ANT
+EXAMPLE3154  T125	Protein_Domain 5008 5018	AP2 domain T124	Protein 4913 4916	ANT
+EXAMPLE3155  T129	Protein_Family 5135 5144	WRI1-like T128	Protein 5122 5125	AP2
+EXAMPLE3156  T129	Protein_Family 5135 5144	WRI1-like T130	Protein 5135 5139	WRI1
+EXAMPLE3157  T129	Protein_Family 5135 5144	WRI1-like T131	Protein_Family 5239 5249	AP2 family
+EXAMPLE3158  T129	Protein_Family 5135 5144	WRI1-like T132	Protein 5239 5242	AP2
+EXAMPLE3159  T129	Protein_Family 5135 5144	WRI1-like T127	Protein_Family 5122 5130	AP2-like
+EXAMPLE3160  T128	Protein 5122 5125	AP2 T130	Protein 5135 5139	WRI1
+EXAMPLE3161  T128	Protein 5122 5125	AP2 T131	Protein_Family 5239 5249	AP2 family
+EXAMPLE3162  T128	Protein 5122 5125	AP2 T132	Protein 5239 5242	AP2
+EXAMPLE3163  T128	Protein 5122 5125	AP2 T127	Protein_Family 5122 5130	AP2-like
+EXAMPLE3164  T130	Protein 5135 5139	WRI1 T131	Protein_Family 5239 5249	AP2 family
+EXAMPLE3165  T130	Protein 5135 5139	WRI1 T132	Protein 5239 5242	AP2
+EXAMPLE3166  T130	Protein 5135 5139	WRI1 T127	Protein_Family 5122 5130	AP2-like
+EXAMPLE3167  T131	Protein_Family 5239 5249	AP2 family T132	Protein 5239 5242	AP2
+EXAMPLE3168  T131	Protein_Family 5239 5249	AP2 family T127	Protein_Family 5122 5130	AP2-like
+EXAMPLE3169  T132	Protein 5239 5242	AP2 T127	Protein_Family 5122 5130	AP2-like
+EXAMPLE3170  T133	Protein 5323 5327	WRI1 T134	Tissue 5345 5349	seed
+EXAMPLE3171  T133	Protein 5323 5327	WRI1 T135	Gene_Family 5404 5414;5430 5448	glycolytic biosynthetic genes
+EXAMPLE3172  T133	Protein 5323 5327	WRI1 T136	Gene_Family 5419 5448	fatty acid biosynthetic genes
+EXAMPLE3173  T134	Tissue 5345 5349	seed T135	Gene_Family 5404 5414;5430 5448	glycolytic biosynthetic genes
+EXAMPLE3174  T134	Tissue 5345 5349	seed T136	Gene_Family 5419 5448	fatty acid biosynthetic genes
+EXAMPLE3175  T135	Gene_Family 5404 5414;5430 5448	glycolytic biosynthetic genes T136	Gene_Family 5419 5448	fatty acid biosynthetic genes
+EXAMPLE3176  T138	Genotype 5572 5581	in planta T139	Gene 5602 5607	BCCP2
+EXAMPLE3177  T138	Genotype 5572 5581	in planta T141	Promoter 5612 5628	PKp-β1 promoters
+EXAMPLE3178  T138	Genotype 5572 5581	in planta T140	Promoter 5602 5607;5619 5628	BCCP2 promoters
+EXAMPLE3179  T138	Genotype 5572 5581	in planta T142	Gene 5612 5618	PKp-β1
+EXAMPLE3180  T138	Genotype 5572 5581	in planta T137	Protein 5547 5551	WRI1
+EXAMPLE3181  T139	Gene 5602 5607	BCCP2 T141	Promoter 5612 5628	PKp-β1 promoters
+EXAMPLE3182  T139	Gene 5602 5607	BCCP2 T140	Promoter 5602 5607;5619 5628	BCCP2 promoters
+EXAMPLE3183  T139	Gene 5602 5607	BCCP2 T142	Gene 5612 5618	PKp-β1
+EXAMPLE3184  T139	Gene 5602 5607	BCCP2 T137	Protein 5547 5551	WRI1
+EXAMPLE3185  T141	Promoter 5612 5628	PKp-β1 promoters T140	Promoter 5602 5607;5619 5628	BCCP2 promoters
+EXAMPLE3186  T141	Promoter 5612 5628	PKp-β1 promoters T142	Gene 5612 5618	PKp-β1
+EXAMPLE3187  T141	Promoter 5612 5628	PKp-β1 promoters T137	Protein 5547 5551	WRI1
+EXAMPLE3188  T140	Promoter 5602 5607;5619 5628	BCCP2 promoters T142	Gene 5612 5618	PKp-β1
+EXAMPLE3189  T140	Promoter 5602 5607;5619 5628	BCCP2 promoters T137	Protein 5547 5551	WRI1
+EXAMPLE3190  T142	Gene 5612 5618	PKp-β1 T137	Protein 5547 5551	WRI1
+EXAMPLE3191  T145	Promoter 5758 5772	BCCP2 promoter T144	Protein 5724 5728	WRI1
+EXAMPLE3192  T145	Promoter 5758 5772	BCCP2 promoter T146	Gene 5758 5763	BCCP2
+EXAMPLE3193  T145	Promoter 5758 5772	BCCP2 promoter T143	Environmental_Factor 5685 5701	yeast one-hybrid
+EXAMPLE3194  T144	Protein 5724 5728	WRI1 T146	Gene 5758 5763	BCCP2
+EXAMPLE3195  T144	Protein 5724 5728	WRI1 T143	Environmental_Factor 5685 5701	yeast one-hybrid
+EXAMPLE3196  T146	Gene 5758 5763	BCCP2 T143	Environmental_Factor 5685 5701	yeast one-hybrid
+EXAMPLE3197  T147	Protein 5810 5814	WRI1 T149	Tissue 5875 5880	seeds
+EXAMPLE3198  T147	Protein 5810 5814	WRI1 T148	Gene_Family 5846 5860	lipogenic gene
+EXAMPLE3199  T147	Protein 5810 5814	WRI1 T150	Development_Phase 5952 5981	onset of the maturation phase
+EXAMPLE3200  T149	Tissue 5875 5880	seeds T148	Gene_Family 5846 5860	lipogenic gene
+EXAMPLE3201  T149	Tissue 5875 5880	seeds T150	Development_Phase 5952 5981	onset of the maturation phase
+EXAMPLE3202  T148	Gene_Family 5846 5860	lipogenic gene T150	Development_Phase 5952 5981	onset of the maturation phase
+EXAMPLE3203  T152	Promoter 6013 6019;6030 6039	PKp-β1 promoters T153	Promoter 6024 6039	BCCP2 promoters
+EXAMPLE3204  T152	Promoter 6013 6019;6030 6039	PKp-β1 promoters T151	Gene 6013 6019	PKp-β1
+EXAMPLE3205  T152	Promoter 6013 6019;6030 6039	PKp-β1 promoters T154	Gene 6024 6029	BCCP2
+EXAMPLE3206  T152	Promoter 6013 6019;6030 6039	PKp-β1 promoters T155	Protein 6124 6128	WRI1
+EXAMPLE3207  T153	Promoter 6024 6039	BCCP2 promoters T151	Gene 6013 6019	PKp-β1
+EXAMPLE3208  T153	Promoter 6024 6039	BCCP2 promoters T154	Gene 6024 6029	BCCP2
+EXAMPLE3209  T153	Promoter 6024 6039	BCCP2 promoters T155	Protein 6124 6128	WRI1
+EXAMPLE3210  T151	Gene 6013 6019	PKp-β1 T154	Gene 6024 6029	BCCP2
+EXAMPLE3211  T151	Gene 6013 6019	PKp-β1 T155	Protein 6124 6128	WRI1
+EXAMPLE3212  T154	Gene 6024 6029	BCCP2 T155	Protein 6124 6128	WRI1
+EXAMPLE3213  T156	Protein 6246 6250	WRI1 T157	Promoter 6259 6273	BCCP2 promoter
+EXAMPLE3214  T156	Protein 6246 6250	WRI1 T161	Genotype 6343 6352	in planta
+EXAMPLE3215  T156	Protein 6246 6250	WRI1 T160	Genotype 6296 6301	yeast
+EXAMPLE3216  T156	Protein 6246 6250	WRI1 T158	Gene 6259 6264	BCCP2
+EXAMPLE3217  T156	Protein 6246 6250	WRI1 T159	Environmental_Factor 6280 6288	in vitro
+EXAMPLE3218  T157	Promoter 6259 6273	BCCP2 promoter T161	Genotype 6343 6352	in planta
+EXAMPLE3219  T157	Promoter 6259 6273	BCCP2 promoter T160	Genotype 6296 6301	yeast
+EXAMPLE3220  T157	Promoter 6259 6273	BCCP2 promoter T158	Gene 6259 6264	BCCP2
+EXAMPLE3221  T157	Promoter 6259 6273	BCCP2 promoter T159	Environmental_Factor 6280 6288	in vitro
+EXAMPLE3222  T161	Genotype 6343 6352	in planta T160	Genotype 6296 6301	yeast
+EXAMPLE3223  T161	Genotype 6343 6352	in planta T158	Gene 6259 6264	BCCP2
+EXAMPLE3224  T161	Genotype 6343 6352	in planta T159	Environmental_Factor 6280 6288	in vitro
+EXAMPLE3225  T160	Genotype 6296 6301	yeast T158	Gene 6259 6264	BCCP2
+EXAMPLE3226  T160	Genotype 6296 6301	yeast T159	Environmental_Factor 6280 6288	in vitro
+EXAMPLE3227  T158	Gene 6259 6264	BCCP2 T159	Environmental_Factor 6280 6288	in vitro
+EXAMPLE3228  T166	Tissue 6657 6662	seeds T165	Pathway 6637 6653	oil accumulation
+EXAMPLE3229  T166	Tissue 6657 6662	seeds T164	Genotype 6525 6536	A. thaliana
+EXAMPLE3230  T166	Tissue 6657 6662	seeds T163	Pathway 6489 6521	fatty acid biosynthetic pathways
+EXAMPLE3231  T166	Tissue 6657 6662	seeds T162	Pathway 6474 6484;6500 6521	glycolytic biosynthetic pathways
+EXAMPLE3232  T165	Pathway 6637 6653	oil accumulation T164	Genotype 6525 6536	A. thaliana
+EXAMPLE3233  T165	Pathway 6637 6653	oil accumulation T163	Pathway 6489 6521	fatty acid biosynthetic pathways
+EXAMPLE3234  T165	Pathway 6637 6653	oil accumulation T162	Pathway 6474 6484;6500 6521	glycolytic biosynthetic pathways
+EXAMPLE3235  T164	Genotype 6525 6536	A. thaliana T163	Pathway 6489 6521	fatty acid biosynthetic pathways
+EXAMPLE3236  T164	Genotype 6525 6536	A. thaliana T162	Pathway 6474 6484;6500 6521	glycolytic biosynthetic pathways
+EXAMPLE3237  T163	Pathway 6489 6521	fatty acid biosynthetic pathways T162	Pathway 6474 6484;6500 6521	glycolytic biosynthetic pathways

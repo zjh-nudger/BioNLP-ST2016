@@ -1,0 +1,36 @@
+EXAMPLE1426  T6	Tissue 119 123	seed T7	Development_Phase 138 149	germination
+EXAMPLE1427  T6	Tissue 119 123	seed T4	Tissue 75 81	embryo
+EXAMPLE1428  T6	Tissue 119 123	seed T5	Development_Phase 119 133	seed dispersal
+EXAMPLE1429  T6	Tissue 119 123	seed T2	Tissue 11 20	seed coat
+EXAMPLE1430  T6	Tissue 119 123	seed T3	Tissue 11 15	seed
+EXAMPLE1431  T6	Tissue 119 123	seed T1	Tissue 4 20	mature seed coat
+EXAMPLE1432  T7	Development_Phase 138 149	germination T4	Tissue 75 81	embryo
+EXAMPLE1433  T7	Development_Phase 138 149	germination T5	Development_Phase 119 133	seed dispersal
+EXAMPLE1434  T7	Development_Phase 138 149	germination T2	Tissue 11 20	seed coat
+EXAMPLE1435  T7	Development_Phase 138 149	germination T3	Tissue 11 15	seed
+EXAMPLE1436  T7	Development_Phase 138 149	germination T1	Tissue 4 20	mature seed coat
+EXAMPLE1437  T4	Tissue 75 81	embryo T5	Development_Phase 119 133	seed dispersal
+EXAMPLE1438  T4	Tissue 75 81	embryo T2	Tissue 11 20	seed coat
+EXAMPLE1439  T4	Tissue 75 81	embryo T3	Tissue 11 15	seed
+EXAMPLE1440  T4	Tissue 75 81	embryo T1	Tissue 4 20	mature seed coat
+EXAMPLE1441  T5	Development_Phase 119 133	seed dispersal T2	Tissue 11 20	seed coat
+EXAMPLE1442  T5	Development_Phase 119 133	seed dispersal T3	Tissue 11 15	seed
+EXAMPLE1443  T5	Development_Phase 119 133	seed dispersal T1	Tissue 4 20	mature seed coat
+EXAMPLE1444  T2	Tissue 11 20	seed coat T3	Tissue 11 15	seed
+EXAMPLE1445  T2	Tissue 11 20	seed coat T1	Tissue 4 20	mature seed coat
+EXAMPLE1446  T3	Tissue 11 15	seed T1	Tissue 4 20	mature seed coat
+EXAMPLE1447  T10	Tissue 238 253	epidermal cells T11	Tissue 261 270	seed coat
+EXAMPLE1448  T10	Tissue 238 253	epidermal cells T8	Pathway 208 230	production of mucilage
+EXAMPLE1449  T10	Tissue 238 253	epidermal cells T9	Tissue 238 270	epidermal cells of the seed coat
+EXAMPLE1450  T11	Tissue 261 270	seed coat T8	Pathway 208 230	production of mucilage
+EXAMPLE1451  T11	Tissue 261 270	seed coat T9	Tissue 238 270	epidermal cells of the seed coat
+EXAMPLE1452  T8	Pathway 208 230	production of mucilage T9	Tissue 238 270	epidermal cells of the seed coat
+EXAMPLE1453  T14	Genotype 381 389	Linaceae T15	Genotype 395 409	Plantaginaceae
+EXAMPLE1454  T14	Genotype 381 389	Linaceae T12	Genotype 355 367	Brassicaceae
+EXAMPLE1455  T14	Genotype 381 389	Linaceae T13	Genotype 369 379	Solanaceae
+EXAMPLE1456  T15	Genotype 395 409	Plantaginaceae T12	Genotype 355 367	Brassicaceae
+EXAMPLE1457  T15	Genotype 395 409	Plantaginaceae T13	Genotype 369 379	Solanaceae
+EXAMPLE1458  T12	Genotype 355 367	Brassicaceae T13	Genotype 369 379	Solanaceae
+EXAMPLE1459  T16	Development_Phase 457 472	Seed imbibition T17	Tissue 457 461	Seed
+EXAMPLE1460  T16	Development_Phase 457 472	Seed imbibition T18	Tissue 540 544	seed
+EXAMPLE1461  T17	Tissue 457 461	Seed T18	Tissue 540 544	seed

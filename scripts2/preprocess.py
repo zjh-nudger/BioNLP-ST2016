@@ -36,7 +36,7 @@ data.close()
 '''
 
 import glob,codecs
-train_data = codecs.open('train_data/ab-devel.txt','w',encoding='utf-8')
+train_data = codecs.open('ab-devel.txt','w',encoding='utf-8')
 for fn in glob.glob('C:/Users/tanfan.zjh/OneDrive/spyder workspace/BioNLP-ST2016/supporting resources/genia-tagger/dev/*.gt'):
     f = codecs.open(fn,encoding='utf-8')
     new_line = []
@@ -48,9 +48,10 @@ for fn in glob.glob('C:/Users/tanfan.zjh/OneDrive/spyder workspace/BioNLP-ST2016
             continue
         else:
             try:
-                tt = codecs.decode(toks[0],'utf-8').encode('utf-8')
+                tt = codecs.decode(toks[0],'utf-8').encode('ascii')
                 new_line.append(tt)
             except:
+                print line
                 continue
             
     f.close()

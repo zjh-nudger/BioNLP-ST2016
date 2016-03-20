@@ -1,0 +1,26 @@
+EXAMPLE1654  T4	Protein_Family 103 121	NDP-l-Rha synthase T5	Tissue 147 156	columella
+EXAMPLE1655  T4	Protein_Family 103 121	NDP-l-Rha synthase T2	Pathway 23 42	mucilage production
+EXAMPLE1656  T4	Protein_Family 103 121	NDP-l-Rha synthase T3	Gene 92 96	MUM4
+EXAMPLE1657  T4	Protein_Family 103 121	NDP-l-Rha synthase T1	Regulatory_Network 13 42	defect in mucilage production
+EXAMPLE1658  T5	Tissue 147 156	columella T2	Pathway 23 42	mucilage production
+EXAMPLE1659  T5	Tissue 147 156	columella T3	Gene 92 96	MUM4
+EXAMPLE1660  T5	Tissue 147 156	columella T1	Regulatory_Network 13 42	defect in mucilage production
+EXAMPLE1661  T2	Pathway 23 42	mucilage production T3	Gene 92 96	MUM4
+EXAMPLE1662  T2	Pathway 23 42	mucilage production T1	Regulatory_Network 13 42	defect in mucilage production
+EXAMPLE1663  T3	Gene 92 96	MUM4 T1	Regulatory_Network 13 42	defect in mucilage production
+EXAMPLE1664  T6	Development_Phase 241 259	cell morphogenesis T7	Pathway 263 281	mucilage synthesis
+EXAMPLE1665  T12	Tissue 574 581	vacuole T10	Pathway 390 398	mucilage
+EXAMPLE1666  T12	Tissue 574 581	vacuole T11	Tissue 406 428	extracytoplasmic space
+EXAMPLE1667  T12	Tissue 574 581	vacuole T8	Tissue 304 320	apoplastic space
+EXAMPLE1668  T12	Tissue 574 581	vacuole T9	Tissue 325 343	cytoplasmic column
+EXAMPLE1669  T10	Pathway 390 398	mucilage T11	Tissue 406 428	extracytoplasmic space
+EXAMPLE1670  T10	Pathway 390 398	mucilage T8	Tissue 304 320	apoplastic space
+EXAMPLE1671  T10	Pathway 390 398	mucilage T9	Tissue 325 343	cytoplasmic column
+EXAMPLE1672  T11	Tissue 406 428	extracytoplasmic space T8	Tissue 304 320	apoplastic space
+EXAMPLE1673  T11	Tissue 406 428	extracytoplasmic space T9	Tissue 325 343	cytoplasmic column
+EXAMPLE1674  T8	Tissue 304 320	apoplastic space T9	Tissue 325 343	cytoplasmic column
+EXAMPLE1675  T14	Tissue 722 740	cytoplasmic column T13	Development_Phase 624 642	cell morphogenesis
+EXAMPLE1676  T15	Pathway 806 827	synthesis of mucilage T16	Pathway 857 896	production of an oligosaccharide signal
+EXAMPLE1677  T15	Pathway 806 827	synthesis of mucilage T17	Development_Phase 917 947	cell to undergo morphogenesis
+EXAMPLE1678  T16	Pathway 857 896	production of an oligosaccharide signal T17	Development_Phase 917 947	cell to undergo morphogenesis
+EXAMPLE1679  T18	Genotype 1081 1142	mutants affected specifically in the shaping of the columella T19	Tissue 1133 1142	columella

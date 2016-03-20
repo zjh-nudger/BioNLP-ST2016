@@ -6,7 +6,7 @@ Created on Tue Mar 08 19:47:22 2016
 
 @author: tanfan.zjh
 """
-import sys
+import sys,string
 sys.path.append('..')
 
 import glob,path,re,project,itertools
@@ -117,12 +117,13 @@ def get_a2_annotations(a2_file):
         annotations[(toks[3],toks[5])] = annotation
     return annotations
 
-def get_context(e1_start_index,e1_end_index,e2_start_index,e2_end_index,sentence,window):
+def get_context(e1_start_index,e1_end_index,e2_start_index,e2_end_index,sentence):
     selected_index = set()
-    for i in xrange(e1_start_index,e1_end_index+1):
+    for i in xrange(e1_start_index,e2_end_index+1):
         selected_index.add(i)
-    for i in xrange(e2_start_index,e2_end_index+1):
+    for i in xrange(e2_start_index,e1_end_index+1):
         selected_index.add(i)
+    '''
     for i in xrange(window):
         index_before_e1 = e1_start_index - i - 1
         index_after_e1 = e1_end_index + i +1
@@ -132,6 +133,7 @@ def get_context(e1_start_index,e1_end_index,e2_start_index,e2_end_index,sentence
         selected_index.add(index_after_e2)
         selected_index.add(index_before_e1)
         selected_index.add(index_before_e2)
+    '''
     selected_index_edge = []
     for index in selected_index:
         if index < 0 or index >= len(sentence):
@@ -141,8 +143,13 @@ def get_context(e1_start_index,e1_end_index,e2_start_index,e2_end_index,sentence
     list.sort(selected_index)
     contexts = []
     for index in selected_index:
+        ## filt the punctution
+        if sentence[index].word in [p for p in string.punctuation]:
+            continue
+        if sentence[index].word in ['the','a','an','its','their']:
+            continue
         contexts.append(sentence[index])
-    return contexts    
+    return contexts
 
 # return the index of e1\e2 in the sentence  
 def get_index(element1,element2,sentence):
@@ -162,6 +169,7 @@ def get_index(element1,element2,sentence):
     #assert len(sentencex) != 0
     return e1_start_index,e1_end_index,e2_start_index,e2_end_index
 
+# for a document
 def get_dependency_graph(gdep_file):
     graphs = []
     tree_node_list = []
@@ -214,6 +222,7 @@ def get_shortest_path(entity_node1,entity_node2,graph):
         sp_word.append(node.word)
     return sp_word
 
+
 def create_shortest_path_examples(gt_file,a1_file,a2_file,gdep_file,output_file):
     document = get_sentences_from_gt(gt_file)
     entities = get_a1_annotations(a1_file)
@@ -258,49 +267,70 @@ def create_shortest_path_examples(gt_file,a1_file,a2_file,gdep_file,output_file)
             shortest_path = get_shortest_path(entity_node1,entity_node2,graph)
             output_file.write(str(typex_id)+' ' +element1.typex+' '+element2.typex+' '+ ' '.join(shortest_path)+'\n')    
 
-def create_examples(gt_file,a1_file,a2_file,output_file,window):
+examples_idx = 0
+def create_examples(gt_file,a1_file,a2_file,output_file,pos_file,is_train):
+    global examples_idx
     ## o_f = open('Is_Involved_In_Process.txt','a')
     document = get_sentences_from_gt(gt_file)
     entities = get_a1_annotations(a1_file)
     relations = get_a2_annotations(a2_file)
+    if not is_train:
+        a2_output_file = open('a2_predict/'+a2_file.name.split('/')[-1],'w')
     for sentence in document:
         sentence_entity_set = set()
         for word in sentence:
             for idx,entity in entities.iteritems():
                 if word.start <= entity.start() and word.end > entity.start():
                     sentence_entity_set.add(entity.idx)
-        for combination in itertools.combinations(sentence_entity_set,2):
-            combination_1 = (combination[1],combination[0])
-            if relations.has_key(combination) or relations.has_key(combination_1):
+        for e1_idx,e2_idx in itertools.combinations(sentence_entity_set,2):# 无顺序
+            if relations.has_key((e1_idx,e2_idx)) or relations.has_key((e2_idx,e1_idx)):
                 try:               
-                    a2_annotation = relations[combination]
-                    #relations.pop(combination)
+                    a2_annotation = relations[(e1_idx,e2_idx)]
+                    relations.pop((e1_idx,e2_idx))
                 except KeyError:
-                    a2_annotation = relations[combination_1]
-                    #relations.pop(combination_1)
-                typex_id = project.RELATIONS.index(a2_annotation.typex) + 1
-                element1 = entities[combination[0]]
-                element2 = entities[combination[1]]
+                    a2_annotation = relations[(e2_idx,e1_idx)]
+                    relations.pop((e2_idx,e1_idx))
+                try:
+                    typex_id = project.RELATIONS_21.index(a2_annotation.typex) + 1
+                except ValueError:
+                    assert a2_annotation.typex == 'Has_Sequence_Identical_To' or \
+                           a2_annotation.typex == 'Is_Functionally_Equivalent_To'
+                    typex_id = project.RELATIONS_21.index('Is_Linked_To') + 1
+                element1 = entities[e1_idx]
+                element2 = entities[e2_idx]
             else: # negative examples
                 typex_id = 0
-                element1 = entities[combination[0]]
-                element2 = entities[combination[1]]
+                element1 = entities[e1_idx]
+                element2 = entities[e2_idx]
             #entity_type_1 = element1.typex
             #entity_type_2 = element2.typex
             index = get_index(element1,element2,sentence)
-            contexts = get_context(index[0],index[1],index[2],index[3],sentence,window)
-            contexts = [str(word.word) for word in contexts]
-            output_file.write(str(typex_id)+' '+ ' '.join(contexts)+'\n')
+            contexts = get_context(index[0],index[1],index[2],index[3],sentence)
+            contexts_word = [str(word.word) for word in contexts]
+            contexts_pos = [str(word.pos) for word in contexts]
+            if is_train:
+                prefix = ''
+            else:
+                prefix = 'EXAMPLE'+str(examples_idx)+' '
+                examples_idx += 1
+                a2_output_file.write(prefix+' '+str(element1)+' '+str(element2)+'\n')
+            output_file.write(prefix + str(typex_id) + ' ' + ' '.join(contexts_word) + '\n')
+            pos_file.write(' '.join(contexts_pos) + '\n')
+    if not is_train:
+        a2_output_file.close()
+#    if len(relations) == 14:
+#        print str(relations)+'\t'+a1_file.name
+    #assert len(relations) == 0
     
-
 def close_file(*f):
     for fl in f:
         fl.close()
         
 if __name__ == '__main__':
-    train = open('train_sp','w')
-    dev = open('dev_sp','w')
-    window = 0
+    train = open('train','w')
+    dev = open('dev','w')
+    train_pos = open('train_pos','w')
+    dev_pos = open('dev_pos','w')
     for fn in glob.glob(path.GT_PROCESS_TRAIN+'/*.gt'):
         #print fn
         pmid = fn.split('\\')[-1][12:-3]
@@ -309,8 +339,8 @@ if __name__ == '__main__':
         a2_file = open(path.SOURCE_DATA_BINARY_TRAIN+'/SeeDev-binary-'+pmid+'.a2')
         gdep_file = open(path.GDEP_PROCESS_TRAIN+'/SeeDev-full-'+pmid+'.txt.gdep')
         # for linear context        
-        #create_examples(gt_file,a1_file,a2_file,train,window)
-        create_shortest_path_examples(gt_file,a1_file,a2_file,gdep_file,train)
+        create_examples(gt_file,a1_file,a2_file,train,train_pos,is_train=True)
+        #create_shortest_path_examples(gt_file,a1_file,a2_file,gdep_file,train)
         close_file(a1_file,a2_file,gt_file,gdep_file)
         
     for fn in glob.glob(path.GT_PROCESS_DEV+'/*.gt'):
@@ -319,9 +349,11 @@ if __name__ == '__main__':
         a1_file = open(path.SOURCE_DATA_BINARY_DEV+'/SeeDev-binary-'+pmid+'.a1')
         a2_file = open(path.SOURCE_DATA_BINARY_DEV+'/SeeDev-binary-'+pmid+'.a2')
         gdep_file = open(path.GDEP_PROCESS_DEV+'/SeeDev-full-'+pmid+'.txt.gdep')
-        #create_examples(gt_file,a1_file,a2_file,dev,window)
-        create_shortest_path_examples(gt_file,a1_file,a2_file,gdep_file,dev)
+        create_examples(gt_file,a1_file,a2_file,dev,dev_pos,is_train=False)
+        #create_shortest_path_examples(gt_file,a1_file,a2_file,gdep_file,dev)
         close_file(a1_file,a2_file,gt_file,gdep_file)
         #print fn
     dev.close()
     train.close()
+    train_pos.close()
+    dev_pos.close()

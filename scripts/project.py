@@ -135,5 +135,14 @@ RELATIONS = ['Is_Member_Of_Family','Is_Linked_To','Regulates_Tissue_Development'
              'Regulates_Expression','Regulates_Molecule_Activity','Is_Functionally_Equivalent_To',
              'Exists_At_Stage','Is_Involved_In_Process']
 
+Is_Linked_To, Has_Sequence_Identical_To, Is_Functionally_Equivalent_To
+
+RELATIONS_21 = ['Is_Member_Of_Family','Is_Linked_To','Regulates_Tissue_Development',
+                'Is_Protein_Domain_Of','Regulates_Process',
+                'Composes_Protein_Complex','Occurs_During','Interacts_With','Is_Localized_In',
+                'Composes_Primary_Structure','Occurs_In_Genotype','Binds_To','Exists_In_Genotype',
+                'Regulates_Accumulation','Transcribes_Or_Translates_To','Regulates_Development_Phase',
+                'Regulates_Expression','Regulates_Molecule_Activity',
+                'Exists_At_Stage','Is_Involved_In_Process']
 
 

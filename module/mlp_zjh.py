@@ -162,8 +162,10 @@ class LogisticRegression(object):
             self.b = b
 
         self.p_y_given_x = T.nnet.softmax(T.dot(input, self.W) + self.b)
-        p_y_gigen_x_1 = T.mul(self.p_y_given_x,[1.,10.,10.,10.,10.,10.])
-        self.y_pred = T.argmax(p_y_gigen_x_1, axis=1)
+        #m = [1000. for i in xrange(20)]
+        #m.insert(0,1.)
+        #p_y_gigen_x_1 = T.mul(self.p_y_given_x,m)
+        self.y_pred = T.argmax(self.p_y_given_x, axis=1)
         self.params = [self.W, self.b]
 
     def negative_log_likelihood(self, y):
