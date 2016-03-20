@@ -1,0 +1,260 @@
+EXAMPLE2607 | T8	Tissue 519 556	surrounding layers of maternal origin | T6	Tissue 470 479	seed coat
+EXAMPLE2608 | T8	Tissue 519 556	surrounding layers of maternal origin | T7	Tissue 497 508	integuments
+EXAMPLE2609 | T8	Tissue 519 556	surrounding layers of maternal origin | T4	Tissue 439 445	embryo
+EXAMPLE2610 | T8	Tissue 519 556	surrounding layers of maternal origin | T5	Tissue 451 460	endosperm
+EXAMPLE2611 | T8	Tissue 519 556	surrounding layers of maternal origin | T2	Tissue 319 324	Seeds
+EXAMPLE2612 | T8	Tissue 519 556	surrounding layers of maternal origin | T3	Development_Phase 336 370	after a double fertilization event
+EXAMPLE2613 | T6	Tissue 470 479	seed coat | T7	Tissue 497 508	integuments
+EXAMPLE2614 | T6	Tissue 470 479	seed coat | T4	Tissue 439 445	embryo
+EXAMPLE2615 | T6	Tissue 470 479	seed coat | T5	Tissue 451 460	endosperm
+EXAMPLE2616 | T6	Tissue 470 479	seed coat | T2	Tissue 319 324	Seeds
+EXAMPLE2617 | T6	Tissue 470 479	seed coat | T3	Development_Phase 336 370	after a double fertilization event
+EXAMPLE2618 | T7	Tissue 497 508	integuments | T4	Tissue 439 445	embryo
+EXAMPLE2619 | T7	Tissue 497 508	integuments | T5	Tissue 451 460	endosperm
+EXAMPLE2620 | T7	Tissue 497 508	integuments | T2	Tissue 319 324	Seeds
+EXAMPLE2621 | T7	Tissue 497 508	integuments | T3	Development_Phase 336 370	after a double fertilization event
+EXAMPLE2622 | T4	Tissue 439 445	embryo | T5	Tissue 451 460	endosperm
+EXAMPLE2623 | T4	Tissue 439 445	embryo | T2	Tissue 319 324	Seeds
+EXAMPLE2624 | T4	Tissue 439 445	embryo | T3	Development_Phase 336 370	after a double fertilization event
+EXAMPLE2625 | T5	Tissue 451 460	endosperm | T2	Tissue 319 324	Seeds
+EXAMPLE2626 | T5	Tissue 451 460	endosperm | T3	Development_Phase 336 370	after a double fertilization event
+EXAMPLE2627 | T2	Tissue 319 324	Seeds | T3	Development_Phase 336 370	after a double fertilization event
+EXAMPLE2628 | T9	Development_Phase 558 574	Seed development | T14	Tissue 690 696	embryo
+EXAMPLE2629 | T9	Development_Phase 558 574	Seed development | T10	Tissue 558 562	Seed
+EXAMPLE2630 | T9	Development_Phase 558 574	Seed development | T11	Development_Phase 616 629	embryogenesis
+EXAMPLE2631 | T9	Development_Phase 558 574	Seed development | T12	Development_Phase 650 663	cell division
+EXAMPLE2632 | T9	Development_Phase 558 574	Seed development | T13	Development_Phase 650 654;668 683	cell differentiation
+EXAMPLE2633 | T14	Tissue 690 696	embryo | T10	Tissue 558 562	Seed
+EXAMPLE2634 | T14	Tissue 690 696	embryo | T11	Development_Phase 616 629	embryogenesis
+EXAMPLE2635 | T14	Tissue 690 696	embryo | T12	Development_Phase 650 663	cell division
+EXAMPLE2636 | T14	Tissue 690 696	embryo | T13	Development_Phase 650 654;668 683	cell differentiation
+EXAMPLE2637 | T10	Tissue 558 562	Seed | T11	Development_Phase 616 629	embryogenesis
+EXAMPLE2638 | T10	Tissue 558 562	Seed | T12	Development_Phase 650 663	cell division
+EXAMPLE2639 | T10	Tissue 558 562	Seed | T13	Development_Phase 650 654;668 683	cell differentiation
+EXAMPLE2640 | T11	Development_Phase 616 629	embryogenesis | T12	Development_Phase 650 663	cell division
+EXAMPLE2641 | T11	Development_Phase 616 629	embryogenesis | T13	Development_Phase 650 654;668 683	cell differentiation
+EXAMPLE2642 | T12	Development_Phase 650 663	cell division | T13	Development_Phase 650 654;668 683	cell differentiation
+EXAMPLE2643 | T15	Development_Phase 736 746	maturation | T16	Pathway 769 798	storage compound accumulation
+EXAMPLE2644 | T15	Development_Phase 736 746	maturation | T17	Development_Phase 800 813	growth arrest
+EXAMPLE2645 | T15	Development_Phase 736 746	maturation | T18	Pathway 834 855	desiccation tolerance
+EXAMPLE2646 | T16	Pathway 769 798	storage compound accumulation | T17	Development_Phase 800 813	growth arrest
+EXAMPLE2647 | T16	Pathway 769 798	storage compound accumulation | T18	Pathway 834 855	desiccation tolerance
+EXAMPLE2648 | T17	Development_Phase 800 813	growth arrest | T18	Pathway 834 855	desiccation tolerance
+EXAMPLE2649 | T21	Development_Phase 927 938	germination | T20	Development_Phase 892 900	dormancy
+EXAMPLE2650 | T21	Development_Phase 927 938	germination | T19	Tissue 868 874	embryo
+EXAMPLE2651 | T20	Development_Phase 892 900	dormancy | T19	Tissue 868 874	embryo
+EXAMPLE2652 | T23	Genotype 1051 1071	Arabidopsis thaliana | T25	Development_Phase 1136 1152	seed development
+EXAMPLE2653 | T23	Genotype 1051 1071	Arabidopsis thaliana | T24	Genotype 1130 1135	dicot
+EXAMPLE2654 | T23	Genotype 1051 1071	Arabidopsis thaliana | T27	Genotype 1200 1207	monocot
+EXAMPLE2655 | T23	Genotype 1051 1071	Arabidopsis thaliana | T26	Tissue 1136 1140	seed
+EXAMPLE2656 | T25	Development_Phase 1136 1152	seed development | T24	Genotype 1130 1135	dicot
+EXAMPLE2657 | T25	Development_Phase 1136 1152	seed development | T27	Genotype 1200 1207	monocot
+EXAMPLE2658 | T25	Development_Phase 1136 1152	seed development | T26	Tissue 1136 1140	seed
+EXAMPLE2659 | T24	Genotype 1130 1135	dicot | T27	Genotype 1200 1207	monocot
+EXAMPLE2660 | T24	Genotype 1130 1135	dicot | T26	Tissue 1136 1140	seed
+EXAMPLE2661 | T27	Genotype 1200 1207	monocot | T26	Tissue 1136 1140	seed
+EXAMPLE2662 | T29	Development_Phase 1401 1416	seed maturation | T28	Regulatory_Network 1322 1382	programs of gene expression related to the metabolic changes
+EXAMPLE2663 | T29	Development_Phase 1401 1416	seed maturation | T30	Tissue 1401 1405	seed
+EXAMPLE2664 | T28	Regulatory_Network 1322 1382	programs of gene expression related to the metabolic changes | T30	Tissue 1401 1405	seed
+EXAMPLE2665 | T36	Gene_Family 1682 1708;1714 1719	plant transcription factor genes | T34	Gene 1625 1632	Opaque2
+EXAMPLE2666 | T36	Gene_Family 1682 1708;1714 1719	plant transcription factor genes | T35	Gene 1634 1636	O2
+EXAMPLE2667 | T36	Gene_Family 1682 1708;1714 1719	plant transcription factor genes | T32	Genotype 1608 1613	maize
+EXAMPLE2668 | T36	Gene_Family 1682 1708;1714 1719	plant transcription factor genes | T33	Genotype 1615 1623	Zea mays
+EXAMPLE2669 | T36	Gene_Family 1682 1708;1714 1719	plant transcription factor genes | T31	Tissue 1539 1543	seed
+EXAMPLE2670 | T34	Gene 1625 1632	Opaque2 | T35	Gene 1634 1636	O2
+EXAMPLE2671 | T34	Gene 1625 1632	Opaque2 | T32	Genotype 1608 1613	maize
+EXAMPLE2672 | T34	Gene 1625 1632	Opaque2 | T33	Genotype 1615 1623	Zea mays
+EXAMPLE2673 | T34	Gene 1625 1632	Opaque2 | T31	Tissue 1539 1543	seed
+EXAMPLE2674 | T35	Gene 1634 1636	O2 | T32	Genotype 1608 1613	maize
+EXAMPLE2675 | T35	Gene 1634 1636	O2 | T33	Genotype 1615 1623	Zea mays
+EXAMPLE2676 | T35	Gene 1634 1636	O2 | T31	Tissue 1539 1543	seed
+EXAMPLE2677 | T32	Genotype 1608 1613	maize | T33	Genotype 1615 1623	Zea mays
+EXAMPLE2678 | T32	Genotype 1608 1613	maize | T31	Tissue 1539 1543	seed
+EXAMPLE2679 | T33	Genotype 1615 1623	Zea mays | T31	Tissue 1539 1543	seed
+EXAMPLE2680 | T43	Gene 1917 1919	O2 | T42	Gene 1888 1892	BLZ2
+EXAMPLE2681 | T43	Gene 1917 1919	O2 | T41	Genotype 1870 1885	Hordeum vulgare
+EXAMPLE2682 | T43	Gene 1917 1919	O2 | T40	Genotype 1862 1868	barley
+EXAMPLE2683 | T43	Gene 1917 1919	O2 | T38	Genotype 1833 1850	Triticum aestivum
+EXAMPLE2684 | T43	Gene 1917 1919	O2 | T39	Gene 1853 1856	SPA
+EXAMPLE2685 | T43	Gene 1917 1919	O2 | T37	Genotype 1826 1831	wheat
+EXAMPLE2686 | T42	Gene 1888 1892	BLZ2 | T41	Genotype 1870 1885	Hordeum vulgare
+EXAMPLE2687 | T42	Gene 1888 1892	BLZ2 | T40	Genotype 1862 1868	barley
+EXAMPLE2688 | T42	Gene 1888 1892	BLZ2 | T38	Genotype 1833 1850	Triticum aestivum
+EXAMPLE2689 | T42	Gene 1888 1892	BLZ2 | T39	Gene 1853 1856	SPA
+EXAMPLE2690 | T42	Gene 1888 1892	BLZ2 | T37	Genotype 1826 1831	wheat
+EXAMPLE2691 | T41	Genotype 1870 1885	Hordeum vulgare | T40	Genotype 1862 1868	barley
+EXAMPLE2692 | T41	Genotype 1870 1885	Hordeum vulgare | T38	Genotype 1833 1850	Triticum aestivum
+EXAMPLE2693 | T41	Genotype 1870 1885	Hordeum vulgare | T39	Gene 1853 1856	SPA
+EXAMPLE2694 | T41	Genotype 1870 1885	Hordeum vulgare | T37	Genotype 1826 1831	wheat
+EXAMPLE2695 | T40	Genotype 1862 1868	barley | T38	Genotype 1833 1850	Triticum aestivum
+EXAMPLE2696 | T40	Genotype 1862 1868	barley | T39	Gene 1853 1856	SPA
+EXAMPLE2697 | T40	Genotype 1862 1868	barley | T37	Genotype 1826 1831	wheat
+EXAMPLE2698 | T38	Genotype 1833 1850	Triticum aestivum | T39	Gene 1853 1856	SPA
+EXAMPLE2699 | T38	Genotype 1833 1850	Triticum aestivum | T37	Genotype 1826 1831	wheat
+EXAMPLE2700 | T39	Gene 1853 1856	SPA | T37	Genotype 1826 1831	wheat
+EXAMPLE2701 | T47	Tissue 2089 2093	seed | T46	Development_Phase 2089 2104	seed maturation
+EXAMPLE2702 | T47	Tissue 2089 2093	seed | T45	Regulatory_Network 2057 2081	gene expression programs
+EXAMPLE2703 | T47	Tissue 2089 2093	seed | T44	Genotype 1997 2002	dicot
+EXAMPLE2704 | T46	Development_Phase 2089 2104	seed maturation | T45	Regulatory_Network 2057 2081	gene expression programs
+EXAMPLE2705 | T46	Development_Phase 2089 2104	seed maturation | T44	Genotype 1997 2002	dicot
+EXAMPLE2706 | T45	Regulatory_Network 2057 2081	gene expression programs | T44	Genotype 1997 2002	dicot
+EXAMPLE2707 | T49	Tissue 2159 2163	seed | T48	Development_Phase 2159 2174	seed maturation
+EXAMPLE2708 | T49	Tissue 2159 2163	seed | T50	Gene_Family 2194 2214;2221 2226	seed storage protein genes
+EXAMPLE2709 | T49	Tissue 2159 2163	seed | T51	Tissue 2194 2198	seed
+EXAMPLE2710 | T49	Tissue 2159 2163	seed | T52	Gene_Family 2216 2219	SSP
+EXAMPLE2711 | T49	Tissue 2159 2163	seed | T53	Gene_Family 2236 2243;2259 2264	albumin genes
+EXAMPLE2712 | T49	Tissue 2159 2163	seed | T54	Protein_Family 2236 2243	albumin
+EXAMPLE2713 | T49	Tissue 2159 2163	seed | T55	Gene_Family 2248 2264	cruciferin genes
+EXAMPLE2714 | T49	Tissue 2159 2163	seed | T56	Protein_Family 2248 2258	cruciferin
+EXAMPLE2715 | T49	Tissue 2159 2163	seed | T57	Development_Phase 2287 2316	early or mid-maturation phase
+EXAMPLE2716 | T48	Development_Phase 2159 2174	seed maturation | T50	Gene_Family 2194 2214;2221 2226	seed storage protein genes
+EXAMPLE2717 | T48	Development_Phase 2159 2174	seed maturation | T51	Tissue 2194 2198	seed
+EXAMPLE2718 | T48	Development_Phase 2159 2174	seed maturation | T52	Gene_Family 2216 2219	SSP
+EXAMPLE2719 | T48	Development_Phase 2159 2174	seed maturation | T53	Gene_Family 2236 2243;2259 2264	albumin genes
+EXAMPLE2720 | T48	Development_Phase 2159 2174	seed maturation | T54	Protein_Family 2236 2243	albumin
+EXAMPLE2721 | T48	Development_Phase 2159 2174	seed maturation | T55	Gene_Family 2248 2264	cruciferin genes
+EXAMPLE2722 | T48	Development_Phase 2159 2174	seed maturation | T56	Protein_Family 2248 2258	cruciferin
+EXAMPLE2723 | T48	Development_Phase 2159 2174	seed maturation | T57	Development_Phase 2287 2316	early or mid-maturation phase
+EXAMPLE2724 | T50	Gene_Family 2194 2214;2221 2226	seed storage protein genes | T51	Tissue 2194 2198	seed
+EXAMPLE2725 | T50	Gene_Family 2194 2214;2221 2226	seed storage protein genes | T52	Gene_Family 2216 2219	SSP
+EXAMPLE2726 | T50	Gene_Family 2194 2214;2221 2226	seed storage protein genes | T53	Gene_Family 2236 2243;2259 2264	albumin genes
+EXAMPLE2727 | T50	Gene_Family 2194 2214;2221 2226	seed storage protein genes | T54	Protein_Family 2236 2243	albumin
+EXAMPLE2728 | T50	Gene_Family 2194 2214;2221 2226	seed storage protein genes | T55	Gene_Family 2248 2264	cruciferin genes
+EXAMPLE2729 | T50	Gene_Family 2194 2214;2221 2226	seed storage protein genes | T56	Protein_Family 2248 2258	cruciferin
+EXAMPLE2730 | T50	Gene_Family 2194 2214;2221 2226	seed storage protein genes | T57	Development_Phase 2287 2316	early or mid-maturation phase
+EXAMPLE2731 | T51	Tissue 2194 2198	seed | T52	Gene_Family 2216 2219	SSP
+EXAMPLE2732 | T51	Tissue 2194 2198	seed | T53	Gene_Family 2236 2243;2259 2264	albumin genes
+EXAMPLE2733 | T51	Tissue 2194 2198	seed | T54	Protein_Family 2236 2243	albumin
+EXAMPLE2734 | T51	Tissue 2194 2198	seed | T55	Gene_Family 2248 2264	cruciferin genes
+EXAMPLE2735 | T51	Tissue 2194 2198	seed | T56	Protein_Family 2248 2258	cruciferin
+EXAMPLE2736 | T51	Tissue 2194 2198	seed | T57	Development_Phase 2287 2316	early or mid-maturation phase
+EXAMPLE2737 | T52	Gene_Family 2216 2219	SSP | T53	Gene_Family 2236 2243;2259 2264	albumin genes
+EXAMPLE2738 | T52	Gene_Family 2216 2219	SSP | T54	Protein_Family 2236 2243	albumin
+EXAMPLE2739 | T52	Gene_Family 2216 2219	SSP | T55	Gene_Family 2248 2264	cruciferin genes
+EXAMPLE2740 | T52	Gene_Family 2216 2219	SSP | T56	Protein_Family 2248 2258	cruciferin
+EXAMPLE2741 | T52	Gene_Family 2216 2219	SSP | T57	Development_Phase 2287 2316	early or mid-maturation phase
+EXAMPLE2742 | T53	Gene_Family 2236 2243;2259 2264	albumin genes | T54	Protein_Family 2236 2243	albumin
+EXAMPLE2743 | T53	Gene_Family 2236 2243;2259 2264	albumin genes | T55	Gene_Family 2248 2264	cruciferin genes
+EXAMPLE2744 | T53	Gene_Family 2236 2243;2259 2264	albumin genes | T56	Protein_Family 2248 2258	cruciferin
+EXAMPLE2745 | T53	Gene_Family 2236 2243;2259 2264	albumin genes | T57	Development_Phase 2287 2316	early or mid-maturation phase
+EXAMPLE2746 | T54	Protein_Family 2236 2243	albumin | T55	Gene_Family 2248 2264	cruciferin genes
+EXAMPLE2747 | T54	Protein_Family 2236 2243	albumin | T56	Protein_Family 2248 2258	cruciferin
+EXAMPLE2748 | T54	Protein_Family 2236 2243	albumin | T57	Development_Phase 2287 2316	early or mid-maturation phase
+EXAMPLE2749 | T55	Gene_Family 2248 2264	cruciferin genes | T56	Protein_Family 2248 2258	cruciferin
+EXAMPLE2750 | T55	Gene_Family 2248 2264	cruciferin genes | T57	Development_Phase 2287 2316	early or mid-maturation phase
+EXAMPLE2751 | T56	Protein_Family 2248 2258	cruciferin | T57	Development_Phase 2287 2316	early or mid-maturation phase
+EXAMPLE2752 | T58	Gene_Family 2322 2349;2356 2361	late embryogenesis abundant genes | T59	Development_Phase 2327 2340	embryogenesis
+EXAMPLE2753 | T58	Gene_Family 2322 2349;2356 2361	late embryogenesis abundant genes | T61	Development_Phase 2377 2403	later stages of maturation
+EXAMPLE2754 | T58	Gene_Family 2322 2349;2356 2361	late embryogenesis abundant genes | T60	Gene_Family 2351 2354	LEA
+EXAMPLE2755 | T58	Gene_Family 2322 2349;2356 2361	late embryogenesis abundant genes | T63	Pathway 2464 2485	desiccation tolerance
+EXAMPLE2756 | T58	Gene_Family 2322 2349;2356 2361	late embryogenesis abundant genes | T62	Regulatory_Network 2449 2485	acquisition of desiccation tolerance
+EXAMPLE2757 | T59	Development_Phase 2327 2340	embryogenesis | T61	Development_Phase 2377 2403	later stages of maturation
+EXAMPLE2758 | T59	Development_Phase 2327 2340	embryogenesis | T60	Gene_Family 2351 2354	LEA
+EXAMPLE2759 | T59	Development_Phase 2327 2340	embryogenesis | T63	Pathway 2464 2485	desiccation tolerance
+EXAMPLE2760 | T59	Development_Phase 2327 2340	embryogenesis | T62	Regulatory_Network 2449 2485	acquisition of desiccation tolerance
+EXAMPLE2761 | T61	Development_Phase 2377 2403	later stages of maturation | T60	Gene_Family 2351 2354	LEA
+EXAMPLE2762 | T61	Development_Phase 2377 2403	later stages of maturation | T63	Pathway 2464 2485	desiccation tolerance
+EXAMPLE2763 | T61	Development_Phase 2377 2403	later stages of maturation | T62	Regulatory_Network 2449 2485	acquisition of desiccation tolerance
+EXAMPLE2764 | T60	Gene_Family 2351 2354	LEA | T63	Pathway 2464 2485	desiccation tolerance
+EXAMPLE2765 | T60	Gene_Family 2351 2354	LEA | T62	Regulatory_Network 2449 2485	acquisition of desiccation tolerance
+EXAMPLE2766 | T63	Pathway 2464 2485	desiccation tolerance | T62	Regulatory_Network 2449 2485	acquisition of desiccation tolerance
+EXAMPLE2767 | T65	Development_Phase 2677 2692	seed maturation | T64	Box 2586 2609	cis-regulatory elements
+EXAMPLE2768 | T65	Development_Phase 2677 2692	seed maturation | T66	Tissue 2677 2681	seed
+EXAMPLE2769 | T64	Box 2586 2609	cis-regulatory elements | T66	Tissue 2677 2681	seed
+EXAMPLE2770 | T69	Box 2735 2737	RY | T68	Box 2720 2724	ACGT
+EXAMPLE2771 | T69	Box 2735 2737	RY | T67	Box 2706 2733	G-box-related ACGT elements
+EXAMPLE2772 | T69	Box 2735 2737	RY | T72	Box 2758 2762	CTTT
+EXAMPLE2773 | T69	Box 2735 2737	RY | T70	Box 2739 2745	CATGCA
+EXAMPLE2774 | T69	Box 2735 2737	RY | T71	Box 2748 2752	AACA
+EXAMPLE2775 | T68	Box 2720 2724	ACGT | T67	Box 2706 2733	G-box-related ACGT elements
+EXAMPLE2776 | T68	Box 2720 2724	ACGT | T72	Box 2758 2762	CTTT
+EXAMPLE2777 | T68	Box 2720 2724	ACGT | T70	Box 2739 2745	CATGCA
+EXAMPLE2778 | T68	Box 2720 2724	ACGT | T71	Box 2748 2752	AACA
+EXAMPLE2779 | T67	Box 2706 2733	G-box-related ACGT elements | T72	Box 2758 2762	CTTT
+EXAMPLE2780 | T67	Box 2706 2733	G-box-related ACGT elements | T70	Box 2739 2745	CATGCA
+EXAMPLE2781 | T67	Box 2706 2733	G-box-related ACGT elements | T71	Box 2748 2752	AACA
+EXAMPLE2782 | T72	Box 2758 2762	CTTT | T70	Box 2739 2745	CATGCA
+EXAMPLE2783 | T72	Box 2758 2762	CTTT | T71	Box 2748 2752	AACA
+EXAMPLE2784 | T70	Box 2739 2745	CATGCA | T71	Box 2748 2752	AACA
+EXAMPLE2785 | T73	Protein_Family 2906 2926	basic leucine zipper | T76	Protein_Family 2939 2942	MYB
+EXAMPLE2786 | T73	Protein_Family 2906 2926	basic leucine zipper | T77	Protein_Family 2948 2954	DOF TF
+EXAMPLE2787 | T73	Protein_Family 2906 2926	basic leucine zipper | T74	Protein_Family 2928 2932	bZIP
+EXAMPLE2788 | T73	Protein_Family 2906 2926	basic leucine zipper | T75	Protein_Family 2935 2937	B3
+EXAMPLE2789 | T76	Protein_Family 2939 2942	MYB | T77	Protein_Family 2948 2954	DOF TF
+EXAMPLE2790 | T76	Protein_Family 2939 2942	MYB | T74	Protein_Family 2928 2932	bZIP
+EXAMPLE2791 | T76	Protein_Family 2939 2942	MYB | T75	Protein_Family 2935 2937	B3
+EXAMPLE2792 | T77	Protein_Family 2948 2954	DOF TF | T74	Protein_Family 2928 2932	bZIP
+EXAMPLE2793 | T77	Protein_Family 2948 2954	DOF TF | T75	Protein_Family 2935 2937	B3
+EXAMPLE2794 | T74	Protein_Family 2928 2932	bZIP | T75	Protein_Family 2935 2937	B3
+EXAMPLE2795 | T84	Protein_Family 3393 3400	group C | T85	Genotype 3408 3419	Arabidopsis
+EXAMPLE2796 | T84	Protein_Family 3393 3400	group C | T86	Protein_Family 3420 3424	bZIP
+EXAMPLE2797 | T84	Protein_Family 3393 3400	group C | T78	Protein_Family 3234 3238	bZIP
+EXAMPLE2798 | T84	Protein_Family 3393 3400	group C | T79	Genotype 3257 3263	cereal
+EXAMPLE2799 | T84	Protein_Family 3393 3400	group C | T83	Protein 3353 3359	bZIP25
+EXAMPLE2800 | T84	Protein_Family 3393 3400	group C | T82	Protein 3342 3348	bZIP10
+EXAMPLE2801 | T84	Protein_Family 3393 3400	group C | T81	Genotype 3301 3312	Arabidopsis
+EXAMPLE2802 | T84	Protein_Family 3393 3400	group C | T80	Protein_Family 3264 3271	O2-type
+EXAMPLE2803 | T85	Genotype 3408 3419	Arabidopsis | T86	Protein_Family 3420 3424	bZIP
+EXAMPLE2804 | T85	Genotype 3408 3419	Arabidopsis | T78	Protein_Family 3234 3238	bZIP
+EXAMPLE2805 | T85	Genotype 3408 3419	Arabidopsis | T79	Genotype 3257 3263	cereal
+EXAMPLE2806 | T85	Genotype 3408 3419	Arabidopsis | T83	Protein 3353 3359	bZIP25
+EXAMPLE2807 | T85	Genotype 3408 3419	Arabidopsis | T82	Protein 3342 3348	bZIP10
+EXAMPLE2808 | T85	Genotype 3408 3419	Arabidopsis | T81	Genotype 3301 3312	Arabidopsis
+EXAMPLE2809 | T85	Genotype 3408 3419	Arabidopsis | T80	Protein_Family 3264 3271	O2-type
+EXAMPLE2810 | T86	Protein_Family 3420 3424	bZIP | T78	Protein_Family 3234 3238	bZIP
+EXAMPLE2811 | T86	Protein_Family 3420 3424	bZIP | T79	Genotype 3257 3263	cereal
+EXAMPLE2812 | T86	Protein_Family 3420 3424	bZIP | T83	Protein 3353 3359	bZIP25
+EXAMPLE2813 | T86	Protein_Family 3420 3424	bZIP | T82	Protein 3342 3348	bZIP10
+EXAMPLE2814 | T86	Protein_Family 3420 3424	bZIP | T81	Genotype 3301 3312	Arabidopsis
+EXAMPLE2815 | T86	Protein_Family 3420 3424	bZIP | T80	Protein_Family 3264 3271	O2-type
+EXAMPLE2816 | T78	Protein_Family 3234 3238	bZIP | T79	Genotype 3257 3263	cereal
+EXAMPLE2817 | T78	Protein_Family 3234 3238	bZIP | T83	Protein 3353 3359	bZIP25
+EXAMPLE2818 | T78	Protein_Family 3234 3238	bZIP | T82	Protein 3342 3348	bZIP10
+EXAMPLE2819 | T78	Protein_Family 3234 3238	bZIP | T81	Genotype 3301 3312	Arabidopsis
+EXAMPLE2820 | T78	Protein_Family 3234 3238	bZIP | T80	Protein_Family 3264 3271	O2-type
+EXAMPLE2821 | T79	Genotype 3257 3263	cereal | T83	Protein 3353 3359	bZIP25
+EXAMPLE2822 | T79	Genotype 3257 3263	cereal | T82	Protein 3342 3348	bZIP10
+EXAMPLE2823 | T79	Genotype 3257 3263	cereal | T81	Genotype 3301 3312	Arabidopsis
+EXAMPLE2824 | T79	Genotype 3257 3263	cereal | T80	Protein_Family 3264 3271	O2-type
+EXAMPLE2825 | T83	Protein 3353 3359	bZIP25 | T82	Protein 3342 3348	bZIP10
+EXAMPLE2826 | T83	Protein 3353 3359	bZIP25 | T81	Genotype 3301 3312	Arabidopsis
+EXAMPLE2827 | T83	Protein 3353 3359	bZIP25 | T80	Protein_Family 3264 3271	O2-type
+EXAMPLE2828 | T82	Protein 3342 3348	bZIP10 | T81	Genotype 3301 3312	Arabidopsis
+EXAMPLE2829 | T82	Protein 3342 3348	bZIP10 | T80	Protein_Family 3264 3271	O2-type
+EXAMPLE2830 | T81	Genotype 3301 3312	Arabidopsis | T80	Protein_Family 3264 3271	O2-type
+EXAMPLE2831 | T94	Protein_Family 3558 3568	cruciferin | T89	Box 3514 3538	G-box-like ACGT elements
+EXAMPLE2832 | T94	Protein_Family 3558 3568	cruciferin | T88	Tissue 3476 3480	seed
+EXAMPLE2833 | T94	Protein_Family 3558 3568	cruciferin | T87	Development_Phase 3476 3492	seed development
+EXAMPLE2834 | T94	Protein_Family 3558 3568	cruciferin | T95	Environmental_Factor 3584 3591	in vivo
+EXAMPLE2835 | T94	Protein_Family 3558 3568	cruciferin | T90	Box 3525 3529	ACGT
+EXAMPLE2836 | T94	Protein_Family 3558 3568	cruciferin | T91	Protein_Family 3546 3553	albumin
+EXAMPLE2837 | T94	Protein_Family 3558 3568	cruciferin | T92	Promoter 3546 3553;3569 3578	albumin promoters
+EXAMPLE2838 | T94	Protein_Family 3558 3568	cruciferin | T93	Promoter 3558 3578	cruciferin promoters
+EXAMPLE2839 | T89	Box 3514 3538	G-box-like ACGT elements | T88	Tissue 3476 3480	seed
+EXAMPLE2840 | T89	Box 3514 3538	G-box-like ACGT elements | T87	Development_Phase 3476 3492	seed development
+EXAMPLE2841 | T89	Box 3514 3538	G-box-like ACGT elements | T95	Environmental_Factor 3584 3591	in vivo
+EXAMPLE2842 | T89	Box 3514 3538	G-box-like ACGT elements | T90	Box 3525 3529	ACGT
+EXAMPLE2843 | T89	Box 3514 3538	G-box-like ACGT elements | T91	Protein_Family 3546 3553	albumin
+EXAMPLE2844 | T89	Box 3514 3538	G-box-like ACGT elements | T92	Promoter 3546 3553;3569 3578	albumin promoters
+EXAMPLE2845 | T89	Box 3514 3538	G-box-like ACGT elements | T93	Promoter 3558 3578	cruciferin promoters
+EXAMPLE2846 | T88	Tissue 3476 3480	seed | T87	Development_Phase 3476 3492	seed development
+EXAMPLE2847 | T88	Tissue 3476 3480	seed | T95	Environmental_Factor 3584 3591	in vivo
+EXAMPLE2848 | T88	Tissue 3476 3480	seed | T90	Box 3525 3529	ACGT
+EXAMPLE2849 | T88	Tissue 3476 3480	seed | T91	Protein_Family 3546 3553	albumin
+EXAMPLE2850 | T88	Tissue 3476 3480	seed | T92	Promoter 3546 3553;3569 3578	albumin promoters
+EXAMPLE2851 | T88	Tissue 3476 3480	seed | T93	Promoter 3558 3578	cruciferin promoters
+EXAMPLE2852 | T87	Development_Phase 3476 3492	seed development | T95	Environmental_Factor 3584 3591	in vivo
+EXAMPLE2853 | T87	Development_Phase 3476 3492	seed development | T90	Box 3525 3529	ACGT
+EXAMPLE2854 | T87	Development_Phase 3476 3492	seed development | T91	Protein_Family 3546 3553	albumin
+EXAMPLE2855 | T87	Development_Phase 3476 3492	seed development | T92	Promoter 3546 3553;3569 3578	albumin promoters
+EXAMPLE2856 | T87	Development_Phase 3476 3492	seed development | T93	Promoter 3558 3578	cruciferin promoters
+EXAMPLE2857 | T95	Environmental_Factor 3584 3591	in vivo | T90	Box 3525 3529	ACGT
+EXAMPLE2858 | T95	Environmental_Factor 3584 3591	in vivo | T91	Protein_Family 3546 3553	albumin
+EXAMPLE2859 | T95	Environmental_Factor 3584 3591	in vivo | T92	Promoter 3546 3553;3569 3578	albumin promoters
+EXAMPLE2860 | T95	Environmental_Factor 3584 3591	in vivo | T93	Promoter 3558 3578	cruciferin promoters
+EXAMPLE2861 | T90	Box 3525 3529	ACGT | T91	Protein_Family 3546 3553	albumin
+EXAMPLE2862 | T90	Box 3525 3529	ACGT | T92	Promoter 3546 3553;3569 3578	albumin promoters
+EXAMPLE2863 | T90	Box 3525 3529	ACGT | T93	Promoter 3558 3578	cruciferin promoters
+EXAMPLE2864 | T91	Protein_Family 3546 3553	albumin | T92	Promoter 3546 3553;3569 3578	albumin promoters
+EXAMPLE2865 | T91	Protein_Family 3546 3553	albumin | T93	Promoter 3558 3578	cruciferin promoters
+EXAMPLE2866 | T92	Promoter 3546 3553;3569 3578	albumin promoters | T93	Promoter 3558 3578	cruciferin promoters

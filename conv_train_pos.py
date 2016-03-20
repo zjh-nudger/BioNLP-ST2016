@@ -43,8 +43,8 @@ def train_conv(datasets,
                wordvec,
                pos_emb,
                word_size=50,
-               pos_size = 10,
-               window_sizes=[3,5,7,9,11,13,15,17],
+               pos_size = 20,
+               window_sizes=[9,11,13],
                hidden_units=[100,100,claz_count],
                dropout_rate=[0],
                shuffle_batch=True,
@@ -183,6 +183,7 @@ def train_conv(datasets,
     test_model_all = theano.function(inputs=[x,x_pos,y], outputs=[test_error,test_y_pred])   
        
     epoch=0
+    max_f1_score = 0.17
     while (epoch < n_epochs):
         epoch+=1        
         if shuffle_batch:
@@ -200,6 +201,9 @@ def train_conv(datasets,
                                                                           claz_count=claz_count)
             #print 'epoch:%d,error:%.3f,micro_f_score:%.2f,macro_f_score:%.2f'%(epoch,error,micro_f_score,macro_f_score)
             print 'epoch:%d,error:%.3f,precision:%.4f,  recall:%.4f,  f1_score:%.4f'%(epoch,error,precision,recall,f1_score)
+            if f1_score > max_f1_score:
+                max_f1_score = f1_score
+                write_matrix_to_file(prediction,'pred_21.txt')
         else:
             for minibatch_index in xrange(n_train_batches):
                 cost_epoch = train_model(minibatch_index)
@@ -278,6 +282,6 @@ def sgd_updates_adadelta(params,cost,rho=0.95,epsilon=1e-6,norm_lim=9,word_vec_n
 if __name__=='__main__':
     import cPickle as cp
     theano.config.floatX='float32'
-    train,train_pos,test,test_pos,words,pos_emb,vocab=cp.load(open('data/data.p'))
+    train,train_pos,test,test_pos,words,pos_emb=cp.load(open('data/data_entity_type.p'))
     words=numpy.asarray(words,dtype=theano.config.floatX)
     train_conv(datasets=[train,train_pos,test,test_pos],wordvec=words,pos_emb=pos_emb)

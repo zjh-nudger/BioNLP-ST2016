@@ -1,0 +1,66 @@
+EXAMPLE4119 | T8	Genotype 167 173	lec2-1 | T9	Tissue 174 181	embryos
+EXAMPLE4120 | T8	Genotype 167 173	lec2-1 | T6	Gene 116 126	pAt2S3:GFP
+EXAMPLE4121 | T8	Genotype 167 173	lec2-1 | T7	Genotype 157 163	fus3-3
+EXAMPLE4122 | T8	Genotype 167 173	lec2-1 | T4	Genotype 57 71	lec2-1 dcl1-15
+EXAMPLE4123 | T8	Genotype 167 173	lec2-1 | T5	Tissue 72 79	embryos
+EXAMPLE4124 | T8	Genotype 167 173	lec2-1 | T2	Development_Phase 25 36	heart stage
+EXAMPLE4125 | T8	Genotype 167 173	lec2-1 | T3	Genotype 38 52	fus3-3 dcl1-15
+EXAMPLE4126 | T8	Genotype 167 173	lec2-1 | T1	Development_Phase 15 36	after the heart stage
+EXAMPLE4127 | T8	Genotype 167 173	lec2-1 | T10	RNA 281 286	miRNA
+EXAMPLE4128 | T8	Genotype 167 173	lec2-1 | T11	Gene 339 343	LEC2
+EXAMPLE4129 | T8	Genotype 167 173	lec2-1 | T12	Gene 347 351	FUS3
+EXAMPLE4130 | T9	Tissue 174 181	embryos | T6	Gene 116 126	pAt2S3:GFP
+EXAMPLE4131 | T9	Tissue 174 181	embryos | T7	Genotype 157 163	fus3-3
+EXAMPLE4132 | T9	Tissue 174 181	embryos | T4	Genotype 57 71	lec2-1 dcl1-15
+EXAMPLE4133 | T9	Tissue 174 181	embryos | T5	Tissue 72 79	embryos
+EXAMPLE4134 | T9	Tissue 174 181	embryos | T2	Development_Phase 25 36	heart stage
+EXAMPLE4135 | T9	Tissue 174 181	embryos | T3	Genotype 38 52	fus3-3 dcl1-15
+EXAMPLE4136 | T9	Tissue 174 181	embryos | T1	Development_Phase 15 36	after the heart stage
+EXAMPLE4137 | T9	Tissue 174 181	embryos | T10	RNA 281 286	miRNA
+EXAMPLE4138 | T9	Tissue 174 181	embryos | T11	Gene 339 343	LEC2
+EXAMPLE4139 | T9	Tissue 174 181	embryos | T12	Gene 347 351	FUS3
+EXAMPLE4140 | T6	Gene 116 126	pAt2S3:GFP | T7	Genotype 157 163	fus3-3
+EXAMPLE4141 | T6	Gene 116 126	pAt2S3:GFP | T4	Genotype 57 71	lec2-1 dcl1-15
+EXAMPLE4142 | T6	Gene 116 126	pAt2S3:GFP | T5	Tissue 72 79	embryos
+EXAMPLE4143 | T6	Gene 116 126	pAt2S3:GFP | T2	Development_Phase 25 36	heart stage
+EXAMPLE4144 | T6	Gene 116 126	pAt2S3:GFP | T3	Genotype 38 52	fus3-3 dcl1-15
+EXAMPLE4145 | T6	Gene 116 126	pAt2S3:GFP | T1	Development_Phase 15 36	after the heart stage
+EXAMPLE4146 | T6	Gene 116 126	pAt2S3:GFP | T10	RNA 281 286	miRNA
+EXAMPLE4147 | T6	Gene 116 126	pAt2S3:GFP | T11	Gene 339 343	LEC2
+EXAMPLE4148 | T6	Gene 116 126	pAt2S3:GFP | T12	Gene 347 351	FUS3
+EXAMPLE4149 | T7	Genotype 157 163	fus3-3 | T4	Genotype 57 71	lec2-1 dcl1-15
+EXAMPLE4150 | T7	Genotype 157 163	fus3-3 | T5	Tissue 72 79	embryos
+EXAMPLE4151 | T7	Genotype 157 163	fus3-3 | T2	Development_Phase 25 36	heart stage
+EXAMPLE4152 | T7	Genotype 157 163	fus3-3 | T3	Genotype 38 52	fus3-3 dcl1-15
+EXAMPLE4153 | T7	Genotype 157 163	fus3-3 | T1	Development_Phase 15 36	after the heart stage
+EXAMPLE4154 | T7	Genotype 157 163	fus3-3 | T10	RNA 281 286	miRNA
+EXAMPLE4155 | T7	Genotype 157 163	fus3-3 | T11	Gene 339 343	LEC2
+EXAMPLE4156 | T7	Genotype 157 163	fus3-3 | T12	Gene 347 351	FUS3
+EXAMPLE4157 | T4	Genotype 57 71	lec2-1 dcl1-15 | T5	Tissue 72 79	embryos
+EXAMPLE4158 | T4	Genotype 57 71	lec2-1 dcl1-15 | T2	Development_Phase 25 36	heart stage
+EXAMPLE4159 | T4	Genotype 57 71	lec2-1 dcl1-15 | T3	Genotype 38 52	fus3-3 dcl1-15
+EXAMPLE4160 | T4	Genotype 57 71	lec2-1 dcl1-15 | T1	Development_Phase 15 36	after the heart stage
+EXAMPLE4161 | T4	Genotype 57 71	lec2-1 dcl1-15 | T10	RNA 281 286	miRNA
+EXAMPLE4162 | T4	Genotype 57 71	lec2-1 dcl1-15 | T11	Gene 339 343	LEC2
+EXAMPLE4163 | T4	Genotype 57 71	lec2-1 dcl1-15 | T12	Gene 347 351	FUS3
+EXAMPLE4164 | T5	Tissue 72 79	embryos | T2	Development_Phase 25 36	heart stage
+EXAMPLE4165 | T5	Tissue 72 79	embryos | T3	Genotype 38 52	fus3-3 dcl1-15
+EXAMPLE4166 | T5	Tissue 72 79	embryos | T1	Development_Phase 15 36	after the heart stage
+EXAMPLE4167 | T5	Tissue 72 79	embryos | T10	RNA 281 286	miRNA
+EXAMPLE4168 | T5	Tissue 72 79	embryos | T11	Gene 339 343	LEC2
+EXAMPLE4169 | T5	Tissue 72 79	embryos | T12	Gene 347 351	FUS3
+EXAMPLE4170 | T2	Development_Phase 25 36	heart stage | T3	Genotype 38 52	fus3-3 dcl1-15
+EXAMPLE4171 | T2	Development_Phase 25 36	heart stage | T1	Development_Phase 15 36	after the heart stage
+EXAMPLE4172 | T2	Development_Phase 25 36	heart stage | T10	RNA 281 286	miRNA
+EXAMPLE4173 | T2	Development_Phase 25 36	heart stage | T11	Gene 339 343	LEC2
+EXAMPLE4174 | T2	Development_Phase 25 36	heart stage | T12	Gene 347 351	FUS3
+EXAMPLE4175 | T3	Genotype 38 52	fus3-3 dcl1-15 | T1	Development_Phase 15 36	after the heart stage
+EXAMPLE4176 | T3	Genotype 38 52	fus3-3 dcl1-15 | T10	RNA 281 286	miRNA
+EXAMPLE4177 | T3	Genotype 38 52	fus3-3 dcl1-15 | T11	Gene 339 343	LEC2
+EXAMPLE4178 | T3	Genotype 38 52	fus3-3 dcl1-15 | T12	Gene 347 351	FUS3
+EXAMPLE4179 | T1	Development_Phase 15 36	after the heart stage | T10	RNA 281 286	miRNA
+EXAMPLE4180 | T1	Development_Phase 15 36	after the heart stage | T11	Gene 339 343	LEC2
+EXAMPLE4181 | T1	Development_Phase 15 36	after the heart stage | T12	Gene 347 351	FUS3
+EXAMPLE4182 | T10	RNA 281 286	miRNA | T11	Gene 339 343	LEC2
+EXAMPLE4183 | T10	RNA 281 286	miRNA | T12	Gene 347 351	FUS3
+EXAMPLE4184 | T11	Gene 339 343	LEC2 | T12	Gene 347 351	FUS3

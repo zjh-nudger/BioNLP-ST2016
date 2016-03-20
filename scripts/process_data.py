@@ -83,12 +83,14 @@ if __name__=='__main__':
             vocab[item1.lower()]=index
             index+=1
     test_file.close()
+    # for distance features
+    for i in xrange(1,41):
+        vocab[i] = index
+        index += 1
 
     print 'There are %d words in train and test dataset'%len(vocab)    
     
     words=np.zeros((len(vocab)+1,word_size),dtype='float32')
-    rand_vec=np.random.uniform(-0.25,0.25,word_size)
-    words[0]=rand_vec
     #words[0]=embedding.word2vec('/s')
     count_not_in_vocab = 0
     for item in vocab.iteritems():
@@ -107,20 +109,6 @@ if __name__=='__main__':
 
     if sen_len_max > 40:
         sen_len_max = 40
-
-    
-    words=np.zeros((len(vocab)+1,word_size),dtype='float32')
-    #words[0]=rand_vec
-    #words[0]=embedding.word2vec('/s')
-    for item in vocab.iteritems():
-        if item[0] in embedding._vocab:
-            #print item[1]
-            words[item[1]]=embedding.word2vec(item[0])
-        else:
-            #if there is not the words in vector file
-            #random sample the vector
-            rand_vec=np.random.uniform(-0.25,0.25,word_size)
-            words[item[1]]=rand_vec
             
     train_file=open(options.train_file)    
     import cPickle
@@ -129,8 +117,8 @@ if __name__=='__main__':
         items=item.split()
         new_item=[]
         new_item.append(int(items[0]))
-        if len(items[1:]) <= sen_len_max:        
-            for i in items[1:]:
+        if len(items[1:-2]) <= sen_len_max:        
+            for i in items[1:-2]:
                 new_item.append(int(vocab[i.lower()]))
         else:
             for i in items[1:sen_len_max+1]:
@@ -138,6 +126,9 @@ if __name__=='__main__':
         if len(new_item[1:]) != sen_len_max:
             for i in xrange(sen_len_max-len(new_item[1:])):
                 new_item.append(0)
+        new_item.append(int(vocab[items[-2].lower()]))
+        new_item.append(int(vocab[items[-1].lower()]))
+        new_item.append(len(items[1:]))
         train_list.append(new_item)
     train_matrix=np.asarray(train_list,dtype='float32')
 
@@ -147,8 +138,8 @@ if __name__=='__main__':
         items=item.split()
         new_item=[]    
         new_item.append(int(items[1]))
-        if len(items[2:]) <= sen_len_max:        
-            for i in items[2:]:
+        if len(items[2:-2]) <= sen_len_max:        
+            for i in items[2:-2]:
                 new_item.append(int(vocab[i.lower()]))
         else:
             for i in items[2:sen_len_max+2]:
@@ -156,13 +147,16 @@ if __name__=='__main__':
         if len(new_item[1:]) != sen_len_max:
             for i in xrange(sen_len_max-len(new_item[1:])):
                 new_item.append(0)
+        new_item.append(int(vocab[items[-2].lower()]))
+        new_item.append(int(vocab[items[-1].lower()]))
+        new_item.append(len(items[2:]))
         test_list.append(new_item)
     test_matrix=np.asarray(test_list,dtype='float32')
     print np.shape(test_matrix)
     print np.shape(train_matrix)
     
-    pos_embedding = np.random.uniform(-0.25,0.25,(34,10))
-    pos_embedding[0] = np.zeros(10)
+    pos_embedding = np.random.uniform(-0.25,0.25,(34,20))
+    pos_embedding[0] = np.zeros(20)
     train_pos_file = open(options.train_file+'_pos')
     pos_vocab = {}
     index = 1
@@ -187,6 +181,9 @@ if __name__=='__main__':
         if len(new_item) != sen_len_max:
             for i in xrange(sen_len_max-len(new_item)):
                 new_item.append(0)
+        new_item.append(0)
+        new_item.append(0)
+        new_item.append(0)
         train_pos_list.append(new_item)
     train_pos_matrix=np.asarray(train_pos_list,dtype='float32')
     
@@ -212,12 +209,20 @@ if __name__=='__main__':
         if len(new_item) != sen_len_max:
             for i in xrange(sen_len_max-len(new_item)):
                 new_item.append(0)
+        new_item.append(0)
+        new_item.append(0)
+        new_item.append(0)
         test_pos_list.append(new_item)
     test_pos_matrix=np.asarray(test_pos_list,dtype='float32')
+
+###############################################################
+################################################################
 
     #print vocab
     #print test_matrix
     #print train_matrix
     #/home/liuxiaoming/dl_zjh/data/arguments/pubmed/data.p
-    cPickle.dump((train_matrix,train_pos_matrix,test_matrix,test_pos_matrix,words,pos_embedding,vocab),
+    cPickle.dump((train_matrix,train_pos_matrix,
+                  test_matrix,test_pos_matrix,
+                  words,pos_embedding),
                  open(options.output_file,'wb'))

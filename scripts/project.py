@@ -125,7 +125,144 @@ Composition_and_Membership = [Composes_Primary_Structure,Composes_Protein_Comple
                               Has_Sequence_Identical_To]
 Interaction = [Binds_To,Interacts_With]
 
-ALL_EVENT = [Where_and_When,Function,Regulation,Composition_and_Membership,Interaction]
+ALL_EVENT_CLASS = [Where_and_When,Function,Regulation,Composition_and_Membership,Interaction]
+
+
+
+class Event(object):
+    def __init__(self,event_class,event_name,e1_name,e1_entity,
+                 e2_name,e2_entity,e3_name='',e3_entity=[]):
+        self.event_class = event_class
+        self.event_name = event_name
+        self.e1_name = e1_name
+        self.e1_entity = e1_entity
+        self.e2_name = e2_name
+        self.e2_entity = e2_entity
+        self.e3_name = e3_name
+        self.e3_entity = e3_entity
+
+def load_event_def():
+    event_dir = {}
+    event1 = Event(event_class = 'Where_and_When',event_name = 'Occurrence_In_Genotype',
+                  e1_name='Process',e1_entity=['Regulatory_Network', 'Pathway'],
+                  e2_name='Genotype',e2_entity=['Genotype'])
+    event_dir['Occurrence_In_Genotype'] = event1
+    event2 = Event(event_class = 'Where_and_When',event_name = 'Exists_In_Genotype',
+                  e1_name='Molecular',e1_entity=['Gene', 'Gene_Family', 'Box', 'Promoter', 'RNA', 
+                                                 'Protein', 'Protein_Family', 'Protein_Complex', 
+                                                 'Protein_Domain', 'Hormone'],
+                  e2_name = 'Element',e2_entity=['Tissue', 'Development_Phase', 'Genotype'],
+                  e3_name = 'Genotype',e3_entity = ['Genotype'])
+    event_dir['Exists_In_Genotype'] = event2
+    event3 = Event(event_class = 'Where_and_When',event_name = 'Exists_At_Stage',
+                  e1_name='Funtional_molecular',e1_entity=['RNA','Protein','Protein_Family',
+                                                           'Protein_Complex','Protein_Domain', 'Hormone'],
+                  e2_name='Development',e2_entity=['Development_Phase'])
+    event_dir['Exists_At_Stage'] = event3
+    event4 = Event(event_class = 'Where_and_When',event_name = 'Occurs_During',
+                  e1_name='Process',e1_entity=['Regulatory_Network', 'Pathway'],
+                  e2_name='Development',e2_entity=['Development_Phase'])
+    event_dir['Occurs_During'] = event4
+    ## 分子在组织上
+    event5 = Event(event_class = 'Where_and_When',event_name = 'Is_Localized_In',
+                  e1_name='Funtional_molecular',e1_entity=['RNA','Protein','Protein_Family',
+                                                           'Protein_Complex','Protein_Domain',
+                                                           'Hormone'],
+                  e2_name = 'Dynamic_Process',e2_entity=['Regulatory_Network', 'Pathway'],
+                  e3_name = 'Target_Tissue',e3_entity = ['Tissue'])
+    event_dir['Is_Localized_In'] = event5
+    ## function
+    event6 = Event(event_class = 'Function',event_name = 'Is_Involved_In_Process',
+                  e1_name='Molecule',e1_entity=['Gene', 'Gene_Family', 'Box', 'Promoter', 'RNA', 
+                                                'Protein', 'Protein_Family', 'Protein_Complex', 'Protein_Domain',
+                                                'Hormone'],
+                  e2_name='Dynamic_Process',e2_entity=['Regulatory_Network', 'Pathway'])
+    event_dir['Is_Involved_In_Process'] = event6
+    event7 = Event(event_class = 'Function',event_name = 'Transcribes_Or_Translates_To',
+                  e1_name='Source',e1_entity=['Gene', 'Gene_Family', 'RNA'],
+                  e2_name='DNA_Product',e2_entity=['RNA', 'Protein', 'Protein_Family',
+                                                   'Protein_Complex', 'Protein_Domain'])
+    event_dir['Transcribes_Or_Translates_To'] = event7
+    event8 = Event(event_class = 'Function',event_name = 'Is_Functionally_Equivalent_To',
+                  e1_name='Element1',e1_entity=all_entities,
+                  e2_name='Element2',e2_entity=all_entities)
+    event_dir['Is_Functionally_Equivalent_To'] = event8
+    ## regulate
+    event9 = Event(event_class = 'Regulate',event_name = 'Regulates_Accumulation',
+                  e1_name='Agent',e1_entity=all_entities,
+                  e2_name='Funtional_molecule',e2_entity=['RNA','Protein','Protein_Family',
+                                                          'Protein_Complex','Protein_Domain',
+                                                          'Hormone'])
+    event_dir['Regulates_Accumulation'] = event9
+    event10 = Event(event_class = 'Regulate',event_name = 'Regulates_Expression',
+                  e1_name='Agent',e1_entity=all_entities,
+                  e2_name='DNA',e2_entity=['Gene', 'Gene_Family', 'Box', 'Promoter'])
+    event_dir['Regulates_Expression'] = event10
+    event11 = Event(event_class = 'Regulate',event_name = 'Regulates_Development_Phase',
+                  e1_name='Agent',e1_entity=all_entities,
+                  e2_name='Development',e2_entity=['Development_Phase'])
+    event_dir['Regulates_Development_Phase'] = event11
+    event12 = Event(event_class = 'Regulate',event_name = 'Regulates_Molecule_Activity',
+                  e1_name='Agent',e1_entity=all_entities,
+                  e2_name='Molecule',e2_entity=['Protein', 'Protein_Family', 
+                                                'Protein_Complex', 'Hormone'])
+    event_dir['Regulates_Molecule_Activity'] = event12
+    event13 = Event(event_class = 'Regulate',event_name = 'Regulates_Process',
+                  e1_name='Agent',e1_entity=all_entities,
+                  e2_name='Dynamic_Process',e2_entity=['Regulatory_Network', 'Pathway'])
+    event_dir['Regulates_Process'] = event13
+    event14 = Event(event_class = 'Regulate',event_name = 'Regulates_Tissue_Development',
+                  e1_name='Agent',e1_entity=all_entities,
+                  e2_name='Target_Tissue',e2_entity=['Tissue'])
+    event_dir['Regulates_Tissue_Development'] = event14
+    ## compositon
+    event15 = Event(event_class = 'Compositon',event_name = 'Composes_Primary_Structure',
+                  e1_name='DNA_Part',e1_entity=['Box','Promoter'],
+                  e2_name='DNA',e2_entity=['Gene', 'Gene_Family', 'Box', 'Promoter'])
+    event_dir['Composes_Primary_Structure'] = event15
+    event16 = Event(event_class = 'Compositon',event_name = 'Composes_Protein_Complex',
+                  e1_name='Amino_Acid_Sequence',e1_entity=['Protein','Protein_Family',
+                                                           'Protein_Complex','Protein_Domain'],
+                  e2_name='Protein_Complex',e2_entity=['Protein_Complex'])
+    event_dir['Composes_Protein_Complex'] = event16
+    event17 = Event(event_class = 'Compositon',event_name = 'Is_Member_Of_Family',
+                  e1_name='Element',e1_entity=['Gene', 'Gene_Family', 'RNA', 'Protein', 
+                                               'Protein_Family', 'Protein_Domain'],
+                  e2_name='Family',e2_entity=['Gene_Family', 'RNA', 'Protein_Family'])
+    event_dir['Is_Member_Of_Family'] = event17
+    event18 = Event(event_class = 'Compositon',event_name = 'Is_Protein_Domain_Of',
+                  e1_name='Domain',e1_entity=['Protein_Domain'],
+                  e2_name='Product',e2_entity= ['RNA', 'Protein', 'Protein_Family', 'Protein_Complex', 
+                                                'Protein_Domain'])
+    event_dir['Is_Protein_Domain_Of'] = event18
+    event19 = Event(event_class = 'Compositon',event_name = 'Has_Sequence_Identical_To',
+                  e1_name='Domain',e1_entity=all_entities,
+                  e2_name='Product',e2_entity=all_entities)
+    event_dir['Has_Sequence_Identical_To'] = event19
+    ## interactions
+    event20 = Event(event_class = 'Interaction',event_name = 'Interacts_With',
+                  e1_name='Agent',e1_entity=['Gene', 'Gene_Family', 'Box', 'Promoter','Gene', 'Gene_Family', 
+                                             'Box', 'Promoter', 'Protein', 'Protein_Family', 'Protein_Complex', 
+                                             'Protein_Domain'],
+                  e2_name='Target',e2_entity=['Gene', 'Gene_Family', 'Box', 'Promoter','Gene', 'Gene_Family', 
+                                              'Box', 'Promoter', 'Protein', 'Protein_Family', 'Protein_Complex', 
+                                              'Protein_Domain'])
+    event_dir['Interacts_With'] = event20
+    event21 = Event(event_class = 'Interaction',event_name = 'Binds_To',
+                  e1_name='Funtional_molecule',e1_entity=['RNA','Protein','Protein_Family',
+                                                          'Protein_Complex','Protein_Domain',
+                                                          'Hormone'],
+                  e2_name='Molecule',e2_entity=['Gene', 'Gene_Family', 'Box', 'Promoter', 'RNA', 
+                                                'Protein', 'Protein_Family', 'Protein_Complex', 
+                                                'Protein_Domain', 'Hormone'])
+    event_dir['Binds_To'] = event21
+    ###
+    event22 = Event(event_class = 'Linked_to',event_name = 'Is_Linked_To',
+                  e1_name='Agent',e1_entity=all_entities,
+                  e2_name='Target',e2_entity=all_entities)
+    event_dir['Is_Linked_To'] = event22
+    return event_dir
+    
 
 RELATIONS = ['Is_Member_Of_Family','Is_Linked_To','Regulates_Tissue_Development',
              'Has_Sequence_Identical_To','Is_Protein_Domain_Of','Regulates_Process',

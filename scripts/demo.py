@@ -34,6 +34,7 @@ pos = pos_emb[pos_x.flatten()].\
 f = T.concatenate([layer0_input,pos],axis=3)
 print f.eval()
 '''
+'''
 import numpy
 a = [[1,2],[3,4],[5,6]]
 b = [[.1,.2],[.3,.4],[.5,.6]]
@@ -63,3 +64,18 @@ nx.draw_networkx_edges(G,pos,alpha=0.5,width=6)
 plt.axis('on')
 plt.savefig("house_with_colors.png") # save as png
 plt.show() # display
+'''
+'''
+f = open('data/train')
+c=0
+for line in f:
+    toks = line.strip().split()
+    if int(toks[0])>0:
+        c += 1
+f.close()
+print c
+for i in xrange(2,5):
+    print i
+'''
+l = [1,2,3,4,5,6]
+print l[-2]

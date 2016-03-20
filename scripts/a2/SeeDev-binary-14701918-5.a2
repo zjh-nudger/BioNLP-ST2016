@@ -1,0 +1,7 @@
+T0	Regulates_Expression Agent:T2 DNA:T8
+T1	Regulates_Expression Agent:T17 DNA:T16
+T2	Regulates_Process Agent:T18 Dynamic_Process:T19
+T3	Regulates_Process Agent:T22 Dynamic_Process:T23
+T4	Is_Linked_To Agent:T47 Target:T46
+T5	Is_Linked_To Agent:T58 Target:T57
+T6	Is_Linked_To Agent:T59 Target:T60

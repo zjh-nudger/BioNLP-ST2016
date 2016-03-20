@@ -1,0 +1,4 @@
+T0	Is_Linked_To Agent:T6 Target:T7
+T1	Exists_In_Genotype Molecular:T7 Element:T5
+T2	Is_Linked_To Agent:T8 Target:T10
+T3	Binds_To Funtional_molecule:T25 Molecule:T26

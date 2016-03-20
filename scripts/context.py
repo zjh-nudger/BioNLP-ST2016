@@ -6,7 +6,7 @@ Created on Tue Mar 08 19:47:22 2016
 
 @author: tanfan.zjh
 """
-import sys,string
+import sys,string,os
 import sys
 sys.path.append('..')
 
@@ -121,10 +121,18 @@ def get_a2_annotations(a2_file):
 
 def get_context(e1_start_index,e1_end_index,e2_start_index,e2_end_index,sentence):
     selected_index = set()
+    
     for i in xrange(e1_start_index,e2_end_index+1):
         selected_index.add(i)
     for i in xrange(e2_start_index,e1_end_index+1):
         selected_index.add(i)
+    
+#    ### 不包括实体本身
+#    for i in xrange(e1_end_index+1,e2_start_index):
+#        selected_index.add(i)
+#    for i in xrange(e2_end_index+1,e1_start_index):
+#        selected_index.add(i)
+    
     '''
 =======
 def get_context(e1_start_index,e1_end_index,e2_start_index,e2_end_index,sentence,window):
@@ -155,10 +163,14 @@ def get_context(e1_start_index,e1_end_index,e2_start_index,e2_end_index,sentence
     contexts = []
     for index in selected_index:
         ## filt the punctution
-        if sentence[index].word in [p for p in string.punctuation]:
-            continue
-        if sentence[index].word in ['the','a','an','its','their']:
-            continue
+#        if sentence[index].word in [p for p in string.punctuation]:
+#            continue
+#        if sentence[index].word in [',',';','.']:
+#            continue
+#        if sentence[index].word in ['the','a','an','its','their']:
+#            continue
+#        if sentence[index].pos in ['CD']:
+#            continue
         contexts.append(sentence[index])
     return contexts
 # return the index of e1\e2 in the sentence  
@@ -284,9 +296,10 @@ def create_examples(gt_file,a1_file,a2_file,output_file,pos_file,is_train):
     entities = get_a1_annotations(a1_file)
     relations = get_a2_annotations(a2_file)
     if not is_train:
-        a2_output_file = open('a2_predict/'+a2_file.name.split('/')[-1],'w')
-    oo = {}
-    sen_index = 0
+        a2_dir = 'data/a2_predict/'
+        if not os.path.exists(a2_dir):
+            os.mkdir(a2_dir)
+        a2_output_file = open(a2_dir+a2_file.name.split('/')[-1],'w')
     for sentence in document:
         sentence_entity_set = set()
         for word in sentence:
@@ -313,10 +326,13 @@ def create_examples(gt_file,a1_file,a2_file,output_file,pos_file,is_train):
                 typex_id = 0
                 element1 = entities[e1_idx]
                 element2 = entities[e2_idx]
-            #entity_type_1 = element1.typex
-            #entity_type_2 = element2.typex
+            entity_type_1 = element1.typex
+            entity_type_2 = element2.typex
+            unique_idx = 'tanfanzjh'
             index = get_index(element1,element2,sentence)
             contexts = get_context(index[0],index[1],index[2],index[3],sentence)
+            if len(contexts) == 0:
+                continue
             contexts_word = [str(word.word) for word in contexts]
             contexts_pos = [str(word.pos) for word in contexts]
             if is_train:
@@ -324,25 +340,27 @@ def create_examples(gt_file,a1_file,a2_file,output_file,pos_file,is_train):
             else:
                 prefix = 'EXAMPLE'+str(examples_idx)+' '
                 examples_idx += 1
-                a2_output_file.write(prefix+' '+str(element1)+' '+str(element2)+'\n')
-            output_file.write(prefix + str(typex_id) + ' ' + ' '.join(contexts_word) + '\n')
+                a2_output_file.write(prefix+'| '+str(element1)+' | '+str(element2)+'\n')
+            output_file.write(prefix + str(typex_id) + ' '\
+                            + ' '.join(contexts_word) + ' '+ 
+                            entity_type_1+unique_idx +' '+
+                            entity_type_2+unique_idx+'\n')
             pos_file.write(' '.join(contexts_pos) + '\n')
     if not is_train:
         a2_output_file.close()
 #    if len(relations) == 14:
 #        print str(relations)+'\t'+a1_file.name
     #assert len(relations) == 0
-    
 
 def close_file(*f):
     for fl in f:
         fl.close()
         
 if __name__ == '__main__':
-    train = open('train','w')
-    dev = open('dev','w')
-    train_pos = open('train_pos','w')
-    dev_pos = open('dev_pos','w')
+    train = open('data/train','w')
+    dev = open('data/dev','w')
+    train_pos = open('data/train_pos','w')
+    dev_pos = open('data/dev_pos','w')
     window = 0
     for fn in glob.glob(path.GT_PROCESS_TRAIN+'/*.gt'):
         #print fn

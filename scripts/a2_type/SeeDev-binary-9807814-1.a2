@@ -1,0 +1,6 @@
+T0	Is_Linked_To Agent:T21 Target:T20
+T1	Exists_In_Genotype Molecular:T21 Element:T19
+T2	Regulates_Process Agent:T24 Dynamic_Process:T29
+T3	Regulates_Process Agent:T24 Dynamic_Process:T30
+T4	Exists_In_Genotype Molecular:T27 Element:T24
+T5	Exists_In_Genotype Molecular:T26 Element:T24
