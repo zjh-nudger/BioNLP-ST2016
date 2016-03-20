@@ -1,0 +1,12 @@
+0 T6_Bacteria T7_Habitat
+0 T6_Bacteria T8_Habitat
+1 T6_Bacteria T9_Habitat
+1 T10_Bacteria T11_Habitat
+1 T10_Bacteria T12_Habitat
+1 T10_Bacteria T13_Habitat
+0 T14_Bacteria T15_Habitat
+1 T14_Bacteria T16_Habitat
+0 T15_Habitat T17_Bacteria
+0 T16_Habitat T17_Bacteria
+1 T18_Habitat T19_Bacteria
+1 T21_Habitat T22_Bacteria

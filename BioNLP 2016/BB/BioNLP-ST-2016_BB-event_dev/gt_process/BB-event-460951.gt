@@ -1,0 +1,89 @@
+Atypical	Atypical	JJ	B-NP	O		0	8
+mycobacteria	mycobacterium	NNS	I-NP	O		9	21
+causing	cause	VBG	B-VP	O		22	29
+non-pulmonary	non-pulmonary	JJ	B-NP	O		30	43
+disease	disease	NN	I-NP	O		44	51
+in	in	IN	B-PP	O		52	54
+Queensland	Queensland	NNP	B-NP	O		55	65
+.	.	.	O	O		65	66
+
+During	During	IN	B-PP	O		67	73
+the	the	DT	B-NP	O		74	77
+period	period	NN	I-NP	O		78	84
+1971--7	1971--7	CD	I-NP	O		85	92
+,	,	,	O	O		92	93
+the	the	DT	B-NP	O		94	97
+Tuberculosis	Tuberculosis	NNP	I-NP	O		98	110
+Reference	Reference	NNP	I-NP	O		111	120
+Laboratory	Laboratory	NNP	I-NP	O		121	131
+in	in	IN	B-PP	O		132	134
+Queensland	Queensland	NNP	B-NP	O		135	145
+dealt	deal	VBD	B-VP	O		146	151
+with	with	IN	B-PP	O		152	156
+52	52	CD	B-NP	O		157	159
+isolates	isolate	NNS	I-NP	O		160	168
+of	of	IN	B-PP	O		169	171
+atypical	atypical	JJ	B-NP	O		172	180
+mycobacteria	mycobacterium	NNS	I-NP	O		181	193
+made	make	VBN	B-VP	O		194	198
+from	from	IN	B-PP	O		199	203
+non-pulmonary	non-pulmonary	JJ	B-NP	B-DNA		204	217
+sites	site	NNS	I-NP	I-DNA		218	223
+under	under	IN	B-PP	O		224	229
+circumstances	circumstance	NNS	B-NP	O		230	243
+suggesting	suggest	VBG	B-VP	O		244	254
+complicity	complicity	NN	B-NP	O		255	265
+in	in	IN	B-PP	O		266	268
+disease	disease	NN	B-NP	O		269	276
+.	.	.	O	O		276	277
+
+Twenty	Twenty	CD	B-NP	O		278	284
+-	-	HYPH	I-NP	O		284	285
+four	four	CD	I-NP	O		285	289
+isolates	isolate	NNS	I-NP	O		290	298
+belonging	belong	VBG	B-VP	O		299	308
+to	to	TO	B-PP	O		309	311
+the	the	DT	B-NP	O		312	315
+MAIS	MAIS	NN	I-NP	B-protein		316	320
+complex	complex	NN	I-NP	I-protein		321	328
+were	be	VBD	B-VP	O		329	333
+associated	associate	VBN	I-VP	O		334	344
+with	with	IN	B-PP	O		345	349
+lymph	lymph	NN	B-NP	O		350	355
+node	node	NN	I-NP	O		356	360
+infections	infection	NNS	I-NP	O		361	371
+in	in	IN	B-PP	O		372	374
+children	child	NNS	B-NP	O		375	383
+.	.	.	O	O		383	384
+
+Twelve	Twelve	CD	B-NP	O		385	391
+isolates	isolate	NNS	I-NP	O		392	400
+belonged	belong	VBD	B-VP	O		401	409
+to	to	TO	B-PP	O		410	412
+the	the	DT	B-NP	O		413	416
+M. fortuitum	M._fortuitum	NN	I-NP	B-protein		417	429
+-	-	HYPH	B-NP	I-protein		429	430
+chelonei	chelonei	NN	I-NP	I-protein		430	438
+complex	complex	NN	I-NP	I-protein		439	446
+;	;	:	O	O		446	447
+most	most	JJS	B-NP	O		448	452
+were	be	VBD	B-VP	O		453	457
+from	from	IN	B-PP	O		458	462
+superficial	superficial	JJ	B-NP	O		463	474
+abscesses	abscess	NNS	I-NP	O		475	484
+.	.	.	O	O		484	485
+
+Five	Five	CD	B-NP	O		486	490
+cases	case	NNS	I-NP	O		491	496
+of	of	IN	B-PP	O		497	499
+M. marinum	M._marinum	NN	B-NP	O		500	510
+infection	infection	NN	I-NP	O		511	520
+and	and	CC	O	O		521	524
+8	8	CD	B-NP	O		525	526
+of	of	IN	B-PP	O		527	529
+M. ulcerans	M._ulcerans	NNP	B-NP	O		530	541
+disease	disease	NN	I-NP	O		542	549
+were	be	VBD	B-VP	O		550	554
+detected	detect	VBN	I-VP	O		555	563
+.	.	.	O	O		563	564
+

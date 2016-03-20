@@ -1,0 +1,11 @@
+0 T3_Bacteria T4_Habitat
+0 T5_Bacteria T6_Habitat
+0 T5_Bacteria T7_Habitat
+0 T5_Bacteria T9_Habitat
+0 T6_Habitat T8_Bacteria
+0 T7_Habitat T8_Bacteria
+1 T8_Bacteria T9_Habitat
+1 T22_Bacteria T23_Habitat
+1 T27_Bacteria T28_Habitat
+0 T27_Bacteria T29_Habitat
+1 T27_Bacteria T30_Habitat

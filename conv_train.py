@@ -11,7 +11,10 @@ import theano.tensor as T
 from collections import OrderedDict
 from module.mlp_zjh import MLPDropout
 from module.convnet import LeNetConvPoolLayer
+<<<<<<< HEAD
 from utils import evaluate
+=======
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
 
 def ReLU(x):
     y = T.maximum(0.0, x)
@@ -25,7 +28,10 @@ def Tanh(x):
 def Iden(x):
     y = x
     return(y)
+<<<<<<< HEAD
 import numpy as np
+=======
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
 
 def write_matrix_to_file(matrix=None,output='none.txt'):
     output_file=open(output,'w')
@@ -36,6 +42,7 @@ def write_matrix_to_file(matrix=None,output='none.txt'):
         #print '\n'
     output_file.close()
 
+<<<<<<< HEAD
 claz_count = 21
 def train_conv(datasets,
                wordvec,
@@ -46,6 +53,17 @@ def train_conv(datasets,
                shuffle_batch=True,
                n_epochs=10000,
                batch_size=256,
+=======
+def train_conv(datasets,
+               wordvec,
+               word_size=200,
+               window_sizes=[3],
+               hidden_units=[1000,1000,23],
+               dropout_rate=[0],
+               shuffle_batch=True,
+               n_epochs=10,
+               batch_size=128,
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
                lr_decay=0.95,
                sqr_norm_lim=9,
                conv_non_linear="relu",
@@ -69,9 +87,12 @@ def train_conv(datasets,
     print parameters  
 
     #print wordvec
+<<<<<<< HEAD
     #count = np.shape(wordvec)[0]
     #wordvec=np.random.uniform(-0.25,0.25,(count,10))
     #wordvec=numpy.asarray(wordvec,dtype=theano.config.floatX)
+=======
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
     Words=theano.shared(value=wordvec,name='Words')
     zero_vec_tensor = T.vector()
     zero_vec = numpy.zeros(word_size,dtype=theano.config.floatX)
@@ -139,7 +160,11 @@ def train_conv(datasets,
             x: train_set_x[index*batch_size:(index+1)*batch_size],
             y: train_set_y[index*batch_size:(index+1)*batch_size]})   
     #theano.printing.debugprint(train_model)
+<<<<<<< HEAD
     
+=======
+    '''
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
     test_pred_layers = []
     test_size = test_set_x.shape[0].eval()
     test_layer0_input = Words[T.cast(x.flatten(),dtype="int32")].\
@@ -151,6 +176,17 @@ def train_conv(datasets,
     test_y_pred = classifier.predict(test_layer1_input)
     test_error = T.mean(T.neq(test_y_pred, y))
     test_model_all = theano.function(inputs=[x,y], outputs=[test_error,test_y_pred])   
+<<<<<<< HEAD
+=======
+    '''
+    
+    f_scores =[classifier.f_score(y,i+1)[1] for i in xrange(22)]
+    f_scores = tuple(f_scores)
+    test_model=theano.function([],f_scores,
+                               givens={
+                               x:test_set_x,
+                               y:test_set_y})
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
        
     epoch=0
     while (epoch < n_epochs):
@@ -161,12 +197,23 @@ def train_conv(datasets,
                 cost_epoch = train_model(minibatch_index)
                 cost.append(cost_epoch)
                 set_zero(zero_vec)
+<<<<<<< HEAD
             error,prediction=test_model_all(x=test_set_x.get_value(borrow=True),y=test_set_y.eval())
             precision,recall,f1_score=evaluate.evaluate_multi_class_seedev(prediction=prediction,
                                                                           answer=test_set_y.eval(),
                                                                           claz_count=claz_count)
             #print 'epoch:%d,error:%.3f,micro_f_score:%.2f,macro_f_score:%.2f'%(epoch,error,micro_f_score,macro_f_score)
             print 'epoch:%d,error:%.3f,precision:%.4f,  recall:%.4f,  f1_score:%.4f'%(epoch,error,precision,recall,f1_score)
+=======
+#            error,prediction=test_model_all(x=test_set_x.get_value(borrow=True),y=test_set_y.eval())
+#            print error
+#            micro_f_score,macro_f_score=evaluate.simple_evaluate(prediction=prediction,
+#                                                                 answer=test_set_y.eval())
+            f_scores=test_model()
+            f_scores = tuple(f_scores)
+            #print 'epoch:%d,error,|:%f'%(epoch,error)
+            print '%.2f|'*22%(f_scores)
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
         else:
             for minibatch_index in xrange(n_train_batches):
                 cost_epoch = train_model(minibatch_index)
@@ -238,6 +285,10 @@ def sgd_updates_adadelta(params,cost,rho=0.95,epsilon=1e-6,norm_lim=9,word_vec_n
 if __name__=='__main__':
     import cPickle as cp
     theano.config.floatX='float32'
+<<<<<<< HEAD
     train,train_pos,test,test_pos,words,vocab=cp.load(open('data/data.p'))
+=======
+    train,test,words,vocab=cp.load(open('data/data.p'))
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
     words=numpy.asarray(words,dtype=theano.config.floatX)
     train_conv(datasets=[train,test],wordvec=words)

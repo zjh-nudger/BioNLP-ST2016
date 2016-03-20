@@ -1,0 +1,23 @@
+The	The	DT	B-NP	O		0	3
+in vitro	in_vitro	NN	I-NP	O		4	12
+assay	assay	NN	I-NP	O		13	18
+of	of	IN	B-PP	O		19	21
+tuberculin	tuberculin	NN	B-NP	O		22	32
+hypersensitivity	hypersensitivity	NN	I-NP	O		33	49
+in	in	IN	B-PP	O		50	52
+Macaca mulatta	Macaca_mulatta	NNP	B-NP	O		53	67
+sensitized	sensitize	VBN	B-VP	O		68	78
+with	with	IN	B-PP	O		79	83
+bacille	bacille	NN	B-NP	O		84	91
+Calmette	Calmette	NNP	I-NP	O		92	100
+Guerin	Guerin	NNP	I-NP	O		101	107
+cell	cell	NN	I-NP	O		108	112
+wall	wall	NN	I-NP	O		113	117
+vaccine	vaccine	NN	I-NP	O		118	125
+and-or	and-or	CC	O	O		126	132
+infected	infect	VBN	B-VP	O		133	141
+with	with	IN	B-PP	O		142	146
+virulent	virulent	JJ	B-NP	O		147	155
+Mycobacterium tuberculosis	Mycobacterium_tuberculosis	NN	I-NP	O		156	182
+.	.	.	O	O		182	183
+

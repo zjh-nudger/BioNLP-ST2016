@@ -1,0 +1,207 @@
+0. AGL15 ( AGAMOUS - like 15 ) is a member of the MADS domain family , a large , diverse family of regulatory factors .
+  1. E52	Is_Member_Of_Family	Element:AGL15	Family:MADS domain family
+6. The MADS domain family consists of at least 36 members in Arabidopsis ( Liljegren et al. 1998 ) , including the well - known floral organ identity regulators AGAMOUS ( AG ) , APETALA3 ( AP3 ) , and PISTILLATA ; meristem identity regulators APETALA1 ( AP1 ) and CAULIFLOWER ; silique tissue identity regulators FRUITFULL / AGL8 , AGL1 , and AGL5 ; and a set of other AGL factors of unknown function expressed in flowers .
+  2. E54	Is_Member_Of_Family	Element:AGL8	Family:MADS domain family
+  3. E46	Is_Member_Of_Family	Element:AP1	Family:MADS domain family
+  4. E47	Is_Member_Of_Family	Element:CAULIFLOWER	Family:MADS domain family
+  5. E44	Is_Member_Of_Family	Element:PISTILLATA	Family:MADS domain family
+  6. E45	Is_Member_Of_Family	Element:AP3	Family:MADS domain family
+  7. E48	Is_Member_Of_Family	Element:AG	Family:MADS domain family
+  8. E50	Is_Member_Of_Family	Element:AGL5	Family:MADS domain family
+  9. E49	Is_Member_Of_Family	Element:AGL1	Family:MADS domain family
+2. This pattern of gene regulation further distinguishes AGL15 from the large group of floral MADS box genes , including AP1 ( Mandel et al. 1992b ) and FRUITFULL / AGL8 ( Mandel and Yanofsky 1995a ; Gu et al. 1998 ) , which are preferentially expressed during the reproductive phase and are induced or upregulated during the transition to flowering ( Hempel et al. 1997 ) .
+  1. E24	Is_Member_Of_Family	Element:AGL8	Family:floral MADS box genes
+  2. E25	Is_Member_Of_Family	Element:AP1	Family:floral MADS box genes
+3. In terms of regulation , AGL15 is most similar to the MADS box gene FLOWERING LOCUS C , which encodes a repressor of flowering and is also downregulated in the transition to flowering ( Michaels and Amasino 1999 ) .
+  3. E23	Is_Member_Of_Family	Element:FLOWERING LOCUS C	Family:MADS box
+3. The B1 domain of ABI3 is essential for this interaction ; this is the first specific function ascribed to this domain of the ABI3 / VP1 family .
+  1. E7	Is_Member_Of_Family	Element:ABI3	Family:ABI3/VP1 family
+1. To determine whether ABI4 or ABI5 can physically interact with themselves or any of the other ABIs , we tested pairwise combinations in yeast two-hybrid interaction assays .
+  1. E23	Is_Member_Of_Family	Element:ABI4	Family:ABIs
+  2. E22	Is_Member_Of_Family	Element:ABI5	Family:ABIs
+16. The Arabidopsis LEAFY COTYLEDON ( LEC ) genes , LEC1 , LEC2 , and FUSCA3 ( FUS3 ) , play key roles in controlling embryo development ( 7 ) .
+  1. E4	Is_Member_Of_Family	Element:LEC1	Family:LEC
+  2. E2	Is_Member_Of_Family	Element:LEC2	Family:LEC
+  3. E6	Is_Member_Of_Family	Element:FUS3	Family:LEC
+3. We showed that LEC2 RNA accumulates primarily during seed development , consistent with our finding that LEC2 shares greatest similarity with the B3 domain transcription factors that act primarily in developing seeds , VIVIPAROUS1 / ABA INSENSITIVE3 and FUSCA3 .
+  4. E3	Is_Member_Of_Family	Element:LEC2	Family:B3 domain transcription factors
+  5. E8	Is_Member_Of_Family	Element:VIVIPAROUS1	Family:B3 domain transcription factors
+  6. E7	Is_Member_Of_Family	Element:FUSCA3	Family:B3 domain transcription factors
+  7. E1	Is_Member_Of_Family	Element:ABA INSENSITIVE3	Family:B3 domain transcription factors
+23. LEC1 shares extensive sequence similarity with the HAP3 subunit of CCAAT - binding transcription factor , implicating LEC1 as a transcriptional regulator ( 12 ) .
+  8. E5	Is_Member_Of_Family	Element:LEC1	Family:HAP3 subunit of CCAAT-binding transcription factor
+10. ABI3 is a transcription factor that operates primarily during the maturation phase , whereas LEC2 and FUS3 are LEAFY COTYLEDON proteins required for processes during both the morphogenesis and maturation phases .
+  1. E2	Is_Member_Of_Family	Element:FUS3	Family:LEAFY COTYLEDON
+  2. E1	Is_Member_Of_Family	Element:LEC2	Family:LEAFY COTYLEDON
+9. There is a precedent in Arabidopsis for a bifunctional 3 , 5 epimerase , 4-reductase in the synthesis of GDP - l-Fuc from GDP - d-Man ( GER1 , GER2 ) ( Bonin and Reiter , 2000 ) .
+  1. E20	Is_Member_Of_Family	Element:GER1	Family:3,5 epimerase, 4-reductase
+  2. E21	Is_Member_Of_Family	Element:GER2	Family:3,5 epimerase, 4-reductase
+56. We note that two other members of the AP2 / EREBP transcription factor family have roles that appear to intersect with those of AP2 .
+  1. E90	Is_Member_Of_Family	Element:AP2/EREBP	Family:EREBP
+  2. E89	Is_Member_Of_Family	Element:AP2	Family:AP2/EREBP
+1. AP2 was identified originally as a homeotic gene required for the specification of floral organ identity and was shown to encode an AP2 / EREBP transcription factor ( 24 , 25 ) .
+  3. E87	Is_Member_Of_Family	Element:AP2	Family:AP2/EREBP
+  4. E91	Is_Member_Of_Family	Element:AP2/EREBP	Family:EREBP
+61. Thus , other AP2 / EREBP proteins may function in a pathway similar to that of AP2 .
+  5. E88	Is_Member_Of_Family	Element:AP2/EREBP	Family:EREBP
+  6. E86	Is_Member_Of_Family	Element:AP2	Family:AP2/EREBP
+0. Arabidopsis thaliana SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 ( SERK1 ) is a leucine - rich repeat receptor - like kinase ( LRR - RLK ) involved in the acquisition of embryogenic competence and in male sporogenesis .
+  1. E13	Is_Member_Of_Family	Element:leucine-rich repeat receptor-like kinase	Family:receptor-like kinase
+  2. E14	Is_Member_Of_Family	Element:SERK1	Family:leucine-rich repeat receptor-like kinase
+3. This approach identified two other LRR - RLKs , the BRASSINOSTEROID - INSENSITIVE1 ( BRI1 ) receptor and its coreceptor , the SERK3 or BRI1 - ASSOCIATED KINASE1 protein .
+  3. E12	Is_Member_Of_Family	Element:BRI1	Family:LRR-RLKs
+  4. E11	Is_Member_Of_Family	Element:SERK3	Family:LRR-RLKs
+5. Finally , the MADS box transcription factor AGAMOUS - LIKE15 and an uncharacterized zinc finger protein , a member of the CONSTANS family , were identified as part of the SERK1 complex .
+  5. E15	Is_Member_Of_Family	Element:AGAMOUS-LIKE15	Family:MADS box transcription factor
+3. For example , negative and positive regulators of brassinosteroid ( BR ) signaling were identified as the GSK -3 / Shaggy - like kinase called BRASSINOSTEROID - INSENSITIVE2 ( BIN2 ) ( Li and Nam , 2002 ) and the nucleus - localized Ser / Thr phosphatase bri1 Suppressor1 family ( Mora - Garcia et al. , 2004 ) , respectively .
+  1. E60	Is_Member_Of_Family	Element:BIN2	Family:GSK-3/Shaggy-like kinase
+5. We previously identified Arabidopsis SOMATIC EMBRYOGENESIS RECEPTOR - LIKE KINASE1 ( SERK1 ) , an LRR - RLK that marks the formation of embryogenic cells in culture and is expressed in ovule primordia and in both male and female gametophytes .
+  2. E55	Is_Member_Of_Family	Element:SERK1	Family:LRR-RLK
+8. SERK1 is a member of a small family of five related RLKs , all of which have five LRRs and a typical Ser-Pro–rich juxtamembrane region ( Hecht et al. , 2001 ) .
+  3. E66	Is_Member_Of_Family	Element:SERK1	Family:RLKs
+13. Using a yeast two-hybrid screen , two additional SERK1 - interacting proteins , CDC48A and 14-3 -3 λ , were found ( Rienties et al . , 2005 ) .
+  4. E68	Is_Member_Of_Family	Element:CDC48A	Family:SERK1-interacting proteins
+  5. E58	Is_Member_Of_Family	Element:14-3-3λ	Family:SERK1-interacting proteins
+14. These interactions suggested analogy with the mammalian CDC48 homologue p97 / VCP complex , in which p97 / VCP can be phosphorylated by the JAK -2 kinase and dephosphorylated by the phosphatase PTPH1 that associates with a 14-3 -3 protein ( Zhang et al. , 1997 , 1999 ) .
+  6. E62	Is_Member_Of_Family	Element:JAK-2	Family:kinase
+  7. E56	Is_Member_Of_Family	Element:PTPH1	Family:phosphatase
+15. KAPP has also been reported to interact with other LRR - RLKs such as HAESA , WALL - ASSOCIATED KINASE1 , FLS2 , and CLV1 ( reviewed in Becraft , 2002 ) .
+  8. E61	Is_Member_Of_Family	Element:WALL-ASSOCIATED KINASE1	Family:LRR-RLKs
+  9. E69	Is_Member_Of_Family	Element:HAESA	Family:LRR-RLKs
+  10. E59	Is_Member_Of_Family	Element:CLV1	Family:LRR-RLKs
+  11. E57	Is_Member_Of_Family	Element:FLS2	Family:LRR-RLKs
+19. For the epidermal growth factor receptor , a human receptor Tyr kinase , immunoprecipitation combined with matrix - assisted laser desorption ionization–time of flight / mass spectrometry ( MALDI - TOF / MS ) was used to identify components of the epidermal growth factor receptor signaling complex ( Pandey et al. , 2000 ) .
+  12. E65	Is_Member_Of_Family	Element:epidermal growth factor receptor	Family:receptor Tyr kinase
+26. Additional proteins were also found , such as another member of the 14-3 -3 family , 14-3 -3 ν , SERK3 ( BAK1 ) and BRI1 , the MADS box transcription factor AGAMOUS - LIKE15 ( AGL15 ) , and an uncharacterized zinc finger protein .
+  13. E70	Is_Member_Of_Family	Element:14-3-3ν	Family:14-3-3 family
+  14. E64	Is_Member_Of_Family	Element:SERK3	Family:14-3-3 family
+  15. E67	Is_Member_Of_Family	Element:AGL15	Family:MADS box transcription factor
+  16. E63	Is_Member_Of_Family	Element:BRI1	Family:14-3-3 family
+39. For two other LRR - RLKs , CLV1 ( Williams et al. , 1997 ) and FLS2 ( Gomez - Gomez et al. , 2001 ) , it has been shown that KAPP functions as a negative regulator , and it may have the same role in controlling signaling through the SERK1 receptor .
+  1. E75	Is_Member_Of_Family	Element:CLV1	Family:LRR-RLKs
+  2. E72	Is_Member_Of_Family	Element:FLS2	Family:LRR-RLKs
+8. SERK1 and BR Signaling A highly interesting finding was the identification of two members of the BR signaling pathway , the main BR receptor BRI1 ( Li and Chory , 1997 ) and its coreceptor BAK1 ( SERK3 ) ( Li et al. , 2002 ; Nam and Li , 2002 ) , as components of the SERK1 complex .
+  3. E73	Is_Member_Of_Family	Element:BRI1	Family:BR receptor
+44. Five Arabidopsis 14-3 -3 s , including 14-3 -3 λ , have been shown to interact with other transcription factors ( Pan et al. , 1999 ) , and current models propose that the interaction with members of the 14-3 -3 family is client - driven ( Paul et al. , 2005 ) .
+  4. E71	Is_Member_Of_Family	Element:14-3-3λ	Family:14-3-3s
+45. Two transcription factors were found to be associated with the SERK1 complex : AGL15 and a putative CO - like B-box zinc finger protein .
+  5. E69	Is_Member_Of_Family	Element:CO-like	Family:B-box zinc finger protein
+48. One of the other MADS box transcription factors , AGL24 , was shown to interact directly with the kinase domain of the Arabidopsis meristematic receptor - like kinase and to be phosphorylated by the kinase domain of the receptor in vitro ( Fujita et al. , 2003 ) .
+  6. E68	Is_Member_Of_Family	Element:AGL24	Family:MADS box transcription factors
+31. Other SERK1 Complex Components The presence of the PP2C phosphatase KAPP , 14-3 -3 ν , and CDC48A in the SERK1 complex confirms previously obtained results using yeast two-hybrid screening and in vitro interaction studies ( Rienties et al. , 2005 ) .
+  7. E74	Is_Member_Of_Family	Element:CDC48A	Family:PP2C phosphatase
+  8. E70	Is_Member_Of_Family	Element:14-3-3ν	Family:PP2C phosphatase
+  9. E76	Is_Member_Of_Family	Element:KAPP	Family:PP2C phosphatase
+0. Plant embryo development is regulated by a network of transcription factors that include LEAFY COTYLEDON 1 ( LEC1 ) , LEC1 - LIKE ( L1L ) , and B3 domain factors , LEAFY COTYLEDON 2 ( LEC2 ) , FUSCA3 ( FUS3 ) , and ABSCISIC ACID INSENSITIVE 3 ( ABI3 ) of Arabidopsis ( Arabidopsis thaliana ) .
+  1. E51	Is_Member_Of_Family	Element:ABI3	Family:B3 domain factors
+  2. E50	Is_Member_Of_Family	Element:LEC2	Family:B3 domain factors
+  3. E58	Is_Member_Of_Family	Element:FUS3	Family:B3 domain factors
+10. Embryo development in plants is regulated by a network of transcription factors that include the LEAFY COTYLEDON 1 ( LEC1 ) and LEC1 - LIKE ( L1L ) genes belonging to the HAP3 family CCAAT - binding factors and a subgroup of the plant - specific B3 domain protein family composed of the LEC2 , FUSCA3 ( FUS3 ) , and ABSCISIC ACID ( ABA ) - INSENSITIVE 3 ( ABI3 ) genes ( Giraudat et al. , 1992 ; Lotan et al. , 1998 ; Luerssen et al. , 1998 ; Stone et al. , 2001 ; Kwong et al. , 2003 ) .
+  4. E54	Is_Member_Of_Family	Element:FUS3	Family:B3 domain protein family
+  5. E49	Is_Member_Of_Family	Element:ABI3	Family:B3 domain protein family
+  6. E56	Is_Member_Of_Family	Element:LEC2	Family:B3 domain protein family
+  7. E55	Is_Member_Of_Family	Element:LEC1	Family:HAP3 family
+  8. E57	Is_Member_Of_Family	Element:L1L	Family:HAP3 family
+21. A major function of the LEC2 , FUS3 , and ABI3 B3 transcription factors is activation of genes involved in accumulation of storage protein and lipid reserves in the embryo during seed maturation .
+  9. E52	Is_Member_Of_Family	Element:ABI3	Family:B3 transcription factors
+  10. E59	Is_Member_Of_Family	Element:FUS3	Family:B3 transcription factors
+  11. E53	Is_Member_Of_Family	Element:LEC2	Family:B3 transcription factors
+8. AP2 belongs to the AP2 / EREBP family , one of the largest groups of plant transcriptional factors ( Riechmann et al. , 2000 ) .
+  1. E42	Is_Member_Of_Family	Element:AP2	Family:AP2/EREBP
+17. Here , we show that AP2 regulates ERF genes such as AtEBP and AtERF1 , and the over - expression of AtEBP causes the accumulation of AP2 transcripts .
+  2. E43	Is_Member_Of_Family	Element:AtERF1	Family:ERF
+  3. E45	Is_Member_Of_Family	Element:AtEBP	Family:ERF
+12. Previously , we characterized Arabidopsis thaliana ethylene - responsive element binding protein ( AtEBP ) , one of the ERF genes , as a transcriptional activator ( Ogawa et al. , 2005 ) .
+  4. E44	Is_Member_Of_Family	Element:AtEBP	Family:ERF
+9. Interestingly , analysis of tomato ERF Pti4 interacting with GCC-box revealed that Pti4 bound to promoters in the absence of GCC-box ( Chakravarthy et al. , 2003 ) .
+  1. E25	Is_Member_Of_Family	Element:Pti4	Family:ERF
+0. SAP18 , a member of the core SIN3 / HDAC complex , was recovered as an AGL15 - interacting protein .
+  1. E12	Is_Member_Of_Family	Element:SAP18	Family:AGL15-interacting protein
+4. Importantly , heterodimerization with bZIP10 or bZIP25 , previously described bZIP regulators of MAT gene expression , significantly enhances DNA binding activity and produces a synergistic increase in target gene activation .
+  1. E11	Is_Member_Of_Family	Element:bZIP25	Family:bZIP
+  2. E10	Is_Member_Of_Family	Element:bZIP10	Family:bZIP
+10. The AP -2 type transcription factors from various plant species have been classified into three major lineages ( Kim et al. , 2006 ) , and WRI1 and two other related factors [ WRI1 / ASML1 - related Two -1 ( WAT1 ; At1g16060 ) and -2 ( WAT2 ; At1g79700) ] of Arabidopsis are in the lineage different from the ANT lineage .
+  1. E32	Is_Member_Of_Family	Element:WAT1	Family:AP-2 type transcription factors
+  2. E29	Is_Member_Of_Family	Element:WRI1	Family:AP-2 type transcription factors
+  3. E30	Is_Member_Of_Family	Element:WAT2	Family:AP-2 type transcription factors
+  4. E31	Is_Member_Of_Family	Element:ANT	Family:AP-2 type transcription factors
+10. So far , FUS3 is the smallest member of the protein family characterized by VP1 / ABI3 - like B3 domains ( Fig .  6 ) .
+  1. E18	Is_Member_Of_Family	Element:FUS3	Family:VP1/ABI3-like B3 domains
+1. If AGL15 is important for development in an embryonic mode , as this pattern of accumulation might suggest , we would also expect to find relatively high levels of AGL15 or AGL15 - related proteins in developmental contexts where embryos or organs with embryonic tissue arise outside of the seed or by means other than fertilization of the egg .
+  1. E27	Is_Member_Of_Family	Element:AGL15	Family:AGL15-related proteins
+0. In contrast , plants that overexpress floral MADS factors , such as AP1 , AG , or AP3 with PISTILLATA , typically have a shorter vegetative phase than do wild - type plants , resulting in fewer rosette leaves and earlier flowering ( reviewed in Ma 1998 ) .
+  1. E15	Is_Member_Of_Family	Element:AP3	Family:floral MADS factors
+  2. E17	Is_Member_Of_Family	Element:AP1	Family:floral MADS factors
+  3. E16	Is_Member_Of_Family	Element:AG	Family:floral MADS factors
+4. Three of the ABA insensitive loci , ABI3 , ABI4 and ABI5 , encode transcription factors of the B3 - , AP2- and bZIP - domain families , respectively , and regulate overlapping subsets of seed - specific and / or ABA - inducible genes ( Finkelstein and Lynch , 2000 ; Finkelstein et al. , 1998 ; Giraudat et al. , 1992 ) .
+  1. E54	Is_Member_Of_Family	Element:ABI4	Family:ABA insensitive
+  2. E47	Is_Member_Of_Family	Element:ABI5	Family:ABA insensitive
+  3. E62	Is_Member_Of_Family	Element:ABI3	Family:ABA insensitive
+9. It was subsequently shown that both VP1 and EmBP1 , an Em1a - binding bZIP protein , specifically interact with GF14 , a 14-3 -3 protein which may provide a structural link between these transcription factors ( Schultz et al. , 1998 ) .
+  4. E53	Is_Member_Of_Family	Element:GF14	Family:14-3-3 protein
+  5. E58	Is_Member_Of_Family	Element:EmBP1	Family:bZIP
+  6. E57	Is_Member_Of_Family	Element:Em1a-binding bZIP	Family:bZIP
+10. Although ABI5 is similar to EmBP1 in that they are both bZIP proteins correlated with ABA response , ABI5 is a member of the DPBF subfamily ( Finkelstein and Lynch , 2000 ) .
+  7. E59	Is_Member_Of_Family	Element:EmBP1	Family:bZIP
+  8. E51	Is_Member_Of_Family	Element:ABI5	Family:bZIP
+  9. E48	Is_Member_Of_Family	Element:ABI5	Family:DPBF subfamily
+20. The two remaining cloned ABI loci , ABI1 and ABI2 , were initially identified by dominant negative mutations resulting in decreased sensitivity to ABA ( Gosti et al. , 1999 ; Koornneef et al. , 1984 ) .
+  10. E50	Is_Member_Of_Family	Element:ABI1	Family:ABI
+  11. E60	Is_Member_Of_Family	Element:ABI2	Family:ABI
+21. These loci encode highly homologous members of the PP2C family of ser / thr protein phosphatases , and it has been suggested that they might act on overlapping subsets of substrates ( Leung et al. , 1997 ) .
+  12. E63	Is_Member_Of_Family	Element:PP2C family of ser/thr protein phosphatases	Family:ser/thr protein phosphatases
+24. Recently , two ABI5 - related transcription factors , AREB1 and AREB2 , were shown to promote ABA - activation of target gene expression ( Uno et al. , 2000 ) .
+  13. E55	Is_Member_Of_Family	Element:AREB2	Family:ABI5-related transcription factors
+  14. E61	Is_Member_Of_Family	Element:AREB1	Family:ABI5-related transcription factors
+9. In other epidermal systems , such as trichomes and root hairs , TTG1 has been shown to interact with a tissue - specific MYB protein through the bHLH protein GLABRA3 ( Payne et al. , 2000 ; Schiefelbein , 2003 ) to activate GL2 .
+  1. E33	Is_Member_Of_Family	Element:GLABRA3	Family:bHLH protein
+11. Recent results suggest that EGL3 ( ENHANCER OF GLABRA3 ) and / or TT8 ( TRANSPARENT TESTA8 ) are the bHLH proteins acting with TTG1 in the seed coat ( Zhang et al. , 2003 ) .
+  2. E32	Is_Member_Of_Family	Element:TT8	Family:bHLH proteins
+  3. E34	Is_Member_Of_Family	Element:EGL3	Family:bHLH proteins
+21. AP2 encodes the founding member of a family of plant - specific transcription factors that contains an AP2 / EREBP ( ethylene responsive element binding protein ) domain , a conserved region of ≈60 aa involved in DNA binding ( 24–26 ) .
+  1. E27	Is_Member_Of_Family	Element:AP2	Family:AP2/EREBP
+0. It has been reported that expression of the ERF genes including AtEBP is regulated by AP2 activity ( Okamuro et al. , 1997 ) .
+  1. E31	Is_Member_Of_Family	Element:AtEBP	Family:ERF
+2. To investigate the relationships in the transcriptional regulation of AP2 and AtEBP , an analysis was made of the expression patterns of AP2 and ERF genes such as AtEBP and AtERF1 in different tissues ( flowers , stems and leaves ) .
+  2. E28	Is_Member_Of_Family	Element:AtEBP	Family:ERF
+  3. E29	Is_Member_Of_Family	Element:AtERF1	Family:ERF
+11. These results may suggest that AP2 represses the expression of ERF genes such as AtEBP , AtERF1 and the AP2 gene itself .
+  4. E30	Is_Member_Of_Family	Element:AtEBP	Family:ERF
+  5. E32	Is_Member_Of_Family	Element:AtERF1	Family:ERF
+1. Plants uniquely possess a subclass of MADS factors referred to as MIKC , members of which contain a second weakly conserved coiled - coil motif ( the K domain ) .
+  1. E48	Is_Member_Of_Family	Element:MIKC	Family:MADS factors
+3. AGAMOUS - like 15 ( AGL15 ; At5g13790 ) is a member of the MIKC subfamily , which consist of four domains : the MADS ( M ) , I , K , and C domains ( for a review , see Kaufmann et al. , 2005 ) .
+  2. E47	Is_Member_Of_Family	Element:AGL15	Family:MIKC subfamily
+2. SIN3 - associated proteins ( SAP18 and SAP30 ) have been hypothesized to stabilize the SIN3–HDAC interaction ( discussed by Silverstein and Ekwall , 2005 ) .
+  1. E6	Is_Member_Of_Family	Element:SAP18	Family:SIN3-associated proteins
+  2. E7	Is_Member_Of_Family	Element:SAP30	Family:SIN3-associated proteins
+8. An understanding of gene expression control in the seed was tackled from early studies in plant molecular biology , with maize ( Zea mays ) Opaque2 ( O2 ) representing a hallmark as one of the first plant transcription factor ( TF ) genes cloned and characterized ( Hartings et al. , 1989 ; Schmidt et al. , 1990 ) .
+  1. E37	Is_Member_Of_Family	Element:O2	Family:plant transcription factor genes
+17. TFs of the bZIP class , related to cereal O2 - type TFs , have been identified in Arabidopsis ( Lara et al. , 2003 ) , namely , bZIP10 and bZIP25 , which have been classified into group C of the Arabidopsis bZIP TF family ( Jakoby et al. , 2002 ) .
+  2. E31	Is_Member_Of_Family	Element:group C	Family:bZIP
+  3. E32	Is_Member_Of_Family	Element:bZIP25	Family:group C
+  4. E33	Is_Member_Of_Family	Element:bZIP10	Family:group C
+  5. E35	Is_Member_Of_Family	Element:O2-type	Family:bZIP
+11. The class of maturation genes ( MAT ) expressed during seed maturation typically includes seed storage protein ( SSP ) genes , such as albumin and cruciferin genes , which are induced in early or mid-maturation phase .
+  6. E34	Is_Member_Of_Family	Element:albumin genes	Family:SSP
+  7. E36	Is_Member_Of_Family	Element:cruciferin genes	Family:SSP
+16. The AP2 family ( 19 members ) , which has two AP2 domains , is further divided into two monophyletic groups , the APETALA2 - like and AINTEGUMENTA ( ANT ) - like groups .
+  1. E37	Is_Member_Of_Family	Element:APETALA2-like	Family:AP2 family
+  2. E42	Is_Member_Of_Family	Element:ANT -like	Family:AP2 family
+9. WRI1 is a member of the APETALA2 / ethylene - responsive element binding ( AP2 / EREBP ) proteins , one of the largest transcription factor families in A .  thaliana ( Riechmann et al. , 2000 ) .
+  3. E40	Is_Member_Of_Family	Element:WRI1	Family:AP2/EREBP
+  4. E43	Is_Member_Of_Family	Element:WRI1	Family:APETALA2/ethylene-responsive element binding proteins
+14. The EREBP family ( 122 members ) , which has a single AP2 domain , is composed of two subgroups , namely the ERF ( 65 members ) and DREB subfamilies ( 57 members ) .
+  5. E44	Is_Member_Of_Family	Element:ERF	Family:EREBP
+  6. E39	Is_Member_Of_Family	Element:DREB	Family:EREBP
+17. Depending on the publications , the WRI1 - like group , composed of WRI1 , At2g41710 , At1g16060 and At1g79700 , is either presented as a third monophyletic group of the AP2 family ( Nole - Wilson et al. , 2005 ) or as a part of the ANT - like group ( Shigyo et al. , 2006 ) .
+  7. E38	Is_Member_Of_Family	Element:WRI1-like	Family:ANT-like
+  8. E36	Is_Member_Of_Family	Element:WRI1-like	Family:AP2 family
+  9. E41	Is_Member_Of_Family	Element:WRI1	Family:WRI1-like
+1. We propose that additional plant miRNAs—including miR160 , miR166 , and miR319—also forestall expression of differentiation - promoting transcription factors such as ARF17 , CNA , PHB , PHV , and TCP4 .
+  1. E79	Is_Member_Of_Family	Element:miR319	Family:miRNAs
+  2. E77	Is_Member_Of_Family	Element:miR160	Family:miRNAs
+  3. E78	Is_Member_Of_Family	Element:miR166	Family:miRNAs
+25. Two other LEC class genes , LEC2 and FUSCA3 ( FUS3 ) , are thought to share similar or overlapping functions with LEC1 , including the specification or cotyledon identity and the maintenance of maturation ( [2] , [18] and [29] ) .
+  1. E47	Is_Member_Of_Family	Element:FUS3	Family:LEC
+  2. E48	Is_Member_Of_Family	Element:LEC2	Family:LEC

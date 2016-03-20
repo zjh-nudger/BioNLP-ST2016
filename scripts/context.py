@@ -7,6 +7,7 @@ Created on Tue Mar 08 19:47:22 2016
 @author: tanfan.zjh
 """
 import sys,string
+import sys
 sys.path.append('..')
 
 import glob,path,re,project,itertools
@@ -117,6 +118,7 @@ def get_a2_annotations(a2_file):
         annotations[(toks[3],toks[5])] = annotation
     return annotations
 
+
 def get_context(e1_start_index,e1_end_index,e2_start_index,e2_end_index,sentence):
     selected_index = set()
     for i in xrange(e1_start_index,e2_end_index+1):
@@ -124,6 +126,14 @@ def get_context(e1_start_index,e1_end_index,e2_start_index,e2_end_index,sentence
     for i in xrange(e2_start_index,e1_end_index+1):
         selected_index.add(i)
     '''
+=======
+def get_context(e1_start_index,e1_end_index,e2_start_index,e2_end_index,sentence,window):
+    selected_index = set()
+    for i in xrange(e1_start_index,e1_end_index+1):
+        selected_index.add(i)
+    for i in xrange(e2_start_index,e2_end_index+1):
+        selected_index.add(i)
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
     for i in xrange(window):
         index_before_e1 = e1_start_index - i - 1
         index_after_e1 = e1_end_index + i +1
@@ -133,6 +143,7 @@ def get_context(e1_start_index,e1_end_index,e2_start_index,e2_end_index,sentence
         selected_index.add(index_after_e2)
         selected_index.add(index_before_e1)
         selected_index.add(index_before_e2)
+<<<<<<< HEAD
     '''
     selected_index_edge = []
     for index in selected_index:
@@ -150,7 +161,6 @@ def get_context(e1_start_index,e1_end_index,e2_start_index,e2_end_index,sentence
             continue
         contexts.append(sentence[index])
     return contexts
-
 # return the index of e1\e2 in the sentence  
 def get_index(element1,element2,sentence):
     e1_start_index = 0
@@ -222,7 +232,6 @@ def get_shortest_path(entity_node1,entity_node2,graph):
         sp_word.append(node.word)
     return sp_word
 
-
 def create_shortest_path_examples(gt_file,a1_file,a2_file,gdep_file,output_file):
     document = get_sentences_from_gt(gt_file)
     entities = get_a1_annotations(a1_file)
@@ -276,6 +285,8 @@ def create_examples(gt_file,a1_file,a2_file,output_file,pos_file,is_train):
     relations = get_a2_annotations(a2_file)
     if not is_train:
         a2_output_file = open('a2_predict/'+a2_file.name.split('/')[-1],'w')
+    oo = {}
+    sen_index = 0
     for sentence in document:
         sentence_entity_set = set()
         for word in sentence:
@@ -322,6 +333,7 @@ def create_examples(gt_file,a1_file,a2_file,output_file,pos_file,is_train):
 #        print str(relations)+'\t'+a1_file.name
     #assert len(relations) == 0
     
+
 def close_file(*f):
     for fl in f:
         fl.close()
@@ -331,6 +343,7 @@ if __name__ == '__main__':
     dev = open('dev','w')
     train_pos = open('train_pos','w')
     dev_pos = open('dev_pos','w')
+    window = 0
     for fn in glob.glob(path.GT_PROCESS_TRAIN+'/*.gt'):
         #print fn
         pmid = fn.split('\\')[-1][12:-3]

@@ -10,7 +10,10 @@ sys.path.append('..')
 import theano.tensor as T
 from collections import OrderedDict
 from module.mlp_zjh import MLPDropout
+<<<<<<< HEAD
 import numpy as np
+=======
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
 
 def ReLU(x):
     y = T.maximum(0.0, x)
@@ -27,9 +30,15 @@ def Iden(x):
 
 def train_nn(datasets,
              wordvec,
+<<<<<<< HEAD
              word_size=100,
              hidden_units=[800,800,6],
              dropout_rate=[0,0,0,0,0,0,0],
+=======
+             word_size=200,
+             hidden_units=[2000,1000,23],
+             dropout_rate=[0],
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
              shuffle_batch=True,
              n_epochs=3000,
              batch_size=256,
@@ -37,15 +46,23 @@ def train_nn(datasets,
              adadelta=True,
              lr_decay=0.95,
              sqr_norm_lim=9,
+<<<<<<< HEAD
              activations=[ReLU,ReLU,ReLU,ReLU,ReLU,ReLU,ReLU],
+=======
+             activations=[Tanh],
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
              non_static=True,
              use_valid_set=False,
              proportion=1):
     rng = numpy.random.RandomState(3435)
+<<<<<<< HEAD
     #print np.shape(wordvec)
     count = np.shape(wordvec)[0]
     wordvec=np.random.uniform(-0.25,0.25,(count,100))
     wordvec=numpy.asarray(wordvec,dtype=theano.config.floatX)
+=======
+    #print wordvec
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
     Words=theano.shared(value=wordvec,name='Words')
     zero_vec_tensor = T.vector()
     zero_vec = numpy.zeros(word_size,dtype=theano.config.floatX)
@@ -119,7 +136,11 @@ def train_nn(datasets,
     #theano.printing.debugprint(train_model)
             
     #f_scores=[classifier.f_score(y,i+1) for i in xrange(hidden_units[-1]-1)]
+<<<<<<< HEAD
     f_scores =(classifier.f_score(y,i+1)[0] for i in xrange(5))
+=======
+    f_scores =(classifier.f_score(y,i+1)[0] for i in xrange(22))
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
     f_scores = tuple(f_scores)
     '''    
     fenzi=0
@@ -164,7 +185,11 @@ def train_nn(datasets,
         #print test_model()
         f_scores = test_model()
         f_scores = tuple(f_scores)
+<<<<<<< HEAD
         print '%.2f,'*5%(f_scores)
+=======
+        print '%.2f,'*22%(f_scores)
+>>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
         
     layer0_input= Words[T.cast(test_set_x.flatten(),dtype="int32")].\
                   reshape((test_set_x.shape[0],test_set_x.shape[1]*Words.shape[1]))

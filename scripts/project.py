@@ -19,7 +19,7 @@ all_entities = ['Gene','Gene_Family','Box','Promoter','Protein','Protein_Family'
                 'Protein_Complex','Protein_Domain','RNA','Hormone',
                 'Regulatory_Network','Metabolic pathway','Genotype','Tissue',
                 'Development_Phase','Environmental_Factor']
-                
+
 ####### when and where ##########
 ## A Process occurs in a given Genotype. 
 Occurrence_In_Genotype = {'Process': ['Regulatory_Network', 'Pathway'],
@@ -135,7 +135,6 @@ RELATIONS = ['Is_Member_Of_Family','Is_Linked_To','Regulates_Tissue_Development'
              'Regulates_Expression','Regulates_Molecule_Activity','Is_Functionally_Equivalent_To',
              'Exists_At_Stage','Is_Involved_In_Process']
 
-Is_Linked_To, Has_Sequence_Identical_To, Is_Functionally_Equivalent_To
 
 RELATIONS_21 = ['Is_Member_Of_Family','Is_Linked_To','Regulates_Tissue_Development',
                 'Is_Protein_Domain_Of','Regulates_Process',

@@ -1,0 +1,10 @@
+1 T3_Bacteria T4_Geographical
+1 T3_Bacteria T5_Habitat
+1 T3_Bacteria T6_Habitat
+1 T7_Bacteria T8_Geographical
+1 T7_Bacteria T9_Habitat
+1 T8_Geographical T10_Bacteria
+1 T9_Habitat T10_Bacteria
+1 T8_Geographical T11_Bacteria
+1 T9_Habitat T11_Bacteria
+1 T16_Bacteria T17_Habitat

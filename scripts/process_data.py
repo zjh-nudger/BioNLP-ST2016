@@ -83,6 +83,7 @@ if __name__=='__main__':
             vocab[item1.lower()]=index
             index+=1
     test_file.close()
+
     print 'There are %d words in train and test dataset'%len(vocab)    
     
     words=np.zeros((len(vocab)+1,word_size),dtype='float32')
@@ -106,7 +107,22 @@ if __name__=='__main__':
 
     if sen_len_max > 40:
         sen_len_max = 40
+
     
+    words=np.zeros((len(vocab)+1,word_size),dtype='float32')
+    #words[0]=rand_vec
+    #words[0]=embedding.word2vec('/s')
+    for item in vocab.iteritems():
+        if item[0] in embedding._vocab:
+            #print item[1]
+            words[item[1]]=embedding.word2vec(item[0])
+        else:
+            #if there is not the words in vector file
+            #random sample the vector
+            rand_vec=np.random.uniform(-0.25,0.25,word_size)
+            words[item[1]]=rand_vec
+            
+    train_file=open(options.train_file)    
     import cPickle
     train_list=[]
     for item in train_file:

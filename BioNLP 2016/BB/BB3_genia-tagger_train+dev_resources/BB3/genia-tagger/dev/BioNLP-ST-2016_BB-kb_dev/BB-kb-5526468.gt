@@ -1,0 +1,14 @@
+Vibrio fetus	Vibrio_fetus	NNP	B-NP	O	
+human	human	JJ	I-NP	O	
+infection	infection	NN	I-NP	O	
+-	-	HYPH	O	O	
+-	-	HYPH	O	O	
+isolation	isolation	NN	B-NP	O	
+from	from	IN	B-PP	O	
+a	a	DT	B-NP	O	
+subacute	subacute	JJ	I-NP	O	
+bacterial	bacterial	JJ	I-NP	O	
+endocarditis	endocarditis	NN	I-NP	O	
+case	case	NN	I-NP	O	
+.	.	.	O	O	
+
