@@ -1,4 +1,5 @@
-AGL15 (AGAMOUS-like 15) is a member of the MADS domain family, a large, diverse family of regulatory factors. All of the members
+AGL15 (AGAMOUS-like 15) is a member of the MADS domain family, a large, diverse family of regulatory factors. 
+All of the members
 of this family contain a highly conserved 55– to 60–amino acid domain, known as the MADS domain, which binds DNA through contacts
 in the minor groove and interactions with the phosphate backbone (Pellegrini et al. 1995). MADS domain proteins also have more divergent regions, which contribute to structural and functional specificity. MADS
 domain–containing regulatory factors are found in all eukaryotic organisms and play pivotal roles in regulating many different

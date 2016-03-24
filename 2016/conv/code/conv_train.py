@@ -26,12 +26,12 @@ def Iden(x):
 
 def train_conv(datasets,
                wordvec,
-               word_size=200,
-               window_sizes=[11,13,15],
-               hidden_units=[100,200,23],
+               word_size=150,
+               window_sizes=[7,8,9],
+               hidden_units=[100,300,23],
                dropout_rate=[0],
                shuffle_batch=True,
-               n_epochs=1000,
+               n_epochs=200,
                batch_size=128,
                lr_decay=0.95,
                sqr_norm_lim=9,
@@ -116,6 +116,7 @@ def train_conv(datasets,
     test_set_x, test_set_y = shared_dataset((test_set_x,test_set[:,0]))
 
     n_batches = new_data.shape[0]/batch_size #batch num
+    #print n_batches
     n_train_batches = int(numpy.round(n_batches))
 
     train_model = theano.function([index], cost, updates=grad_updates,
@@ -155,6 +156,7 @@ def train_conv(datasets,
                 cost_epoch = train_model(minibatch_index)
                 cost.append(cost_epoch)
                 set_zero(zero_vec)
+
             error,prediction=test_model_all(x=test_set_x.get_value(borrow=True),y=test_set_y.eval())
               
             micro_f_score,macro_f_score=evaluate.simple_evaluate(prediction=prediction,
@@ -168,9 +170,10 @@ def train_conv(datasets,
             for minibatch_index in xrange(n_train_batches):
                 cost_epoch = train_model(minibatch_index)
                 set_zero(zero_vec)
+
             error,prediction=test_model_all(x=test_set_x.get_value(borrow=True),y=test_set_y.eval())
             micro_f_score,macro_f_score=evaluate.simple_evaluate(prediction=prediction,
-                                                                 answer=test_set_y.eval())
+                                                                 answer=test_set_y.eval(),out=Li_out)
             print 'epoch:%d,error:%f,micro_f_score:%f,macro_f_score:%f'\
                     %(epoch,error,micro_f_score,macro_f_score)
             macro.append(macro_f_score)
@@ -178,22 +181,12 @@ def train_conv(datasets,
 
     print 'max micro value:%f'%(numpy.max(micro))
     print 'max macro value:%f'%(numpy.max(macro))
-    #li-输出
-    csv_writer=csv.writer(open('/home/lihaorui/2016/li-out-3.csv','wb'))
+    #li-输出 
+  
+    csv_writer=csv.writer(open('/home/lihaorui/2016/li-balance_radix.csv','wb'))
     Li_out = asarray(Li_out)
     for i in range(len(Li_out)):
         csv_writer.writerow(Li_out[i])
-    #li-输出
-    evaluate.complete_evaluate(prediction,test_set_y.eval(),
-                       csv_output='/home/lihaorui/2016/data/out/3.csv')
-    macro=[str(i) for i in macro]
-    micro=[str(i) for i in micro]
-    record_macro_file=open('/home/lihaorui/2016/data/out/macro_3.txt','a')
-    record_macro_file.write(' '.join(macro)+'\n')
-    record_macro_file.close()
-    record_macro_file=open('/home/lihaorui/2016/data/out/micro_3.txt','a')
-    record_macro_file.write(' '.join(micro)+'\n')
-    record_macro_file.close()
         
 
 def shared_dataset(data_xy, borrow=True):
@@ -254,6 +247,6 @@ def sgd_updates_adadelta(params,cost,rho=0.95,epsilon=1e-6,norm_lim=9,word_vec_n
 if __name__=='__main__':
     import cPickle as cp
     theano.config.floatX='float32'
-    train,test,words=cp.load(open('./data/out/Li.p'))
+    train,test,words=cp.load(open('./data/out/Li_balance_radix.p'))
     words=numpy.asarray(words,dtype=theano.config.floatX)
     train_conv(datasets=[train,test],wordvec=words)

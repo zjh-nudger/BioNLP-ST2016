@@ -2,7 +2,8 @@
 """
 Created on Sun May 10 15:07:35 2015
 
-add part of speech features
+add entity type embedding for each examples
+add dis embedding feature for each words
 
 @author: zjh
 """
@@ -38,12 +39,12 @@ def write_matrix_to_file(matrix=None,output='none.txt'):
         #print '\n'
     output_file.close()
 
-claz_count = 21
+claz_count = 23
 def train_conv(datasets,
                wordvec,
-               pos_emb,
-               word_size=150,
-               pos_size = 50,
+               dis_emb,
+               word_size=50,
+               dis_size = 10 * 2,
                window_sizes=[9,11,13],
                hidden_units=[100,100,claz_count],
                dropout_rate=[0],
@@ -59,7 +60,7 @@ def train_conv(datasets,
     rng = numpy.random.RandomState(3435)
     
     sen_length = len(datasets[0][0])-1  # sentence length
-    filter_w = word_size + pos_size # filter width
+    filter_w = word_size + dis_size # filter width
     feature_maps = hidden_units[0]
     filter_shapes = [] #filter:param W
     pool_sizes = []
@@ -77,25 +78,28 @@ def train_conv(datasets,
     #wordvec=np.random.uniform(-0.25,0.25,(count,50))
     #wordvec=numpy.asarray(wordvec,dtype=theano.config.floatX)
     Words=theano.shared(value=wordvec,name='Words')
-    POS = theano.shared(value=as_floatX(pos_emb),name='POS')    
+    DIS = theano.shared(value=as_floatX(dis_emb),name='DIS')    
     zero_vec_tensor = T.vector()
-    zero_vec_tensor_pos = T.vector()
+    zero_vec_tensor_dis = T.vector()
     zero_vec = numpy.zeros(word_size,dtype=theano.config.floatX)
-    zero_vec_pos = numpy.zeros(pos_size,dtype=theano.config.floatX)
+    zero_vec_dis = numpy.zeros(dis_size/2,dtype=theano.config.floatX)
     set_zero = theano.function([zero_vec_tensor], 
                                updates=[(Words, T.set_subtensor(Words[0,:], zero_vec_tensor))])
-    set_zero_pos = theano.function([zero_vec_tensor_pos], 
-                               updates=[(POS, T.set_subtensor(POS[0,:], zero_vec_tensor_pos))])
+    set_zero_dis = theano.function([zero_vec_tensor_dis], 
+                               updates=[(DIS, T.set_subtensor(DIS[0,:], zero_vec_tensor_dis))])
     x=T.matrix('x')
-    x_pos = T.matrix('x_pos')
+    x_dis_start = T.matrix('x_dis_start')
+    x_dis_end = T.matrix('x_dis_end')
     y=T.ivector('y')
     index=T.lscalar('index')
     
     layer0_input_word = Words[T.cast(x.flatten(),dtype="int32")].\
                         reshape((x.shape[0],1,x.shape[1],Words.shape[1]))
-    pos_input = POS[T.cast(x_pos.flatten(),dtype="int32")].\
-                    reshape((x_pos.shape[0],1,x_pos.shape[1],POS.shape[1]))
-    layer0_input = T.concatenate([layer0_input_word,pos_input],axis=3)
+    dis_start_input = DIS[T.cast(x_dis_start.flatten(),dtype="int32")].\
+                        reshape((x_dis_end.shape[0],1,x_dis_start.shape[1],DIS.shape[1]))
+    dis_end_input = DIS[T.cast(x_dis_end.flatten(),dtype="int32")].\
+                        reshape((x_dis_end.shape[0],1,x_dis_end.shape[1],DIS.shape[1]))
+    layer0_input = T.concatenate([layer0_input_word,dis_start_input,dis_end_input],axis=3)
     layer0_input = T.cast(layer0_input,dtype='float32')
     #theano.printing.debugprint(layer0_input)
     conv_layers=[]
@@ -103,7 +107,7 @@ def train_conv(datasets,
     for i in xrange(len(window_sizes)):
         filter_shape = filter_shapes[i]
         pool_size = pool_sizes[i]
-        conv_layer = LeNetConvPoolLayer(rng, input=layer0_input,image_shape=(batch_size, 1, sen_length, word_size + pos_size),
+        conv_layer = LeNetConvPoolLayer(rng, input=layer0_input,image_shape=(batch_size, 1, sen_length, word_size + dis_size),
                                 filter_shape=filter_shape, poolsize=pool_size, non_linear=conv_non_linear)
         layer1_input = conv_layer.output.flatten(2)
         conv_layers.append(conv_layer)
@@ -121,7 +125,7 @@ def train_conv(datasets,
         params += conv_layer.params
     if non_static:
         params += [Words]
-        params += [POS]
+        params += [DIS]
 
     cost = classifier.negative_log_likelihood(y) 
     dropout_cost = classifier.dropout_negative_log_likelihood(y)           
@@ -130,49 +134,61 @@ def train_conv(datasets,
     
     numpy.random.seed(3435)
 
-    test_set = datasets[2]
     train_set = datasets[0]
-    train_pos_set = datasets[1]
-    test_pos_set = datasets[3]
+    train_dis_start_set = datasets[1]
+    train_dis_end_set = datasets[2]
+    test_set = datasets[3]
+    test_dis_start_set = datasets[4]
+    test_dis_end_set = datasets[5]
         
     if train_set.shape[0] % batch_size > 0:
         extra_data_num = batch_size - train_set.shape[0] % batch_size
-        all_data = numpy.random.permutation(numpy.append(train_set,train_pos_set,axis=1))
+        all_data = numpy.append(train_set,train_dis_start_set,axis=1)
+        all_data = numpy.append(all_data,train_dis_end_set,axis=1)
         p_all = numpy.random.permutation(all_data) ## shuffle 
-        train_set = p_all[:,:np.shape(train_set)[1]]
-        train_pos_set = p_all[:,np.shape(train_set)[1]:]
+        s1 = np.shape(train_set)[1]
+        s2 = np.shape(train_dis_start_set)[1]
+        train_set = p_all[:,:s1]
+        train_dis_start_set = p_all[:,s1:s1+s2]##
+        train_dis_end_set = p_all[:,s1+s2:]##
         extra_data = train_set[:extra_data_num] # the batch
-        extra_data_pos = train_pos_set[:extra_data_num]
-        new_data=numpy.append(train_set,extra_data,axis=0) #使得训练集个数正好是batch_size的整数倍
-        new_data_pos = numpy.append(train_pos_set,extra_data_pos,axis=0)
+        extra_data_dis_start = train_dis_start_set[:extra_data_num] ##
+        extra_data_dis_end = train_dis_end_set[:extra_data_num]##
+        train_set = numpy.append(train_set,extra_data,axis=0) #使得训练集个数正好是batch_size的整数倍
+        train_dis_start_set = numpy.append(train_dis_start_set,extra_data_dis_start,axis=0)
+        train_dis_end_set = numpy.append(train_dis_end_set,extra_data_dis_end,axis=0)
     else:
-        new_data = train_set
-        new_data_pos = train_pos_set
-    #train_set = numpy.random.permutation(new_data)
-    train_set_x = new_data[:,1:]
-    test_set_x = test_set[:,1:]
-    train_set_x, train_set_y = shared_dataset((train_set_x,new_data[:,0]))
-    test_set_x, test_set_y = shared_dataset((test_set_x,test_set[:,0]))
-    train_pos_set_sh = shared_dataset_x(new_data_pos)
-    test_pos_set = shared_dataset_x(test_pos_set)
-    n_batches = new_data.shape[0]/batch_size #batch num
+        pass
+
+    train_set_x, train_set_y = shared_dataset((train_set[:,1:],train_set[:,0]))
+    test_set_x, test_set_y = shared_dataset((test_set[:,1:],test_set[:,0]))
+    
+    train_dis_start_set = shared_dataset_x(train_dis_start_set)
+    train_dis_end_set = shared_dataset_x(train_dis_end_set)
+    
+    test_dis_start_set = shared_dataset_x(test_dis_start_set)
+    test_dis_end_set = shared_dataset_x(test_dis_end_set)
+    
+    n_batches = train_set.shape[0]/batch_size #batch num
     n_train_batches = int(numpy.round(n_batches))
     
     train_model = theano.function([index], cost, updates=grad_updates,
           givens={
-            x: train_set_x[index*batch_size:(index+1)*batch_size],
-            y: train_set_y[index*batch_size:(index+1)*batch_size],
-            x_pos : train_pos_set_sh[index*batch_size:(index+1)*batch_size]})
+            x : train_set_x[index*batch_size:(index+1)*batch_size],
+            y : train_set_y[index*batch_size:(index+1)*batch_size],
+            x_dis_start : train_dis_start_set[index*batch_size:(index+1)*batch_size],
+            x_dis_end : train_dis_end_set[index*batch_size:(index+1)*batch_size]})
     #theano.printing.debugprint(train_model)
-
-
+    
     test_pred_layers = []
     test_size = test_set_x.shape[0].eval()
     test_layer0_input_1 = Words[T.cast(x.flatten(),dtype="int32")].\
                               reshape((x.shape[0],1,x.shape[1],Words.shape[1]))
-    pos_input = POS[T.cast(x_pos.flatten(),dtype="int32")].\
-                    reshape((x_pos.shape[0],1,x_pos.shape[1],POS.shape[1]))
-    test_layer0_input = T.concatenate([test_layer0_input_1,pos_input],axis=3)
+    dis_start_input = DIS[T.cast(x_dis_start.flatten(),dtype="int32")].\
+                        reshape((x_dis_end.shape[0],1,x_dis_start.shape[1],DIS.shape[1]))
+    dis_end_input = DIS[T.cast(x_dis_end.flatten(),dtype="int32")].\
+                        reshape((x_dis_end.shape[0],1,x_dis_end.shape[1],DIS.shape[1]))                              
+    test_layer0_input = T.concatenate([test_layer0_input_1,dis_start_input,dis_end_input],axis=3)
     test_layer0_input = T.cast(test_layer0_input,dtype='float32')
     for conv_layer in conv_layers:
         test_layer0_output = conv_layer.predict(test_layer0_input, test_size)
@@ -180,7 +196,7 @@ def train_conv(datasets,
     test_layer1_input = T.concatenate(test_pred_layers, 1)
     test_y_pred = classifier.predict(test_layer1_input)
     test_error = T.mean(T.neq(test_y_pred, y))
-    test_model_all = theano.function(inputs=[x,x_pos,y], outputs=[test_error,test_y_pred])   
+    test_model_all = theano.function(inputs=[x,x_dis_start,x_dis_end,y], outputs=[test_error,test_y_pred])   
        
     epoch=0
     max_f1_score = 0.25
@@ -192,9 +208,10 @@ def train_conv(datasets,
                 cost_epoch = train_model(minibatch_index)
                 cost.append(cost_epoch)
                 set_zero(zero_vec)
-                set_zero_pos(zero_vec_pos)
+                set_zero_dis(zero_vec_dis)
             error,prediction=test_model_all(x=test_set_x.get_value(borrow=True),\
-                                            x_pos=test_pos_set.get_value(borrow=True),\
+                                            x_dis_start=test_dis_start_set.get_value(borrow=True),\
+                                            x_dis_end=test_dis_end_set.get_value(borrow=True),\
                                             y=test_set_y.eval())
             precision,recall,f1_score=evaluate.evaluate_multi_class_seedev(prediction=prediction,
                                                                           answer=test_set_y.eval(),
@@ -203,7 +220,7 @@ def train_conv(datasets,
             print 'epoch:%d,error:%.3f,precision:%.4f,  recall:%.4f,  f1_score:%.4f'%(epoch,error,precision,recall,f1_score)
             if f1_score > max_f1_score:
                 max_f1_score = f1_score
-                write_matrix_to_file(prediction,'pred_entity+pos50.txt')
+                write_matrix_to_file(prediction,'pred_entity+disemb.txt')
         else:
             for minibatch_index in xrange(n_train_batches):
                 cost_epoch = train_model(minibatch_index)
@@ -282,8 +299,11 @@ def sgd_updates_adadelta(params,cost,rho=0.95,epsilon=1e-6,norm_lim=9,word_vec_n
 if __name__=='__main__':
     import cPickle as cp
     theano.config.floatX='float32'
-    data = 'data/data_pos+entity.p'
+    data = 'data/data_entity+dis.p'
     print 'using data:%s'%data
-    train,train_pos,test,test_pos,words,pos_emb=cp.load(open(data))
+    train,train_dis_start,train_dis_end,test,test_dis_start,test_dis_end,\
+    words,dis_emb=cp.load(open(data))
     words=numpy.asarray(words,dtype=theano.config.floatX)
-    train_conv(datasets=[train,train_pos,test,test_pos],wordvec=words,pos_emb=pos_emb)
+    train_conv(datasets=[train,train_dis_start,train_dis_end,
+                         test,test_dis_start,test_dis_end],
+                         wordvec=words,dis_emb=dis_emb)

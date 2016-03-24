@@ -2,6 +2,8 @@
 """
 Created on Sun May 10 15:07:35 2015
 
+add part of speech features
+
 @author: zjh
 """
 
@@ -11,10 +13,7 @@ import theano.tensor as T
 from collections import OrderedDict
 from module.mlp_zjh import MLPDropout
 from module.convnet import LeNetConvPoolLayer
-<<<<<<< HEAD
 from utils import evaluate
-=======
->>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
 
 def ReLU(x):
     y = T.maximum(0.0, x)
@@ -28,10 +27,7 @@ def Tanh(x):
 def Iden(x):
     y = x
     return(y)
-<<<<<<< HEAD
 import numpy as np
-=======
->>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
 
 def write_matrix_to_file(matrix=None,output='none.txt'):
     output_file=open(output,'w')
@@ -42,28 +38,16 @@ def write_matrix_to_file(matrix=None,output='none.txt'):
         #print '\n'
     output_file.close()
 
-<<<<<<< HEAD
 claz_count = 21
 def train_conv(datasets,
                wordvec,
-               word_size=50,
-               window_sizes=[3,5,7],
-               hidden_units=[1000,1000,claz_count],
+               word_size=150,
+               window_sizes=[9,11,13],
+               hidden_units=[100,100,claz_count],
                dropout_rate=[0],
                shuffle_batch=True,
                n_epochs=10000,
                batch_size=256,
-=======
-def train_conv(datasets,
-               wordvec,
-               word_size=200,
-               window_sizes=[3],
-               hidden_units=[1000,1000,23],
-               dropout_rate=[0],
-               shuffle_batch=True,
-               n_epochs=10,
-               batch_size=128,
->>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
                lr_decay=0.95,
                sqr_norm_lim=9,
                conv_non_linear="relu",
@@ -73,7 +57,7 @@ def train_conv(datasets,
     rng = numpy.random.RandomState(3435)
     
     sen_length = len(datasets[0][0])-1  # sentence length
-    filter_w = word_size   # filter width
+    filter_w = word_size # filter width
     feature_maps = hidden_units[0]
     filter_shapes = [] #filter:param W
     pool_sizes = []
@@ -87,17 +71,15 @@ def train_conv(datasets,
     print parameters  
 
     #print wordvec
-<<<<<<< HEAD
     #count = np.shape(wordvec)[0]
-    #wordvec=np.random.uniform(-0.25,0.25,(count,10))
+    #wordvec=np.random.uniform(-0.25,0.25,(count,50))
     #wordvec=numpy.asarray(wordvec,dtype=theano.config.floatX)
-=======
->>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
     Words=theano.shared(value=wordvec,name='Words')
     zero_vec_tensor = T.vector()
     zero_vec = numpy.zeros(word_size,dtype=theano.config.floatX)
     set_zero = theano.function([zero_vec_tensor], 
                                updates=[(Words, T.set_subtensor(Words[0,:], zero_vec_tensor))])
+
     x=T.matrix('x')
     y=T.ivector('y')
     index=T.lscalar('index')
@@ -127,7 +109,7 @@ def train_conv(datasets,
     for conv_layer in conv_layers:
         params += conv_layer.params
     if non_static:
-        params+=[Words]
+        params += [Words]
 
     cost = classifier.negative_log_likelihood(y) 
     dropout_cost = classifier.dropout_negative_log_likelihood(y)           
@@ -141,30 +123,26 @@ def train_conv(datasets,
         
     if train_set.shape[0] % batch_size > 0:
         extra_data_num = batch_size - train_set.shape[0] % batch_size
-        train_set = numpy.random.permutation(train_set) ## shuffle  
+        train_set = numpy.random.permutation(train_set)
         extra_data = train_set[:extra_data_num] # the batch
         new_data=numpy.append(train_set,extra_data,axis=0) #使得训练集个数正好是batch_size的整数倍
     else:
         new_data = train_set
-    train_set = numpy.random.permutation(new_data)
-    train_set_x = train_set[:,1:]
+    #train_set = numpy.random.permutation(new_data)
+    train_set_x = new_data[:,1:]
     test_set_x = test_set[:,1:]
-    train_set_x, train_set_y = shared_dataset((train_set_x,train_set[:,0]))
+    train_set_x, train_set_y = shared_dataset((train_set_x,new_data[:,0]))
     test_set_x, test_set_y = shared_dataset((test_set_x,test_set[:,0]))
-
     n_batches = new_data.shape[0]/batch_size #batch num
     n_train_batches = int(numpy.round(n_batches))
-
+    
     train_model = theano.function([index], cost, updates=grad_updates,
           givens={
             x: train_set_x[index*batch_size:(index+1)*batch_size],
-            y: train_set_y[index*batch_size:(index+1)*batch_size]})   
+            y: train_set_y[index*batch_size:(index+1)*batch_size]})
     #theano.printing.debugprint(train_model)
-<<<<<<< HEAD
-    
-=======
-    '''
->>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
+
+
     test_pred_layers = []
     test_size = test_set_x.shape[0].eval()
     test_layer0_input = Words[T.cast(x.flatten(),dtype="int32")].\
@@ -176,19 +154,9 @@ def train_conv(datasets,
     test_y_pred = classifier.predict(test_layer1_input)
     test_error = T.mean(T.neq(test_y_pred, y))
     test_model_all = theano.function(inputs=[x,y], outputs=[test_error,test_y_pred])   
-<<<<<<< HEAD
-=======
-    '''
-    
-    f_scores =[classifier.f_score(y,i+1)[1] for i in xrange(22)]
-    f_scores = tuple(f_scores)
-    test_model=theano.function([],f_scores,
-                               givens={
-                               x:test_set_x,
-                               y:test_set_y})
->>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
        
     epoch=0
+    max_f1_score = 0.25
     while (epoch < n_epochs):
         epoch+=1        
         if shuffle_batch:
@@ -197,23 +165,16 @@ def train_conv(datasets,
                 cost_epoch = train_model(minibatch_index)
                 cost.append(cost_epoch)
                 set_zero(zero_vec)
-<<<<<<< HEAD
-            error,prediction=test_model_all(x=test_set_x.get_value(borrow=True),y=test_set_y.eval())
+            error,prediction=test_model_all(x=test_set_x.get_value(borrow=True),\
+                                            y=test_set_y.eval())
             precision,recall,f1_score=evaluate.evaluate_multi_class_seedev(prediction=prediction,
                                                                           answer=test_set_y.eval(),
                                                                           claz_count=claz_count)
             #print 'epoch:%d,error:%.3f,micro_f_score:%.2f,macro_f_score:%.2f'%(epoch,error,micro_f_score,macro_f_score)
             print 'epoch:%d,error:%.3f,precision:%.4f,  recall:%.4f,  f1_score:%.4f'%(epoch,error,precision,recall,f1_score)
-=======
-#            error,prediction=test_model_all(x=test_set_x.get_value(borrow=True),y=test_set_y.eval())
-#            print error
-#            micro_f_score,macro_f_score=evaluate.simple_evaluate(prediction=prediction,
-#                                                                 answer=test_set_y.eval())
-            f_scores=test_model()
-            f_scores = tuple(f_scores)
-            #print 'epoch:%d,error,|:%f'%(epoch,error)
-            print '%.2f|'*22%(f_scores)
->>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
+            if f1_score > max_f1_score:
+                max_f1_score = f1_score
+                write_matrix_to_file(prediction,'pred_entity.txt')
         else:
             for minibatch_index in xrange(n_train_batches):
                 cost_epoch = train_model(minibatch_index)
@@ -226,6 +187,12 @@ def train_conv(datasets,
 #    write_matrix_to_file(test_set_y.eval(),'real.txt')
         
         
+def shared_dataset_x(data_x, borrow=True):
+        shared_x = theano.shared(numpy.asarray(data_x,
+                                               dtype=theano.config.floatX),
+                                 borrow=borrow)
+        return shared_x
+
 
 def shared_dataset(data_xy, borrow=True):
         data_x, data_y = data_xy
@@ -259,16 +226,17 @@ def sgd_updates_adadelta(params,cost,rho=0.95,epsilon=1e-6,norm_lim=9,word_vec_n
         exp_sqr_grads[param] = theano.shared(value=as_floatX(empty),name="exp_grad_%s" % param.name)
         gp = T.grad(cost, param)
         exp_sqr_ups[param] = theano.shared(value=as_floatX(empty), name="exp_grad_%s" % param.name)
+        gp = T.cast(gp,dtype='float32')        
         gparams.append(gp)
     for param, gp in zip(params, gparams):
         exp_sg = exp_sqr_grads[param]
         exp_su = exp_sqr_ups[param]
         up_exp_sg = rho * exp_sg + (1 - rho) * T.sqr(gp)
-        updates[exp_sg] = up_exp_sg
+        updates[exp_sg] = T.cast(up_exp_sg,dtype='float32')
         step =  -(T.sqrt(exp_su + epsilon) / T.sqrt(up_exp_sg + epsilon)) * gp
-        updates[exp_su] = rho * exp_su + (1 - rho) * T.sqr(step)
+        updates[exp_su] = T.cast(rho * exp_su + (1 - rho) * T.sqr(step),dtype='float32')
         stepped_param = param + step
-        if (param.get_value(borrow=True).ndim == 2) and (param.name!='Words'):
+        if (param.get_value(borrow=True).ndim == 2) and (param.name!='Words') and (param.name!='POS'):
             col_norms = T.sqrt(T.sum(T.sqr(stepped_param), axis=0))
             desired_norms = T.clip(col_norms, 0, T.sqrt(norm_lim))
             scale = desired_norms / (1e-7 + col_norms)
@@ -277,18 +245,14 @@ def sgd_updates_adadelta(params,cost,rho=0.95,epsilon=1e-6,norm_lim=9,word_vec_n
             #print param.type,tmp.type
             updates[param] = tmp
         else:
-            updates[param] = stepped_param
+            updates[param] = T.cast(stepped_param,dtype = 'float32')
             #print param.type,stepped_param.type
-    return updates 
+    return updates
 
 
 if __name__=='__main__':
     import cPickle as cp
     theano.config.floatX='float32'
-<<<<<<< HEAD
-    train,train_pos,test,test_pos,words,vocab=cp.load(open('data/data.p'))
-=======
-    train,test,words,vocab=cp.load(open('data/data.p'))
->>>>>>> fcaa5859445351e40525e8d9eee56180be4b5d04
+    train,test,words=cp.load(open('data/data_entity.p'))
     words=numpy.asarray(words,dtype=theano.config.floatX)
     train_conv(datasets=[train,test],wordvec=words)

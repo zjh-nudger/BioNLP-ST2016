@@ -1,0 +1,4 @@
+E0	Regulates_Process Agent:T4 Process:T2
+E1	Regulates_Process Agent:T3 Process:T2
+E2	Regulates_Process Agent:T1 Process:T2
+E3	Regulates_Accumulation Agent:T3 Functional_Molecule:T1

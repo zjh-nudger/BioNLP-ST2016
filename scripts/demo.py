@@ -77,5 +77,13 @@ print c
 for i in xrange(2,5):
     print i
 '''
-l = [1,2,3,4,5,6]
-print l[-2]
+f = open('data/train_data/train')
+max_l = 0
+for line in f:
+    toks = line.strip().split()
+    typex = int(toks[0])
+    if typex == 19:
+        if len(toks[1:]) > max_l:
+            max_l = len(toks[1:])
+print max_l
+f.close()

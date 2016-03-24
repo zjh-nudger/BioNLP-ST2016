@@ -258,22 +258,26 @@ def create_shortest_path_examples(gt_file,a1_file,a2_file,gdep_file,output_file)
             for idx,entity in entities.iteritems():
                 if word.start <= entity.start() and word.end > entity.start():
                     sentence_entity_set.add(entity.idx)
-        for combination in itertools.combinations(sentence_entity_set,2):
-            combination_1 = (combination[1],combination[0])
-            if relations.has_key(combination) or relations.has_key(combination_1):
+        for e1_idx,e2_idx in itertools.combinations(sentence_entity_set,2):# 无顺序
+            if relations.has_key((e1_idx,e2_idx)) or relations.has_key((e2_idx,e1_idx)):
                 try:               
-                    a2_annotation = relations[combination]
-                    relations.pop(combination)
+                    a2_annotation = relations[(e1_idx,e2_idx)]
+                    relations.pop((e1_idx,e2_idx))
                 except KeyError:
-                    a2_annotation = relations[combination_1]
-                    relations.pop(combination_1)
-                typex_id = project.RELATIONS.index(a2_annotation.typex) + 1
-                element1 = entities[combination[0]]
-                element2 = entities[combination[1]]
+                    a2_annotation = relations[(e2_idx,e1_idx)]
+                    relations.pop((e2_idx,e1_idx))
+                try:
+                    typex_id = project.RELATIONS_21.index(a2_annotation.typex) + 1
+                except ValueError:
+                    assert a2_annotation.typex == 'Has_Sequence_Identical_To' or \
+                           a2_annotation.typex == 'Is_Functionally_Equivalent_To'
+                    typex_id = project.RELATIONS_21.index('Is_Linked_To') + 1
+                element1 = entities[e1_idx]
+                element2 = entities[e2_idx]
             else: # negative examples
                 typex_id = 0
-                element1 = entities[combination[0]]
-                element2 = entities[combination[1]]
+                element1 = entities[e1_idx]
+                element2 = entities[e2_idx]
             #entity_type_1 = element1.typex
             #entity_type_2 = element2.typex
             entity_node1 = []
@@ -286,7 +290,7 @@ def create_shortest_path_examples(gt_file,a1_file,a2_file,gdep_file,output_file)
                    (node.start <= element2.start() and node.end >= element2.end()):
                     entity_node2.append(node)
             shortest_path = get_shortest_path(entity_node1,entity_node2,graph)
-            output_file.write(str(typex_id)+' ' +element1.typex+' '+element2.typex+' '+ ' '.join(shortest_path)+'\n')    
+            output_file.write(' '.join(shortest_path)+'\n')    
 
 examples_idx = 0
 def create_examples(gt_file,a1_file,a2_file,output_file,pos_file,is_train):
@@ -296,7 +300,7 @@ def create_examples(gt_file,a1_file,a2_file,output_file,pos_file,is_train):
     entities = get_a1_annotations(a1_file)
     relations = get_a2_annotations(a2_file)
     if not is_train:
-        a2_dir = 'data/a2_predict/'
+        a2_dir = 'data/a2_tmp_file/'
         if not os.path.exists(a2_dir):
             os.mkdir(a2_dir)
         a2_output_file = open(a2_dir+a2_file.name.split('/')[-1],'w')
@@ -315,11 +319,9 @@ def create_examples(gt_file,a1_file,a2_file,output_file,pos_file,is_train):
                     a2_annotation = relations[(e2_idx,e1_idx)]
                     relations.pop((e2_idx,e1_idx))
                 try:
-                    typex_id = project.RELATIONS_21.index(a2_annotation.typex) + 1
+                    typex_id = project.RELATIONS.index(a2_annotation.typex) + 1
                 except ValueError:
-                    assert a2_annotation.typex == 'Has_Sequence_Identical_To' or \
-                           a2_annotation.typex == 'Is_Functionally_Equivalent_To'
-                    typex_id = project.RELATIONS_21.index('Is_Linked_To') + 1
+                    print 'error...'
                 element1 = entities[e1_idx]
                 element2 = entities[e2_idx]
             else: # negative examples
@@ -348,19 +350,16 @@ def create_examples(gt_file,a1_file,a2_file,output_file,pos_file,is_train):
             pos_file.write(' '.join(contexts_pos) + '\n')
     if not is_train:
         a2_output_file.close()
-#    if len(relations) == 14:
-#        print str(relations)+'\t'+a1_file.name
-    #assert len(relations) == 0
 
 def close_file(*f):
     for fl in f:
         fl.close()
         
 if __name__ == '__main__':
-    train = open('data/train','w')
-    dev = open('data/dev','w')
-    train_pos = open('data/train_pos','w')
-    dev_pos = open('data/dev_pos','w')
+    train = open('data/train_data/train','w')
+    dev = open('data/train_data/dev','w')
+    train_pos = open('data/train_data/train_pos','w')
+    dev_pos = open('data/train_data/dev_pos','w')
     window = 0
     for fn in glob.glob(path.GT_PROCESS_TRAIN+'/*.gt'):
         #print fn

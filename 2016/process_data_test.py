@@ -30,10 +30,9 @@ if __name__=='__main__':
     options_vocab_file = '/home/liuxiaoming/biodata/pubmed_word2vec/pubmed_vecs.vocab'
     options_vec_file = '/home/liuxiaoming/tools/depvec/depvecs/vecs_dep_all_50_size=150.npy'
     options_vocab_file = '/home/liuxiaoming/tools/depvec/depvecs/vecs_dep_all_50_size=150.vocab'
-    #options_vec_file = '/home/wangjian/BioNLP-ST2016/scripts2/vectors/ab-vector-150.npy'
-    #options_vocab_file = '/home/wangjian/BioNLP-ST2016/scripts2/vectors/ab-vector-150.vocab'
-    options_train_file = '/home/lihaorui/2016/data/train_balance_radix'
-    options_test_file = '/home/lihaorui/2016/data/dev_Li_distance'
+    options_train_file = '/home/lihaorui/2016/data/train_Li'
+    options_dev_file = '/home/lihaorui/2016/data/dev_Li'
+    options_test_file = '/home/lihaorui/2016/data/dev_Li_no'
     
     embedding=Embeddings.load(vecsfile=options_vec_file,
                               vocabfile=options_vocab_file)
@@ -43,6 +42,7 @@ if __name__=='__main__':
     #zero_vec=np.zeros(word_size)
     
     train_file=open(options_train_file)
+    dev_file=open(options_dev_file)
     test_file=open(options_test_file)
     
     vocab={}#vocabulary
@@ -59,6 +59,18 @@ if __name__=='__main__':
             vocab[item1.lower()]=index
             index+=1
     train_file.close()
+    
+    for item in dev_file:
+        items=item.split()
+        if len(items)-1>sen_len:
+            sen_len=len(items)-1
+        for item1 in items[1:]:
+            if vocab.has_key(item1.lower()):
+                continue
+            vocab[item1.lower()]=index
+            index+=1
+    dev_file.close()
+    
     for item in test_file:
         items=item.split()
         if len(items)-1>sen_len:
@@ -83,8 +95,6 @@ if __name__=='__main__':
             words[item[1]]=rand_vec
             
     train_file=open(options_train_file)
-    
-    import cPickle
     train_list=[]
     for item in train_file:
         items=item.split()
@@ -100,6 +110,23 @@ if __name__=='__main__':
                 new_item.append(0)
         train_list.append(new_item)
     train_matrix=np.asarray(train_list,dtype='float32')
+    
+    dev_file=open(options_dev_file)
+    dev_list=[]
+    for item in dev_file:
+        items=item.split()
+        new_item=[]
+        new_item.append(int(items[0]))
+        for i in items[1:]:
+            if i=='NULL':
+                new_item.append(0)
+                continue
+            new_item.append(int(vocab[i.lower()]))
+        if len(items)-1!=sen_len:
+            for i in xrange(sen_len-len(items)+1):
+                new_item.append(0)
+        dev_list.append(new_item)
+    dev_matrix=np.asarray(dev_list,dtype='float32')
     
     test_file=open(options_test_file)
     test_list=[]
@@ -121,5 +148,8 @@ if __name__=='__main__':
     #print test_matrix
     #print train_matrix
     print train_matrix.shape
-    cPickle.dump((train_matrix,test_matrix,words),
-                 open('/home/lihaorui/2016/data/out/Li_balance_radix.p','wb'))
+    print dev_matrix.shape
+    print test_matrix.shape
+    import cPickle
+    cPickle.dump((train_matrix,dev_matrix,test_matrix,words),
+                 open('/home/lihaorui/2016/data/out/Li_test.p','wb'))

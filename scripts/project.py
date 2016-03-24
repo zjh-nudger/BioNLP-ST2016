@@ -31,14 +31,14 @@ Exists_In_Genotype = {'Molecular':['Gene', 'Gene_Family', 'Box', 'Promoter', 'RN
                       'Element':['Tissue', 'Development_Phase', 'Genotype'],
                       'Genotype': ['Genotype']}##Molecule et Element are mutually exclusive
 # A Molecule is present during a given Developmental phase.
-Exists_At_Stage = {'Funtional_molecular':['RNA','Protein','Protein_Family',
+Exists_At_Stage = {'Funtional_molecule':['RNA','Protein','Protein_Family',
                                    'Protein_Complex','Protein_Domain', 'Hormone'],
                     'Development':['Development_Phase']}
 ##  A Process occurs during a given Developmental Phase. 
 Occurs_During = {'Process': ['Regulatory_Network', 'Pathway'],
                      'Development': ['Development_Phase']}
 ## 分子在组织上
-Is_Localized_In = {'Funtional_molecular':['RNA','Protein','Protein_Family',
+Is_Localized_In = {'Funtional_molecule':['RNA','Protein','Protein_Family',
                                    'Protein_Complex','Protein_Domain', 'Hormone'],
                    'Dynamic_Process':['Regulatory_Network', 'Pathway'],
                    'Target_Tissue': ['Tissue']}##(Functional_Molecule et Process are mutually exclusive)
@@ -131,7 +131,7 @@ ALL_EVENT_CLASS = [Where_and_When,Function,Regulation,Composition_and_Membership
 
 class Event(object):
     def __init__(self,event_class,event_name,e1_name,e1_entity,
-                 e2_name,e2_entity,e3_name='',e3_entity=[]):
+                 e2_name,e2_entity,e3_name=None,e3_entity=[],mutal_arguments=[]):
         self.event_class = event_class
         self.event_name = event_name
         self.e1_name = e1_name
@@ -140,22 +140,24 @@ class Event(object):
         self.e2_entity = e2_entity
         self.e3_name = e3_name
         self.e3_entity = e3_entity
+        self.mutal_arguments = []
 
 def load_event_def():
     event_dir = {}
-    event1 = Event(event_class = 'Where_and_When',event_name = 'Occurrence_In_Genotype',
+    event1 = Event(event_class = 'Where_and_When',event_name = 'Occurs_In_Genotype',
                   e1_name='Process',e1_entity=['Regulatory_Network', 'Pathway'],
                   e2_name='Genotype',e2_entity=['Genotype'])
-    event_dir['Occurrence_In_Genotype'] = event1
+    event_dir['Occurs_In_Genotype'] = event1
     event2 = Event(event_class = 'Where_and_When',event_name = 'Exists_In_Genotype',
-                  e1_name='Molecular',e1_entity=['Gene', 'Gene_Family', 'Box', 'Promoter', 'RNA', 
+                  e1_name='Molecule',e1_entity=['Gene', 'Gene_Family', 'Box', 'Promoter', 'RNA', 
                                                  'Protein', 'Protein_Family', 'Protein_Complex', 
                                                  'Protein_Domain', 'Hormone'],
                   e2_name = 'Element',e2_entity=['Tissue', 'Development_Phase', 'Genotype'],
                   e3_name = 'Genotype',e3_entity = ['Genotype'])
+    #event2.mutal_arguments = ['Molecule','Element']
     event_dir['Exists_In_Genotype'] = event2
     event3 = Event(event_class = 'Where_and_When',event_name = 'Exists_At_Stage',
-                  e1_name='Funtional_molecular',e1_entity=['RNA','Protein','Protein_Family',
+                  e1_name='Functional_Molecule',e1_entity=['RNA','Protein','Protein_Family',
                                                            'Protein_Complex','Protein_Domain', 'Hormone'],
                   e2_name='Development',e2_entity=['Development_Phase'])
     event_dir['Exists_At_Stage'] = event3
@@ -165,32 +167,32 @@ def load_event_def():
     event_dir['Occurs_During'] = event4
     ## 分子在组织上
     event5 = Event(event_class = 'Where_and_When',event_name = 'Is_Localized_In',
-                  e1_name='Funtional_molecular',e1_entity=['RNA','Protein','Protein_Family',
+                  e1_name='Functional_Molecule',e1_entity=['RNA','Protein','Protein_Family',
                                                            'Protein_Complex','Protein_Domain',
                                                            'Hormone'],
-                  e2_name = 'Dynamic_Process',e2_entity=['Regulatory_Network', 'Pathway'],
+                  e2_name = 'Process',e2_entity=['Regulatory_Network', 'Pathway'],
                   e3_name = 'Target_Tissue',e3_entity = ['Tissue'])
     event_dir['Is_Localized_In'] = event5
     ## function
     event6 = Event(event_class = 'Function',event_name = 'Is_Involved_In_Process',
-                  e1_name='Molecule',e1_entity=['Gene', 'Gene_Family', 'Box', 'Promoter', 'RNA', 
+                  e1_name='Participant',e1_entity=['Gene', 'Gene_Family', 'Box', 'Promoter', 'RNA', 
                                                 'Protein', 'Protein_Family', 'Protein_Complex', 'Protein_Domain',
                                                 'Hormone'],
-                  e2_name='Dynamic_Process',e2_entity=['Regulatory_Network', 'Pathway'])
+                  e2_name='Process',e2_entity=['Regulatory_Network', 'Pathway'])
     event_dir['Is_Involved_In_Process'] = event6
     event7 = Event(event_class = 'Function',event_name = 'Transcribes_Or_Translates_To',
                   e1_name='Source',e1_entity=['Gene', 'Gene_Family', 'RNA'],
-                  e2_name='DNA_Product',e2_entity=['RNA', 'Protein', 'Protein_Family',
+                  e2_name='Product',e2_entity=['RNA', 'Protein', 'Protein_Family',
                                                    'Protein_Complex', 'Protein_Domain'])
     event_dir['Transcribes_Or_Translates_To'] = event7
     event8 = Event(event_class = 'Function',event_name = 'Is_Functionally_Equivalent_To',
-                  e1_name='Element1',e1_entity=all_entities,
-                  e2_name='Element2',e2_entity=all_entities)
+                  e1_name='Element1',e1_entity=all_entities,#Element1
+                  e2_name='Element2',e2_entity=all_entities)#Element2
     event_dir['Is_Functionally_Equivalent_To'] = event8
     ## regulate
     event9 = Event(event_class = 'Regulate',event_name = 'Regulates_Accumulation',
                   e1_name='Agent',e1_entity=all_entities,
-                  e2_name='Funtional_molecule',e2_entity=['RNA','Protein','Protein_Family',
+                  e2_name='Functional_Molecule',e2_entity=['RNA','Protein','Protein_Family',
                                                           'Protein_Complex','Protein_Domain',
                                                           'Hormone'])
     event_dir['Regulates_Accumulation'] = event9
@@ -209,7 +211,7 @@ def load_event_def():
     event_dir['Regulates_Molecule_Activity'] = event12
     event13 = Event(event_class = 'Regulate',event_name = 'Regulates_Process',
                   e1_name='Agent',e1_entity=all_entities,
-                  e2_name='Dynamic_Process',e2_entity=['Regulatory_Network', 'Pathway'])
+                  e2_name='Process',e2_entity=['Regulatory_Network', 'Pathway'])
     event_dir['Regulates_Process'] = event13
     event14 = Event(event_class = 'Regulate',event_name = 'Regulates_Tissue_Development',
                   e1_name='Agent',e1_entity=all_entities,
@@ -236,8 +238,8 @@ def load_event_def():
                                                 'Protein_Domain'])
     event_dir['Is_Protein_Domain_Of'] = event18
     event19 = Event(event_class = 'Compositon',event_name = 'Has_Sequence_Identical_To',
-                  e1_name='Domain',e1_entity=all_entities,
-                  e2_name='Product',e2_entity=all_entities)
+                  e1_name='Element1',e1_entity=all_entities,#Domain
+                  e2_name='Element2',e2_entity=all_entities)#Product
     event_dir['Has_Sequence_Identical_To'] = event19
     ## interactions
     event20 = Event(event_class = 'Interaction',event_name = 'Interacts_With',
@@ -249,7 +251,7 @@ def load_event_def():
                                               'Protein_Domain'])
     event_dir['Interacts_With'] = event20
     event21 = Event(event_class = 'Interaction',event_name = 'Binds_To',
-                  e1_name='Funtional_molecule',e1_entity=['RNA','Protein','Protein_Family',
+                  e1_name='Functional_Molecule',e1_entity=['RNA','Protein','Protein_Family',
                                                           'Protein_Complex','Protein_Domain',
                                                           'Hormone'],
                   e2_name='Molecule',e2_entity=['Gene', 'Gene_Family', 'Box', 'Promoter', 'RNA', 
@@ -258,8 +260,8 @@ def load_event_def():
     event_dir['Binds_To'] = event21
     ###
     event22 = Event(event_class = 'Linked_to',event_name = 'Is_Linked_To',
-                  e1_name='Agent',e1_entity=all_entities,
-                  e2_name='Target',e2_entity=all_entities)
+                  e1_name='Agent1',e1_entity=all_entities,
+                  e2_name='Agent2',e2_entity=all_entities)
     event_dir['Is_Linked_To'] = event22
     return event_dir
     

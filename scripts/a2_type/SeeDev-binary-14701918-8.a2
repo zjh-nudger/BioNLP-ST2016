@@ -1,3 +1,0 @@
-T0	Regulates_Process Agent:T4 Dynamic_Process:T2
-T1	Transcribes_Or_Translates_To Source:T3 DNA_Product:T4
-T2	Regulates_Process Agent:T4 Dynamic_Process:T1

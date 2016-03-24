@@ -139,7 +139,7 @@ def evaluate_multi_class_seedev(prediction=None,answer=None,claz_count = 2):
             all_fp += 1
     all_precision = float(all_tp)/(all_fp+all_tp+0.00000001)
     event_count = 0
-    for k,v in label_count_seedev_21.iteritems():
+    for k,v in label_count_seedev.iteritems():
         event_count += v
     all_recall = float(all_tp) / event_count
     all_f1_score = 2.0 * ((all_precision * all_recall)/(all_precision + all_recall+0.000001))
